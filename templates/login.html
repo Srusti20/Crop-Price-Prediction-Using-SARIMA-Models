@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - CropFusion</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: url('/static/images/gif.gif') no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        .login-container {
+            text-align: center;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            background-color: rgba(255, 255, 255, 0.85);
+            width: 300px;
+        }
+
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            box-sizing: border-box;
+            /* Ensures padding is included in the width */
+        }
+
+        #loginButton {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            width: 100%;
+        }
+
+        #loginButton:hover {
+            background-color: #45a049;
+        }
+
+        .back-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            /* Same as login button */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            width: 100%;
+        }
+
+        .back-button:hover {
+            background-color: #45a049;
+            /* Same hover color as login button */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="login-container">
+        <h1>Login to CropFusion</h1>
+        <form id="loginForm">
+            <input type="text" id="username" name="username" placeholder="Enter your username" required>
+            <input type="password" id="password" name="password" placeholder="Enter your password" required>
+            <button id="loginButton" type="submit">Login</button>
+        </form>
+        <button class="back-button" onclick="window.location.href='/'">Back to Start</button>
+    </div>
+
+    <script>
+        document.getElementById("loginForm").addEventListener("submit", function (event) {
+            event.preventDefault(); // Prevent default form submission
+
+            const username = document.getElementById("username").value.trim();
+            const password = document.getElementById("password").value.trim();
+
+            // Fetch the stored user data from localStorage
+            const userData = JSON.parse(localStorage.getItem(username));
+
+            // Check if user data exists and the password matches
+            if (userData) {
+                if (userData.password === password) {
+                    // If credentials match, redirect to the main page
+                    window.location.href = "/home";
+                } else {
+                    // Show password error in popup
+                    alert("Incorrect password. Please try again.");
+                }
+            } else {
+                // Show name not found error in popup
+                alert("No account found with this username. Please sign up first.");
+            }
+        });
+    </script>
+</body>
+
+</html>

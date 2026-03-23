@@ -1,0 +1,871 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,170,2000,1800,31-01-2024
+2,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,800,1000,900,06-08-2024
+3,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,800,1000,900,07-08-2024
+4,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,800,1200,1000,08-08-2024
+5,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,800,1600,1200,29-02-2024
+6,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,900,1500,1000,05-03-2024
+7,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1200,1100,06-03-2024
+8,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1200,1100,22-08-2024
+9,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1200,1100,23-08-2024
+10,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1400,1200,04-03-2024
+11,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1400,1200,16-03-2024
+12,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1400,1200,19-03-2024
+13,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1500,1200,19-08-2024
+14,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1500,1300,11-03-2024
+15,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1500,1300,12-03-2024
+16,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1500,1300,13-03-2024
+17,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1500,1300,14-08-2024
+18,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1500,1300,16-08-2024
+19,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1100,07-03-2024
+20,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1300,11-09-2024
+21,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1300,15-03-2024
+22,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1300,18-03-2024
+23,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,12-08-2024
+24,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,16-12-2024
+25,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,17-12-2024
+26,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,18-12-2024
+27,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,19-12-2024
+28,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,20-12-2024
+29,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1600,1400,21-12-2024
+30,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1800,1500,09-08-2024
+31,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,1800,1700,15-11-2024
+32,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1000,2000,1500,17-08-2024
+33,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1100,1200,1150,21-08-2024
+34,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1100,1400,1300,21-03-2024
+35,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1100,1700,1500,13-08-2024
+36,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1300,1250,20-08-2024
+37,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1300,1250,20-03-2024
+38,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1300,1250,22-03-2024
+39,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1500,1300,30-03-2024
+40,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1500,1400,03-04-2024
+41,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1500,1400,24-04-2024
+42,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1500,1400,28-03-2024
+43,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1800,1400,01-01-2025
+44,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1800,1500,02-03-2024
+45,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,1800,1500,14-03-2024
+46,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,2000,1600,13-12-2024
+47,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1200,2000,1600,15-02-2024
+48,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1300,1400,1350,25-03-2024
+49,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1300,1600,1400,01-04-2024
+50,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1300,1600,1500,04-04-2024
+51,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,1500,1450,26-03-2024
+52,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,1500,1450,27-03-2024
+53,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,1700,1500,02-04-2024
+54,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,1700,1600,05-04-2024
+55,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,1800,1600,16-04-2024
+56,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2000,1700,15-04-2024
+57,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2000,1700,17-04-2024
+58,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2000,1700,20-02-2024
+59,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2000,1700,23-02-2024
+60,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2000,1700,27-02-2024
+61,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2000,1800,26-08-2024
+62,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2200,1400,26-02-2024
+63,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2200,1800,17-02-2024
+64,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1400,2200,1800,28-02-2024
+65,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,1800,1600,17-09-2024
+66,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,1900,1700,27-08-2024
+67,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,1900,1700,31-08-2024
+68,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,2000,1600,09-09-2024
+69,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,2000,1600,12-09-2024
+70,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,2000,1800,05-08-2024
+71,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1500,2100,1900,28-08-2024
+72,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,1800,1700,20-11-2024
+73,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2000,1800,02-09-2024
+74,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2000,1800,03-08-2024
+75,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2000,1800,06-04-2024
+76,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2000,1800,20-04-2024
+77,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2100,1700,10-09-2024
+78,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2100,1700,13-09-2024
+79,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2100,1900,18-04-2024
+80,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,1900,13-02-2024
+81,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,1900,14-02-2024
+82,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,1900,16-02-2024
+83,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,1900,19-02-2024
+84,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,1900,22-02-2024
+85,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,1900,26-04-2024
+86,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,2000,29-08-2024
+87,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2200,2000,30-08-2024
+88,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2400,2000,04-11-2024
+89,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1600,2400,2000,12-11-2024
+90,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,1900,1800,14-11-2024
+91,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,2100,1900,03-09-2024
+92,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,2200,2000,19-04-2024
+93,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,2500,2100,05-11-2024
+94,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,2500,2100,07-11-2024
+95,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,2500,2100,08-11-2024
+96,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,2500,2100,11-11-2024
+97,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1700,11900,1800,07-02-2024
+98,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2000,1900,04-09-2024
+99,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2000,1900,05-02-2024
+100,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2000,1900,06-02-2024
+101,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2000,1900,06-09-2024
+102,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2000,1900,08-02-2024
+103,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2000,1900,09-02-2024
+104,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2200,2000,08-04-2024
+105,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2200,2000,21-02-2024
+106,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2200,2000,22-04-2024
+107,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2200,2000,30-01-2024
+108,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2400,2100,13-11-2024
+109,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2400,2100,21-09-2024
+110,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2400,2200,19-09-2024
+111,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2600,2200,06-11-2024
+112,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2600,2200,16-11-2024
+113,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2600,2200,19-11-2024
+114,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2600,2200,23-09-2024
+115,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1800,2800,2300,18-09-2024
+116,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1900,2100,2000,05-09-2024
+117,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1900,2400,2200,23-04-2024
+118,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1900,2500,2300,20-09-2024
+119,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,1900,2700,2300,24-09-2024
+120,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2200,2100,01-02-2024
+121,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2200,2100,29-01-2024
+122,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2400,2200,04-05-2024
+123,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2400,2200,06-05-2024
+124,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2400,2200,07-05-2024
+125,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2400,2200,13-05-2024
+126,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2400,2200,15-05-2024
+127,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2400,2200,17-05-2024
+128,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2500,2300,02-08-2024
+129,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2500,2300,29-07-2024
+130,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2500,2300,31-07-2024
+131,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2200,23-12-2024
+132,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2200,24-12-2024
+133,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2300,02-05-2024
+134,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2300,08-05-2024
+135,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2300,14-05-2024
+136,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2300,16-05-2024
+137,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2600,2400,03-02-2024
+138,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2800,2400,25-09-2024
+139,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,2800,2400,26-09-2024
+140,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2000,4000,3000,27-09-2024
+141,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2100,2300,2200,12-02-2024
+142,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2100,2500,2300,09-05-2024
+143,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2200,2400,2300,03-05-2024
+144,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2200,2500,2300,18-05-2024
+145,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2200,2600,2400,01-03-2024
+146,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2200,2600,2400,30-07-2024
+147,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2200,2800,2500,30-04-2024
+148,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2300,2600,2400,30-10-2024
+149,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2300,3000,2700,02-02-2024
+150,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2300,3100,2700,29-10-2024
+151,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2400,2800,2600,20-05-2024
+152,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2400,2800,2600,29-04-2024
+153,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2400,3200,2800,28-10-2024
+154,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2500,3000,2700,01-08-2024
+155,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2500,3000,2700,01-01-2024
+156,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2500,3000,2700,12-01-2024
+157,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2500,3000,2700,16-01-2024
+158,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2500,3000,2700,24-01-2024
+159,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2500,3500,3000,21-10-2024
+160,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3000,2800,01-10-2024
+161,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3000,2800,25-01-2024
+162,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3000,2800,30-09-2024
+163,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3100,2800,02-01-2024
+164,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3100,2800,03-01-2024
+165,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3100,2800,05-01-2024
+166,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3100,2800,06-01-2024
+167,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2600,3100,2800,17-01-2024
+168,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2700,3200,2900,04-01-2024
+169,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2700,3200,2900,08-01-2024
+170,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2700,3300,3000,22-10-2024
+171,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2800,3300,3000,09-01-2024
+172,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2800,3300,3000,10-01-2024
+173,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2800,3300,3000,11-01-2024
+174,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2800,3400,3100,23-10-2024
+175,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2800,3600,3200,01-06-2024
+176,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,2900,3500,3200,24-10-2024
+177,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,3200,3100,22-05-2024
+178,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,3200,3100,30-05-2024
+179,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,3200,3100,31-05-2024
+180,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,3600,3300,25-10-2024
+181,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,3800,3400,05-06-2024
+182,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,4000,3500,10-10-2024
+183,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,4000,3500,21-05-2024
+184,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,4000,3500,24-05-2024
+185,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,4000,3600,14-10-2024
+186,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,5000,4000,07-10-2024
+187,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,5000,4000,08-10-2024
+188,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3000,5500,4500,03-10-2024
+189,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3220,4400,3800,23-05-2024
+190,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3500,4000,3700,11-06-2024
+191,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3500,4000,3800,15-10-2024
+192,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3500,4000,3800,29-05-2024
+193,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3500,4500,4000,09-10-2024
+194,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3500,4500,4000,24-06-2024
+195,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3600,4100,3800,12-06-2024
+196,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3600,4100,3800,28-05-2024
+197,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3700,4100,3900,26-06-2024
+198,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3800,4000,3900,03-07-2024
+199,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3800,4200,4000,27-06-2024
+200,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3800,4300,4100,12-07-2024
+201,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3800,4600,4200,08-07-2024
+202,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3800,5600,4000,25-06-2024
+203,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3900,4300,4100,28-06-2024
+204,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3900,4300,4100,29-06-2024
+205,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3900,4700,4300,09-07-2024
+206,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3900,4700,4300,10-07-2024
+207,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,3900,4700,4300,11-07-2024
+208,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4200,4100,03-06-2024
+209,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4200,4100,04-06-2024
+210,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4200,4100,06-06-2024
+211,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4200,4100,10-06-2024
+212,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4400,4200,01-07-2024
+213,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4400,4200,02-07-2024
+214,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4400,4200,04-07-2024
+215,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4400,4200,05-07-2024
+216,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4400,4200,06-07-2024
+217,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4200,27-05-2024
+218,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,15-07-2024
+219,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,16-07-2024
+220,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,18-07-2024
+221,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,19-07-2024
+222,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,20-07-2024
+223,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,22-07-2024
+224,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,23-07-2024
+225,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,25-07-2024
+226,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4500,4300,26-07-2024
+227,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,4800,4400,07-06-2024
+228,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,5000,4500,13-06-2024
+229,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,5000,4500,14-06-2024
+230,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,5000,4500,15-06-2024
+231,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,5000,4500,16-10-2024
+232,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4000,5500,4600,04-10-2024
+233,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,4100,4600,4400,24-07-2024
+234,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,5000,6000,5500,18-10-2024
+235,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,5000,6000,5500,19-10-2024
+236,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,5000,6000,5500,21-06-2024
+237,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,5400,6600,6000,20-06-2024
+238,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,5500,6000,5700,19-06-2024
+239,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,6000,7000,6500,18-06-2024
+240,Bangalore,"Binny Mill (F&V), Bangalore",Tomato,7000,9000,8000,05-10-2024
+241,Bangalore,Channapatana,Tomato,750,1500,1000,15-01-2024
+242,Bangalore,Channapatana,Tomato,900,1750,1450,16-01-2024
+243,Bangalore,Channapatana,Tomato,900,2000,1500,18-01-2024
+244,Bangalore,Channapatana,Tomato,900,2000,1650,10-01-2024
+245,Bangalore,Channapatana,Tomato,1000,2250,1750,09-01-2024
+246,Bangalore,Channapatana,Tomato,1000,2250,1750,17-01-2024
+247,Bangalore,Channapatana,Tomato,1000,2500,1900,08-01-2024
+248,Bangalore,Channapatana,Tomato,1250,2500,2000,02-01-2024
+249,Bangalore,Channapatana,Tomato,1250,2500,2000,03-01-2024
+250,Bangalore,Channapatana,Tomato,1500,3000,2500,01-01-2024
+251,Bangalore,Doddaballa Pur,Tomato,800,1200,1000,22-03-2024
+252,Bangalore,Doddaballa Pur,Tomato,800,1200,1000,26-02-2024
+253,Bangalore,Doddaballa Pur,Tomato,800,1400,1100,20-11-2024
+254,Bangalore,Doddaballa Pur,Tomato,1000,1400,1200,19-11-2024
+255,Bangalore,Doddaballa Pur,Tomato,1000,1400,1200,21-03-2024
+256,Bangalore,Doddaballa Pur,Tomato,1000,1500,1200,08-11-2024
+257,Bangalore,Doddaballa Pur,Tomato,1000,1500,1250,02-09-2024
+258,Bangalore,Doddaballa Pur,Tomato,1000,1500,1250,04-03-2024
+259,Bangalore,Doddaballa Pur,Tomato,1000,1500,1250,05-03-2024
+260,Bangalore,Doddaballa Pur,Tomato,1000,1500,1250,20-12-2024
+261,Bangalore,Doddaballa Pur,Tomato,1000,1600,1300,06-11-2024
+262,Bangalore,Doddaballa Pur,Tomato,1000,1800,1400,03-04-2024
+263,Bangalore,Doddaballa Pur,Tomato,1000,1800,1400,07-11-2024
+264,Bangalore,Doddaballa Pur,Tomato,1000,1800,1400,19-04-2024
+265,Bangalore,Doddaballa Pur,Tomato,1000,1800,1400,23-04-2024
+266,Bangalore,Doddaballa Pur,Tomato,1000,2000,1400,22-04-2024
+267,Bangalore,Doddaballa Pur,Tomato,1000,2000,1500,04-04-2024
+268,Bangalore,Doddaballa Pur,Tomato,1000,2000,1500,18-04-2024
+269,Bangalore,Doddaballa Pur,Tomato,1000,2000,1500,20-04-2024
+270,Bangalore,Doddaballa Pur,Tomato,1000,2000,1500,30-12-2024
+271,Bangalore,Doddaballa Pur,Tomato,1000,2000,1500,30-03-2024
+272,Bangalore,Doddaballa Pur,Tomato,1400,2000,1700,05-11-2024
+273,Bangalore,Doddaballa Pur,Tomato,1400,2000,1700,25-11-2024
+274,Bangalore,Doddaballa Pur,Tomato,1400,2000,1750,19-09-2024
+275,Bangalore,Doddaballa Pur,Tomato,1500,2000,1700,06-02-2024
+276,Bangalore,Doddaballa Pur,Tomato,1500,2000,1700,07-02-2024
+277,Bangalore,Doddaballa Pur,Tomato,1500,2000,1700,09-02-2024
+278,Bangalore,Doddaballa Pur,Tomato,1500,2000,1750,04-11-2024
+279,Bangalore,Doddaballa Pur,Tomato,1500,2000,1750,23-05-2024
+280,Bangalore,Doddaballa Pur,Tomato,1500,2000,1800,21-09-2024
+281,Bangalore,Doddaballa Pur,Tomato,1500,2100,1800,21-05-2024
+282,Bangalore,Doddaballa Pur,Tomato,1500,2100,1800,23-09-2024
+283,Bangalore,Doddaballa Pur,Tomato,1500,2200,1750,12-09-2024
+284,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,03-10-2024
+285,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,09-09-2024
+286,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,10-09-2024
+287,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,13-09-2024
+288,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,16-08-2024
+289,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,17-08-2024
+290,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,18-10-2024
+291,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,20-05-2024
+292,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,20-09-2024
+293,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,22-05-2024
+294,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,24-05-2024
+295,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,24-09-2024
+296,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,26-09-2024
+297,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,27-09-2024
+298,Bangalore,Doddaballa Pur,Tomato,1500,2500,2000,31-05-2024
+299,Bangalore,Doddaballa Pur,Tomato,1800,2200,2000,22-01-2024
+300,Bangalore,Doddaballa Pur,Tomato,2000,2400,2200,18-01-2024
+301,Bangalore,Doddaballa Pur,Tomato,2000,2500,2200,09-01-2024
+302,Bangalore,Doddaballa Pur,Tomato,2000,2500,2200,10-01-2024
+303,Bangalore,Doddaballa Pur,Tomato,2000,2500,2300,11-01-2024
+304,Bangalore,Doddaballa Pur,Tomato,2000,2500,2300,19-12-2024
+305,Bangalore,Doddaballa Pur,Tomato,2000,2600,2300,01-08-2024
+306,Bangalore,Doddaballa Pur,Tomato,2000,3000,2400,05-06-2024
+307,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,04-07-2024
+308,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,06-12-2024
+309,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,06-06-2024
+310,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,09-12-2024
+311,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,10-07-2024
+312,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,11-07-2024
+313,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,19-10-2024
+314,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,21-10-2024
+315,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,22-10-2024
+316,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,24-10-2024
+317,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,25-10-2024
+318,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,29-07-2024
+319,Bangalore,Doddaballa Pur,Tomato,2000,3000,2500,29-06-2024
+320,Bangalore,Doddaballa Pur,Tomato,2400,3000,2700,01-06-2024
+321,Bangalore,Doddaballa Pur,Tomato,2500,3500,3000,05-10-2024
+322,Bangalore,Doddaballa Pur,Tomato,2500,3500,3000,07-12-2024
+323,Bangalore,Doddaballa Pur,Tomato,2500,3500,3000,26-07-2024
+324,Bangalore,Doddaballa Pur,Tomato,2500,3500,3000,28-06-2024
+325,Bangalore,Doddaballa Pur,Tomato,3000,3600,3300,21-06-2024
+326,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,03-12-2024
+327,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,04-12-2024
+328,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,04-10-2024
+329,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,08-07-2024
+330,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,09-07-2024
+331,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,10-06-2024
+332,Bangalore,Doddaballa Pur,Tomato,3000,4000,3500,24-06-2024
+333,Bangalore,Kanakapura,Tomato,500,800,600,02-03-2024
+334,Bangalore,Kanakapura,Tomato,500,1000,800,01-03-2024
+335,Bangalore,Kanakapura,Tomato,600,1000,800,17-02-2024
+336,Bangalore,Kanakapura,Tomato,600,1000,800,28-08-2024
+337,Bangalore,Kanakapura,Tomato,600,1100,800,29-02-2024
+338,Bangalore,Kanakapura,Tomato,600,1200,800,16-02-2024
+339,Bangalore,Kanakapura,Tomato,600,1200,1000,22-02-2024
+340,Bangalore,Kanakapura,Tomato,600,1200,1000,26-08-2024
+341,Bangalore,Kanakapura,Tomato,600,1250,1000,02-09-2024
+342,Bangalore,Kanakapura,Tomato,600,1250,1000,31-08-2024
+343,Bangalore,Kanakapura,Tomato,700,1100,900,27-02-2024
+344,Bangalore,Kanakapura,Tomato,700,1250,1000,30-08-2024
+345,Bangalore,Kanakapura,Tomato,800,1200,1000,17-08-2024
+346,Bangalore,Kanakapura,Tomato,800,1200,1000,19-02-2024
+347,Bangalore,Kanakapura,Tomato,800,1200,1000,20-02-2024
+348,Bangalore,Kanakapura,Tomato,800,1250,1000,03-09-2024
+349,Bangalore,Kanakapura,Tomato,800,1250,1000,04-09-2024
+350,Bangalore,Kanakapura,Tomato,800,1250,1000,09-08-2024
+351,Bangalore,Kanakapura,Tomato,800,1250,1000,20-08-2024
+352,Bangalore,Kanakapura,Tomato,800,1250,1000,21-08-2024
+353,Bangalore,Kanakapura,Tomato,800,1250,1000,21-02-2024
+354,Bangalore,Kanakapura,Tomato,800,1250,1000,26-02-2024
+355,Bangalore,Kanakapura,Tomato,800,1300,1000,19-08-2024
+356,Bangalore,Kanakapura,Tomato,800,1300,1000,23-08-2024
+357,Bangalore,Kanakapura,Tomato,800,1300,1000,23-02-2024
+358,Bangalore,Kanakapura,Tomato,800,1500,1200,04-03-2024
+359,Bangalore,Kanakapura,Tomato,800,1500,1200,05-09-2024
+360,Bangalore,Kanakapura,Tomato,800,1600,1200,14-02-2024
+361,Bangalore,Kanakapura,Tomato,800,1600,1200,15-02-2024
+362,Bangalore,Kanakapura,Tomato,800,1600,1200,31-01-2024
+363,Bangalore,Kanakapura,Tomato,1000,1400,1200,22-03-2024
+364,Bangalore,Kanakapura,Tomato,1000,1500,1200,07-03-2024
+365,Bangalore,Kanakapura,Tomato,1000,1500,1250,13-03-2024
+366,Bangalore,Kanakapura,Tomato,1000,1500,1250,15-03-2024
+367,Bangalore,Kanakapura,Tomato,1000,1500,1250,21-03-2024
+368,Bangalore,Kanakapura,Tomato,1000,1500,1300,01-01-2025
+369,Bangalore,Kanakapura,Tomato,1000,1500,1300,05-03-2024
+370,Bangalore,Kanakapura,Tomato,1000,1500,1300,11-03-2024
+371,Bangalore,Kanakapura,Tomato,1000,1500,1300,16-08-2024
+372,Bangalore,Kanakapura,Tomato,1000,1500,1300,16-03-2024
+373,Bangalore,Kanakapura,Tomato,1000,1600,1300,07-08-2024
+374,Bangalore,Kanakapura,Tomato,1000,1600,1300,08-08-2024
+375,Bangalore,Kanakapura,Tomato,1000,1600,1300,14-08-2024
+376,Bangalore,Kanakapura,Tomato,1000,1600,1300,16-12-2024
+377,Bangalore,Kanakapura,Tomato,1000,1600,1300,18-03-2024
+378,Bangalore,Kanakapura,Tomato,1000,1600,1300,20-03-2024
+379,Bangalore,Kanakapura,Tomato,1000,1600,1400,06-03-2024
+380,Bangalore,Kanakapura,Tomato,1000,1600,1400,11-09-2024
+381,Bangalore,Kanakapura,Tomato,1000,1600,1400,12-03-2024
+382,Bangalore,Kanakapura,Tomato,1000,1600,1400,14-03-2024
+383,Bangalore,Kanakapura,Tomato,1000,1600,1400,19-03-2024
+384,Bangalore,Kanakapura,Tomato,1000,1600,1400,30-12-2024
+385,Bangalore,Kanakapura,Tomato,1000,1700,1400,20-12-2024
+386,Bangalore,Kanakapura,Tomato,1000,1700,1500,13-02-2024
+387,Bangalore,Kanakapura,Tomato,1000,1700,1500,27-03-2024
+388,Bangalore,Kanakapura,Tomato,1000,1800,1400,01-02-2024
+389,Bangalore,Kanakapura,Tomato,1000,1800,1400,05-08-2024
+390,Bangalore,Kanakapura,Tomato,1000,1800,1400,13-12-2024
+391,Bangalore,Kanakapura,Tomato,1000,1800,1500,02-02-2024
+392,Bangalore,Kanakapura,Tomato,1000,1800,1500,03-08-2024
+393,Bangalore,Kanakapura,Tomato,1000,1800,1500,06-09-2024
+394,Bangalore,Kanakapura,Tomato,1000,1800,1500,21-12-2024
+395,Bangalore,Kanakapura,Tomato,1000,1800,1500,27-12-2024
+396,Bangalore,Kanakapura,Tomato,1000,1800,1500,30-01-2024
+397,Bangalore,Kanakapura,Tomato,1000,2000,1500,02-08-2024
+398,Bangalore,Kanakapura,Tomato,1000,2000,1500,11-11-2024
+399,Bangalore,Kanakapura,Tomato,1000,2000,1500,12-09-2024
+400,Bangalore,Kanakapura,Tomato,1000,2000,1500,13-08-2024
+401,Bangalore,Kanakapura,Tomato,1000,2000,1500,13-09-2024
+402,Bangalore,Kanakapura,Tomato,1000,2000,1500,17-04-2024
+403,Bangalore,Kanakapura,Tomato,1000,2000,1500,24-01-2024
+404,Bangalore,Kanakapura,Tomato,1000,2000,1500,25-01-2024
+405,Bangalore,Kanakapura,Tomato,1000,2000,1500,29-01-2024
+406,Bangalore,Kanakapura,Tomato,1000,2000,1600,12-02-2024
+407,Bangalore,Kanakapura,Tomato,1000,2000,1600,12-11-2024
+408,Bangalore,Kanakapura,Tomato,1000,2200,1800,20-04-2024
+409,Bangalore,Kanakapura,Tomato,1000,2300,2000,13-11-2024
+410,Bangalore,Kanakapura,Tomato,1200,2000,1600,12-08-2024
+411,Bangalore,Kanakapura,Tomato,1200,2000,1600,22-01-2024
+412,Bangalore,Kanakapura,Tomato,1300,1750,1500,25-03-2024
+413,Bangalore,Kanakapura,Tomato,1300,1800,1600,28-03-2024
+414,Bangalore,Kanakapura,Tomato,1400,2000,1600,12-01-2024
+415,Bangalore,Kanakapura,Tomato,1400,2000,1600,18-01-2024
+416,Bangalore,Kanakapura,Tomato,1400,2000,1800,10-01-2024
+417,Bangalore,Kanakapura,Tomato,1500,2000,1800,01-04-2024
+418,Bangalore,Kanakapura,Tomato,1500,2000,1800,09-01-2024
+419,Bangalore,Kanakapura,Tomato,1500,2000,1800,11-01-2024
+420,Bangalore,Kanakapura,Tomato,1500,2200,1900,03-04-2024
+421,Bangalore,Kanakapura,Tomato,1500,2200,2000,01-08-2024
+422,Bangalore,Kanakapura,Tomato,1500,2200,2000,14-11-2024
+423,Bangalore,Kanakapura,Tomato,1500,2200,2000,16-04-2024
+424,Bangalore,Kanakapura,Tomato,1500,2200,2000,16-01-2024
+425,Bangalore,Kanakapura,Tomato,1500,2200,2000,17-01-2024
+426,Bangalore,Kanakapura,Tomato,1500,2200,2000,18-04-2024
+427,Bangalore,Kanakapura,Tomato,1500,2250,2000,07-02-2024
+428,Bangalore,Kanakapura,Tomato,1500,2250,2000,08-01-2024
+429,Bangalore,Kanakapura,Tomato,1500,2300,2000,03-02-2024
+430,Bangalore,Kanakapura,Tomato,1500,2400,2000,08-11-2024
+431,Bangalore,Kanakapura,Tomato,1500,2500,2000,02-01-2024
+432,Bangalore,Kanakapura,Tomato,1500,2500,2000,03-01-2024
+433,Bangalore,Kanakapura,Tomato,1500,2500,2000,04-04-2024
+434,Bangalore,Kanakapura,Tomato,1500,2500,2000,15-04-2024
+435,Bangalore,Kanakapura,Tomato,1500,2500,2000,16-11-2024
+436,Bangalore,Kanakapura,Tomato,1500,2500,2000,19-04-2024
+437,Bangalore,Kanakapura,Tomato,1500,2500,2000,26-04-2024
+438,Bangalore,Kanakapura,Tomato,1500,2500,2000,30-03-2024
+439,Bangalore,Kanakapura,Tomato,1500,2500,2000,31-07-2024
+440,Bangalore,Kanakapura,Tomato,1500,2500,2200,05-02-2024
+441,Bangalore,Kanakapura,Tomato,1500,2700,2200,05-01-2024
+442,Bangalore,Kanakapura,Tomato,1600,2300,2000,15-11-2024
+443,Bangalore,Kanakapura,Tomato,1700,2700,2400,04-01-2024
+444,Bangalore,Kanakapura,Tomato,1800,2500,2200,06-02-2024
+445,Bangalore,Kanakapura,Tomato,2000,2500,2200,03-05-2024
+446,Bangalore,Kanakapura,Tomato,2000,2500,2300,04-05-2024
+447,Bangalore,Kanakapura,Tomato,2000,2500,2300,06-05-2024
+448,Bangalore,Kanakapura,Tomato,2000,2600,2400,23-04-2024
+449,Bangalore,Kanakapura,Tomato,2000,2600,2400,24-04-2024
+450,Bangalore,Kanakapura,Tomato,2000,2600,2400,30-07-2024
+451,Bangalore,Kanakapura,Tomato,2000,2700,2500,07-05-2024
+452,Bangalore,Kanakapura,Tomato,2000,2800,2500,01-05-2024
+453,Bangalore,Kanakapura,Tomato,2000,2800,2500,06-01-2024
+454,Bangalore,Kanakapura,Tomato,2000,3000,2500,07-06-2024
+455,Bangalore,Kanakapura,Tomato,2000,3000,2500,08-05-2024
+456,Bangalore,Kanakapura,Tomato,2000,3000,2500,09-05-2024
+457,Bangalore,Kanakapura,Tomato,2000,3000,2500,13-05-2024
+458,Bangalore,Kanakapura,Tomato,2000,3000,2500,14-05-2024
+459,Bangalore,Kanakapura,Tomato,2000,3000,2500,16-05-2024
+460,Bangalore,Kanakapura,Tomato,2000,3000,2500,17-05-2024
+461,Bangalore,Kanakapura,Tomato,2000,3000,2500,17-09-2024
+462,Bangalore,Kanakapura,Tomato,2000,3000,2500,18-09-2024
+463,Bangalore,Kanakapura,Tomato,2000,3000,2500,19-11-2024
+464,Bangalore,Kanakapura,Tomato,2000,3000,2500,19-09-2024
+465,Bangalore,Kanakapura,Tomato,2000,3000,2500,20-11-2024
+466,Bangalore,Kanakapura,Tomato,2000,3000,2500,20-09-2024
+467,Bangalore,Kanakapura,Tomato,2000,3000,2500,21-11-2024
+468,Bangalore,Kanakapura,Tomato,2000,3000,2500,22-04-2024
+469,Bangalore,Kanakapura,Tomato,2000,3000,2500,25-04-2024
+470,Bangalore,Kanakapura,Tomato,2000,3000,2500,26-07-2024
+471,Bangalore,Kanakapura,Tomato,2000,3000,2500,26-09-2024
+472,Bangalore,Kanakapura,Tomato,2000,3000,2500,29-07-2024
+473,Bangalore,Kanakapura,Tomato,2000,3000,2500,30-04-2024
+474,Bangalore,Kanakapura,Tomato,2000,3000,2500,30-05-2024
+475,Bangalore,Kanakapura,Tomato,2000,3200,2500,15-05-2024
+476,Bangalore,Kanakapura,Tomato,2000,3200,2500,18-05-2024
+477,Bangalore,Kanakapura,Tomato,2000,3500,3000,01-06-2024
+478,Bangalore,Kanakapura,Tomato,2000,3500,3000,21-09-2024
+479,Bangalore,Kanakapura,Tomato,2000,3500,3000,26-11-2024
+480,Bangalore,Kanakapura,Tomato,2000,3500,3000,31-05-2024
+481,Bangalore,Kanakapura,Tomato,2500,3500,3000,23-05-2024
+482,Bangalore,Kanakapura,Tomato,2500,3500,3000,23-09-2024
+483,Bangalore,Kanakapura,Tomato,2500,3500,3000,25-09-2024
+484,Bangalore,Kanakapura,Tomato,2500,3500,3000,27-09-2024
+485,Bangalore,Kanakapura,Tomato,2500,3500,3000,29-04-2024
+486,Bangalore,Kanakapura,Tomato,2500,3600,3000,24-09-2024
+487,Bangalore,Kanakapura,Tomato,3000,4000,3500,02-12-2024
+488,Bangalore,Kanakapura,Tomato,3000,4000,3500,09-07-2024
+489,Bangalore,Kanakapura,Tomato,3000,4000,3500,14-10-2024
+490,Bangalore,Kanakapura,Tomato,3000,4000,3500,20-05-2024
+491,Bangalore,Kanakapura,Tomato,3000,4000,3500,24-07-2024
+492,Bangalore,Kanakapura,Tomato,3000,4000,3500,24-05-2024
+493,Bangalore,Kanakapura,Tomato,3000,4000,3500,25-07-2024
+494,Bangalore,Kanakapura,Tomato,3000,4000,3500,27-11-2024
+495,Bangalore,Kanakapura,Tomato,3000,4000,3500,29-05-2024
+496,Bangalore,Kanakapura,Tomato,3000,4000,3500,30-09-2024
+497,Bangalore,Kanakapura,Tomato,3000,4000,3600,05-12-2024
+498,Bangalore,Kanakapura,Tomato,3000,4000,3600,08-07-2024
+499,Bangalore,Kanakapura,Tomato,3000,4200,3500,22-05-2024
+500,Bangalore,Kanakapura,Tomato,3000,4200,3800,10-07-2024
+501,Bangalore,Kanakapura,Tomato,3000,4300,4000,12-07-2024
+502,Bangalore,Kanakapura,Tomato,3000,4500,4000,04-06-2024
+503,Bangalore,Kanakapura,Tomato,3000,4500,4000,05-06-2024
+504,Bangalore,Kanakapura,Tomato,3000,4500,4000,11-07-2024
+505,Bangalore,Kanakapura,Tomato,3000,4500,4000,21-05-2024
+506,Bangalore,Kanakapura,Tomato,3000,4500,4000,22-10-2024
+507,Bangalore,Kanakapura,Tomato,3000,4600,4000,23-10-2024
+508,Bangalore,Kanakapura,Tomato,3000,5000,4000,04-07-2024
+509,Bangalore,Kanakapura,Tomato,3000,5000,4000,06-07-2024
+510,Bangalore,Kanakapura,Tomato,3000,5000,4000,22-07-2024
+511,Bangalore,Kanakapura,Tomato,3000,5000,4000,27-05-2024
+512,Bangalore,Kanakapura,Tomato,3000,5000,4000,28-05-2024
+513,Bangalore,Kanakapura,Tomato,3500,4500,4000,03-07-2024
+514,Bangalore,Kanakapura,Tomato,3500,4500,4000,03-06-2024
+515,Bangalore,Kanakapura,Tomato,3500,4500,4000,05-07-2024
+516,Bangalore,Kanakapura,Tomato,3500,4500,4000,06-12-2024
+517,Bangalore,Kanakapura,Tomato,3500,4500,4000,15-10-2024
+518,Bangalore,Kanakapura,Tomato,4000,5000,4500,01-07-2024
+519,Bangalore,Kanakapura,Tomato,4000,5000,4500,06-06-2024
+520,Bangalore,Kanakapura,Tomato,4000,5000,4500,08-10-2024
+521,Bangalore,Kanakapura,Tomato,4000,5000,4500,10-06-2024
+522,Bangalore,Kanakapura,Tomato,4000,5000,4600,11-06-2024
+523,Bangalore,Kanakapura,Tomato,4000,5000,4700,02-07-2024
+524,Bangalore,Kanakapura,Tomato,4000,5600,5000,07-10-2024
+525,Bangalore,Kanakapura,Tomato,4000,6000,5000,12-06-2024
+526,Bangalore,Kanakapura,Tomato,4000,6000,5000,14-06-2024
+527,Bangalore,Kanakapura,Tomato,4000,6000,5000,15-06-2024
+528,Bangalore,Kanakapura,Tomato,4000,6000,5000,16-07-2024
+529,Bangalore,Kanakapura,Tomato,4000,6000,5000,19-07-2024
+530,Bangalore,Kanakapura,Tomato,4000,6000,5000,20-07-2024
+531,Bangalore,Kanakapura,Tomato,4500,5500,5000,27-06-2024
+532,Bangalore,Kanakapura,Tomato,4500,5500,5000,28-06-2024
+533,Bangalore,Kanakapura,Tomato,4500,5500,5000,29-06-2024
+534,Bangalore,Kanakapura,Tomato,5000,6000,5500,18-07-2024
+535,Bangalore,Kanakapura,Tomato,5000,6000,5500,26-06-2024
+536,Bangalore,Kanakapura,Tomato,5000,6500,6000,15-07-2024
+537,Bangalore,Kanakapura,Tomato,5000,6500,6000,25-06-2024
+538,Bangalore,Kanakapura,Tomato,5000,7000,6000,13-06-2024
+539,Bangalore,Kanakapura,Tomato,1000,2000,1500,06-08-2024
+540,Bangalore,Kanakapura,Tomato,1500,2200,2000,23-01-2024
+541,Bangalore,Kanakapura,Tomato,2000,2800,2500,02-05-2024
+542,Bangalore,Ramanagara,Tomato,300,4500,4000,25-05-2024
+543,Bangalore,Ramanagara,Tomato,350,4500,4000,15-10-2024
+544,Bangalore,Ramanagara,Tomato,500,800,600,02-03-2024
+545,Bangalore,Ramanagara,Tomato,500,1000,800,01-03-2024
+546,Bangalore,Ramanagara,Tomato,500,1000,800,29-08-2024
+547,Bangalore,Ramanagara,Tomato,600,1000,800,03-03-2024
+548,Bangalore,Ramanagara,Tomato,600,1000,800,17-02-2024
+549,Bangalore,Ramanagara,Tomato,600,1000,800,27-08-2024
+550,Bangalore,Ramanagara,Tomato,600,1000,800,28-08-2024
+551,Bangalore,Ramanagara,Tomato,600,1100,800,29-02-2024
+552,Bangalore,Ramanagara,Tomato,600,1200,800,16-02-2024
+553,Bangalore,Ramanagara,Tomato,600,1200,900,23-02-2024
+554,Bangalore,Ramanagara,Tomato,600,1200,1000,22-02-2024
+555,Bangalore,Ramanagara,Tomato,600,1200,1000,26-08-2024
+556,Bangalore,Ramanagara,Tomato,600,1250,1000,02-09-2024
+557,Bangalore,Ramanagara,Tomato,600,1250,1000,31-08-2024
+558,Bangalore,Ramanagara,Tomato,700,1100,900,27-02-2024
+559,Bangalore,Ramanagara,Tomato,700,1200,1000,28-02-2024
+560,Bangalore,Ramanagara,Tomato,700,1250,1000,01-09-2024
+561,Bangalore,Ramanagara,Tomato,700,1250,1000,30-08-2024
+562,Bangalore,Ramanagara,Tomato,700,1300,1000,24-08-2024
+563,Bangalore,Ramanagara,Tomato,800,1200,1000,17-08-2024
+564,Bangalore,Ramanagara,Tomato,800,1200,1000,19-02-2024
+565,Bangalore,Ramanagara,Tomato,800,1200,1000,20-02-2024
+566,Bangalore,Ramanagara,Tomato,800,1250,1000,09-08-2024
+567,Bangalore,Ramanagara,Tomato,800,1250,1000,16-08-2024
+568,Bangalore,Ramanagara,Tomato,800,1250,1000,20-08-2024
+569,Bangalore,Ramanagara,Tomato,800,1250,1000,21-08-2024
+570,Bangalore,Ramanagara,Tomato,800,1250,1000,21-02-2024
+571,Bangalore,Ramanagara,Tomato,800,1250,1000,26-02-2024
+572,Bangalore,Ramanagara,Tomato,800,1300,1000,03-09-2024
+573,Bangalore,Ramanagara,Tomato,800,1300,1000,04-09-2024
+574,Bangalore,Ramanagara,Tomato,800,1300,1000,18-08-2024
+575,Bangalore,Ramanagara,Tomato,800,1300,1000,18-02-2024
+576,Bangalore,Ramanagara,Tomato,800,1300,1000,19-08-2024
+577,Bangalore,Ramanagara,Tomato,800,1300,1000,22-08-2024
+578,Bangalore,Ramanagara,Tomato,800,1300,1000,23-08-2024
+579,Bangalore,Ramanagara,Tomato,800,1300,1000,24-02-2024
+580,Bangalore,Ramanagara,Tomato,800,1400,1000,31-12-2024
+581,Bangalore,Ramanagara,Tomato,800,1400,1200,08-03-2024
+582,Bangalore,Ramanagara,Tomato,800,1500,1000,10-08-2024
+583,Bangalore,Ramanagara,Tomato,800,1500,1200,05-09-2024
+584,Bangalore,Ramanagara,Tomato,800,1600,1200,10-09-2024
+585,Bangalore,Ramanagara,Tomato,800,1600,1200,14-02-2024
+586,Bangalore,Ramanagara,Tomato,800,1600,1200,15-02-2024
+587,Bangalore,Ramanagara,Tomato,800,1600,1200,31-01-2024
+588,Bangalore,Ramanagara,Tomato,1000,1400,1200,22-03-2024
+589,Bangalore,Ramanagara,Tomato,1000,1500,1200,04-03-2024
+590,Bangalore,Ramanagara,Tomato,1000,1500,1200,07-03-2024
+591,Bangalore,Ramanagara,Tomato,1000,1500,1250,07-09-2024
+592,Bangalore,Ramanagara,Tomato,1000,1500,1250,11-09-2024
+593,Bangalore,Ramanagara,Tomato,1000,1500,1250,13-03-2024
+594,Bangalore,Ramanagara,Tomato,1000,1500,1250,15-03-2024
+595,Bangalore,Ramanagara,Tomato,1000,1500,1250,21-03-2024
+596,Bangalore,Ramanagara,Tomato,1000,1500,1300,01-01-2025
+597,Bangalore,Ramanagara,Tomato,1000,1500,1300,05-03-2024
+598,Bangalore,Ramanagara,Tomato,1000,1500,1300,09-03-2024
+599,Bangalore,Ramanagara,Tomato,1000,1500,1300,11-03-2024
+600,Bangalore,Ramanagara,Tomato,1000,1500,1300,15-08-2024
+601,Bangalore,Ramanagara,Tomato,1000,1500,1300,16-03-2024
+602,Bangalore,Ramanagara,Tomato,1000,1500,1300,24-03-2024
+603,Bangalore,Ramanagara,Tomato,1000,1600,1300,08-08-2024
+604,Bangalore,Ramanagara,Tomato,1000,1600,1300,14-08-2024
+605,Bangalore,Ramanagara,Tomato,1000,1600,1300,18-03-2024
+606,Bangalore,Ramanagara,Tomato,1000,1600,1300,20-03-2024
+607,Bangalore,Ramanagara,Tomato,1000,1600,1400,06-03-2024
+608,Bangalore,Ramanagara,Tomato,1000,1600,1400,07-08-2024
+609,Bangalore,Ramanagara,Tomato,1000,1600,1400,10-03-2024
+610,Bangalore,Ramanagara,Tomato,1000,1600,1400,12-03-2024
+611,Bangalore,Ramanagara,Tomato,1000,1600,1400,12-09-2024
+612,Bangalore,Ramanagara,Tomato,1000,1600,1400,14-03-2024
+613,Bangalore,Ramanagara,Tomato,1000,1600,1400,17-03-2024
+614,Bangalore,Ramanagara,Tomato,1000,1600,1400,19-03-2024
+615,Bangalore,Ramanagara,Tomato,1000,1600,1400,20-01-2024
+616,Bangalore,Ramanagara,Tomato,1000,1600,1400,30-12-2024
+617,Bangalore,Ramanagara,Tomato,1000,1700,1400,20-12-2024
+618,Bangalore,Ramanagara,Tomato,1000,1700,1500,13-02-2024
+619,Bangalore,Ramanagara,Tomato,1000,1700,1500,23-03-2024
+620,Bangalore,Ramanagara,Tomato,1000,1700,1500,26-12-2024
+621,Bangalore,Ramanagara,Tomato,1000,1700,1500,27-03-2024
+622,Bangalore,Ramanagara,Tomato,1000,1800,1400,01-02-2024
+623,Bangalore,Ramanagara,Tomato,1000,1800,1400,05-08-2024
+624,Bangalore,Ramanagara,Tomato,1000,1800,1400,13-12-2024
+625,Bangalore,Ramanagara,Tomato,1000,1800,1500,02-02-2024
+626,Bangalore,Ramanagara,Tomato,1000,1800,1500,03-08-2024
+627,Bangalore,Ramanagara,Tomato,1000,1800,1500,06-09-2024
+628,Bangalore,Ramanagara,Tomato,1000,1800,1500,19-01-2024
+629,Bangalore,Ramanagara,Tomato,1000,1800,1500,21-12-2024
+630,Bangalore,Ramanagara,Tomato,1000,1800,1500,25-12-2024
+631,Bangalore,Ramanagara,Tomato,1000,1800,1500,27-12-2024
+632,Bangalore,Ramanagara,Tomato,1000,1800,1600,30-01-2024
+633,Bangalore,Ramanagara,Tomato,1000,2000,1500,02-08-2024
+634,Bangalore,Ramanagara,Tomato,1000,2000,1500,04-08-2024
+635,Bangalore,Ramanagara,Tomato,1000,2000,1500,06-08-2024
+636,Bangalore,Ramanagara,Tomato,1000,2000,1500,08-09-2024
+637,Bangalore,Ramanagara,Tomato,1000,2000,1500,09-02-2024
+638,Bangalore,Ramanagara,Tomato,1000,2000,1500,09-09-2024
+639,Bangalore,Ramanagara,Tomato,1000,2000,1500,11-08-2024
+640,Bangalore,Ramanagara,Tomato,1000,2000,1500,11-11-2024
+641,Bangalore,Ramanagara,Tomato,1000,2000,1500,13-08-2024
+642,Bangalore,Ramanagara,Tomato,1000,2000,1500,13-09-2024
+643,Bangalore,Ramanagara,Tomato,1000,2000,1500,17-04-2024
+644,Bangalore,Ramanagara,Tomato,1000,2000,1500,18-11-2024
+645,Bangalore,Ramanagara,Tomato,1000,2000,1500,21-01-2024
+646,Bangalore,Ramanagara,Tomato,1000,2000,1500,24-01-2024
+647,Bangalore,Ramanagara,Tomato,1000,2000,1500,25-01-2024
+648,Bangalore,Ramanagara,Tomato,1000,2000,1500,26-03-2024
+649,Bangalore,Ramanagara,Tomato,1000,2000,1500,27-01-2024
+650,Bangalore,Ramanagara,Tomato,1000,2000,1600,08-02-2024
+651,Bangalore,Ramanagara,Tomato,1000,2000,1600,12-12-2024
+652,Bangalore,Ramanagara,Tomato,1000,2000,1600,12-02-2024
+653,Bangalore,Ramanagara,Tomato,1000,2000,1600,12-11-2024
+654,Bangalore,Ramanagara,Tomato,1000,2000,1600,22-12-2024
+655,Bangalore,Ramanagara,Tomato,1000,2000,1600,26-01-2024
+656,Bangalore,Ramanagara,Tomato,1000,2000,1600,29-01-2024
+657,Bangalore,Ramanagara,Tomato,1000,2200,1800,20-04-2024
+658,Bangalore,Ramanagara,Tomato,1000,2250,2000,07-02-2024
+659,Bangalore,Ramanagara,Tomato,1000,2300,2000,10-02-2024
+660,Bangalore,Ramanagara,Tomato,1000,2300,2000,13-11-2024
+661,Bangalore,Ramanagara,Tomato,1200,1750,1500,28-12-2024
+662,Bangalore,Ramanagara,Tomato,1200,2000,1500,24-12-2024
+663,Bangalore,Ramanagara,Tomato,1200,2000,1600,12-08-2024
+664,Bangalore,Ramanagara,Tomato,1200,2000,1600,22-01-2024
+665,Bangalore,Ramanagara,Tomato,1200,2000,1600,23-12-2024
+666,Bangalore,Ramanagara,Tomato,1200,2300,2000,11-02-2024
+667,Bangalore,Ramanagara,Tomato,1300,1750,1500,25-03-2024
+668,Bangalore,Ramanagara,Tomato,1300,1800,1600,28-03-2024
+669,Bangalore,Ramanagara,Tomato,1400,2000,1600,12-01-2024
+670,Bangalore,Ramanagara,Tomato,1400,2000,1600,18-01-2024
+671,Bangalore,Ramanagara,Tomato,1400,2000,1800,10-01-2024
+672,Bangalore,Ramanagara,Tomato,1400,2000,1800,13-01-2024
+673,Bangalore,Ramanagara,Tomato,1400,2000,1800,29-03-2024
+674,Bangalore,Ramanagara,Tomato,1400,2500,2000,09-11-2024
+675,Bangalore,Ramanagara,Tomato,1500,1800,1600,15-01-2024
+676,Bangalore,Ramanagara,Tomato,1500,2000,1800,01-04-2024
+677,Bangalore,Ramanagara,Tomato,1500,2000,1800,09-01-2024
+678,Bangalore,Ramanagara,Tomato,1500,2000,1800,11-01-2024
+679,Bangalore,Ramanagara,Tomato,1500,2200,2000,01-08-2024
+680,Bangalore,Ramanagara,Tomato,1500,2200,2000,03-04-2024
+681,Bangalore,Ramanagara,Tomato,1500,2200,2000,14-11-2024
+682,Bangalore,Ramanagara,Tomato,1500,2200,2000,16-04-2024
+683,Bangalore,Ramanagara,Tomato,1500,2200,2000,16-01-2024
+684,Bangalore,Ramanagara,Tomato,1500,2200,2000,17-01-2024
+685,Bangalore,Ramanagara,Tomato,1500,2200,2000,23-01-2024
+686,Bangalore,Ramanagara,Tomato,1500,2200,2000,30-03-2024
+687,Bangalore,Ramanagara,Tomato,1500,2250,2000,01-01-2024
+688,Bangalore,Ramanagara,Tomato,1500,2250,2000,08-01-2024
+689,Bangalore,Ramanagara,Tomato,1500,2300,2000,03-02-2024
+690,Bangalore,Ramanagara,Tomato,1500,2300,2000,18-04-2024
+691,Bangalore,Ramanagara,Tomato,1500,2400,2000,07-11-2024
+692,Bangalore,Ramanagara,Tomato,1500,2500,2000,01-11-2024
+693,Bangalore,Ramanagara,Tomato,1500,2500,2000,02-01-2024
+694,Bangalore,Ramanagara,Tomato,1500,2500,2000,03-01-2024
+695,Bangalore,Ramanagara,Tomato,1500,2500,2000,06-11-2024
+696,Bangalore,Ramanagara,Tomato,1500,2500,2000,08-11-2024
+697,Bangalore,Ramanagara,Tomato,1500,2500,2000,09-12-2024
+698,Bangalore,Ramanagara,Tomato,1500,2500,2000,10-12-2024
+699,Bangalore,Ramanagara,Tomato,1500,2500,2000,10-05-2024
+700,Bangalore,Ramanagara,Tomato,1500,2500,2000,14-04-2024
+701,Bangalore,Ramanagara,Tomato,1500,2500,2000,14-05-2024
+702,Bangalore,Ramanagara,Tomato,1500,2500,2000,15-04-2024
+703,Bangalore,Ramanagara,Tomato,1500,2500,2000,16-11-2024
+704,Bangalore,Ramanagara,Tomato,1500,2500,2000,19-04-2024
+705,Bangalore,Ramanagara,Tomato,1500,2500,2000,21-04-2024
+706,Bangalore,Ramanagara,Tomato,1500,2500,2000,26-04-2024
+707,Bangalore,Ramanagara,Tomato,1500,2500,2000,31-07-2024
+708,Bangalore,Ramanagara,Tomato,1500,2500,2200,05-02-2024
+709,Bangalore,Ramanagara,Tomato,1500,2700,2400,05-01-2024
+710,Bangalore,Ramanagara,Tomato,1600,2300,2000,15-11-2024
+711,Bangalore,Ramanagara,Tomato,1600,2500,2000,02-04-2024
+712,Bangalore,Ramanagara,Tomato,1600,2500,2000,10-11-2024
+713,Bangalore,Ramanagara,Tomato,1700,2750,2200,04-01-2024
+714,Bangalore,Ramanagara,Tomato,1800,2500,2200,04-02-2024
+715,Bangalore,Ramanagara,Tomato,1800,2500,2200,06-02-2024
+716,Bangalore,Ramanagara,Tomato,2000,2500,2200,03-05-2024
+717,Bangalore,Ramanagara,Tomato,2000,2500,2250,07-01-2024
+718,Bangalore,Ramanagara,Tomato,2000,2500,2250,13-04-2024
+719,Bangalore,Ramanagara,Tomato,2000,2500,2300,04-05-2024
+720,Bangalore,Ramanagara,Tomato,2000,2500,2300,06-05-2024
+721,Bangalore,Ramanagara,Tomato,2000,2600,2400,23-04-2024
+722,Bangalore,Ramanagara,Tomato,2000,2600,2400,30-07-2024
+723,Bangalore,Ramanagara,Tomato,2000,2700,2500,07-05-2024
+724,Bangalore,Ramanagara,Tomato,2000,2800,2400,27-07-2024
+725,Bangalore,Ramanagara,Tomato,2000,2800,2500,01-05-2024
+726,Bangalore,Ramanagara,Tomato,2000,2800,2500,02-05-2024
+727,Bangalore,Ramanagara,Tomato,2000,2800,2500,06-01-2024
+728,Bangalore,Ramanagara,Tomato,2000,3000,2500,04-04-2024
+729,Bangalore,Ramanagara,Tomato,2000,3000,2500,04-11-2024
+730,Bangalore,Ramanagara,Tomato,2000,3000,2500,05-04-2024
+731,Bangalore,Ramanagara,Tomato,2000,3000,2500,05-05-2024
+732,Bangalore,Ramanagara,Tomato,2000,3000,2500,05-11-2024
+733,Bangalore,Ramanagara,Tomato,2000,3000,2500,07-04-2024
+734,Bangalore,Ramanagara,Tomato,2000,3000,2500,08-04-2024
+735,Bangalore,Ramanagara,Tomato,2000,3000,2500,08-05-2024
+736,Bangalore,Ramanagara,Tomato,2000,3000,2500,09-05-2024
+737,Bangalore,Ramanagara,Tomato,2000,3000,2500,12-05-2024
+738,Bangalore,Ramanagara,Tomato,2000,3000,2500,13-05-2024
+739,Bangalore,Ramanagara,Tomato,2000,3000,2500,16-05-2024
+740,Bangalore,Ramanagara,Tomato,2000,3000,2500,16-09-2024
+741,Bangalore,Ramanagara,Tomato,2000,3000,2500,17-05-2024
+742,Bangalore,Ramanagara,Tomato,2000,3000,2500,17-09-2024
+743,Bangalore,Ramanagara,Tomato,2000,3000,2500,19-11-2024
+744,Bangalore,Ramanagara,Tomato,2000,3000,2500,19-09-2024
+745,Bangalore,Ramanagara,Tomato,2000,3000,2500,20-11-2024
+746,Bangalore,Ramanagara,Tomato,2000,3000,2500,21-11-2024
+747,Bangalore,Ramanagara,Tomato,2000,3000,2500,22-04-2024
+748,Bangalore,Ramanagara,Tomato,2000,3000,2500,24-04-2024
+749,Bangalore,Ramanagara,Tomato,2000,3000,2500,25-04-2024
+750,Bangalore,Ramanagara,Tomato,2000,3000,2500,26-07-2024
+751,Bangalore,Ramanagara,Tomato,2000,3000,2500,26-09-2024
+752,Bangalore,Ramanagara,Tomato,2000,3000,2500,29-07-2024
+753,Bangalore,Ramanagara,Tomato,2000,3000,2500,29-10-2024
+754,Bangalore,Ramanagara,Tomato,2000,3000,2500,30-04-2024
+755,Bangalore,Ramanagara,Tomato,2000,3000,2500,30-05-2024
+756,Bangalore,Ramanagara,Tomato,2000,3000,2600,06-04-2024
+757,Bangalore,Ramanagara,Tomato,2000,3000,2600,18-09-2024
+758,Bangalore,Ramanagara,Tomato,2000,3000,2600,20-09-2024
+759,Bangalore,Ramanagara,Tomato,2000,3000,2600,30-10-2024
+760,Bangalore,Ramanagara,Tomato,2000,3200,2500,15-05-2024
+761,Bangalore,Ramanagara,Tomato,2000,3200,2500,18-05-2024
+762,Bangalore,Ramanagara,Tomato,2000,3200,2800,11-05-2024
+763,Bangalore,Ramanagara,Tomato,2000,3300,2500,27-04-2024
+764,Bangalore,Ramanagara,Tomato,2000,3500,3000,01-06-2024
+765,Bangalore,Ramanagara,Tomato,2000,3500,3000,19-05-2024
+766,Bangalore,Ramanagara,Tomato,2000,3500,3000,21-09-2024
+767,Bangalore,Ramanagara,Tomato,2000,3500,3000,26-11-2024
+768,Bangalore,Ramanagara,Tomato,2000,4000,3000,31-05-2024
+769,Bangalore,Ramanagara,Tomato,2500,3500,3000,02-06-2024
+770,Bangalore,Ramanagara,Tomato,2500,3500,3000,02-11-2024
+771,Bangalore,Ramanagara,Tomato,2500,3500,3000,03-11-2024
+772,Bangalore,Ramanagara,Tomato,2500,3500,3000,23-05-2024
+773,Bangalore,Ramanagara,Tomato,2500,3500,3000,23-09-2024
+774,Bangalore,Ramanagara,Tomato,2500,3500,3000,25-09-2024
+775,Bangalore,Ramanagara,Tomato,2500,3500,3000,27-09-2024
+776,Bangalore,Ramanagara,Tomato,2500,3500,3000,29-04-2024
+777,Bangalore,Ramanagara,Tomato,2500,3600,3000,24-09-2024
+778,Bangalore,Ramanagara,Tomato,2500,3800,3200,22-09-2024
+779,Bangalore,Ramanagara,Tomato,3000,3500,3300,28-10-2024
+780,Bangalore,Ramanagara,Tomato,3000,4000,3500,02-12-2024
+781,Bangalore,Ramanagara,Tomato,3000,4000,3500,09-07-2024
+782,Bangalore,Ramanagara,Tomato,3000,4000,3500,20-05-2024
+783,Bangalore,Ramanagara,Tomato,3000,4000,3500,23-07-2024
+784,Bangalore,Ramanagara,Tomato,3000,4000,3500,25-07-2024
+785,Bangalore,Ramanagara,Tomato,3000,4000,3500,27-11-2024
+786,Bangalore,Ramanagara,Tomato,3000,4000,3500,28-09-2024
+787,Bangalore,Ramanagara,Tomato,3000,4000,3500,29-05-2024
+788,Bangalore,Ramanagara,Tomato,3000,4000,3500,30-09-2024
+789,Bangalore,Ramanagara,Tomato,3000,4000,3600,05-12-2024
+790,Bangalore,Ramanagara,Tomato,3000,4000,3600,08-12-2024
+791,Bangalore,Ramanagara,Tomato,3000,4000,3600,08-07-2024
+792,Bangalore,Ramanagara,Tomato,3000,4000,3600,20-10-2024
+793,Bangalore,Ramanagara,Tomato,3000,4000,3600,24-07-2024
+794,Bangalore,Ramanagara,Tomato,3000,4000,3600,24-05-2024
+795,Bangalore,Ramanagara,Tomato,3000,4000,3600,28-11-2024
+796,Bangalore,Ramanagara,Tomato,3000,4200,3500,22-05-2024
+797,Bangalore,Ramanagara,Tomato,3000,4200,3800,10-07-2024
+798,Bangalore,Ramanagara,Tomato,3000,4300,4000,12-07-2024
+799,Bangalore,Ramanagara,Tomato,3000,4500,4000,01-10-2024
+800,Bangalore,Ramanagara,Tomato,3000,4500,4000,04-06-2024
+801,Bangalore,Ramanagara,Tomato,3000,4500,4000,05-06-2024
+802,Bangalore,Ramanagara,Tomato,3000,4500,4000,14-10-2024
+803,Bangalore,Ramanagara,Tomato,3000,4500,4000,21-05-2024
+804,Bangalore,Ramanagara,Tomato,3000,4500,4000,21-10-2024
+805,Bangalore,Ramanagara,Tomato,3000,4500,4000,22-10-2024
+806,Bangalore,Ramanagara,Tomato,3000,4600,4000,23-10-2024
+807,Bangalore,Ramanagara,Tomato,3000,5000,4000,03-12-2024
+808,Bangalore,Ramanagara,Tomato,3000,5000,4000,04-07-2024
+809,Bangalore,Ramanagara,Tomato,3000,5000,4000,06-07-2024
+810,Bangalore,Ramanagara,Tomato,3000,5000,4000,22-07-2024
+811,Bangalore,Ramanagara,Tomato,3000,5000,4000,27-05-2024
+812,Bangalore,Ramanagara,Tomato,3000,5000,4000,28-05-2024
+813,Bangalore,Ramanagara,Tomato,3500,4500,4000,03-07-2024
+814,Bangalore,Ramanagara,Tomato,3500,4500,4000,03-06-2024
+815,Bangalore,Ramanagara,Tomato,3500,4500,4000,04-12-2024
+816,Bangalore,Ramanagara,Tomato,3500,4500,4000,05-07-2024
+817,Bangalore,Ramanagara,Tomato,3500,4500,4000,06-12-2024
+818,Bangalore,Ramanagara,Tomato,3500,4500,4000,07-07-2024
+819,Bangalore,Ramanagara,Tomato,3500,4500,4000,09-10-2024
+820,Bangalore,Ramanagara,Tomato,3500,4500,4000,10-10-2024
+821,Bangalore,Ramanagara,Tomato,3500,4500,4000,11-07-2024
+822,Bangalore,Ramanagara,Tomato,4000,5000,4500,01-07-2024
+823,Bangalore,Ramanagara,Tomato,4000,5000,4500,02-10-2024
+824,Bangalore,Ramanagara,Tomato,4000,5000,4500,06-06-2024
+825,Bangalore,Ramanagara,Tomato,4000,5000,4500,07-12-2024
+826,Bangalore,Ramanagara,Tomato,4000,5000,4500,07-06-2024
+827,Bangalore,Ramanagara,Tomato,4000,5000,4500,08-06-2024
+828,Bangalore,Ramanagara,Tomato,4000,5000,4500,08-10-2024
+829,Bangalore,Ramanagara,Tomato,4000,5000,4500,09-06-2024
+830,Bangalore,Ramanagara,Tomato,4000,5000,4500,10-06-2024
+831,Bangalore,Ramanagara,Tomato,4000,5000,4500,13-07-2024
+832,Bangalore,Ramanagara,Tomato,4000,5000,4500,16-10-2024
+833,Bangalore,Ramanagara,Tomato,4000,5000,4500,18-10-2024
+834,Bangalore,Ramanagara,Tomato,4000,5000,4500,19-10-2024
+835,Bangalore,Ramanagara,Tomato,4000,5000,4500,25-10-2024
+836,Bangalore,Ramanagara,Tomato,4000,5000,4600,02-07-2024
+837,Bangalore,Ramanagara,Tomato,4000,5000,4600,11-06-2024
+838,Bangalore,Ramanagara,Tomato,4000,5000,4600,17-10-2024
+839,Bangalore,Ramanagara,Tomato,4000,5000,4600,24-10-2024
+840,Bangalore,Ramanagara,Tomato,4000,5500,5000,05-10-2024
+841,Bangalore,Ramanagara,Tomato,4000,5500,5000,06-10-2024
+842,Bangalore,Ramanagara,Tomato,4000,5500,5000,21-07-2024
+843,Bangalore,Ramanagara,Tomato,4000,5500,5000,26-10-2024
+844,Bangalore,Ramanagara,Tomato,4000,5500,5000,29-06-2024
+845,Bangalore,Ramanagara,Tomato,4000,5600,5000,07-10-2024
+846,Bangalore,Ramanagara,Tomato,4000,6000,5000,12-06-2024
+847,Bangalore,Ramanagara,Tomato,4000,6000,5000,14-07-2024
+848,Bangalore,Ramanagara,Tomato,4000,6000,5000,14-06-2024
+849,Bangalore,Ramanagara,Tomato,4000,6000,5000,15-06-2024
+850,Bangalore,Ramanagara,Tomato,4000,6000,5000,16-07-2024
+851,Bangalore,Ramanagara,Tomato,4000,6000,5000,19-07-2024
+852,Bangalore,Ramanagara,Tomato,4000,6000,5000,20-07-2024
+853,Bangalore,Ramanagara,Tomato,4500,5500,5000,27-06-2024
+854,Bangalore,Ramanagara,Tomato,4500,5500,5000,28-06-2024
+855,Bangalore,Ramanagara,Tomato,5000,6000,5500,18-07-2024
+856,Bangalore,Ramanagara,Tomato,5000,6000,5500,26-06-2024
+857,Bangalore,Ramanagara,Tomato,5000,6000,5600,04-10-2024
+858,Bangalore,Ramanagara,Tomato,5000,6500,6000,15-07-2024
+859,Bangalore,Ramanagara,Tomato,5000,6500,6000,17-07-2024
+860,Bangalore,Ramanagara,Tomato,5000,6500,6000,21-06-2024
+861,Bangalore,Ramanagara,Tomato,5000,6500,6000,25-06-2024
+862,Bangalore,Ramanagara,Tomato,5000,7000,6000,13-06-2024
+863,Bangalore,Ramanagara,Tomato,5600,7200,6000,17-06-2024
+864,Bangalore,Ramanagara,Tomato,6000,7000,6500,23-06-2024
+865,Bangalore,Ramanagara,Tomato,6000,7000,6500,24-06-2024
+866,Bangalore,Ramanagara,Tomato,6000,7500,7000,03-10-2024
+867,Bangalore,Ramanagara,Tomato,6000,7500,7000,20-06-2024
+868,Bangalore,Ramanagara,Tomato,6000,7500,7000,22-06-2024
+869,Bangalore,Ramanagara,Tomato,6000,8000,7000,18-06-2024
+870,Bangalore,Ramanagara,Tomato,8000,9000,8500,19-06-2024

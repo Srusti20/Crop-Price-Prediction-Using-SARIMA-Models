@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/x-icon" href="static/images/favicon.jpg" />
+    <title>CropFusion</title>
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-...yourhash..." crossorigin="anonymous"></script>
+
+    <!-- Recommended: Chart.js v4 -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        .gradient-background {
+            background: linear-gradient(300deg, #00c853, #00bfa5, #64dd17);
+            background-size: 180% 180%;
+            animation: gradient-animation 18s ease infinite;
+        }
+
+
+        @keyframes gradient-animation {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .header,
+        .footer {
+            color: white;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 0 0 10px 10px;
+        }
+
+
+        body {
+            margin: 0;
+            font-family: "Times New Roman";
+            background-image: url('/static/images/back3.jpg');
+            /* Set the image to back4 */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            transition: background-image 1s ease-in-out;
+        }
+
+
+        /* Header styling */
+        .header {
+            background-color: #07943f;
+            /* Dark Green */
+            color: white;
+            text-align: center;
+            padding: 10px 10px;
+            /* Adjust the padding */
+            font-size: 18px;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 999;
+            /* Keeps the header above other elements */
+        }
+
+        /* Heading (h4) styling within the header */
+        .header h4 {
+            font-weight: bold;
+            font-size: 40px;
+            /* Adjust the font size for cleaner look */
+            margin: 0;
+        }
+
+        .footer {
+            background-color: #07943f;
+            /* dark green */
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 18px;
+            position: relative;
+            /* Change from fixed to relative */
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        .footer h5 {
+            font-weight: bold;
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+            /* More depth */
+            background-color: rgba(255, 255, 255, 0.85);
+            /* Semi-transparent white */
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            /* subtle lift on hover */
+        }
+
+        .card-img-top {
+            padding: 0;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            height: 300px;
+            /* set a height for consistency */
+            width: 100%;
+        }
+
+        .card-title {
+            color: #1b5e20;
+            /* Dark green for farm theme */
+            font-weight: bold;
+            font-size: 22px;
+            text-align: center;
+            margin-bottom: 15px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            /* Slight shadow for clarity */
+        }
+
+        .hidden-section {
+            display: none;
+        }
+
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .content {
+            background-color: transparent;
+            flex: 1;
+            padding: 50px;
+            padding-top: 100px;
+            /* Add this line */
+        }
+
+        #priceChart {
+            width: 100%;
+            height: 300px;
+        }
+
+        footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+
+        .select-wrapper input.select-dropdown {
+            border: 1px solid #00796b;
+            border-radius: 8px;
+        }
+
+        @media screen and (max-width: 768px) {
+            .row {
+                margin: 0 !important;
+            }
+        }
+
+        #result-section {
+            margin-bottom: 100px;
+            /* Prevents being cut off by fixed footer */
+        }
+
+        .col-12.text-center.mt-3 {
+            position: relative;
+            z-index: 1050;
+            /* Make sure it's above other elements */
+        }
+
+        .btn {
+            margin-top: 10px;
+        }
+
+        .footer .form-floating {
+            background-color: rgba(255, 255, 255, 0.85);
+            /* Semi-transparent white for form fields */
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .footer button {
+            border-radius: 8px;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+
+        /* Reset Bootstrap select style completely */
+        .form-select {
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+
+            background: rgba(255, 255, 255, 0.15);
+            border: none;
+            border-radius: 15px;
+            padding: 14px 20px;
+            font-size: 1.05rem;
+            font-weight: 500;
+            color: #ffffff;
+            backdrop-filter: blur(12px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+            width: 100%;
+            position: relative;
+        }
+
+        /* Dropdown arrow customization */
+        .form-select::after {
+            content: "▼";
+            color: #fff;
+            position: absolute;
+            right: 20px;
+            pointer-events: none;
+        }
+
+        /* On hover or focus */
+        .form-select:hover,
+        .form-select:focus {
+            background: rgba(255, 255, 255, 0.25);
+            box-shadow: 0 0 10px #00ffb3;
+            outline: none;
+        }
+
+        /* Option styling */
+        .form-select option {
+            background: #1f1f1f;
+            color: #ffffff;
+            padding: 10px;
+        }
+
+        /* Disabled select styling */
+        .form-select:disabled {
+            background: rgba(255, 255, 255, 0.1);
+            color: #cccccc;
+            cursor: not-allowed;
+        }
+
+        #crop-conditions {
+            min-height: 250px;
+            /* Ensure minimum height for the weather card */
+            height: auto;
+            /* Allow auto resizing based on content */
+        }
+
+        #crop-conditions .card-body {
+            padding: 15px;
+            /* Add some padding to make content more readable */
+            height: 100%;
+            /* Make the body fill the card */
+            overflow-y: auto;
+            /* Allow scrolling if the content overflows */
+        }
+
+        /* General table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            /* Makes table borders look seamless */
+            table-layout: fixed;
+            /* Ensures columns have equal width */
+            margin-top: 20px;
+        }
+
+        td,
+        th {
+            padding: 15px;
+            /* Adds padding to cells */
+            text-align: center;
+            /* Centers text in both the date and price columns */
+            vertical-align: middle;
+            /* Vertically centers text */
+            font-size: 18px;
+            /* Increases font size */
+        }
+
+        /* Styling for the price cells */
+        .price-cell {
+            font-weight: bold;
+            /* Makes price bold */
+            color: #4caf50;
+            /* Changes the price color to green */
+        }
+
+        /* Additional styling for the table rows */
+        tr {
+            height: 60px;
+            /* Increases the row height */
+        }
+
+        /* Optional: Zebra striping for better readability */
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        /* Optional: Adds a border for the table */
+        table,
+        th,
+        td {
+            border: 1px solid #ddd;
+            /* Light gray border for the table */
+        }
+
+        .btn {
+            display: inline-block;
+            /* Ensure the buttons are displayed inline */
+            margin-top: 10px;
+            /* Add some space between the buttons */
+        }
+
+        .priceChart {
+            width: 100% !important;
+            height: 400px !important;
+            /* Adjust as needed */
+        }
+
+        .suggestion-card {
+            background: rgba(0, 0, 0, 0.5);
+            /* semi-transparent black */
+            color: #fff;
+            padding: 16px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            backdrop-filter: blur(8px);
+            /* adds glassy effect */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Suggestion row layout */
+        .suggestion-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        /* Column widths */
+        .suggestion-region {
+            flex: 1;
+            font-weight: 500;
+        }
+
+        .suggestion-value {
+            flex: 0.5;
+            text-align: right;
+            font-weight: 500;
+        }
+
+        #suggestions-section h5 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #fff;
+            background: rgba(0, 0, 0, 0.4);
+            padding: 12px 20px;
+            border-radius: 10px;
+            backdrop-filter: blur(6px);
+            -webkit-backdrop-filter: blur(6px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        #selectedCropName {
+            color: #ffdd57;
+            /* or keep Bootstrap primary */
+            font-weight: 700;
+        }
+
+        .weather-wrapper {
+            text-align: center;
+            /* Center child block */
+        }
+
+        .weather-list {
+            list-style-type: disc;
+            margin: 0 auto;
+            padding: 0;
+            display: inline-block;
+            /* Shrink-wrap width to content */
+            text-align: left;
+            /* Keep bullets/text left-aligned inside */
+            color: #000000;
+            font-weight: 500;
+            font-size: 16px;
+        }
+
+        .weather-list li {
+            padding: 8px 12px;
+            border-bottom: 1px solid #ccc;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="header gradient-background">
+        <h4>CropFusion</h4>
+    </div>
+
+    <!-- Main Container -->
+    <div class="content">
+        <div class="row">
+            <!-- Select Crop Dropdown -->
+            <div class="col-6 mb-3">
+                <select class="form-select" id="crop-select" onchange="checkSelections()">
+                    <option value="" disabled selected>Select Crop</option>
+                    <option value="Coriander">Coriander 🌿</option>
+                    <option value="Gur(Jaggery)">Gur (Jaggery) 🍯</option>
+                    <option value="GreenPeas">Green Peas 🫛</option>
+                    <option value="Jowar">Jowar 🍘</option>
+                    <option value="Maize">Maize 🌽</option>
+                    <option value="Masur">Masur 🟠</option>
+                    <option value="Onion">Onion 🧅</option>
+                    <option value="Orange">Orange 🍊</option>
+                    <option value="Potato">Potato 🥔</option>
+                    <option value="Ragi">Ragi 🟤</option>
+                    <option value="Rice">Rice 🍚</option>
+                    <option value="Sugar">Sugar ⬜</option>
+                    <option value="Tomato">Tomato 🍅</option>
+                    <option value="Turmeric">Turmeric 🟡</option>
+                    <option value="Wheat">Wheat 🌾</option>
+                </select>
+            </div>
+
+            <!-- Select Zone Dropdown -->
+            <div class="col-6 mb-3">
+                <select class="form-select" id="zone-select" onchange="populateCenters()">
+                    <option value="" disabled selected>Select Zone</option>
+                    <option value="North">North</option>
+                    <option value="South">South</option>
+                    <option value="East">East</option>
+                    <option value="West">West</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Select Center Dropdown (dependent on Zone selection) -->
+            <div class="col-12 mb-3">
+                <select class="form-select" id="center-select" disabled onchange="checkSelections()">
+                    <option value="" disabled selected>Select Center</option>
+                    <!-- Center options will be populated based on Zone selection -->
+                </select>
+            </div>
+        </div>
+    </div>
+    <!-- Hidden Section: Date List, Prediction List, and Image -->
+    <div class="hidden-section" id="result-section">
+        <div class="row">
+            <!-- 1st Row: Prediction Table and Image + Weather Cards -->
+
+            <!-- 1st Column: Prediction Table -->
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Predicted Prices Table</h5>
+                        <table class="table table-striped table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Price (Rs./Quintal)</th>
+                                </tr>
+                            </thead>
+                            <tbody id="prediction-table-body">
+                                <!-- Table rows will be injected here -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2nd Column: Image and Weather Card -->
+            <div class="col-md-6 mb-4">
+                <!-- Image Card -->
+                <div class="card mb-4" style="width: 50%; margin-left: auto; margin-right: auto;">
+                    <img id="cropImage" src="https://via.placeholder.com/300x200" alt="Selected Crop Image"
+                        class="card-img-top" style="object-fit: cover; width: 100%; height: 300px;" />
+                </div>
+
+                <!-- Weather Card -->
+                <div class="card mb-4" id="crop-conditions">
+                    <div class="card-content" style="height: 150px; overflow-y: auto;">
+                        <span class="card-title small-title"></span>
+                        <div id="weather-content">
+                            <!-- Weather & Soil conditions will be dynamically inserted here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2nd Row: Graph and Buttons -->
+        <div class="row">
+            <!-- Centered Graph taking 8 columns -->
+            <div class="col-md-8 mb-4 mx-auto">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Predicted Prices</h5>
+                        <canvas id="priceChart" class="priceChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- 2nd Column: Suggestions Section + Report Buttons -->
+        <!-- 3rd Row: Suggestions Section with Two Cards -->
+        <div class="row">
+            <div class="col-12">
+                <!-- Section Header -->
+                <section id="suggestions-section" class="d-none mt-4">
+                    <h5 class="mb-3">
+                        Top 10 Regions for <span id="selectedCropName" class="text-primary fw-semibold">...</span>
+                    </h5>
+                    <div class="row" id="suggestions-list">
+                        <!-- Left Column Suggestion Card -->
+                        <div class="col-md-6 mb-4">
+                            <div class="suggestion-card" id="suggestion-card-1">
+                                <!-- Table Header -->
+                                <div class="suggestion-row fw-semibold" style="border-bottom: 2px solid #ccc;">
+                                    <div class="suggestion-region">Region</div>
+                                    <div class="suggestion-value">Predicted Price</div>
+                                </div>
+                                <!-- Suggestions 1-5 will be injected here as rows -->
+                            </div>
+                        </div>
+                        <!-- Right Column Suggestion Card -->
+                        <div class="col-md-6 mb-4">
+                            <div class="suggestion-card" id="suggestion-card-2">
+                                <!-- Table Header -->
+                                <div class="suggestion-row fw-semibold" style="border-bottom: 2px solid #ccc;">
+                                    <div class="suggestion-region">Region</div>
+                                    <div class="suggestion-value">Predicted Price</div>
+                                </div>
+                                <!-- Suggestions 6-10 will be injected here as rows -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        <!-- Report Buttons -->
+        <div class="text-center mt-3">
+            <button class="btn btn-success btn-lg" onclick="sendReport()">Send PDF Report</button>
+            <button class="btn btn-primary ml-2 btn-lg" onclick="downloadReport()">Download PDF Report</button>
+        </div>
+    </div>
+    </div>
+    </div>
+
+
+
+    <!-- Footer -->
+    <footer class="footer py-3 mt-5 gradient-background">
+        <div class="container text-center">
+            <h6>Contact Us</h6>
+            <p class="mb-0">team.cropfusion@gmail.com</p>
+        </div>
+
+        <div class="container px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+                <div class="col-md-10 col-lg-8 col-xl-7">
+                    <p class="text-white">
+                        Want to get in touch? Fill out the form below to send me a message and
+                        we will get back to you as soon as possible!
+                    </p>
+                    <div class="my-5">
+                        <!-- Contact Form -->
+                        <form id="contactForm" name="sentMessage" action="{{ url_for('send_message') }}" method="post">
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="name" name="name" type="text"
+                                    placeholder="Enter your name..." required />
+                                <label for="name">Name</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="email" name="email" type="email"
+                                    placeholder="Enter your email..." required />
+                                <label for="email">Email address</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="phone" name="phone" type="tel"
+                                    placeholder="Enter your phone number..." required />
+                                <label for="phone">Phone Number</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <textarea class="form-control" id="message" name="message"
+                                    placeholder="Enter your message here..." required style="height: 12rem"></textarea>
+                                <label for="message">Message</label>
+                            </div>
+                            <button class="btn btn-primary text-uppercase" id="submitButton" type="submit">
+                                Send
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script>
+        document.getElementById("contactForm").addEventListener("submit", function (e) {
+            e.preventDefault(); // Stop the form from submitting normally
+
+            const form = this;
+            const formData = new FormData(form);
+
+            fetch("/send_message", {
+                method: "POST",
+                body: formData
+            })
+                .then(response => response.text())
+                .then(data => {
+                    alert(data); // Show popup alert with success/error message
+                    if (data.includes("Email sent successfully")) {
+                        form.reset(); // Clear all form fields
+                    }
+                })
+                .catch(error => {
+                    alert("Something went wrong: " + error);
+                });
+        });
+
+
+        async function sendReport() {
+            const crop = document.getElementById("crop-select").value;
+            const centerRaw = document.getElementById("center-select").value;
+            const center = centerRaw.replace(/[^\w\s]/gi, '').trim(); // ✅ Removes emojis, symbols, extra spaces
+
+            if (!crop || !center) {
+                alert("Please select both a crop and a center.");
+                return;
+            }
+
+            try {
+                const res = await fetch('/send_report', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ crop, center })
+                });
+
+                const result = await res.json();
+                alert(result.message);
+            } catch (err) {
+                alert("Failed to send report.");
+                console.error(err);
+            }
+        }
+
+        async function downloadReport() {
+            const crop = document.getElementById("crop-select").value;
+            const centerRaw = document.getElementById("center-select").value;
+            const center = centerRaw.replace(/[^\w\s]/gi, '').trim();
+
+            const canvas = document.getElementById("priceChart");
+            const graphImage = canvas.toDataURL("image/png"); // Convert chart to base64 image
+
+            if (!crop || !center) {
+                alert("Please select both a crop and a center.");
+                return;
+            }
+
+            try {
+                const res = await fetch('/download_report', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ crop, center, graphImage }) // ✅ Include graph
+                });
+
+                if (!res.ok) throw new Error("Failed to download PDF");
+
+                const blob = await res.blob();
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = `${crop}_${center}_report.pdf`;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            } catch (err) {
+                alert("Download failed.");
+                console.error(err);
+            }
+        }
+    </script>
+
+    <script>
+
+        let chartInstance = null; // Global variable to hold the Chart.js instance
+
+        async function fetchPredictions() {
+            const crop = document.getElementById("crop-select").value;
+            const centerRaw = document.getElementById("center-select").value;
+            const center = centerRaw.replace(/[^\w\s]/gi, '').trim();
+
+            // Set the start and end dates for the range you want to predict (July 2025 to December 2025)
+            const startDate = "2025-07-01";
+            const endDate = "2025-12-31";
+
+            if (!crop || !center) {
+                console.error("Both crop and center must be selected.");
+                return;
+            }
+
+            try {
+                const response = await fetch(`/predict?crop=${encodeURIComponent(crop)}&center=${encodeURIComponent(center)}&start_date=${encodeURIComponent(startDate)}&end_date=${encodeURIComponent(endDate)}`);
+                const data = await response.json();
+
+                if (data.error) {
+                    console.error("Error:", data.error);
+                    return;
+                }
+
+                // ✅ Inject table rows now that data is fetched
+                const tableBody = document.getElementById("prediction-table-body");
+                tableBody.innerHTML = ""; // Clear previous data
+
+                data.dates.forEach((date, index) => {
+                    const row = document.createElement("tr");
+
+                    const dateCell = document.createElement("td");
+                    dateCell.textContent = date;
+
+                    const priceCell = document.createElement("td");
+                    const price = Math.max(0, data.prices[index]);
+                    priceCell.textContent = `Rs. ${price}`;
+                    priceCell.classList.add("price-cell");
+
+                    row.appendChild(dateCell);
+                    row.appendChild(priceCell);
+                    tableBody.appendChild(row);
+                });
+
+                // ✅ Reveal hidden result section
+                document.getElementById("result-section").classList.remove("hidden-section");
+
+                // ✅ Call graph rendering AFTER the section is visible
+                setTimeout(() => {
+                    renderGraph(data.dates, data.prices);
+                }, 100);
+
+                // OPTIONAL: If you're still using old lists
+                const monthList = document.getElementById("month-list");
+                const predictionList = document.getElementById("prediction-list");
+                monthList.innerHTML = "";
+                predictionList.innerHTML = "";
+
+                data.dates.forEach((date, index) => {
+                    const monthItem = document.createElement("li");
+                    monthItem.textContent = date;
+                    monthList.appendChild(monthItem);
+
+                    const predictionItem = document.createElement("li");
+                    predictionItem.textContent = `Price: Rs. ${data.prices[index]}`;
+                    predictionList.appendChild(predictionItem);
+                });
+
+                // ✅ Show graph & hidden section
+                document.getElementById("result-section").classList.remove("hidden-section");
+                renderGraph(data.dates, data.prices);
+
+            } catch (error) {
+                console.error("Error fetching predictions:", error);
+            }
+        }
+
+        function renderGraph(labels, data) {
+            console.log("renderGraph called with:", labels, data);
+            const ctx = document.getElementById('priceChart').getContext('2d');
+
+            if (chartInstance) {
+                chartInstance.destroy();
+            }
+
+            chartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Predicted Prices (Rs./Quintal)',
+                        data: data,
+                        backgroundColor: 'rgba(104, 159, 56, 0.2)',
+                        borderColor: '#2e7d32',
+                        borderWidth: 3,
+                        pointBackgroundColor: '#1b5e20',
+                        pointBorderColor: '#fff',
+                        pointRadius: 5,
+                        pointHoverRadius: 8,
+                        tension: 0.4 // smooth curves
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true, // Keep aspect ratio for better control
+                    animation: {
+                        duration: 1500,
+                        easing: 'easeOutBounce' // 🎯 Makes the chart "bounce" in!
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: '#2e7d32',
+                                font: {
+                                    size: 16,
+                                    weight: 'bold'
+                                }
+                            }
+                        },
+                        title: {
+                            display: true,
+                            text: 'Crop Price Forecast',
+                            font: {
+                                size: 20,
+                                weight: 'bold'
+                            },
+                            color: '#1b5e20'
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: {
+                                color: '#2e7d32'
+                            },
+                            title: {
+                                display: true,
+                                text: 'Month',
+                                color: '#2e7d32',
+                                font: {
+                                    size: 14
+                                }
+                            },
+                            grid: {
+                                display: false
+                            }
+                        },
+                        y: {
+                            ticks: {
+                                color: '#2e7d32'
+                            },
+                            title: {
+                                display: true,
+                                text: 'Price (Rs./Quintal)',
+                                color: '#2e7d32',
+                                font: {
+                                    size: 14
+                                }
+                            },
+                            grid: {
+                                color: 'rgba(46, 125, 50, 0.1)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+
+
+        // Function to populate centers based on selected zone
+        function populateCenters() {
+            const centerSelect = document.getElementById("center-select");
+            const zone = document.getElementById("zone-select").value;
+
+            // Clear previous options
+            centerSelect.innerHTML = '<option value="" disabled selected>Select Center</option>';
+
+            // Populate based on zone selection
+            let centers = [];
+            if (zone === "North") {
+                centers = [
+                    "Agra 🌾 | 🍚 | 🍅 | 🍯 | 🥔 | 🧅",
+                    "Ajmer 🍘 | 🍊 | 🥔",
+                    "Aligarh 🍚 | 🌽 | 🍯 | 🫛 | 🧅",
+                    "Alwar 🌾 | 🍅 | 🌿 | 🍊 | 🧅",
+                    "Ambala 🌽 | 🌿 | 🍊 | 🌾 | 🍅 | 🫛 | 🥔 | 🧅",
+                    "Ambedkarnagar 🟠 | 🍚 | 🫛",
+                    "Amethi 🟡",
+                    "Amritsar 🌽 | 🍅 | 🍊 | 🥔 | 🧅",
+                    "Amroha 🍯",
+                    "Auraiya 🍚 | 🌽 | 🍅 | 🍯 | 🥔",
+                    "Ayodhya ⬜ | 🧅",
+                    "Baghpat ⬜ | 🟠",
+                    "Bahraich 🟠 | 🌽 | 🍯",
+                    "Balhtra 🥔",
+                    "Banda 🍯",
+                    "Baran 🌾 | 🌽",
+                    "Bareilly 🍅",
+                    "Barnala 🌽 | 🌿 | 🍊 | 🥔 | 🧅",
+                    "Basti 🟠",
+                    "Bhatinda 🥔 | 🧅",
+                    "Bhilwara 🧅",
+                    "Bhiwani 🌽 | 🫛 | 🍊 | 🥔 ",
+                    "Bijnor 🍚 | 🧅",
+                    "Bikaner 🌿 | 🫛",
+                    "Chandauli 🍚",
+                    "Churu 🧅",
+                    "Dausa 🌾",
+                    "Etah 🌽",
+                    "Faridabad 🥔",
+                    "Fatehabad 🌽",
+                    "Fatehgarh 🌾 | 🌽 | 🌿 | 🥔",
+                    "Fatehpur 🍚",
+                    "Fazilka 🌿 | 🍊 | 🥔",
+                    "Ganganagar 🫛",
+                    "GautamBudhNagar ⬜ | 🟠",
+                    "Ghaziabad ⬜",
+                    "Ghaziabad 🟠",
+                    "Gonda 🟠 | 🟡",
+                    "Gurdaspur 🫛 | 🥔",
+                    "Hamirpur 🍘 | 🍚",
+                    "Hanumangarh 🥔 | 🧅",
+                    "Hathras 🟠",
+                    "Hissar 🌾 | 🍊 | 🥔",
+                    "Hoshiapur 🌽",
+                    "Jaipur⬜ | 🍯 | 🫛",
+                    "Jalaun 🌾 | 🫛",
+                    "Jhajar 🥔",
+                    "Jodhpur 🍘 | 🫛",
+                    "Kannuj 🌽",
+                    "Kanpur 🍘",
+                    "Kapurthala 🌾",
+                    "Kekri 🍘 | 🌽",
+                    "Kota 🌽 | 🫛",
+                    "Kurukshetra 🌽 | 🍅 | 🌿",
+                    "Lakimpur ⬜",
+                    "Lucknow 🍚 | 🌾",
+                    "Ludhiana 🌽 | 🧅",
+                    "Maharajganj 🍯 | 🍊",
+                    "Mansa 🫛",
+                    "Masur 🟠",
+                    "Mirzapur 🌾 | 🍚 | 🍯",
+                    "Moga 🍅 | 🥔",
+                    "Mohali 🥔 | 🧅",
+                    "Muktsar 🌾",
+                    "Muktsar 🥔",
+                    "Muzzaffarnagar ⬜",
+                    "Nawanshahr 🌾",
+                    "Nawanshahr 🌽 | 🥔",
+                    "Panchkula 🥔",
+                    "Patiala 🌾",
+                    "Prayagraj 🍚 | 🧅",
+                    "Rampur 🫛",
+                    "Rupnagar 🫛",
+                    "Saharanpur 🌿",
+                    "Sangrur 🌾 | 🌽 | 🌿 | 🫛",
+                    "Shamil ⬜",
+                    "Sirohi 🍅",
+                    "Sirsa 🫛",
+                    "Sitapur ⬜",
+                    "Sonipat 🌿",
+                    "Tonk 🍘",
+                    "Udaipur ⬜ | 🌽 | 🍯 | 🧅",
+                    "YamunaNagar 🌾 | 🌽"
+                ];
+
+            } else if (zone === "South") {
+                centers = ['Adilabad 🍘 | 🟡',
+                    'Anantapur 🌽',
+                    'Bagalkot 🌽',
+                    'Bangalore 🍘 | 🟤 | 🍚 | 🌽 | 🍅 | 🍯 | 🫛 | 🍊 | 🟡 | 🥔 | 🧅',
+                    'Belgaum 🍘 | 🍯 | 🥔',
+                    'Bellary 🍘',
+                    'Bidar 🍘 | 🌾 | 🍚',
+                    'Bijapur 🌾',
+                    'Chamrajnagar 🟤 | 🌾 | 🍯 | 🟡',
+                    'Chengalpattu 🍊',
+                    'Chikmagalur 🌾 | 🍅 | 🥔 | 🧅',
+                    'Chittor 🍅 | 🍯 | 🥔',
+                    'Chitradurga 🟤 | 🌽 | 🍯',
+                    'Coimbatore 🍘',
+                    'Cuddalore 🟤',
+                    'Cuddapash 🟡',
+                    'Davangere 🟤 | 🌾 | 🍚 | 🌽 | 🥔',
+                    'Dharmapuri 🌽 | 🍅 | 🌿 | 🫛 | 🥔 ',
+                    'Dharwad 🥔 | 🧅',
+                    'Erode 🍯',
+                    'Gadag 🌾 | 🌿',
+                    'Guntur 🟡',
+                    'Hassan 🟤 | 🌾 | 🍚 | 🍅 | 🥔 | 🧅',
+                    'Hyderabad 🟡 | 🥔 | 🧅',
+                    'Idukki 🍊',
+                    'Kalburgi 🍚 | 🍯 | 🥔',
+                    'Karimnagar 🌽 | 🟡',
+                    'Kolar 🟤 | 🍚 | 🌽 | 🍅 | 🌿 | 🍯 | 🥔 | 🧅',
+                    'Koppal 🍚',
+                    'Krishnagiri 🌽 | 🫛 | 🍊',
+                    'Kurnool 🍘 | 🌽 | 🍅 | 🧅',
+                    'Madurai 🌽 | 🍅 | 🫛 | 🍊 | 🥔 | 🧅',
+                    'Mahbubnagar 🍘 | 🟤 | 🌽 | 🍯 | 🥔',
+                    'Malappuram 🌿 | 🍊',
+                    'Mandya 🟤 | 🍯',
+                    'Medak 🍘 | 🌾 | 🧅',
+                    'Mysore 🟤 | 🌾 | 🍚 | 🫛 | 🥔',
+                    'Namakkal 🟤',
+                    'Nizamabad 🌽 | 🟡',
+                    'Pudukkottai 🍅 | 🌿',
+                    'Ranipet 🫛 | 🥔',
+                    'Salem 🟤 | 🌽 | 🌿 | 🍊 | 🥔 | 🧅',
+                    'Shimoga 🍘 | 🌾 | 🍚 | 🍯 | 🫛 | 🥔',
+                    'Theni 🥔',
+                    'Thiruchirappalli 🍅',
+                    'Thirssur 🌿',
+                    'Thirunelveli 🌿',
+                    'Thiruvananthpuram 🌿 | 🍊',
+                    'Thiruvannamalai 🌽 | 🥔',
+                    'Thiruvellore 🥔 | 🧅',
+                    'Tumkur 🟤 | 🌾 | 🍚 | 🌿',
+                    'Villupuram 🟤',
+                    'Visakhapatnam 🍯',
+                    'Warangal 🌽 | 🟡 | 🥔 | 🧅']
+
+            } else if (zone === "East") {
+                centers = ['Alipurduar 🍅 | 🥔',
+                    'Alipurduar 🍚 | 🧅',
+                    'Banka 🧅',
+                    'Bankura 🟠 | 🌾 | 🍚 | 🧅',
+                    'Bargarh 🍅 | 🥔',
+                    'Bhojpur 🥔 | 🧅',
+                    'Birbhum 🌾',
+                    'Bolangir 🍚',
+                    'Coochbehar 🧅',
+                    'DakshinDinajpur 🍅',
+                    'Darjeeling 🟠 | 🍊',
+                    'Gajapati 🌽',
+                    'Howrah 🍚 | 🟠',
+                    'Jalpaiguri 🧅',
+                    'Jharsuguda 🍚',
+                    'Kalahandi 🍯',
+                    'Keonjhar 🍅',
+                    'Khurda 🍅 | 🥔',
+                    'Kishanganj 🥔',
+                    'Kolkata 🍅 | 🍊',
+                    'Koraput 🌽 | 🌿',
+                    'Mayurbhanja 🍚 | 🧅',
+                    'Medinipur 🟠',
+                    'Muzaffarpur 🌾 | 🥔',
+                    'Murshidabad 🍚 | 🟡',
+                    'Nadia 🟠 | 🍚 | 🧅',
+                    'Nowarangpur 🌽 | 🍯',
+                    'PaschimBardhaman 🌾 | 🍚 | 🍅 | 🥔',
+                    'Patna 🧅',
+                    'PurbaBardhaman 🍯',
+                    'Puruliya 🟠 | 🍚 | 🍯 | 🧅',
+                    'Samastipur 🌾',
+                    'Sheikhpura 🌾',
+                    'Sonepur 🥔 | 🧅',
+                    'Sundergarh 🍚 | 🧅',
+                    'Tripura 🍅']
+
+            } else if (zone === "West") {
+                centers = ['Ahmedabad 🧅 | 🌾 | 🍅 | 🍊',
+                    'Ahmednagar 🍚 | 🍅 | 🌿 | 🍯 | 🍊 | 🥔 | 🧅',
+                    'Akola 🍘 | 🌽 | 🥔 | 🧅',
+                    'Amarawati 🍘 | 🌾 | 🌽 | 🍊 | 🥔',
+                    'Amreli 🍘 | 🌾',
+                    'Anand 🍅 | 🧅',
+                    'Ashoknagar 🌿',
+                    'Badwani 🌽',
+                    'Balodabazar 🟠',
+                    'Balodabazar 🫛',
+                    'Banaskanth 🍘 | 🌾 | 🍊',
+                    'Bemetara 🌾',
+                    'Bhandara 🍚',
+                    'Bhandra 🫛',
+                    'Bharuch 🍘 | 🍚 | 🌽 | 🍅',
+                    'Bhind 🍘 | 🌾',
+                    'Bhopal 🧅',
+                    'Bilaspur 🍊 | 🥔 | 🧅',
+                    'Botad 🍘',
+                    'Buldhana 🌽',
+                    'Burhanpur 🍘',
+                    'ChattrapatiSambhajinagar 🫛 | 🍊',
+                    'Chhindwara 🌽 | 🍯',
+                    'Dahod 🍚 | 🌽 | 🫛 | 🧅',
+                    'Dantewada 🫛',
+                    'Dewas 🌽',
+                    'Durg 🍅 | 🍊 | 🥔 | 🧅',
+                    'Gariyaband 🌽',
+                    'Guna 🌿',
+                    'Hingoli 🟡',
+                    'Indore 🍘 | 🍅 | 🟡 | 🥔',
+                    'Jalana 🍯',
+                    'Jalgoan 🌿 | 🥔 | 🧅',
+                    'Kachchh 🧅',
+                    'Kondagaon 🌽',
+                    'Koria 🌾 | 🌽',
+                    'Latur 🍘 | 🌾 | 🌽',
+                    'Mumbai ⬜ | 🟠 | 🍅 | 🍯 | 🫛 | 🟡',
+                    'Nagpur 🍚 | 🫛',
+                    'Nanded 🟡',
+                    'Narsinghpur 🍯',
+                    'Nashik 🧅',
+                    'Panchmahals 🌽',
+                    'Panna 🌾',
+                    'Parbhani 🟡',
+                    'Porbandar 🍊',
+                    'Pune 🟤 | 🌾 | 🍚 | 🍯 | 🫛',
+                    'Raigad 🍚',
+                    'Raigarh 🌾 | 🌽 | 🍅 | 🥔 | 🧅',
+                    'Rajnandgaon 🟠 | 🍅 | 🍊 | 🥔 | 🧅',
+                    'Rajkot 🌽',
+                    'Ratlam 🌾',
+                    'Sabarkantha 🌽',
+                    'Sagar 🌽 | 🍅 | 🥔 | 🧅',
+                    'Sangli 🍯 | 🟡',
+                    'Shajapur 🌾 | 🌿 | 🍊',
+                    'Shivpuri 🌽',
+                    ' Sholapur 🌾 | 🍚 | 🌿 | 🍯 | 🥔',
+                    'Surguja 🌾',
+                    'Thane 🍚',
+                    'Ujjain 🧅',
+                    'Vadodara 🍚',
+                    'Vashin 🟡',
+                    'Yavatmal 🟡']
+
+            }
+
+            // Add the centers to the dropdown
+            centers.forEach(centerName => {
+                const option = document.createElement("option");
+                option.text = centerName;
+                centerSelect.appendChild(option);
+            });
+
+            // Enable and reinitialize the select element
+            centerSelect.disabled = false;
+
+        }
+        async function fetchCropConditions(crop, zone) {
+            try {
+                console.log("Fetching crop conditions...");
+                const response = await fetch(`/crop_conditions?crop=${encodeURIComponent(crop)}&zone=${encodeURIComponent(zone)}`);
+
+                if (!response.ok) {
+                    const errorData = await response.text();
+                    console.error("Error fetching crop conditions:", errorData);
+                    return;
+                }
+
+                const data = await response.json();
+                console.log("Fetched crop conditions:", data); // Log the fetched data
+
+                const cropConditionsDiv = document.getElementById("crop-conditions");
+                const weatherContentDiv = document.getElementById("weather-content");
+
+                // Clear previous data
+                weatherContentDiv.innerHTML = "";
+
+                if (data.error) {
+                    weatherContentDiv.innerHTML = `<p class="error">${data.error}</p>`;
+                    return;
+                }
+                weatherContentDiv.innerHTML = `
+    <h5 class="card-title text-success text-center">
+        Suitable conditions for ${crop.charAt(0).toUpperCase() + crop.slice(1)}
+    </h5>
+    <div class="weather-wrapper">
+        <ul class="weather-list">
+            <li><strong>Temperature Range:</strong> ${data.temperature}</li>
+            <li><strong>Rainfall:</strong> ${data.rainfall}</li>
+            <li><strong>Soil Type:</strong> ${data.soil}</li>
+        </ul>
+    </div>
+`;
+
+
+                cropConditionsDiv.classList.remove("hidden-section"); // Show the conditions once fetched
+
+            } catch (error) {
+                console.error("Error fetching crop conditions:", error);
+            }
+        }
+
+
+        // Function to check if all selections are made
+        function checkSelections() {
+            const crop = document.getElementById("crop-select").value.trim().toLowerCase();  // Convert to lowercase
+            const zone = document.getElementById("zone-select").value.trim().toLowerCase();  // Convert to lowercase
+            const centerRaw = document.getElementById("center-select").value.trim();
+            const center = centerRaw.replace(/[^\w\s]/gi, '').trim(); // Remove special characters if any
+            const resultSection = document.getElementById("result-section");
+
+            if (crop && zone && center) {
+                resultSection.classList.remove("d-none");
+                displayCropImage(crop);
+                fetchPredictions();
+                fetchCropConditions(crop, zone);
+                loadCropSuggestions(crop, center, zone);
+            } else {
+                resultSection.classList.add("d-none");
+                document.getElementById("suggestions-section").classList.add("d-none");
+            }
+        }
+
+        function displayCropImage(cropName) {
+            const formattedCropName = cropName + ".jpg";
+            const imagePath = "/static/images/" + formattedCropName;
+
+            const imgElement = document.getElementById("cropImage");
+            imgElement.src = imagePath;
+            imgElement.alt = cropName;
+        }
+
+        function scrollToSuggestions() {
+            const section = document.getElementById("suggestions-section");
+            section.classList.remove("d-none");
+            section.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        async function loadCropSuggestions(crop, selectedRegion, zone) {
+            try {
+                // Ensure parameters are encoded properly and converted to lowercase
+                const response = await fetch(`/get_crop_suggestions?crop=${encodeURIComponent(crop)}&region=${encodeURIComponent(selectedRegion.toLowerCase())}&zone=${encodeURIComponent(zone.toLowerCase())}`);
+
+                if (!response.ok) {
+                    console.error("Error loading crop suggestions:", await response.text());
+                    return;
+                }
+
+                const data = await response.json();
+                const suggestionsSection = document.getElementById("suggestions-section");
+                document.getElementById("selectedCropName").textContent = crop;
+                const card1 = document.getElementById("suggestion-card-1");
+                const card2 = document.getElementById("suggestion-card-2");
+
+                // Clear previous suggestions
+                card1.innerHTML = `
+            <div class="suggestion-row fw-semibold" style="border-bottom: 2px solid #ccc;">
+                <div class="suggestion-region">Region</div>
+                <div class="suggestion-value">Predicted Price</div>
+            </div>`;
+                card2.innerHTML = `
+            <div class="suggestion-row fw-semibold" style="border-bottom: 2px solid #ccc;">
+                <div class="suggestion-region">Region</div>
+                <div class="suggestion-value">Predicted Price</div>
+            </div>`;
+
+                if (data.length > 0) {
+                    data.forEach((region, index) => {
+                        const suggestionDiv = document.createElement("div");
+                        suggestionDiv.classList.add("suggestion-row");
+
+                        suggestionDiv.innerHTML = `
+                    <div>
+                        <strong>Region:</strong> ${region.region.charAt(0).toUpperCase() + region.region.slice(1)}<br>
+                        <strong>Reason:</strong> ${region.reason}<br>
+                        <strong>Soil:</strong> ${region.soil}<br>
+                        <strong>Rainfall:</strong> ${region.rainfall}<br>
+                        <strong>Temperature:</strong> ${region.temperature}<br>
+                        <strong>Avg. Predicted Price:</strong> Rs. ${region.avg_predicted_price.toFixed(2)}
+                    </div>
+                `;
+
+                        const targetCard = index < 5 ? card1 : card2;
+                        targetCard.appendChild(suggestionDiv);
+                    });
+
+                    suggestionsSection.classList.remove("d-none");
+                } else {
+                    suggestionsSection.classList.add("d-none");
+                }
+            } catch (error) {
+                console.error("Error loading crop suggestions:", error);
+            }
+        }
+
+
+    </script>
+    </div>
+</body>
+
+</html>

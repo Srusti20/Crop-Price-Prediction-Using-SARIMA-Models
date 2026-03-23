@@ -1,0 +1,378 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Khurda,Aiginia Mandi,Tomato,1000,1500,1200,20-05-2024
+2,Khurda,Aiginia Mandi,Tomato,1000,1600,1200,21-05-2024
+3,Khurda,Aiginia Mandi,Tomato,1500,2000,1800,06-05-2024
+4,Khurda,Aiginia Mandi,Tomato,1600,2000,1800,04-05-2024
+5,Khurda,Aiginia Mandi,Tomato,1800,2500,2100,17-05-2024
+6,Khurda,Aiginia Mandi,Tomato,2000,2500,2200,15-05-2024
+7,Khurda,Aiginia Mandi,Tomato,2200,2700,2500,22-05-2024
+8,Khurda,Aiginia Mandi,Tomato,2300,2800,2500,10-05-2024
+9,Khurda,Aiginia Mandi,Tomato,2400,2800,2600,14-05-2024
+10,Khurda,Aiginia Mandi,Tomato,2500,3000,2700,05-05-2024
+11,Khurda,Aiginia Mandi,Tomato,2600,3000,2800,03-05-2024
+12,Khurda,Aiginia Mandi,Tomato,2600,3300,3000,07-05-2024
+13,Khurda,Aiginia Mandi,Tomato,2600,3300,3000,08-05-2024
+14,Khurda,Aiginia Mandi,Tomato,2800,3500,3000,23-05-2024
+15,Khurda,Aiginia Mandi,Tomato,2800,3500,3200,24-05-2024
+16,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,06-08-2024
+17,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,08-08-2024
+18,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,10-06-2024
+19,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,11-06-2024
+20,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,12-06-2024
+21,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,13-06-2024
+22,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,16-05-2024
+23,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,18-05-2024
+24,Khurda,Aiginia Mandi,Tomato,3000,4000,3500,28-05-2024
+25,Khurda,Aiginia Mandi,Tomato,3000,4200,3500,25-05-2024
+26,Khurda,Aiginia Mandi,Tomato,3000,4200,3500,26-05-2024
+27,Khurda,Aiginia Mandi,Tomato,3500,4500,4000,27-05-2024
+28,Khurda,Aiginia Mandi,Tomato,4000,4500,4200,11-08-2024
+29,Khurda,Aiginia Mandi,Tomato,4000,4500,4300,12-08-2024
+30,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,01-06-2024
+31,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,02-08-2024
+32,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,02-06-2024
+33,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,03-08-2024
+34,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,05-08-2024
+35,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,05-07-2024
+36,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,06-06-2024
+37,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,07-08-2024
+38,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,07-06-2024
+39,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,10-08-2024
+40,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,13-08-2024
+41,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,14-08-2024
+42,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,27-07-2024
+43,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,28-07-2024
+44,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,29-07-2024
+45,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,29-05-2024
+46,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,30-05-2024
+47,Khurda,Aiginia Mandi,Tomato,4000,5000,4500,31-05-2024
+48,Khurda,Aiginia Mandi,Tomato,4500,5500,5000,06-07-2024
+49,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,07-07-2024
+50,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,08-07-2024
+51,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,11-07-2024
+52,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,12-07-2024
+53,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,18-07-2024
+54,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,20-07-2024
+55,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,21-07-2024
+56,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,22-07-2024
+57,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,23-07-2024
+58,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,24-07-2024
+59,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,25-07-2024
+60,Khurda,Aiginia Mandi,Tomato,5000,6000,5500,26-07-2024
+61,Khurda,Aiginia Mandi,Tomato,5000,7000,6000,13-07-2024
+62,Khurda,Aiginia Mandi,Tomato,5000,7000,6000,19-06-2024
+63,Khurda,Aiginia Mandi,Tomato,5000,7000,6000,20-06-2024
+64,Khurda,Aiginia Mandi,Tomato,6000,7000,6500,16-07-2024
+65,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,14-07-2024
+66,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,15-07-2024
+67,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,19-07-2024
+68,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,23-06-2024
+69,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,24-06-2024
+70,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,28-06-2024
+71,Khurda,Aiginia Mandi,Tomato,6000,8000,7000,29-06-2024
+72,Khurda,Aiginia Mandi,Tomato,7000,8000,7500,02-07-2024
+73,Khurda,Aiginia Mandi,Tomato,7000,8000,7500,03-07-2024
+74,Khurda,Aiginia Mandi,Tomato,7000,8000,7500,21-06-2024
+75,Khurda,Aiginia Mandi,Tomato,7000,8000,7500,25-06-2024
+76,Khurda,Aiginia Mandi,Tomato,7000,8000,7500,27-06-2024
+77,Khurda,Aiginia Mandi,Tomato,7000,8000,7500,30-06-2024
+78,Khurda,Aiginia Mandi,Tomato,8000,9000,8500,01-08-2024
+79,Khurda,Aiginia Mandi,Tomato,8000,10000,9000,09-07-2024
+80,Khurda,Aiginia Mandi,Tomato,8000,10000,9000,10-07-2024
+81,Khurda,Aiginia Mandi,Tomato,8000,10000,9000,26-06-2024
+82,Khurda,Aiginia Mandi,Tomato,8000,10000,9000,30-07-2024
+83,Khurda,Aiginia Mandi,Tomato,8000,10000,9000,31-07-2024
+84,Khurda,Aiginia Mandi,Tomato,10000,11500,11000,04-07-2024
+85,Khurda,Balugaon,Tomato,800,1200,1000,18-03-2024
+86,Khurda,Balugaon,Tomato,1000,1200,1100,01-03-2024
+87,Khurda,Balugaon,Tomato,1000,1200,1100,02-03-2024
+88,Khurda,Balugaon,Tomato,1000,1200,1100,21-03-2024
+89,Khurda,Balugaon,Tomato,1000,1200,1100,22-03-2024
+90,Khurda,Balugaon,Tomato,1000,1200,1100,23-03-2024
+91,Khurda,Balugaon,Tomato,1000,1200,1100,28-02-2024
+92,Khurda,Balugaon,Tomato,1000,1300,1200,24-03-2024
+93,Khurda,Balugaon,Tomato,1000,1300,1200,28-03-2024
+94,Khurda,Balugaon,Tomato,1000,1300,1200,29-02-2024
+95,Khurda,Balugaon,Tomato,1000,1400,1200,04-03-2024
+96,Khurda,Balugaon,Tomato,1200,1400,1200,19-03-2024
+97,Khurda,Balugaon,Tomato,1200,1400,1300,11-03-2024
+98,Khurda,Balugaon,Tomato,1200,1400,1300,27-03-2024
+99,Khurda,Balugaon,Tomato,1200,1500,1400,08-03-2024
+100,Khurda,Balugaon,Tomato,1200,1500,1400,09-03-2024
+101,Khurda,Balugaon,Tomato,1200,1500,1400,10-03-2024
+102,Khurda,Balugaon,Tomato,1400,1500,1400,12-03-2024
+103,Khurda,Balugaon,Tomato,1400,1600,1500,13-03-2024
+104,Khurda,Balugaon,Tomato,1400,1600,1500,30-03-2024
+105,Khurda,Balugaon,Tomato,1500,1600,1550,21-02-2024
+106,Khurda,Balugaon,Tomato,1500,1650,1600,22-02-2024
+107,Khurda,Balugaon,Tomato,1500,1700,1600,16-03-2024
+108,Khurda,Balugaon,Tomato,1500,1700,1600,18-02-2024
+109,Khurda,Balugaon,Tomato,1500,1700,1600,19-02-2024
+110,Khurda,Balugaon,Tomato,1500,1800,1600,10-02-2024
+111,Khurda,Balugaon,Tomato,1500,1800,1600,11-02-2024
+112,Khurda,Balugaon,Tomato,1500,1800,1600,29-03-2024
+113,Khurda,Balugaon,Tomato,1600,1700,1650,17-02-2024
+114,Khurda,Balugaon,Tomato,1600,1800,1700,20-02-2024
+115,Khurda,Balugaon,Tomato,1600,1800,1700,25-02-2024
+116,Khurda,Balugaon,Tomato,1600,1800,1800,19-05-2024
+117,Khurda,Balugaon,Tomato,1600,1800,1800,24-02-2024
+118,Khurda,Balugaon,Tomato,1600,1850,1800,20-05-2024
+119,Khurda,Balugaon,Tomato,1600,1850,1800,26-02-2024
+120,Khurda,Balugaon,Tomato,1600,2000,1700,15-02-2024
+121,Khurda,Balugaon,Tomato,1600,2000,1800,12-02-2024
+122,Khurda,Balugaon,Tomato,1600,2000,1800,14-02-2024
+123,Khurda,Balugaon,Tomato,1600,2000,1800,16-02-2024
+124,Khurda,Balugaon,Tomato,1600,2000,1800,21-05-2024
+125,Khurda,Balugaon,Tomato,1600,2000,1800,23-02-2024
+126,Khurda,Balugaon,Tomato,1700,1800,1800,25-05-2024
+127,Khurda,Balugaon,Tomato,1700,2000,1800,17-05-2024
+128,Khurda,Balugaon,Tomato,1800,2000,1800,15-05-2024
+129,Khurda,Balugaon,Tomato,1800,2000,1800,20-01-2024
+130,Khurda,Balugaon,Tomato,1800,2000,2000,21-01-2024
+131,Khurda,Balugaon,Tomato,1800,2000,2000,24-12-2024
+132,Khurda,Balugaon,Tomato,1800,2100,2000,03-02-2024
+133,Khurda,Balugaon,Tomato,1800,2100,2000,09-02-2024
+134,Khurda,Balugaon,Tomato,1800,2100,2000,23-01-2024
+135,Khurda,Balugaon,Tomato,1800,2100,2000,31-05-2024
+136,Khurda,Balugaon,Tomato,1800,2200,2000,04-02-2024
+137,Khurda,Balugaon,Tomato,1800,2200,2000,08-02-2024
+138,Khurda,Balugaon,Tomato,1800,2200,2000,18-05-2024
+139,Khurda,Balugaon,Tomato,1800,2200,2000,24-01-2024
+140,Khurda,Balugaon,Tomato,1800,2200,2000,29-01-2024
+141,Khurda,Balugaon,Tomato,1800,2200,2000,30-01-2024
+142,Khurda,Balugaon,Tomato,1800,2400,2200,09-05-2024
+143,Khurda,Balugaon,Tomato,2000,2200,2100,01-05-2024
+144,Khurda,Balugaon,Tomato,2000,2200,2100,02-05-2024
+145,Khurda,Balugaon,Tomato,2000,2200,2100,06-02-2024
+146,Khurda,Balugaon,Tomato,2000,2200,2100,07-02-2024
+147,Khurda,Balugaon,Tomato,2000,2200,2100,07-05-2024
+148,Khurda,Balugaon,Tomato,2000,2200,2100,10-05-2024
+149,Khurda,Balugaon,Tomato,2000,2200,2100,23-12-2024
+150,Khurda,Balugaon,Tomato,2000,2200,2100,26-01-2024
+151,Khurda,Balugaon,Tomato,2000,2200,2100,27-12-2024
+152,Khurda,Balugaon,Tomato,2000,2200,2100,27-01-2024
+153,Khurda,Balugaon,Tomato,2000,2200,2200,11-05-2024
+154,Khurda,Balugaon,Tomato,2000,2200,2200,13-05-2024
+155,Khurda,Balugaon,Tomato,2000,2300,2200,05-02-2024
+156,Khurda,Balugaon,Tomato,2000,2300,2200,17-01-2024
+157,Khurda,Balugaon,Tomato,2000,2300,2200,21-04-2024
+158,Khurda,Balugaon,Tomato,2000,2300,2200,22-12-2024
+159,Khurda,Balugaon,Tomato,2000,2300,2200,25-01-2024
+160,Khurda,Balugaon,Tomato,2000,2300,2200,26-04-2024
+161,Khurda,Balugaon,Tomato,2000,2300,2200,26-12-2024
+162,Khurda,Balugaon,Tomato,2000,2400,2200,01-02-2024
+163,Khurda,Balugaon,Tomato,2000,2400,2200,02-02-2024
+164,Khurda,Balugaon,Tomato,2000,2400,2200,04-01-2024
+165,Khurda,Balugaon,Tomato,2000,2400,2200,04-05-2024
+166,Khurda,Balugaon,Tomato,2000,2400,2200,11-01-2024
+167,Khurda,Balugaon,Tomato,2000,2400,2200,12-01-2024
+168,Khurda,Balugaon,Tomato,2000,2400,2200,15-01-2024
+169,Khurda,Balugaon,Tomato,2000,2400,2200,19-01-2024
+170,Khurda,Balugaon,Tomato,2000,2400,2200,22-04-2024
+171,Khurda,Balugaon,Tomato,2000,2400,2200,25-12-2024
+172,Khurda,Balugaon,Tomato,2000,2400,2200,29-12-2024
+173,Khurda,Balugaon,Tomato,2000,2500,2400,03-12-2024
+174,Khurda,Balugaon,Tomato,2000,2500,2400,05-05-2024
+175,Khurda,Balugaon,Tomato,2000,2500,2400,28-12-2024
+176,Khurda,Balugaon,Tomato,2000,2500,2400,30-12-2024
+177,Khurda,Balugaon,Tomato,2100,2250,2200,30-04-2024
+178,Khurda,Balugaon,Tomato,2200,2300,2200,23-04-2024
+179,Khurda,Balugaon,Tomato,2200,2300,2300,28-04-2024
+180,Khurda,Balugaon,Tomato,2200,2400,2300,03-05-2024
+181,Khurda,Balugaon,Tomato,2200,2400,2300,06-01-2024
+182,Khurda,Balugaon,Tomato,2200,2400,2300,06-05-2024
+183,Khurda,Balugaon,Tomato,2200,2400,2300,18-01-2024
+184,Khurda,Balugaon,Tomato,2200,2400,2300,20-04-2024
+185,Khurda,Balugaon,Tomato,2200,2400,2300,29-04-2024
+186,Khurda,Balugaon,Tomato,2200,2500,2400,05-04-2024
+187,Khurda,Balugaon,Tomato,2200,2500,2400,05-01-2024
+188,Khurda,Balugaon,Tomato,2200,2500,2400,08-01-2024
+189,Khurda,Balugaon,Tomato,2200,2500,2400,08-05-2024
+190,Khurda,Balugaon,Tomato,2200,2500,2400,14-01-2024
+191,Khurda,Balugaon,Tomato,2200,2500,2400,27-04-2024
+192,Khurda,Balugaon,Tomato,2200,2800,2500,17-12-2024
+193,Khurda,Balugaon,Tomato,2400,2500,2400,03-01-2024
+194,Khurda,Balugaon,Tomato,2400,2500,2400,14-12-2024
+195,Khurda,Balugaon,Tomato,2400,2600,2500,01-12-2024
+196,Khurda,Balugaon,Tomato,2400,2600,2500,07-01-2024
+197,Khurda,Balugaon,Tomato,2400,2600,2500,08-04-2024
+198,Khurda,Balugaon,Tomato,2400,2600,2500,10-01-2024
+199,Khurda,Balugaon,Tomato,2400,2600,2500,11-12-2024
+200,Khurda,Balugaon,Tomato,2400,2600,2500,13-01-2024
+201,Khurda,Balugaon,Tomato,2400,2600,2500,15-12-2024
+202,Khurda,Balugaon,Tomato,2400,2600,2500,19-12-2024
+203,Khurda,Balugaon,Tomato,2400,2600,2500,25-04-2024
+204,Khurda,Balugaon,Tomato,2400,2800,2500,09-01-2024
+205,Khurda,Balugaon,Tomato,2400,3000,2500,02-04-2024
+206,Khurda,Balugaon,Tomato,2400,3000,2600,07-04-2024
+207,Khurda,Balugaon,Tomato,2400,3000,3000,09-12-2024
+208,Khurda,Balugaon,Tomato,2500,2800,2600,09-04-2024
+209,Khurda,Balugaon,Tomato,2500,2800,2600,10-12-2024
+210,Khurda,Balugaon,Tomato,2500,3000,2600,03-04-2024
+211,Khurda,Balugaon,Tomato,2500,3000,2800,06-04-2024
+212,Khurda,Balugaon,Tomato,2500,3000,2800,22-11-2024
+213,Khurda,Balugaon,Tomato,2500,3000,2800,23-11-2024
+214,Khurda,Balugaon,Tomato,2500,3000,3000,05-12-2024
+215,Khurda,Balugaon,Tomato,2500,3200,3000,01-01-2024
+216,Khurda,Balugaon,Tomato,2500,3200,3000,07-12-2024
+217,Khurda,Balugaon,Tomato,2500,3200,3000,18-12-2024
+218,Khurda,Balugaon,Tomato,2500,3200,3000,24-11-2024
+219,Khurda,Balugaon,Tomato,2500,3200,3000,29-11-2024
+220,Khurda,Balugaon,Tomato,2500,3200,3000,30-11-2024
+221,Khurda,Balugaon,Tomato,2600,3100,3000,15-04-2024
+222,Khurda,Balugaon,Tomato,2600,3200,3000,19-04-2024
+223,Khurda,Balugaon,Tomato,2800,3100,3000,18-04-2024
+224,Khurda,Balugaon,Tomato,2800,3200,3000,04-06-2024
+225,Khurda,Balugaon,Tomato,2800,3200,3000,10-04-2024
+226,Khurda,Balugaon,Tomato,2800,3200,3000,10-06-2024
+227,Khurda,Balugaon,Tomato,2800,3200,3000,17-04-2024
+228,Khurda,Balugaon,Tomato,2800,3400,3200,09-06-2024
+229,Khurda,Balugaon,Tomato,3000,3200,3000,11-06-2024
+230,Khurda,Balugaon,Tomato,3000,3200,3100,13-04-2024
+231,Khurda,Balugaon,Tomato,3000,3200,3100,16-04-2024
+232,Khurda,Balugaon,Tomato,3000,3300,3200,02-01-2024
+233,Khurda,Balugaon,Tomato,3000,3300,3200,02-06-2024
+234,Khurda,Balugaon,Tomato,3000,3300,3200,03-06-2024
+235,Khurda,Balugaon,Tomato,3000,3300,3200,05-06-2024
+236,Khurda,Balugaon,Tomato,3000,3300,3200,11-04-2024
+237,Khurda,Balugaon,Tomato,3000,3300,3200,12-04-2024
+238,Khurda,Balugaon,Tomato,3000,3300,3200,28-11-2024
+239,Khurda,Balugaon,Tomato,3000,3400,3200,06-12-2024
+240,Khurda,Balugaon,Tomato,3000,3400,3200,08-12-2024
+241,Khurda,Balugaon,Tomato,3000,3400,3200,12-06-2024
+242,Khurda,Balugaon,Tomato,3000,3400,3200,19-11-2024
+243,Khurda,Balugaon,Tomato,3000,3400,3200,20-11-2024
+244,Khurda,Balugaon,Tomato,3000,3400,3200,25-11-2024
+245,Khurda,Balugaon,Tomato,3000,3400,3200,26-11-2024
+246,Khurda,Balugaon,Tomato,3000,3400,3200,28-05-2024
+247,Khurda,Balugaon,Tomato,3000,3400,3200,29-05-2024
+248,Khurda,Balugaon,Tomato,3000,3400,3200,30-05-2024
+249,Khurda,Balugaon,Tomato,3000,3500,3400,10-07-2024
+250,Khurda,Balugaon,Tomato,3000,3500,3400,27-11-2024
+251,Khurda,Balugaon,Tomato,3000,3600,3400,12-12-2024
+252,Khurda,Balugaon,Tomato,3200,3300,3200,08-06-2024
+253,Khurda,Balugaon,Tomato,3200,3400,3200,01-06-2024
+254,Khurda,Balugaon,Tomato,3200,3400,3200,14-06-2024
+255,Khurda,Balugaon,Tomato,3200,3400,3300,06-06-2024
+256,Khurda,Balugaon,Tomato,3200,3400,3300,13-12-2024
+257,Khurda,Balugaon,Tomato,3200,3600,3500,13-06-2024
+258,Khurda,Balugaon,Tomato,3400,3600,3500,06-08-2024
+259,Khurda,Balugaon,Tomato,3400,3800,3600,02-12-2024
+260,Khurda,Balugaon,Tomato,3500,4000,3600,08-08-2024
+261,Khurda,Balugaon,Tomato,3500,4200,4000,11-07-2024
+262,Khurda,Balugaon,Tomato,3600,4200,4000,13-09-2024
+263,Khurda,Balugaon,Tomato,3600,4200,4000,15-11-2024
+264,Khurda,Balugaon,Tomato,4000,4400,4200,11-09-2024
+265,Khurda,Balugaon,Tomato,4000,4400,4200,17-09-2024
+266,Khurda,Balugaon,Tomato,4000,4400,4200,18-07-2024
+267,Khurda,Balugaon,Tomato,4000,4500,4200,03-08-2024
+268,Khurda,Balugaon,Tomato,4000,4500,4200,12-07-2024
+269,Khurda,Balugaon,Tomato,4000,4500,4200,19-09-2024
+270,Khurda,Balugaon,Tomato,4000,4500,4200,21-09-2024
+271,Khurda,Balugaon,Tomato,4000,4500,4200,23-09-2024
+272,Khurda,Balugaon,Tomato,4000,4500,4400,02-08-2024
+273,Khurda,Balugaon,Tomato,4000,4500,4400,22-08-2024
+274,Khurda,Balugaon,Tomato,4000,4500,4400,31-07-2024
+275,Khurda,Balugaon,Tomato,4000,4600,4400,07-08-2024
+276,Khurda,Balugaon,Tomato,4000,4800,4400,18-09-2024
+277,Khurda,Balugaon,Tomato,4000,4800,4500,20-09-2024
+278,Khurda,Balugaon,Tomato,4000,5000,4400,12-09-2024
+279,Khurda,Balugaon,Tomato,4000,5000,4500,14-09-2024
+280,Khurda,Balugaon,Tomato,4000,5000,4500,15-09-2024
+281,Khurda,Balugaon,Tomato,4200,4600,4400,28-09-2024
+282,Khurda,Balugaon,Tomato,4200,4600,4500,19-07-2024
+283,Khurda,Balugaon,Tomato,4200,4800,4500,10-08-2024
+284,Khurda,Balugaon,Tomato,4400,4500,4400,01-08-2024
+285,Khurda,Balugaon,Tomato,4400,4600,4500,05-08-2024
+286,Khurda,Balugaon,Tomato,4400,4800,4500,20-07-2024
+287,Khurda,Balugaon,Tomato,4400,4800,4600,30-07-2024
+288,Khurda,Balugaon,Tomato,4500,4700,4600,02-09-2024
+289,Khurda,Balugaon,Tomato,4500,5000,4800,13-07-2024
+290,Khurda,Balugaon,Tomato,4500,5000,4800,14-07-2024
+291,Khurda,Balugaon,Tomato,4500,5000,4800,30-06-2024
+292,Khurda,Balugaon,Tomato,4500,5200,5000,04-08-2024
+293,Khurda,Balugaon,Tomato,4500,5200,5000,14-08-2024
+294,Khurda,Balugaon,Tomato,4500,5200,5000,15-07-2024
+295,Khurda,Balugaon,Tomato,4500,5200,5000,24-09-2024
+296,Khurda,Balugaon,Tomato,4500,5500,5000,01-10-2024
+297,Khurda,Balugaon,Tomato,4600,5200,5000,20-08-2024
+298,Khurda,Balugaon,Tomato,4800,5200,5000,03-09-2024
+299,Khurda,Balugaon,Tomato,5000,5200,5000,13-08-2024
+300,Khurda,Balugaon,Tomato,5000,5200,5000,21-08-2024
+301,Khurda,Balugaon,Tomato,5000,5200,5200,27-08-2024
+302,Khurda,Balugaon,Tomato,5000,5400,5200,01-07-2024
+303,Khurda,Balugaon,Tomato,5000,5400,5200,03-07-2024
+304,Khurda,Balugaon,Tomato,5000,5400,5200,03-11-2024
+305,Khurda,Balugaon,Tomato,5000,5400,5200,09-09-2024
+306,Khurda,Balugaon,Tomato,5000,5400,5200,11-08-2024
+307,Khurda,Balugaon,Tomato,5000,5400,5200,12-08-2024
+308,Khurda,Balugaon,Tomato,5000,5400,5200,12-10-2024
+309,Khurda,Balugaon,Tomato,5000,5400,5200,17-06-2024
+310,Khurda,Balugaon,Tomato,5000,5400,5200,19-08-2024
+311,Khurda,Balugaon,Tomato,5000,5400,5200,26-08-2024
+312,Khurda,Balugaon,Tomato,5000,5400,5200,26-09-2024
+313,Khurda,Balugaon,Tomato,5000,5400,5200,27-09-2024
+314,Khurda,Balugaon,Tomato,5000,5400,5200,30-08-2024
+315,Khurda,Balugaon,Tomato,5000,5500,5000,17-08-2024
+316,Khurda,Balugaon,Tomato,5000,5500,5200,02-07-2024
+317,Khurda,Balugaon,Tomato,5000,5500,5200,15-08-2024
+318,Khurda,Balugaon,Tomato,5000,5500,5200,24-08-2024
+319,Khurda,Balugaon,Tomato,5000,5500,5400,11-10-2024
+320,Khurda,Balugaon,Tomato,5000,5500,5500,28-08-2024
+321,Khurda,Balugaon,Tomato,5000,5600,5400,04-07-2024
+322,Khurda,Balugaon,Tomato,5000,5600,5400,04-11-2024
+323,Khurda,Balugaon,Tomato,5000,5600,5400,16-10-2024
+324,Khurda,Balugaon,Tomato,5000,5600,5400,20-10-2024
+325,Khurda,Balugaon,Tomato,5000,5600,5500,07-11-2024
+326,Khurda,Balugaon,Tomato,5000,5600,5500,29-08-2024
+327,Khurda,Balugaon,Tomato,5000,5800,5500,29-09-2024
+328,Khurda,Balugaon,Tomato,5000,6000,5500,01-11-2024
+329,Khurda,Balugaon,Tomato,5000,6000,5500,05-11-2024
+330,Khurda,Balugaon,Tomato,5000,6000,5500,05-10-2024
+331,Khurda,Balugaon,Tomato,5000,6000,5500,08-11-2024
+332,Khurda,Balugaon,Tomato,5000,6000,5500,19-10-2024
+333,Khurda,Balugaon,Tomato,5000,6000,5500,20-06-2024
+334,Khurda,Balugaon,Tomato,5000,6000,5500,21-06-2024
+335,Khurda,Balugaon,Tomato,5000,6000,5500,21-10-2024
+336,Khurda,Balugaon,Tomato,5000,6000,5500,30-09-2024
+337,Khurda,Balugaon,Tomato,5000,6000,5500,31-10-2024
+338,Khurda,Balugaon,Tomato,5200,5500,5400,18-06-2024
+339,Khurda,Balugaon,Tomato,5200,6000,5800,19-06-2024
+340,Khurda,Balugaon,Tomato,5500,6200,6000,10-09-2024
+341,Khurda,Balugaon,Tomato,5500,6200,6000,14-10-2024
+342,Khurda,Balugaon,Tomato,5500,6200,6000,18-10-2024
+343,Khurda,Balugaon,Tomato,5500,6400,6000,02-11-2024
+344,Khurda,Balugaon,Tomato,5500,6400,6000,09-11-2024
+345,Khurda,Balugaon,Tomato,5500,6400,6000,14-11-2024
+346,Khurda,Balugaon,Tomato,6000,6200,6000,04-10-2024
+347,Khurda,Balugaon,Tomato,6000,6400,6200,09-10-2024
+348,Khurda,Balugaon,Tomato,6000,6400,6200,11-11-2024
+349,Khurda,Balugaon,Tomato,6000,6400,6200,13-11-2024
+350,Khurda,Balugaon,Tomato,6000,6400,6200,15-10-2024
+351,Khurda,Balugaon,Tomato,6000,6500,6200,27-10-2024
+352,Khurda,Balugaon,Tomato,6000,6500,6200,30-10-2024
+353,Khurda,Balugaon,Tomato,6000,6500,6400,10-11-2024
+354,Khurda,Balugaon,Tomato,6000,6500,6400,12-11-2024
+355,Khurda,Balugaon,Tomato,6000,6500,6400,28-10-2024
+356,Khurda,Balugaon,Tomato,6000,6600,6500,29-10-2024
+357,Khurda,Balugaon,Tomato,6000,7000,6500,26-10-2024
+358,Khurda,Balugaon,Tomato,6500,7000,6600,25-10-2024
+359,Khurda,Balugaon,Tomato,6500,7200,7000,21-07-2024
+360,Khurda,Balugaon,Tomato,6500,7200,7000,22-07-2024
+361,Khurda,Balugaon,Tomato,7000,7400,7200,22-10-2024
+362,Khurda,Balugaon,Tomato,7000,7400,7200,24-10-2024
+363,Khurda,Balugaon,Tomato,7000,7400,7200,29-07-2024
+364,Khurda,Balugaon,Tomato,7000,7500,7200,23-07-2024
+365,Khurda,Balugaon,Tomato,7000,7500,7200,23-10-2024
+366,Khurda,Balugaon,Tomato,7000,7600,7400,28-07-2024
+367,Khurda,Balugaon,Tomato,7000,7700,7500,26-07-2024
+368,Khurda,Balugaon,Tomato,7000,8000,7500,25-07-2024
+369,Khurda,Balugaon,Tomato,7800,8400,8000,24-06-2024
+370,Khurda,Balugaon,Tomato,8000,8400,8200,27-07-2024
+371,Khurda,Balugaon,Tomato,8000,8400,8200,27-06-2024
+372,Khurda,Balugaon,Tomato,8000,8400,8200,28-06-2024
+373,Khurda,Balugaon,Tomato,8000,8500,8200,25-06-2024
+374,Khurda,Balugaon,Tomato,8000,8500,8400,24-07-2024
+375,Khurda,Balugaon,Tomato,8000,8500,8400,29-06-2024
+376,Khurda,Balugaon,Tomato,8000,9000,8500,22-06-2024
+377,Khurda,Balugaon,Tomato,8400,8600,8500,26-06-2024

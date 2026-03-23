@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome - Crop Price Prediction</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+                url('/static/images/gif2.gif') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+
+        .container {
+            display: flex;
+            background-color: rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 1000px;
+            overflow: hidden;
+        }
+
+        .info-section {
+            flex: 1;
+            padding: 40px;
+            text-align: left;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+
+        .info-section h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .info-section p {
+            font-size: 18px;
+            line-height: 1.8;
+        }
+
+        .account-section {
+            flex: 1;
+            padding: 40px;
+            background-color: rgba(255, 255, 255, 0.9);
+            color: black;
+            text-align: center;
+        }
+
+        .account-section h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        .account-section input {
+            width: 90%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .account-section button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            width: 90%;
+        }
+
+        .account-section button:hover {
+            background-color: #45a049;
+        }
+
+        .message {
+            margin-top: 20px;
+            background-color: #d4edda;
+            color: #155724;
+            padding: 10px;
+            border: 1px solid #c3e6cb;
+            border-radius: 5px;
+        }
+
+        .navigation {
+            margin-top: 20px;
+        }
+
+        .navigation a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .navigation a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Information Section -->
+        <div class="info-section">
+            <h1>CropFusion</h1>
+            <p>
+                Our platform leverages advanced AI and machine learning algorithms to help users
+                predict the prices of various agricultural and horticultural commodities. We aim
+                to empower farmers, researchers, and traders with valuable insights to make informed
+                decisions and optimize their agricultural outcomes.
+            </p>
+            <p>
+                Explore our user-friendly interface, advanced prediction models, and detailed crop
+                analytics. Join us on this journey to revolutionize the agricultural industry with
+                data-driven solutions.
+            </p>
+        </div>
+
+        <!-- Account Creation Section -->
+        <div class="account-section" id="account-section">
+            <h2>Create Your Account</h2>
+            <form id="accountForm">
+                <input type="text" id="name" name="name" placeholder="Enter your name" required>
+                <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                <input type="password" id="password" name="password" placeholder="Enter your password" required>
+                <button type="submit">Create Account</button>
+            </form>
+            <div class="navigation">
+                <p>Already have an account? <a href="/login">Login here</a></p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("accountForm").addEventListener("submit", function (event) {
+            event.preventDefault(); // Prevent default form submission
+
+            // Get input values
+            const name = document.getElementById("name").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const password = document.getElementById("password").value.trim();
+
+            // Name validation
+            const namePattern = /^[a-zA-Z0-9]+$/;
+            const onlyNumbersPattern = /^[0-9]+$/;
+
+            if (!namePattern.test(name)) {
+                alert("Name must only contain characters and numbers.");
+                return;
+            }
+
+            if (onlyNumbersPattern.test(name)) {
+                alert("Name cannot consist only of numbers.");
+                return;
+            }
+
+            // Email validation
+            const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+            if (!emailPattern.test(email)) {
+                alert("Please enter a valid email address.");
+                return;
+            }
+
+            // Password validation
+            if (password.length < 6) {
+                alert("Password must be at least 6 characters long.");
+                return;
+            }
+
+            // Check if the name already exists in localStorage
+            const existingUser = localStorage.getItem(name);
+            if (existingUser) {
+                alert("An account with this name already exists.");
+                return;
+            }
+
+            // Store the new account in localStorage
+            const userData = { name: name, email: email, password: password };
+            localStorage.setItem(name, JSON.stringify(userData));
+
+            // Send email to Flask backend to store in session
+            fetch('/save_email', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email: email })
+            })
+                .then(res => res.json())
+                .then(data => {
+                    console.log("Session email saved:", data.message);
+                })
+                .catch(error => {
+                    console.error("Error saving email to session:", error);
+                });
+
+            // Display success message
+            const accountSection = document.getElementById("account-section");
+            accountSection.innerHTML = `
+                <h2>Account Successfully Created</h2>
+                <div class="message">
+                    Your account has been created successfully with the email: <strong>${email}</strong>
+                </div>
+                <p><a href="/login" style="color: #4CAF50; text-decoration: none;">Click here to login</a></p>
+            `;
+        });
+    </script>
+</body>
+
+</html>

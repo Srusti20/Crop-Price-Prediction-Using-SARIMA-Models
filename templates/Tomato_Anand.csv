@@ -1,0 +1,321 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Anand,"Anand(Veg,Yard,Anand)",Tomato,400,500,450,30-03-2024
+2,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,03-04-2024
+3,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,05-04-2024
+4,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,06-04-2024
+5,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,08-04-2024
+6,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,09-04-2024
+7,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,12-03-2024
+8,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,13-03-2024
+9,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,16-04-2024
+10,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,17-04-2024
+11,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,18-04-2024
+12,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,20-03-2024
+13,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,21-03-2024
+14,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,22-03-2024
+15,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,750,600,28-03-2024
+16,Anand,"Anand(Veg,Yard,Anand)",Tomato,500,900,750,04-04-2024
+17,Anand,"Anand(Veg,Yard,Anand)",Tomato,600,800,700,15-04-2024
+18,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,01-03-2024
+19,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,02-03-2024
+20,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,05-03-2024
+21,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,07-03-2024
+22,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,08-02-2024
+23,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,09-02-2024
+24,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,09-03-2024
+25,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,10-01-2024
+26,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,11-01-2024
+27,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,11-03-2024
+28,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,12-04-2024
+29,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,16-05-2024
+30,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,18-03-2024
+31,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,19-03-2024
+32,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,22-04-2024
+33,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,22-02-2024
+34,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,27-03-2024
+35,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,28-02-2024
+36,Anand,"Anand(Veg,Yard,Anand)",Tomato,750,1000,800,29-03-2024
+37,Anand,"Anand(Veg,Yard,Anand)",Tomato,800,1000,900,09-01-2024
+38,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1200,1100,01-01-2024
+39,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1200,1100,08-01-2024
+40,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1200,1100,16-02-2024
+41,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1200,1100,17-05-2024
+42,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1100,03-05-2024
+43,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1100,15-05-2024
+44,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1100,23-02-2024
+45,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1100,27-02-2024
+46,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1100,29-02-2024
+47,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,02-01-2024
+48,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,04-03-2024
+49,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,06-03-2024
+50,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,13-04-2024
+51,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,14-03-2024
+52,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,15-03-2024
+53,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,19-04-2024
+54,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,24-04-2024
+55,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1150,26-03-2024
+56,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1250,1200,02-05-2024
+57,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1400,1250,07-02-2024
+58,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,04-01-2024
+59,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,05-01-2024
+60,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,06-05-2024
+61,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,10-02-2024
+62,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,13-02-2024
+63,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,15-02-2024
+64,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1200,17-02-2024
+65,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,04-05-2024
+66,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,06-01-2024
+67,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,08-05-2024
+68,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,10-04-2024
+69,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,25-12-2024
+70,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,29-04-2024
+71,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,30-04-2024
+72,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,30-12-2024
+73,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1250,31-12-2024
+74,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1300,12-01-2024
+75,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1300,21-02-2024
+76,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1300,26-02-2024
+77,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1400,14-02-2024
+78,Anand,"Anand(Veg,Yard,Anand)",Tomato,1000,1500,1400,23-04-2024
+79,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1300,01-06-2024
+80,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1300,11-05-2024
+81,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1300,20-05-2024
+82,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1300,23-05-2024
+83,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1300,24-05-2024
+84,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1300,31-05-2024
+85,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1350,01-01-2025
+86,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,03-01-2024
+87,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,10-06-2024
+88,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,12-02-2024
+89,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,12-06-2024
+90,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,13-01-2024
+91,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,19-01-2024
+92,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,20-04-2024
+93,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,20-01-2024
+94,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,22-05-2024
+95,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1500,1400,27-05-2024
+96,Anand,"Anand(Veg,Yard,Anand)",Tomato,1250,1700,1500,28-12-2024
+97,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,1700,1600,24-02-2024
+98,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,1750,1600,10-05-2024
+99,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,1750,1600,11-06-2024
+100,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,07-11-2024
+101,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,17-01-2024
+102,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,19-02-2024
+103,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,20-02-2024
+104,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,21-05-2024
+105,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,25-01-2024
+106,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,25-05-2024
+107,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,27-12-2024
+108,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1700,30-05-2024
+109,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1750,14-09-2024
+110,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,05-09-2024
+111,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,06-02-2024
+112,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,06-06-2024
+113,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,07-06-2024
+114,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,08-06-2024
+115,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,12-12-2024
+116,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,12-09-2024
+117,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,14-06-2024
+118,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,15-06-2024
+119,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,22-10-2024
+120,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,23-01-2024
+121,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,24-01-2024
+122,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,26-04-2024
+123,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,27-04-2024
+124,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2000,1800,29-05-2024
+125,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2250,1800,24-12-2024
+126,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,1800,11-09-2024
+127,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,09-12-2024
+128,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,10-12-2024
+129,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,11-11-2024
+130,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,13-12-2024
+131,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,16-11-2024
+132,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,20-12-2024
+133,Anand,"Anand(Veg,Yard,Anand)",Tomato,1500,2500,2000,27-08-2024
+134,Anand,"Anand(Veg,Yard,Anand)",Tomato,1750,2000,1800,09-05-2024
+135,Anand,"Anand(Veg,Yard,Anand)",Tomato,1750,2000,1800,28-05-2024
+136,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2250,2100,16-01-2024
+137,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2250,2150,06-09-2024
+138,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2200,03-06-2024
+139,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2200,15-11-2024
+140,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2200,23-11-2024
+141,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,06-08-2024
+142,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,07-08-2024
+143,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,09-09-2024
+144,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,11-12-2024
+145,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,13-06-2024
+146,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,13-09-2024
+147,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,19-12-2024
+148,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,20-06-2024
+149,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,20-11-2024
+150,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,21-09-2024
+151,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,24-08-2024
+152,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,25-04-2024
+153,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,25-09-2024
+154,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,26-10-2024
+155,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,27-11-2024
+156,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,28-08-2024
+157,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,30-08-2024
+158,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2250,31-08-2024
+159,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2300,01-02-2024
+160,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2300,25-11-2024
+161,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2300,30-01-2024
+162,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,04-06-2024
+163,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,05-02-2024
+164,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,08-11-2024
+165,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,18-12-2024
+166,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,22-01-2024
+167,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,26-12-2024
+168,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,29-08-2024
+169,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,2500,2400,31-01-2024
+170,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2400,14-08-2024
+171,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2400,20-09-2024
+172,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,10-09-2024
+173,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,12-08-2024
+174,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,13-08-2024
+175,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,13-11-2024
+176,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,15-10-2024
+177,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,16-08-2024
+178,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,17-08-2024
+179,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,17-12-2024
+180,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,18-11-2024
+181,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,21-08-2024
+182,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,21-11-2024
+183,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,28-11-2024
+184,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,28-10-2024
+185,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,30-10-2024
+186,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2500,31-10-2024
+187,Anand,"Anand(Veg,Yard,Anand)",Tomato,2000,3000,2800,18-09-2024
+188,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2700,05-06-2024
+189,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2700,22-11-2024
+190,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2700,24-09-2024
+191,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2750,07-09-2024
+192,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2750,29-10-2024
+193,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2750,31-07-2024
+194,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,02-02-2024
+195,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,03-02-2024
+196,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,07-12-2024
+197,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,12-11-2024
+198,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,19-11-2024
+199,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,20-08-2024
+200,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,22-08-2024
+201,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,23-08-2024
+202,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,23-12-2024
+203,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,27-06-2024
+204,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,27-09-2024
+205,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,29-01-2024
+206,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,29-11-2024
+207,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3000,2800,30-09-2024
+208,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,2800,01-08-2024
+209,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,01-10-2024
+210,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,02-12-2024
+211,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,04-12-2024
+212,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,05-08-2024
+213,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,06-12-2024
+214,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,08-08-2024
+215,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,09-08-2024
+216,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,10-08-2024
+217,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,26-09-2024
+218,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,3500,3000,28-06-2024
+219,Anand,"Anand(Veg,Yard,Anand)",Tomato,2500,4000,3250,02-10-2024
+220,Anand,"Anand(Veg,Yard,Anand)",Tomato,2750,3750,3250,30-11-2024
+221,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3200,21-06-2024
+222,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3200,24-06-2024
+223,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3200,25-06-2024
+224,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3200,29-07-2024
+225,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3250,25-07-2024
+226,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3250,26-07-2024
+227,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,3500,3250,27-07-2024
+228,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,4000,3500,03-12-2024
+229,Anand,"Anand(Veg,Yard,Anand)",Tomato,3000,4000,3500,05-12-2024
+230,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3700,03-08-2024
+231,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3750,01-07-2024
+232,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3750,03-07-2024
+233,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3750,05-07-2024
+234,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,02-08-2024
+235,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,05-10-2024
+236,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,18-06-2024
+237,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,19-06-2024
+238,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,22-06-2024
+239,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,24-10-2024
+240,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4000,3800,26-06-2024
+241,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4200,4000,14-10-2024
+242,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4500,3900,10-07-2024
+243,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4500,4000,04-10-2024
+244,Anand,"Anand(Veg,Yard,Anand)",Tomato,3500,4500,4000,25-10-2024
+245,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4200,08-07-2024
+246,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,02-07-2024
+247,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,03-10-2024
+248,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,11-10-2024
+249,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,16-10-2024
+250,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,17-10-2024
+251,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,18-10-2024
+252,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4250,29-06-2024
+253,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,4500,4300,23-10-2024
+254,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,07-10-2024
+255,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,08-10-2024
+256,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,10-10-2024
+257,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,11-07-2024
+258,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,15-07-2024
+259,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,19-10-2024
+260,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,21-10-2024
+261,Anand,"Anand(Veg,Yard,Anand)",Tomato,4000,5000,4500,24-07-2024
+262,Anand,"Anand(Veg,Yard,Anand)",Tomato,4250,4500,4400,04-07-2024
+263,Anand,"Anand(Veg,Yard,Anand)",Tomato,4500,5000,4750,06-07-2024
+264,Anand,"Anand(Veg,Yard,Anand)",Tomato,4500,5000,4750,09-07-2024
+265,Anand,"Anand(Veg,Yard,Anand)",Tomato,4500,5500,5000,13-07-2024
+266,Anand,"Anand(Veg,Yard,Anand)",Tomato,4500,6000,5250,12-07-2024
+267,Anand,"Anand(Veg,Yard,Anand)",Tomato,5000,6000,5500,16-07-2024
+268,Anand,"Anand(Veg,Yard,Anand)",Tomato,5000,6000,5500,18-07-2024
+269,Anand,"Anand(Veg,Yard,Anand)",Tomato,5000,6000,5500,19-07-2024
+270,Anand,"Anand(Veg,Yard,Anand)",Tomato,6000,6500,6250,17-07-2024
+271,Anand,"Anand(Veg,Yard,Anand)",Tomato,6000,6500,6250,20-07-2024
+272,Anand,Khambhat(Veg Yard Khambhat),Tomato,1500,2500,2000,01-01-2025
+273,Anand,Khambhat(Veg Yard Khambhat),Tomato,2000,2500,2250,28-12-2024
+274,Anand,Khambhat(Veg Yard Khambhat),Tomato,2000,2500,2250,30-12-2024
+275,Anand,Khambhat(Veg Yard Khambhat),Tomato,2000,3000,2500,31-12-2024
+276,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,2900,2700,09-11-2024
+277,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,06-11-2024
+278,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,07-12-2024
+279,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,08-11-2024
+280,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,09-12-2024
+281,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,10-12-2024
+282,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,16-11-2024
+283,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,23-12-2024
+284,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,23-11-2024
+285,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3000,2750,30-11-2024
+286,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,12-12-2024
+287,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,14-12-2024
+288,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,16-12-2024
+289,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,17-12-2024
+290,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,18-12-2024
+291,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,19-12-2024
+292,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,20-12-2024
+293,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,24-12-2024
+294,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,25-12-2024
+295,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,26-12-2024
+296,Anand,Khambhat(Veg Yard Khambhat),Tomato,2500,3500,3000,27-12-2024
+297,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3200,3100,19-10-2024
+298,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,01-11-2024
+299,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,04-12-2024
+300,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,04-11-2024
+301,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,05-11-2024
+302,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,07-11-2024
+303,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,21-12-2024
+304,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,25-11-2024
+305,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,26-11-2024
+306,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,28-11-2024
+307,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,3500,3250,28-10-2024
+308,Anand,Khambhat(Veg Yard Khambhat),Tomato,3000,4000,3250,27-11-2024
+309,Anand,Khambhat(Veg Yard Khambhat),Tomato,3200,3500,3350,13-12-2024
+310,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,02-11-2024
+311,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,11-11-2024
+312,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,12-11-2024
+313,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,13-11-2024
+314,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,18-11-2024
+315,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,19-11-2024
+316,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,29-10-2024
+317,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,30-10-2024
+318,Anand,Khambhat(Veg Yard Khambhat),Tomato,3500,4000,3750,31-10-2024
+319,Anand,Khambhat(Veg Yard Khambhat),Tomato,4000,5000,4500,02-12-2024
+320,Anand,Khambhat(Veg Yard Khambhat),Tomato,4200,5000,4400,03-12-2024

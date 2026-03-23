@@ -1,0 +1,197 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Krishnagiri,Hosur,Orange,140,160,160,01-07-2024
+2,Krishnagiri,Hosur,Orange,140,160,160,02-07-2024
+3,Krishnagiri,Hosur,Orange,140,160,160,03-07-2024
+4,Krishnagiri,Hosur,Orange,140,160,160,04-07-2024
+5,Krishnagiri,Hosur,Orange,140,160,160,05-07-2024
+6,Krishnagiri,Hosur,Orange,140,160,160,06-07-2024
+7,Krishnagiri,Hosur,Orange,140,160,160,07-07-2024
+8,Krishnagiri,Hosur,Orange,140,160,160,18-06-2024
+9,Krishnagiri,Hosur,Orange,140,160,160,19-06-2024
+10,Krishnagiri,Hosur,Orange,140,160,160,20-06-2024
+11,Krishnagiri,Hosur,Orange,140,160,160,21-06-2024
+12,Krishnagiri,Hosur,Orange,140,160,160,22-06-2024
+13,Krishnagiri,Hosur,Orange,140,160,160,23-06-2024
+14,Krishnagiri,Hosur,Orange,140,160,160,24-06-2024
+15,Krishnagiri,Hosur,Orange,140,160,160,26-06-2024
+16,Krishnagiri,Hosur,Orange,140,160,160,27-06-2024
+17,Krishnagiri,Hosur,Orange,140,160,160,28-06-2024
+18,Krishnagiri,Hosur,Orange,140,160,160,29-06-2024
+19,Krishnagiri,Hosur,Orange,140,160,160,30-06-2024
+20,Krishnagiri,Hosur,Orange,150,200,200,25-06-2024
+21,Krishnagiri,Hosur,Orange,12000,16000,16000,12-07-2024
+22,Krishnagiri,Hosur,Orange,14000,16000,16000,08-07-2024
+23,Krishnagiri,Hosur,Orange,14000,16000,16000,09-07-2024
+24,Krishnagiri,Hosur,Orange,14000,16000,16000,10-07-2024
+25,Krishnagiri,Hosur,Orange,14000,16000,16000,11-07-2024
+26,Krishnagiri,Hosur,Orange,14000,16000,16000,13-07-2024
+27,Krishnagiri,Hosur,Orange,14000,16000,16000,14-07-2024
+28,Krishnagiri,Hosur,Orange,14000,16000,16000,15-07-2024
+29,Krishnagiri,Hosur,Orange,14000,16000,16000,16-07-2024
+30,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,04-12-2024
+31,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,05-12-2024
+32,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,06-12-2024
+33,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,07-12-2024
+34,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,11-12-2024
+35,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,12-12-2024
+36,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,24-12-2024
+37,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4000,5000,5000,31-12-2024
+38,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,01-01-2025
+39,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,08-12-2024
+40,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,09-12-2024
+41,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,10-12-2024
+42,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,13-12-2024
+43,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,14-12-2024
+44,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,15-12-2024
+45,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,16-12-2024
+46,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,17-12-2024
+47,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,18-12-2024
+48,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,19-12-2024
+49,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,20-12-2024
+50,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,21-12-2024
+51,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,22-12-2024
+52,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,23-12-2024
+53,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,25-12-2024
+54,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,26-12-2024
+55,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,27-12-2024
+56,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,28-12-2024
+57,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,29-12-2024
+58,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,4500,5000,5000,30-12-2024
+59,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,03-12-2024
+60,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,20-11-2024
+61,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,21-11-2024
+62,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,22-11-2024
+63,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,23-11-2024
+64,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,24-11-2024
+65,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,26-11-2024
+66,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,27-11-2024
+67,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,6000,6000,28-11-2024
+68,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,5000,8000,8000,02-12-2024
+69,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,6500,6500,25-11-2024
+70,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,07-11-2024
+71,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,08-11-2024
+72,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,13-11-2024
+73,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,14-11-2024
+74,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,16-10-2024
+75,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,23-10-2024
+76,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,24-10-2024
+77,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,26-10-2024
+78,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,8000,8000,30-10-2024
+79,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,6000,18000,18000,08-10-2024
+80,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,01-11-2024
+81,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,02-11-2024
+82,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,03-11-2024
+83,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,04-11-2024
+84,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,05-11-2024
+85,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,06-11-2024
+86,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,09-11-2024
+87,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,10-11-2024
+88,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,11-11-2024
+89,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,12-11-2024
+90,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,14-10-2024
+91,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,15-11-2024
+92,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,15-10-2024
+93,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,16-11-2024
+94,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,17-11-2024
+95,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,18-11-2024
+96,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,19-11-2024
+97,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,19-10-2024
+98,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,20-10-2024
+99,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,21-10-2024
+100,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,22-10-2024
+101,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,25-10-2024
+102,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,27-10-2024
+103,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,28-10-2024
+104,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,29-10-2024
+105,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,7000,8000,8000,31-10-2024
+106,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,10000,14000,14000,10-08-2024
+107,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,11000,22500,22500,01-09-2024
+108,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,01-08-2024
+109,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,02-08-2024
+110,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,02-09-2024
+111,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,03-08-2024
+112,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,03-09-2024
+113,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,04-08-2024
+114,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,04-09-2024
+115,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,05-08-2024
+116,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,05-09-2024
+117,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,06-08-2024
+118,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,06-09-2024
+119,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,07-08-2024
+120,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,07-09-2024
+121,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,08-08-2024
+122,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,09-08-2024
+123,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,09-09-2024
+124,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,10-09-2024
+125,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,11-09-2024
+126,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,12-08-2024
+127,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,13-08-2024
+128,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,14-08-2024
+129,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,15-08-2024
+130,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,16-08-2024
+131,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,17-08-2024
+132,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,18-08-2024
+133,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,19-08-2024
+134,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,20-08-2024
+135,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,21-08-2024
+136,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,22-08-2024
+137,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,23-08-2024
+138,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,25-08-2024
+139,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,26-08-2024
+140,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,27-08-2024
+141,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,28-08-2024
+142,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,30-08-2024
+143,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,12000,14000,14000,31-08-2024
+144,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,13000,14000,14000,08-09-2024
+145,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,13000,14000,14000,11-08-2024
+146,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,13000,14000,14000,24-08-2024
+147,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,13000,14000,14000,29-08-2024
+148,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,16-07-2024
+149,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,17-07-2024
+150,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,19-07-2024
+151,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,20-07-2024
+152,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,21-07-2024
+153,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,22-07-2024
+154,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,23-07-2024
+155,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,24-07-2024
+156,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,25-07-2024
+157,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,26-07-2024
+158,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,27-07-2024
+159,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,28-07-2024
+160,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,29-07-2024
+161,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,30-07-2024
+162,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,16000,16000,31-07-2024
+163,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,18000,18000,01-10-2024
+164,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,18000,18000,06-10-2024
+165,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,14000,18000,18000,13-10-2024
+166,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,16000,16000,18-07-2024
+167,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,05-10-2024
+168,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,07-10-2024
+169,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,12-10-2024
+170,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,13-09-2024
+171,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,14-09-2024
+172,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,16-09-2024
+173,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,17-09-2024
+174,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,21-09-2024
+175,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,22-09-2024
+176,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,23-09-2024
+177,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,24-09-2024
+178,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,27-09-2024
+179,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,28-09-2024
+180,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,29-09-2024
+181,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,15000,18000,18000,30-09-2024
+182,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,02-10-2024
+183,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,03-10-2024
+184,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,04-10-2024
+185,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,09-10-2024
+186,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,10-10-2024
+187,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,11-10-2024
+188,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,12-09-2024
+189,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,15-09-2024
+190,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,17-10-2024
+191,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,18-10-2024
+192,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,18-09-2024
+193,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,19-09-2024
+194,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,20-09-2024
+195,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,25-09-2024
+196,Krishnagiri,Hosur(Uzhavar Sandhai ),Orange,16000,18000,18000,26-09-2024

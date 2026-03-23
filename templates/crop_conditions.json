@@ -1,0 +1,332 @@
+{
+    "coriander": {
+        "North": {
+            "temperature": "15°C - 25°C",
+            "rainfall": "30 - 60 cm",
+            "soil": "Well-drained sandy loam soil"
+        },
+        "South": {
+            "temperature": "20°C - 30°C",
+            "rainfall": "40 - 80 cm",
+            "soil": "Loamy soil"
+        },
+        "East": {
+            "temperature": "18°C - 28°C",
+            "rainfall": "50 - 90 cm",
+            "soil": "Sandy soil"
+        },
+        "West": {
+            "temperature": "16°C - 26°C",
+            "rainfall": "35 - 70 cm",
+            "soil": "Clayey loam soil"
+        }
+    },
+    "Gur(Jaggery)": {
+        "North": {
+            "temperature": "25°C - 35°C",
+            "rainfall": "70 - 150 cm",
+            "soil": "Alluvial and clayey soil"
+        },
+        "South": {
+            "temperature": "25°C - 40°C",
+            "rainfall": "60 - 180 cm",
+            "soil": "Rich clay soil"
+        },
+        "East": {
+            "temperature": "24°C - 36°C",
+            "rainfall": "80 - 200 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "West": {
+            "temperature": "24°C - 38°C",
+            "rainfall": "50 - 140 cm",
+            "soil": "Black soil"
+        }
+    },
+    "greenPeas": {
+        "North": {
+            "temperature": "10°C - 25°C",
+            "rainfall": "30 - 70 cm",
+            "soil": "Sandy loam soil"
+        },
+        "South": {
+            "temperature": "15°C - 28°C",
+            "rainfall": "40 - 80 cm",
+            "soil": "Clayey loam soil"
+        },
+        "East": {
+            "temperature": "12°C - 26°C",
+            "rainfall": "50 - 90 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "West": {
+            "temperature": "10°C - 25°C",
+            "rainfall": "35 - 75 cm",
+            "soil": "Loamy soil"
+        }
+    },
+    "jowar": {
+        "North": {
+            "temperature": "20°C - 30°C",
+            "rainfall": "30 - 60 cm",
+            "soil": "Black or clayey soil"
+        },
+        "South": {
+            "temperature": "25°C - 35°C",
+            "rainfall": "30 - 70 cm",
+            "soil": "Sandy loam or loamy soil"
+        },
+        "East": {
+            "temperature": "22°C - 30°C",
+            "rainfall": "40 - 70 cm",
+            "soil": "Well-drained sandy soil"
+        },
+        "West": {
+            "temperature": "20°C - 32°C",
+            "rainfall": "25 - 50 cm",
+            "soil": "Black or red soil"
+        }
+    },
+    "maize": {
+        "North": {
+            "temperature": "20°C - 30°C",
+            "rainfall": "60 - 120 cm",
+            "soil": "Well-drained sandy loam"
+        },
+        "South": {
+            "temperature": "25°C - 35°C",
+            "rainfall": "70 - 150 cm",
+            "soil": "Rich alluvial soil"
+        },
+        "East": {
+            "temperature": "22°C - 30°C",
+            "rainfall": "80 - 140 cm",
+            "soil": "Sandy and loamy soil"
+        },
+        "West": {
+            "temperature": "20°C - 32°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Clayey and loamy soil"
+        }
+    },
+    "masur": {
+        "North": {
+            "temperature": "10°C - 22°C",
+            "rainfall": "20 - 40 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "South": {
+            "temperature": "15°C - 25°C",
+            "rainfall": "25 - 60 cm",
+            "soil": "Sandy loam or clayey soil"
+        },
+        "East": {
+            "temperature": "12°C - 24°C",
+            "rainfall": "30 - 50 cm",
+            "soil": "Loamy soil"
+        },
+        "West": {
+            "temperature": "10°C - 20°C",
+            "rainfall": "20 - 50 cm",
+            "soil": "Clayey loam soil"
+        }
+    },
+    "onion": {
+        "North": {
+            "temperature": "10°C - 30°C",
+            "rainfall": "30 - 60 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "South": {
+            "temperature": "15°C - 35°C",
+            "rainfall": "40 - 80 cm",
+            "soil": "Sandy loam soil"
+        },
+        "East": {
+            "temperature": "12°C - 28°C",
+            "rainfall": "50 - 90 cm",
+            "soil": "Silty clay soil"
+        },
+        "West": {
+            "temperature": "10°C - 27°C",
+            "rainfall": "35 - 70 cm",
+            "soil": "Clayey loam soil"
+        }
+    },
+    "orange": {
+        "North": {
+            "temperature": "15°C - 30°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Loamy soil"
+        },
+        "South": {
+            "temperature": "20°C - 35°C",
+            "rainfall": "40 - 90 cm",
+            "soil": "Sandy loam soil"
+        },
+        "East": {
+            "temperature": "18°C - 32°C",
+            "rainfall": "60 - 110 cm",
+            "soil": "Well-drained sandy soil"
+        },
+        "West": {
+            "temperature": "15°C - 30°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Clayey soil"
+        }
+    },
+    "potato": {
+        "North": {
+            "temperature": "10°C - 20°C",
+            "rainfall": "50 - 120 cm",
+            "soil": "Loamy and well-drained soil"
+        },
+        "South": {
+            "temperature": "15°C - 30°C",
+            "rainfall": "60 - 100 cm",
+            "soil": "Sandy loam soil"
+        },
+        "East": {
+            "temperature": "12°C - 25°C",
+            "rainfall": "50 - 90 cm",
+            "soil": "Well-drained sandy loam"
+        },
+        "West": {
+            "temperature": "10°C - 22°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Clayey soil"
+        }
+    },
+    "ragi": {
+        "North": {
+            "temperature": "15°C - 30°C",
+            "rainfall": "30 - 60 cm",
+            "soil": "Red soil or sandy loam"
+        },
+        "South": {
+            "temperature": "20°C - 35°C",
+            "rainfall": "40 - 80 cm",
+            "soil": "Well-drained sandy loam"
+        },
+        "East": {
+            "temperature": "18°C - 30°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Loamy soil"
+        },
+        "West": {
+            "temperature": "15°C - 28°C",
+            "rainfall": "30 - 70 cm",
+            "soil": "Clayey or black soil"
+        }
+    },
+    "rice": {
+        "North": {
+            "temperature": "20°C - 35°C",
+            "rainfall": "100 - 200 cm",
+            "soil": "Clayey loam soil"
+        },
+        "South": {
+            "temperature": "22°C - 37°C",
+            "rainfall": "80 - 180 cm",
+            "soil": "Red loamy soil"
+        },
+        "East": {
+            "temperature": "23°C - 38°C",
+            "rainfall": "120 - 250 cm",
+            "soil": "Alluvial clay soil"
+        },
+        "West": {
+            "temperature": "20°C - 36°C",
+            "rainfall": "90 - 170 cm",
+            "soil": "Silty clay soil"
+        }
+    },
+    "sugar": {
+        "North": {
+            "temperature": "20°C - 30°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Well-drained alluvial soil"
+        },
+        "South": {
+            "temperature": "25°C - 35°C",
+            "rainfall": "70 - 150 cm",
+            "soil": "Loamy soil"
+        },
+        "East": {
+            "temperature": "22°C - 35°C",
+            "rainfall": "80 - 180 cm",
+            "soil": "Clayey loamy soil"
+        },
+        "West": {
+            "temperature": "20°C - 30°C",
+            "rainfall": "60 - 120 cm",
+            "soil": "Sandy soil"
+        }
+    },
+    "tomato": {
+        "North": {
+            "temperature": "15°C - 30°C",
+            "rainfall": "40 - 80 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "South": {
+            "temperature": "20°C - 35°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Fertile loamy soil"
+        },
+        "East": {
+            "temperature": "18°C - 32°C",
+            "rainfall": "60 - 110 cm",
+            "soil": "Sandy loam soil"
+        },
+        "West": {
+            "temperature": "15°C - 28°C",
+            "rainfall": "50 - 90 cm",
+            "soil": "Clayey soil"
+        }
+    },
+    "turmeric": {
+        "North": {
+            "temperature": "20°C - 30°C",
+            "rainfall": "75 - 150 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "South": {
+            "temperature": "25°C - 35°C",
+            "rainfall": "80 - 200 cm",
+            "soil": "Clayey soil"
+        },
+        "East": {
+            "temperature": "22°C - 36°C",
+            "rainfall": "100 - 250 cm",
+            "soil": "Alluvial and loamy soil"
+        },
+        "West": {
+            "temperature": "20°C - 35°C",
+            "rainfall": "70 - 180 cm",
+            "soil": "Silty clay soil"
+        }
+    },
+    "wheat": {
+        "North": {
+            "temperature": "10°C - 25°C",
+            "rainfall": "50 - 100 cm",
+            "soil": "Well-drained loamy soil"
+        },
+        "South": {
+            "temperature": "15°C - 30°C",
+            "rainfall": "40 - 90 cm",
+            "soil": "Sandy loam soil"
+        },
+        "East": {
+            "temperature": "12°C - 28°C",
+            "rainfall": "60 - 110 cm",
+            "soil": "Alluvial soil"
+        },
+        "West": {
+            "temperature": "10°C - 27°C",
+            "rainfall": "45 - 85 cm",
+            "soil": "Black soil"
+        }
+    }
+}

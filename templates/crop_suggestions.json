@@ -1,0 +1,3899 @@
+{
+  "ragi": [
+    {
+      "region": "Mandya",
+      "zone": "south",
+      "reason": "Fertile red soil with good irrigation",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "22-27°C"
+    },
+    {
+      "region": "Shimoga",
+      "zone": "south",
+      "reason": "Fertile plains with irrigation support ragi growth",
+      "soil": "Red Loamy",
+      "rainfall": "500-700mm",
+      "temperature": "22-27°C"
+    },
+    {
+      "region": "Chitradurga",
+      "zone": "south",
+      "reason": "Ideal dry climate for higher yield",
+      "soil": "Sandy Loam",
+      "rainfall": "450-600mm",
+      "temperature": "23-30°C"
+    },
+    {
+      "region": "Hassan",
+      "zone": "south",
+      "reason": "Rich black soil with good moisture retention",
+      "soil": "Black Soil",
+      "rainfall": "600-800mm",
+      "temperature": "22-30°C"
+    },
+    {
+      "region": "Bangalore",
+      "zone": "south",
+      "reason": "Good irrigation and favorable climate",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "20-28°C"
+    },
+    {
+      "region": "Kolar",
+      "zone": "south",
+      "reason": "Suitable climate and soil types",
+      "soil": "Sandy",
+      "rainfall": "500-700mm",
+      "temperature": "21-29°C"
+    },
+    {
+      "region": "Bellary",
+      "zone": "south",
+      "reason": "Low pest issues with dry climate",
+      "soil": "Red Soil",
+      "rainfall": "400-600mm",
+      "temperature": "25-32°C"
+    },
+    {
+      "region": "Chamrajnagar",
+      "zone": "south",
+      "reason": "Balanced climate conditions help yield",
+      "soil": "Black Soil",
+      "rainfall": "600-800mm",
+      "temperature": "22-28°C"
+    },
+    {
+      "region": "Tumkur",
+      "zone": "south",
+      "reason": "Nitrogen rich soil aids growth",
+      "soil": "Clayey",
+      "rainfall": "500-900mm",
+      "temperature": "22-27°C"
+    },
+    {
+      "region": "Mysore",
+      "zone": "south",
+      "reason": "Ideal farming due to good rainfall",
+      "soil": "Clayey",
+      "rainfall": "600-900mm",
+      "temperature": "22-29°C"
+    },
+    {
+      "region": "Davangere",
+      "zone": "south",
+      "reason": "Favorable conditions for agriculture",
+      "soil": "Black Soil",
+      "rainfall": "650-850mm",
+      "temperature": "23-30°C"
+    },
+    {
+      "region": "Villupuram",
+      "zone": "south",
+      "reason": "Good climate and soil favoring crops",
+      "soil": "Clayey",
+      "rainfall": "700-900mm",
+      "temperature": "23-30°C"
+    },
+    {
+      "region": "Salem",
+      "zone": "south",
+      "reason": "Favorable conditions for various crops",
+      "soil": "Red Soil",
+      "rainfall": "600-800mm",
+      "temperature": "24-32°C"
+    },
+    {
+      "region": "Cuddalore",
+      "zone": "south",
+      "reason": "Suitable conditions for agriculture",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "25-30°C"
+    },
+    {
+      "region": "Namakkal",
+      "zone": "south",
+      "reason": "Good soil conditions for farming",
+      "soil": "Black Soil",
+      "rainfall": "600-750mm",
+      "temperature": "25-30°C"
+    },
+    {
+      "region": "Mahbubnagar",
+      "zone": "south",
+      "reason": "Good irrigation facilities",
+      "soil": "Sandy Soil",
+      "rainfall": "450-650mm",
+      "temperature": "24-32°C"
+    },
+    {
+      "region": "Pune",
+      "zone": "west",
+      "reason": "Ideal for various crops due to soil and climate",
+      "soil": "Loamy Soil",
+      "rainfall": "750-1000mm",
+      "temperature": "24-30°C"
+    }
+  ],
+  "sugar": [
+    {
+      "region": "Ayodhya",
+      "zone": "north",
+      "reason": "Fertile alluvial soil and irrigation from Ghaghara river basin",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Bagpat",
+      "zone": "north",
+      "reason": "High water table and fertile plains ideal for sugarcane",
+      "soil": "Loamy",
+      "rainfall": "850-1000mm",
+      "temperature": "20-33°C"
+    },
+    {
+      "region": "GauthamBudhNagar",
+      "zone": "north",
+      "reason": "Well-irrigated western UP zone with loamy soil",
+      "soil": "Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "21-34°C"
+    },
+    {
+      "region": "Ghazibad",
+      "zone": "north",
+      "reason": "Rich soil and Ganga-Yamuna basin water access",
+      "soil": "Alluvial",
+      "rainfall": "950-1150mm",
+      "temperature": "21-35°C"
+    },
+    {
+      "region": "Jaipur",
+      "zone": "west",
+      "reason": "Grows with supplemental irrigation despite semi-arid climate",
+      "soil": "Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "22-38°C"
+    },
+    {
+      "region": "Lakshmipur",
+      "zone": "east",
+      "reason": "Abundant water and deep alluvial soil from Terai region",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "22-33°C"
+    }
+  ],
+  "green_peas": [
+    {
+      "region": "Sirsa",
+      "zone": "north",
+      "reason": "Sandy loam soil and cool winters ideal for peas",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "10-24°C"
+    },
+    {
+      "region": "Shivmoga",
+      "zone": "south",
+      "reason": "Moist climate and fertile red loamy soil support good yield",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Sangrur",
+      "zone": "north",
+      "reason": "Winter season and fertile plains support pea cultivation",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "10-22°C"
+    },
+    {
+      "region": "Salem",
+      "zone": "south",
+      "reason": "Mild winters and well-drained soil aid growth",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "14-25°C"
+    },
+    {
+      "region": "Ropar",
+      "zone": "north",
+      "reason": "Moist fertile plains with cool winters suit peas",
+      "soil": "Alluvial",
+      "rainfall": "650-850mm",
+      "temperature": "10-23°C"
+    },
+    {
+      "region": "Ranipat",
+      "zone": "south",
+      "reason": "Mild climate and soil conditions favorable for winter peas",
+      "soil": "Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Rampur",
+      "zone": "north",
+      "reason": "Cold winters and Ganga basin soil ideal for winter crops",
+      "soil": "Alluvial",
+      "rainfall": "650-800mm",
+      "temperature": "9-22°C"
+    },
+    {
+      "region": "Pune",
+      "zone": "west",
+      "reason": "Cool season climate and well-drained soil suit peas",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "12-24°C"
+    },
+    {
+      "region": "Nagpur",
+      "zone": "west",
+      "reason": "Moderate winter climate with irrigated farming supports peas",
+      "soil": "Black Soil",
+      "rainfall": "600-800mm",
+      "temperature": "13-25°C"
+    },
+    {
+      "region": "Mysore",
+      "zone": "south",
+      "reason": "Cooler winters and fertile soils help peas thrive",
+      "soil": "Clayey",
+      "rainfall": "600-900mm",
+      "temperature": "14-23°C"
+    },
+    {
+      "region": "Mumbai",
+      "zone": "west",
+      "reason": "Mild winters and controlled cultivation in peri-urban zones",
+      "soil": "Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Manasa",
+      "zone": "central",
+      "reason": "Suitable loamy soil and Rabi season cool temperatures",
+      "soil": "Loamy",
+      "rainfall": "600-700mm",
+      "temperature": "11-24°C"
+    },
+    {
+      "region": "Madurai",
+      "zone": "south",
+      "reason": "Winter season with mild temperatures is suitable",
+      "soil": "Sandy",
+      "rainfall": "600-800mm",
+      "temperature": "14-26°C"
+    },
+    {
+      "region": "Krishnagiri",
+      "zone": "south",
+      "reason": "Mild temperatures and well-drained soils support peas",
+      "soil": "Sandy Loam",
+      "rainfall": "700-850mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Kota",
+      "zone": "north",
+      "reason": "Good irrigation and Rabi season temperatures are ideal",
+      "soil": "Clayey Loam",
+      "rainfall": "600-800mm",
+      "temperature": "10-24°C"
+    },
+    {
+      "region": "Jogdhpur",
+      "zone": "west",
+      "reason": "Winter irrigation and sandy loam soil allow pea cultivation",
+      "soil": "Sandy Loam",
+      "rainfall": "300-500mm",
+      "temperature": "9-22°C"
+    },
+    {
+      "region": "Jalaun",
+      "zone": "north",
+      "reason": "Cold winters and black loamy soil ideal for peas",
+      "soil": "Black Loam",
+      "rainfall": "600-750mm",
+      "temperature": "9-22°C"
+    },
+    {
+      "region": "Jaipur",
+      "zone": "west",
+      "reason": "Cool winters and well-drained soil favor green peas",
+      "soil": "Sandy Loam",
+      "rainfall": "600-700mm",
+      "temperature": "10-24°C"
+    },
+    {
+      "region": "Gurdaspur",
+      "zone": "north",
+      "reason": "Rich soils and Rabi season cool weather ideal for peas",
+      "soil": "Alluvial",
+      "rainfall": "700-900mm",
+      "temperature": "8-22°C"
+    },
+    {
+      "region": "Ganganagar",
+      "zone": "north",
+      "reason": "Cool winters and canal irrigation support peas",
+      "soil": "Sandy",
+      "rainfall": "400-600mm",
+      "temperature": "10-22°C"
+    },
+    {
+      "region": "Dharmapuri",
+      "zone": "south",
+      "reason": "Cool climate and red loamy soil favor seasonal growth",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "13-25°C"
+    },
+    {
+      "region": "Dantewada",
+      "zone": "central",
+      "reason": "Tribal region with loamy soil and winter-suitable weather",
+      "soil": "Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "14-25°C"
+    },
+    {
+      "region": "Dahod",
+      "zone": "west",
+      "reason": "Black loamy soil and mild winters aid pea growth",
+      "soil": "Black Loamy",
+      "rainfall": "700-800mm",
+      "temperature": "12-24°C"
+    },
+    {
+      "region": "Chattrapati Sambhajinagar",
+      "zone": "west",
+      "reason": "Loamy soil and mild winters help Rabi crop cultivation",
+      "soil": "Loamy",
+      "rainfall": "600-750mm",
+      "temperature": "13-24°C"
+    },
+    {
+      "region": "Bikaner",
+      "zone": "west",
+      "reason": "Winter cultivation possible with irrigation support",
+      "soil": "Sandy",
+      "rainfall": "300-400mm",
+      "temperature": "9-21°C"
+    },
+    {
+      "region": "Bhiwani",
+      "zone": "north",
+      "reason": "Sandy loam soil and irrigation favor Rabi crops",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "10-22°C"
+    },
+    {
+      "region": "Bhandra",
+      "zone": "central",
+      "reason": "Cool climate and fertile loam supports pea cultivation",
+      "soil": "Loamy",
+      "rainfall": "700-850mm",
+      "temperature": "12-24°C"
+    },
+    {
+      "region": "Banglore",
+      "zone": "south",
+      "reason": "Mild winters and good drainage suit green peas",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "13-24°C"
+    },
+    {
+      "region": "Balodabazar",
+      "zone": "central",
+      "reason": "Loamy soil and cooler winters favor green pea farming",
+      "soil": "Loamy",
+      "rainfall": "750-900mm",
+      "temperature": "13-25°C"
+    },
+    {
+      "region": "Amdedkarnadar",
+      "zone": "central",
+      "reason": "Favorable soil and moderate climate ideal for peas",
+      "soil": "Sandy Loam",
+      "rainfall": "700-850mm",
+      "temperature": "12-23°C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Cool Rabi season and fertile alluvial soil perfect for peas",
+      "soil": "Alluvial",
+      "rainfall": "700-900mm",
+      "temperature": "10-22°C"
+    },
+    {
+      "region": "Aligarh",
+      "zone": "north",
+      "reason": "Cold winters and good soil texture favor winter peas",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "9-22°C"
+    }
+  ],
+  "maize": [
+    {
+      "region": "YamunaNagar",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "waragal",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Udaipur",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "Thiruvannamali",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "Shivpuri",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Sangrur",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Salem",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Salemgpur",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Nizamabad",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "mahabudnagar",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Sagar",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Sabarkantha",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "Rajkot",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "Raigarh",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "Pachmahals",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "Nawanshahr",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Madurai",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "Ludhiana",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "kurukshetra",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "kurnool",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "krishna",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "kota",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "koria",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "koraput",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "kondagaon",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "kolar",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "kekri",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "kannuj",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "hoshiarpur",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "gariyaband",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "gajapati",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "Fatehabad",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "etach",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Dharmapuri",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "Dewas",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Davanagere",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "Dahod",
+      "zone": "east",
+      "reason": "High moisture and clay soil support maize farming",
+      "soil": "Clayey",
+      "rainfall": "800-1000mm",
+      "temperature": "25-32\u00b0C"
+    },
+    {
+      "region": "chitradurga",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "chhindwara",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "bundi",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "bhiwani",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "bharuch",
+      "zone": "west",
+      "reason": "Semi-arid climate and loamy soil suitable for maize",
+      "soil": "Sandy Loam",
+      "rainfall": "400-700mm",
+      "temperature": "26-35\u00b0C"
+    },
+    {
+      "region": "barnala",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Baran",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "banglore",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "bahraich",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "bagalkot",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "badwani",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Auraiya",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Anantapur",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    },
+    {
+      "region": "Amritsar",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Amarawati",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "Aligarh",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation support maize growth",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "22-35\u00b0C"
+    },
+    {
+      "region": "Akola",
+      "zone": "central",
+      "reason": "Fertile black soil retains moisture for maize growth",
+      "soil": "Black Soil",
+      "rainfall": "600-900mm",
+      "temperature": "24-32\u00b0C"
+    },
+    {
+      "region": "karimnagar",
+      "zone": "south",
+      "reason": "Warm climate and red soil support maize yield",
+      "soil": "Red Loamy",
+      "rainfall": "600-900mm",
+      "temperature": "23-33\u00b0C"
+    }
+  ],
+  "masur": [
+    {
+      "region": "Ranjnandgaon",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Puruliya",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Nadia",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Mumbai",
+      "zone": "north",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Medinipur",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "May",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Howrah",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Hatharas",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Gonda",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Ghaziabad",
+      "zone": "north",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "GautamBudhNagar",
+      "zone": "north",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Darjeeling",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Basti",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Bankura",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Balodabazar",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Bahraich",
+      "zone": "north",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Baghpat",
+      "zone": "north",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Azamgarh",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    },
+    {
+      "region": "Ambedkarnagar",
+      "zone": "east",
+      "reason": "Favorable winter climate and loamy soil support lentil growth",
+      "soil": "Loamy",
+      "rainfall": "300-500mm",
+      "temperature": "18-25\u00b0C"
+    }
+  ],
+  "onion": [
+    {
+      "region": "Agra",
+      "zone": "central",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Black Soil",
+      "rainfall": "500-700mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Ahmedabad",
+      "zone": "central",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "south",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Aligarh",
+      "zone": "central",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Clay Loam",
+      "rainfall": "500-700mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Alipurduar",
+      "zone": "south",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Alwar",
+      "zone": "east",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "south",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Clay Loam",
+      "rainfall": "500-700mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Amritsar",
+      "zone": "east",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Clay Loam",
+      "rainfall": "600-800mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Anand",
+      "zone": "north",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Loamy",
+      "rainfall": "500-700mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Ankola",
+      "zone": "south",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Black Soil",
+      "rainfall": "500-700mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Ayodhya",
+      "zone": "east",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Banglore",
+      "zone": "west",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Clay Loam",
+      "rainfall": "700-900mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Banka",
+      "zone": "east",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Clay Loam",
+      "rainfall": "500-700mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Bankura",
+      "zone": "central",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Loamy",
+      "rainfall": "400-600mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Barnala",
+      "zone": "south",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Clay Loam",
+      "rainfall": "500-700mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Bhatinda",
+      "zone": "north",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Bhilwara",
+      "zone": "south",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Bijnor",
+      "zone": "south",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Bilaspur",
+      "zone": "west",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Chikmagalur",
+      "zone": "north",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "churu",
+      "zone": "north",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Coochbehar",
+      "zone": "central",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Durg",
+      "zone": "west",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Clay Loam",
+      "rainfall": "400-600mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Hanumangarh",
+      "zone": "south",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Hassan",
+      "zone": "west",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Hyderabad",
+      "zone": "east",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Clay Loam",
+      "rainfall": "700-900mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Jalgon",
+      "zone": "south",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Jalpaiguri",
+      "zone": "north",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Kachchh",
+      "zone": "north",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Clay Loam",
+      "rainfall": "400-600mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Kolar",
+      "zone": "west",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Kurnool",
+      "zone": "north",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Ludhiana",
+      "zone": "west",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Madurai",
+      "zone": "west",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Black Soil",
+      "rainfall": "400-600mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Mayurbhanja",
+      "zone": "north",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Clay Loam",
+      "rainfall": "600-800mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Medak",
+      "zone": "central",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Loamy",
+      "rainfall": "400-600mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Mohali",
+      "zone": "north",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Clay Loam",
+      "rainfall": "600-800mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Nadia",
+      "zone": "east",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Nashik",
+      "zone": "east",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Clay Loam",
+      "rainfall": "500-700mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Patna",
+      "zone": "north",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Prayagraj",
+      "zone": "central",
+      "reason": "Balanced temperature and soil conditions",
+      "soil": "Loamy",
+      "rainfall": "500-700mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Raigarh",
+      "zone": "south",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Rajnandgaon",
+      "zone": "central",
+      "reason": "Favorable climate and moderate rainfall",
+      "soil": "Black Soil",
+      "rainfall": "500-700mm",
+      "temperature": "20-30\u00b0C"
+    },
+    {
+      "region": "Sagar",
+      "zone": "central",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Loamy",
+      "rainfall": "500-700mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Salem",
+      "zone": "west",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "thiruvellore",
+      "zone": "south",
+      "reason": "Well-drained soil and good sunlight",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "udaipur",
+      "zone": "north",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Loamy",
+      "rainfall": "400-600mm",
+      "temperature": "24-34\u00b0C"
+    },
+    {
+      "region": "Ujjain",
+      "zone": "south",
+      "reason": "Rich soil with proper irrigation facilities",
+      "soil": "Clay Loam",
+      "rainfall": "600-800mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Warangal",
+      "zone": "central",
+      "reason": "Traditional region for onion cultivation",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "22-32\u00b0C"
+    }
+  ],
+  "jowar": [
+    {
+      "region": "Tonk",
+      "zone": "northwest",
+      "reason": "Hot semi-arid climate supports rabi jowar growth",
+      "soil": "Loamy",
+      "rainfall": "400-600mm",
+      "temperature": "25-32°C"
+    },
+    {
+      "region": "Shimoga",
+      "zone": "south",
+      "reason": "Moderate climate and red soil with organic matter",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "23-30°C"
+    },
+    {
+      "region": "Medak",
+      "zone": "south",
+      "reason": "Dryland farming support with low water requirement",
+      "soil": "Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "26-34°C"
+    },
+    {
+      "region": "Mahbubnagar",
+      "zone": "south",
+      "reason": "Ideal for kharif jowar with dry spells",
+      "soil": "Black Soil",
+      "rainfall": "550-700mm",
+      "temperature": "27-35°C"
+    },
+    {
+      "region": "Latur",
+      "zone": "west",
+      "reason": "Rainfed agriculture with black cotton soil",
+      "soil": "Black Cotton",
+      "rainfall": "500-800mm",
+      "temperature": "24-33°C"
+    },
+    {
+      "region": "Kurnool",
+      "zone": "south",
+      "reason": "Hot dry weather with good soil fertility",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "25-34°C"
+    },
+    {
+      "region": "Kekri",
+      "zone": "northwest",
+      "reason": "Suitable dry zone for jowar cultivation",
+      "soil": "Loamy",
+      "rainfall": "450-650mm",
+      "temperature": "26-34°C"
+    },
+    {
+      "region": "Jodhpur",
+      "zone": "northwest",
+      "reason": "Arid conditions favor hardy crops like jowar",
+      "soil": "Sandy",
+      "rainfall": "300-450mm",
+      "temperature": "28-38°C"
+    },
+    {
+      "region": "Indore",
+      "zone": "central",
+      "reason": "Black soil and medium rainfall is optimal",
+      "soil": "Black Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "23-32°C"
+    },
+    {
+      "region": "Hamirpur",
+      "zone": "north",
+      "reason": "Moderate temperature and loamy soil",
+      "soil": "Loamy",
+      "rainfall": "600-750mm",
+      "temperature": "24-30°C"
+    },
+    {
+      "region": "Coimbatore",
+      "zone": "south",
+      "reason": "Favorable red soil and semi-arid climate",
+      "soil": "Red Sandy",
+      "rainfall": "600-800mm",
+      "temperature": "25-33°C"
+    },
+    {
+      "region": "Burhanpur",
+      "zone": "central",
+      "reason": "High temperature and medium rainfall ideal",
+      "soil": "Black Soil",
+      "rainfall": "700-850mm",
+      "temperature": "26-34°C"
+    },
+    {
+      "region": "Batod",
+      "zone": "west",
+      "reason": "Suited for rainfed sorghum",
+      "soil": "Sandy Loam",
+      "rainfall": "450-600mm",
+      "temperature": "25-34°C"
+    },
+    {
+      "region": "Bidar",
+      "zone": "south",
+      "reason": "Laterite soils and dry spells help growth",
+      "soil": "Red Laterite",
+      "rainfall": "750-900mm",
+      "temperature": "24-32°C"
+    },
+    {
+      "region": "Bellary",
+      "zone": "south",
+      "reason": "Drought-tolerant crop thrives here",
+      "soil": "Sandy",
+      "rainfall": "400-650mm",
+      "temperature": "26-36°C"
+    },
+    {
+      "region": "Belgaum",
+      "zone": "southwest",
+      "reason": "Black cotton soil retains moisture",
+      "soil": "Black Cotton",
+      "rainfall": "800-1100mm",
+      "temperature": "22-30°C"
+    },
+    {
+      "region": "Banashankanth",
+      "zone": "south",
+      "reason": "Good sun exposure and fertile land",
+      "soil": "Red Loamy",
+      "rainfall": "600-750mm",
+      "temperature": "24-32°C"
+    },
+    {
+      "region": "Bangalore",
+      "zone": "south",
+      "reason": "Supportive weather and loamy soil",
+      "soil": "Loamy",
+      "rainfall": "850-1000mm",
+      "temperature": "20-28°C"
+    },
+    {
+      "region": "Amreli",
+      "zone": "west",
+      "reason": "Semi-arid region perfect for dry crops",
+      "soil": "Sandy Loam",
+      "rainfall": "500-650mm",
+      "temperature": "26-35°C"
+    },
+    {
+      "region": "Adilabad",
+      "zone": "south",
+      "reason": "Red and black soils with moderate rainfall",
+      "soil": "Mixed Soil",
+      "rainfall": "700-900mm",
+      "temperature": "24-33°C"
+    }
+  ],
+  "tomato": [
+    {
+      "region": "Tripura",
+      "zone": "east",
+      "reason": "Humid climate with fertile alluvial soils",
+      "soil": "Alluvial",
+      "rainfall": "2000-2500mm",
+      "temperature": "21-32°C"
+    },
+    {
+      "region": "Thiruchirappalli",
+      "zone": "south",
+      "reason": "Tropical climate with red loamy soil and adequate irrigation",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "Sirohi",
+      "zone": "west",
+      "reason": "Arid climate with sandy loam soils, irrigation support needed",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "24-40°C"
+    },
+    {
+      "region": "Sagar",
+      "zone": "central",
+      "reason": "Semi-arid with black and loamy soils",
+      "soil": "Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Rajnandgaon",
+      "zone": "central",
+      "reason": "Tropical weather with good loamy soil and irrigation",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "21-35°C"
+    },
+    {
+      "region": "Raigarh",
+      "zone": "central",
+      "reason": "Moderate climate and fertile soils suitable for vegetables",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Pudukkottai",
+      "zone": "south",
+      "reason": "Dry weather with red soil, well suited with irrigation",
+      "soil": "Red Sandy Loam",
+      "rainfall": "800-1000mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "Paschimbardhaman",
+      "zone": "east",
+      "reason": "Sub-humid with fertile alluvial soils",
+      "soil": "Alluvial",
+      "rainfall": "1200-1500mm",
+      "temperature": "22-33°C"
+    },
+    {
+      "region": "Mumbai",
+      "zone": "west",
+      "reason": "Coastal climate with black soil and good drainage",
+      "soil": "Black",
+      "rainfall": "2000-2500mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Madurai",
+      "zone": "south",
+      "reason": "Hot, semi-arid climate with red loamy soil and irrigation",
+      "soil": "Red Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "23-36°C"
+    },
+    {
+      "region": "Kurukshetra",
+      "zone": "north",
+      "reason": "Alluvial plains with good irrigation facilities",
+      "soil": "Alluvial",
+      "rainfall": "600-900mm",
+      "temperature": "18-34°C"
+    },
+    {
+      "region": "Kurnool",
+      "zone": "south",
+      "reason": "Dry climate with red and black soils suitable for tomato",
+      "soil": "Red and Black",
+      "rainfall": "700-900mm",
+      "temperature": "22-37°C"
+    },
+    {
+      "region": "Kolkata",
+      "zone": "east",
+      "reason": "Humid climate with fertile alluvial soil",
+      "soil": "Alluvial",
+      "rainfall": "1500-1800mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Kolar",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soils ideal for tomato",
+      "soil": "Red Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Khundra",
+      "zone": "east",
+      "reason": "Moist climate with loamy soils and fair drainage",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "22-33°C"
+    },
+    {
+      "region": "Keonjhar",
+      "zone": "east",
+      "reason": "Hilly terrain with red soils and moderate temperature",
+      "soil": "Red Loamy",
+      "rainfall": "1200-1400mm",
+      "temperature": "21-32°C"
+    },
+    {
+      "region": "Indore",
+      "zone": "central",
+      "reason": "Dry tropical climate with well-drained black soils",
+      "soil": "Black",
+      "rainfall": "800-1000mm",
+      "temperature": "22-35°C"
+    },
+    {
+      "region": "Hassan",
+      "zone": "south",
+      "reason": "Cooler climate with lateritic red soils and good irrigation",
+      "soil": "Laterite",
+      "rainfall": "1000-1200mm",
+      "temperature": "18-30°C"
+    },
+    {
+      "region": "Durg",
+      "zone": "central",
+      "reason": "Suitable loamy soil and favorable weather for vegetables",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "21-33°C"
+    },
+    {
+      "region": "Dharmapuri",
+      "zone": "south",
+      "reason": "Dry climate with well-drained red soils",
+      "soil": "Red Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "DakshinDinajpur",
+      "zone": "east",
+      "reason": "Humid climate with fertile soils",
+      "soil": "Alluvial",
+      "rainfall": "1400-1800mm",
+      "temperature": "22-33°C"
+    },
+    {
+      "region": "Chottor",
+      "zone": "east",
+      "reason": "Moist subtropical conditions with loamy soil",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "21-32°C"
+    },
+    {
+      "region": "Chikmagalur",
+      "zone": "south",
+      "reason": "Cool climate and laterite soils suitable for off-season tomato",
+      "soil": "Laterite",
+      "rainfall": "1500-2000mm",
+      "temperature": "18-30°C"
+    },
+    {
+      "region": "Bharuch",
+      "zone": "west",
+      "reason": "Dry climate and black cotton soils ideal for irrigated farming",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "22-38°C"
+    },
+    {
+      "region": "Bargarh",
+      "zone": "east",
+      "reason": "Subtropical weather and fertile loamy soils",
+      "soil": "Loamy",
+      "rainfall": "1200-1400mm",
+      "temperature": "22-33°C"
+    },
+    {
+      "region": "Bareilly",
+      "zone": "north",
+      "reason": "Alluvial plains with good moisture content for tomato",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "20-36°C"
+    },
+    {
+      "region": "Bangalore",
+      "zone": "south",
+      "reason": "Mild climate with red soils ideal for year-round tomato",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "18-32°C"
+    },
+    {
+      "region": "Auraiya",
+      "zone": "north",
+      "reason": "Fertile plains and well-drained alluvial soil",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "20-35°C"
+    },
+    {
+      "region": "Anand",
+      "zone": "west",
+      "reason": "Tropical dry climate with good irrigation facilities",
+      "soil": "Black Loam",
+      "rainfall": "700-900mm",
+      "temperature": "22-37°C"
+    },
+    {
+      "region": "Amritsar",
+      "zone": "north",
+      "reason": "Cool winters and well-drained loamy soils",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "18-34°C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Subtropical climate with well-drained soil and irrigation",
+      "soil": "Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Alwar",
+      "zone": "north",
+      "reason": "Semi-arid conditions with red sandy soils and irrigation support",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "22-38°C"
+    },
+    {
+      "region": "Alipurduar",
+      "zone": "east",
+      "reason": "High humidity and fertile soil, great for short-duration tomato crops",
+      "soil": "Alluvial",
+      "rainfall": "2500-3000mm",
+      "temperature": "21-30°C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "west",
+      "reason": "Hot dry climate, black soil with irrigation preferred",
+      "soil": "Black",
+      "rainfall": "500-700mm",
+      "temperature": "22-38°C"
+    },
+    {
+      "region": "Ahmedabad",
+      "zone": "west",
+      "reason": "Dry climate with sandy loam soil and irrigation availability",
+      "soil": "Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "22-40°C"
+    },
+    {
+      "region": "Agra",
+      "zone": "north",
+      "reason": "Alluvial plains, good sun and irrigation access",
+      "soil": "Alluvial",
+      "rainfall": "600-900mm",
+      "temperature": "20-36°C"
+    }
+  ],
+  "coriander": [
+    {
+      "region": "Tumkuru",
+      "zone": "south",
+      "reason": "Semi-arid climate suitable for rabi season coriander with red sandy loam soils",
+      "soil": "Red Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Thiruvananthapuram",
+      "zone": "south",
+      "reason": "Humid climate suitable for short duration coriander varieties",
+      "soil": "Laterite",
+      "rainfall": "1600-1800mm",
+      "temperature": "22-32°C"
+    },
+    {
+      "region": "Thirunelveli",
+      "zone": "south",
+      "reason": "Dry tropical climate supports winter crop of coriander",
+      "soil": "Red Loamy",
+      "rainfall": "600-700mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Sonipat",
+      "zone": "north",
+      "reason": "Subtropical climate with good irrigation potential, ideal for rabi coriander",
+      "soil": "Alluvial",
+      "rainfall": "700-900mm",
+      "temperature": "18-30°C"
+    },
+    {
+      "region": "Solapur",
+      "zone": "west",
+      "reason": "Semi-arid climate, perfect for coriander in post-monsoon season",
+      "soil": "Black Cotton",
+      "rainfall": "500-700mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Shajapur",
+      "zone": "central",
+      "reason": "Black cotton soils and dry weather support coriander well",
+      "soil": "Black Cotton",
+      "rainfall": "700-900mm",
+      "temperature": "18-32°C"
+    },
+    {
+      "region": "Sangrur",
+      "zone": "north",
+      "reason": "Irrigated plains with rich soils are ideal for coriander",
+      "soil": "Alluvial",
+      "rainfall": "500-700mm",
+      "temperature": "18-28°C"
+    },
+    {
+      "region": "Salem",
+      "zone": "south",
+      "reason": "Moderate climate and red loamy soil suitable for coriander",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Saharanpur",
+      "zone": "north",
+      "reason": "Subtropical conditions favor coriander as a winter crop",
+      "soil": "Alluvial",
+      "rainfall": "900-1100mm",
+      "temperature": "16-28°C"
+    },
+    {
+      "region": "Pudukkottai",
+      "zone": "south",
+      "reason": "Semi-arid region suitable for short-season coriander",
+      "soil": "Red Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Malappuram",
+      "zone": "south",
+      "reason": "High humidity region; coriander can grow in cooler season",
+      "soil": "Laterite",
+      "rainfall": "2000-2500mm",
+      "temperature": "22-30°C"
+    },
+    {
+      "region": "Kurukshetra",
+      "zone": "north",
+      "reason": "Cool winters and fertile plains make it ideal for coriander",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "18-28°C"
+    },
+    {
+      "region": "Koraput",
+      "zone": "east",
+      "reason": "Hilly terrain with red soils allows coriander in winter season",
+      "soil": "Red Loamy",
+      "rainfall": "1200-1400mm",
+      "temperature": "15-28°C"
+    },
+    {
+      "region": "Kolar",
+      "zone": "south",
+      "reason": "Semi-arid conditions and loamy soils good for coriander",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Jalgaon",
+      "zone": "west",
+      "reason": "Dry climate with irrigation support suitable for rabi coriander",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Jaipur",
+      "zone": "north",
+      "reason": "Arid to semi-arid zone supports coriander in winter with irrigation",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "15-30°C"
+    },
+    {
+      "region": "Guna",
+      "zone": "central",
+      "reason": "Black soils and moderate rainfall favorable for coriander",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "18-30°C"
+    },
+    {
+      "region": "Gadag",
+      "zone": "south",
+      "reason": "Dry region ideal for coriander during winter",
+      "soil": "Red Loamy",
+      "rainfall": "600-700mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Fazilka",
+      "zone": "north",
+      "reason": "Fertile plains with irrigation ideal for coriander",
+      "soil": "Alluvial",
+      "rainfall": "400-600mm",
+      "temperature": "15-28°C"
+    },
+    {
+      "region": "Fatehgarh Sahib",
+      "zone": "north",
+      "reason": "Cool and irrigated conditions suitable for coriander cultivation",
+      "soil": "Alluvial",
+      "rainfall": "500-800mm",
+      "temperature": "15-28°C"
+    },
+    {
+      "region": "Durg",
+      "zone": "central",
+      "reason": "Moderate climate and loamy soils suitable for coriander",
+      "soil": "Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Dharmapuri",
+      "zone": "south",
+      "reason": "Dry climate supports coriander during post-monsoon",
+      "soil": "Red Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Bikaner",
+      "zone": "west",
+      "reason": "Arid desert climate; coriander possible with irrigation in winter",
+      "soil": "Sandy Loam",
+      "rainfall": "200-300mm",
+      "temperature": "15-30°C"
+    },
+    {
+      "region": "Ashoknagar",
+      "zone": "central",
+      "reason": "Black soil and moderate weather in rabi season support coriander",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "18-30°C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Subtropical climate with fertile soils ideal for coriander",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "18-30°C"
+    },
+    {
+      "region": "Alwar",
+      "zone": "north",
+      "reason": "Dry climate with irrigation support suits coriander in winter",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "16-30°C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "west",
+      "reason": "Semi-arid region good for coriander with controlled irrigation",
+      "soil": "Black Cotton",
+      "rainfall": "500-800mm",
+      "temperature": "20-34°C"
+    }
+  ],
+  "turmeric": [
+    {
+      "region": "Yavatmal",
+      "zone": "west",
+      "reason": "Subtropical climate with black cotton soil ideal for turmeric rhizome development",
+      "soil": "Black Cotton",
+      "rainfall": "900-1100mm",
+      "temperature": "20-35°C"
+    },
+    {
+      "region": "Warangal",
+      "zone": "south",
+      "reason": "Tropical semi-arid climate with red loamy soils, good drainage",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Vashin",
+      "zone": "west",
+      "reason": "Moderate climate and fertile loamy soils support rhizome crops",
+      "soil": "Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Sangli",
+      "zone": "west",
+      "reason": "Ideal warm and moist conditions with well-drained soil",
+      "soil": "Black Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Parbhani",
+      "zone": "west",
+      "reason": "Semi-arid climate with rich black soils and irrigation availability",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "23-35°C"
+    },
+    {
+      "region": "Nizamabad",
+      "zone": "south",
+      "reason": "Hot and humid conditions favor turmeric growth with loamy soils",
+      "soil": "Loamy",
+      "rainfall": "900-1200mm",
+      "temperature": "24-35°C"
+    },
+    {
+      "region": "Nanded",
+      "zone": "west",
+      "reason": "Black soil and suitable temperature conditions promote good turmeric yield",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "Murshidabad",
+      "zone": "east",
+      "reason": "Humid subtropical climate with fertile alluvial soil",
+      "soil": "Alluvial",
+      "rainfall": "1500-1800mm",
+      "temperature": "22-35°C"
+    },
+    {
+      "region": "Mumbai",
+      "zone": "west",
+      "reason": "Coastal tropical climate with red laterite soils",
+      "soil": "Red Laterite",
+      "rainfall": "2000-2500mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Karimnagar",
+      "zone": "south",
+      "reason": "Dry tropical conditions with irrigation support and loamy soil",
+      "soil": "Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Indore",
+      "zone": "central",
+      "reason": "Moderate climate and well-drained black soils support turmeric crop",
+      "soil": "Black Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-34°C"
+    },
+    {
+      "region": "Hyderabad",
+      "zone": "south",
+      "reason": "Tropical dry climate with red sandy loam soils suitable for spices",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "23-36°C"
+    },
+    {
+      "region": "Hingoli",
+      "zone": "west",
+      "reason": "Good rainfall and fertile black soil enhance turmeric root development",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "22-35°C"
+    },
+    {
+      "region": "Guntur",
+      "zone": "south",
+      "reason": "Major turmeric belt with suitable loamy soil and tropical climate",
+      "soil": "Loamy",
+      "rainfall": "900-1200mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Gonda",
+      "zone": "north",
+      "reason": "Subtropical climate with fertile alluvial soil and sufficient humidity",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "22-35°C"
+    },
+    {
+      "region": "Cuddapah",
+      "zone": "south",
+      "reason": "Red sandy loam soils and semi-arid climate suitable for turmeric",
+      "soil": "Sandy Loam",
+      "rainfall": "800-1000mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Chamarajnagar",
+      "zone": "south",
+      "reason": "Tropical climate with loamy soil and moderate rainfall",
+      "soil": "Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Banglore",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soil favorable for turmeric",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Amethi",
+      "zone": "north",
+      "reason": "Alluvial soil and humid subtropical conditions support turmeric cultivation",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "22-35°C"
+    },
+    {
+      "region": "Adilabad",
+      "zone": "south",
+      "reason": "Rich black soils and tropical semi-arid conditions ideal for turmeric",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "23-36°C"
+    }
+  ],
+  "orange": [
+    {
+      "region": "Thiruvananthapuram",
+      "zone": "south",
+      "reason": "Humid tropical climate with well-drained laterite soils",
+      "soil": "Laterite",
+      "rainfall": "2000-2500mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Shajapur",
+      "zone": "central",
+      "reason": "Moderate climate with black cotton soils ideal for citrus",
+      "soil": "Black Cotton",
+      "rainfall": "800-1200mm",
+      "temperature": "20-36\u00b0C"
+    },
+    {
+      "region": "Salem",
+      "zone": "south",
+      "reason": "Dry climate and red loamy soils support orange orchards",
+      "soil": "Red Loamy",
+      "rainfall": "700-1000mm",
+      "temperature": "22-34\u00b0C"
+    },
+    {
+      "region": "Rajnandgaon",
+      "zone": "central",
+      "reason": "Tropical climate with fertile loamy soils",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "20-34\u00b0C"
+    },
+    {
+      "region": "Porbandar",
+      "zone": "west",
+      "reason": "Coastal climate with sandy loam soils",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "24-36\u00b0C"
+    },
+    {
+      "region": "Malappuram",
+      "zone": "south",
+      "reason": "Humid tropical climate with laterite soils",
+      "soil": "Laterite",
+      "rainfall": "2000-2500mm",
+      "temperature": "22-32\u00b0C"
+    },
+    {
+      "region": "Madurai",
+      "zone": "south",
+      "reason": "Dry climate with red loamy soils",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "24-36\u00b0C"
+    },
+    {
+      "region": "Krishnagiri",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soils",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "22-34\u00b0C"
+    },
+    {
+      "region": "Kolkota",
+      "zone": "east",
+      "reason": "Humid subtropical climate with alluvial soils",
+      "soil": "Alluvial",
+      "rainfall": "1500-1800mm",
+      "temperature": "24-35\u00b0C"
+    },
+    {
+      "region": "Idukki",
+      "zone": "south",
+      "reason": "Hilly terrain with laterite soils and high rainfall",
+      "soil": "Laterite",
+      "rainfall": "2500-3000mm",
+      "temperature": "18-28\u00b0C"
+    },
+    {
+      "region": "Hissar",
+      "zone": "north",
+      "reason": "Semi-arid climate with sandy loam soils",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "20-40\u00b0C"
+    },
+    {
+      "region": "Durg",
+      "zone": "central",
+      "reason": "Tropical climate with fertile loamy soils",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "22-34\u00b0C"
+    },
+    {
+      "region": "Darjeeling",
+      "zone": "east",
+      "reason": "Hilly terrain with well-drained soils and moderate climate",
+      "soil": "Loamy",
+      "rainfall": "2000-2500mm",
+      "temperature": "15-25\u00b0C"
+    },
+    {
+      "region": "Chengalpattu",
+      "zone": "south",
+      "reason": "Coastal climate with sandy loam soils",
+      "soil": "Sandy Loam",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-36\u00b0C"
+    },
+    {
+      "region": "Chattrapati Sambhajinagar",
+      "zone": "west",
+      "reason": "Semi-arid climate with black cotton soils",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "22-38\u00b0C"
+    },
+    {
+      "region": "Bilaspur",
+      "zone": "central",
+      "reason": "Tropical climate with loamy soils",
+      "soil": "Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "22-34\u00b0C"
+    },
+    {
+      "region": "Barnala",
+      "zone": "north",
+      "reason": "Semi-arid climate with sandy loam soils",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "20-38\u00b0C"
+    },
+    {
+      "region": "Bangalore",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soils",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-32\u00b0C"
+    },
+    {
+      "region": "Banaskanth",
+      "zone": "west",
+      "reason": "Arid climate with sandy soils",
+      "soil": "Sandy",
+      "rainfall": "300-500mm",
+      "temperature": "24-42\u00b0C"
+    },
+    {
+      "region": "Amritsar",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "20-38\u00b0C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Subtropical climate with loamy soils",
+      "soil": "Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "20-36\u00b0C"
+    },
+    {
+      "region": "Amaravaati",
+      "zone": "south",
+      "reason": "Tropical climate with black cotton soils",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "22-36\u00b0C"
+    },
+    {
+      "region": "Alwar",
+      "zone": "north",
+      "reason": "Semi-arid climate with sandy loam soils",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "22-40\u00b0C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "west",
+      "reason": "Semi-arid climate with black cotton soils",
+      "soil": "Black Cotton",
+      "rainfall": "500-800mm",
+      "temperature": "22-38\u00b0C"
+    }
+  ],
+  "wheat": [
+    {
+      "region": "Bijapur",
+      "zone": "south",
+      "reason": "Semi-arid climate with black cotton soils; suitable for wheat during cooler months",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Gadag",
+      "zone": "south",
+      "reason": "Semi-arid climate with red loamy soils; supports wheat cultivation in rabi season",
+      "soil": "Red Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Mysore",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soils; conducive for wheat growth",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "18-28°C"
+    },
+    {
+      "region": "Shimoga",
+      "zone": "south",
+      "reason": "Humid climate with laterite soils; wheat cultivation possible in cooler months",
+      "soil": "Laterite",
+      "rainfall": "1000-1200mm",
+      "temperature": "18-28°C"
+    },
+    {
+      "region": "Chikmagalur",
+      "zone": "south",
+      "reason": "Hilly terrain with red loamy soils; suitable for wheat during cooler periods",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Dharwad",
+      "zone": "south",
+      "reason": "Moderate climate with black cotton soils; supports wheat cultivation",
+      "soil": "Black Cotton",
+      "rainfall": "700-900mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Hassan",
+      "zone": "south",
+      "reason": "Cool climate with red loamy soils; conducive for wheat growth",
+      "soil": "Red Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Davangere",
+      "zone": "south",
+      "reason": "Semi-arid climate with black cotton soils; suitable for wheat in rabi season",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Adilabad",
+      "zone": "south",
+      "reason": "Tropical climate with black cotton soils; wheat cultivation possible in cooler months",
+      "soil": "Black Cotton",
+      "rainfall": "800-1000mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Medak",
+      "zone": "south",
+      "reason": "Semi-arid climate with red loamy soils; supports wheat cultivation during rabi season",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Sangrur",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; ideal for wheat cultivation",
+      "soil": "Alluvial",
+      "rainfall": "500-700mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Muktsar",
+      "zone": "north",
+      "reason": "Semi-arid climate with loamy soils; suitable for wheat during rabi season",
+      "soil": "Loamy",
+      "rainfall": "400-600mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Fatehgarh",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; conducive for wheat growth",
+      "soil": "Alluvial",
+      "rainfall": "500-700mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Kapurthala",
+      "zone": "north",
+      "reason": "Subtropical climate with loamy soils; supports wheat cultivation",
+      "soil": "Loamy",
+      "rainfall": "500-700mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Patiala",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; ideal for wheat farming",
+      "soil": "Alluvial",
+      "rainfall": "500-700mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Nawanshahr",
+      "zone": "north",
+      "reason": "Subtropical climate with loamy soils; suitable for wheat cultivation",
+      "soil": "Loamy",
+      "rainfall": "500-700mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Yamuna Nagar",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; conducive for wheat growth",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Hissar",
+      "zone": "north",
+      "reason": "Semi-arid climate with sandy loam soils; supports wheat cultivation during rabi season",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; ideal for wheat farming",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Agra",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; suitable for wheat cultivation",
+      "soil": "Alluvial",
+      "rainfall": "500-700mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Mirzapur",
+      "zone": "north",
+      "reason": "Subtropical climate with loamy soils; conducive for wheat growth",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    },
+
+    {
+      "region": "Lalitpur",
+      "zone": "north",
+      "reason": "Semi-arid climate with black cotton soils; ideal for wheat during the rabi season",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Banda",
+      "zone": "north",
+      "reason": "Semi-arid to subtropical climate with loamy soils; supports wheat growth",
+      "soil": "Loamy",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Basti",
+      "zone": "north",
+      "reason": "Humid subtropical climate with alluvial soils; highly suitable for wheat",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Bijnor",
+      "zone": "north",
+      "reason": "Humid subtropical climate with fertile alluvial soils; excellent wheat-growing region",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Gonda",
+      "zone": "north",
+      "reason": "Subtropical monsoon climate with alluvial soils; supports high wheat yields",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Allahabad (Prayagraj)",
+      "zone": "north",
+      "reason": "Alluvial plains and favorable rabi season climate; good for wheat",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Sitapur",
+      "zone": "north",
+      "reason": "Subtropical climate with fertile alluvial soils; ideal for wheat",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Lucknow",
+      "zone": "north",
+      "reason": "Alluvial soils and suitable winter temperatures make it ideal for wheat",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Gorakhpur",
+      "zone": "north",
+      "reason": "Humid subtropical climate with fertile soils; excellent for wheat cultivation",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Raebareli",
+      "zone": "north",
+      "reason": "Moderate rabi climate and fertile plains support wheat growth",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Etawah",
+      "zone": "north",
+      "reason": "Alluvial soils and suitable winter climate; good wheat-growing region",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Shahjahanpur",
+      "zone": "north",
+      "reason": "Subtropical alluvial plains; favorable for wheat farming",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Bareilly",
+      "zone": "north",
+      "reason": "Alluvial soils and favorable rabi season temperatures; good for wheat",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Budaun",
+      "zone": "north",
+      "reason": "Alluvial soils with favorable wheat-growing conditions during winter",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "10-25°C"
+    },
+    {
+      "region": "Jalaun (Orai)",
+      "zone": "north",
+      "reason": "Semi-arid climate with black cotton soils; supports wheat cultivation during rabi season due to moderate winter temperatures and low rainfall needs",
+      "soil": "Black Cotton",
+      "rainfall": "600-800mm",
+      "temperature": "10-25°C"
+    }
+  ],
+  "rice": [
+    {
+      "region": "Shimoga",
+      "zone": "south",
+      "reason": "Humid tropical climate with lateritic soils; abundant rainfall supports paddy cultivation",
+      "soil": "Lateritic",
+      "rainfall": "1500-2000mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Bidar",
+      "zone": "south",
+      "reason": "Semi-arid climate with black soils; irrigation supports rice farming",
+      "soil": "Black",
+      "rainfall": "850-950mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Davangere",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soils; suitable for rice with irrigation",
+      "soil": "Red Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Koppal",
+      "zone": "south",
+      "reason": "Semi-arid climate with black soils; rice grown in irrigated areas",
+      "soil": "Black",
+      "rainfall": "600-800mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "Kalaburagi",
+      "zone": "south",
+      "reason": "Semi-arid climate with black soils; irrigation enables rice cultivation",
+      "soil": "Black",
+      "rainfall": "700-850mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "Mysore",
+      "zone": "south",
+      "reason": "Tropical climate with red loamy soils; adequate rainfall supports rice farming",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Hassan",
+      "zone": "south",
+      "reason": "Humid climate with lateritic soils; high rainfall favors paddy cultivation",
+      "soil": "Lateritic",
+      "rainfall": "1200-1500mm",
+      "temperature": "18-28°C"
+    },
+    {
+      "region": "Raichur",
+      "zone": "south",
+      "reason": "Semi-arid climate with black soils; irrigation supports rice farming",
+      "soil": "Black",
+      "rainfall": "600-800mm",
+      "temperature": "22-36°C"
+    },
+    {
+      "region": "Tumkur",
+      "zone": "south",
+      "reason": "Moderate climate with red loamy soils; suitable for rice with irrigation",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "20-32°C"
+    },
+    {
+      "region": "Auraiya",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; favorable for rice cultivation",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Agra",
+      "zone": "north",
+      "reason": "Semi-arid climate with alluvial soils; rice grown with irrigation",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "25-38°C"
+    },
+    {
+      "region": "Mirzapur",
+      "zone": "north",
+      "reason": "Humid subtropical climate with alluvial soils; suitable for rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Ambedkarnagar",
+      "zone": "north",
+      "reason": "Humid subtropical climate with fertile alluvial soils; ideal for rice cultivation",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Prayagraj",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; rice grown with adequate rainfall",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Aligarh",
+      "zone": "north",
+      "reason": "Semi-arid climate with alluvial soils; rice cultivation supported by irrigation",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "25-38°C"
+    },
+    {
+      "region": "Hamirpur",
+      "zone": "north",
+      "reason": "Semi-arid climate with alluvial soils; rice grown in irrigated areas",
+      "soil": "Alluvial",
+      "rainfall": "600-800mm",
+      "temperature": "25-38°C"
+    },
+    {
+      "region": "Bijnor",
+      "zone": "north",
+      "reason": "Humid subtropical climate with fertile alluvial soils; favorable for rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Fatehpur",
+      "zone": "north",
+      "reason": "Subtropical climate with alluvial soils; rice cultivation supported by rainfall",
+      "soil": "Alluvial",
+      "rainfall": "800-1000mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Chandauli",
+      "zone": "north",
+      "reason": "Humid subtropical climate with fertile alluvial soils; ideal for rice cultivation",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Raigad",
+      "zone": "west",
+      "reason": "Coastal climate with lateritic soils; high rainfall supports rice farming",
+      "soil": "Lateritic",
+      "rainfall": "2000-2500mm",
+      "temperature": "24-32°C"
+    },
+    {
+      "region": "Bhandara",
+      "zone": "west",
+      "reason": "Humid climate with clayey soils; abundant rainfall favors rice cultivation",
+      "soil": "Clayey",
+      "rainfall": "1200-1500mm",
+      "temperature": "24-32°C"
+    },
+    {
+      "region": "Sholapur",
+      "zone": "west",
+      "reason": "Semi-arid climate with black soils; rice cultivation supported by irrigation",
+      "soil": "Black",
+      "rainfall": "500-700mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Nagpur",
+      "zone": "west",
+      "reason": "Tropical climate with black soils; adequate rainfall supports rice farming",
+      "soil": "Black",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Dahod",
+      "zone": "west",
+      "reason": "Subtropical climate with black soils; rice cultivation supported by rainfall",
+      "soil": "Black",
+      "rainfall": "800-1000mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Bharuch",
+      "zone": "west",
+      "reason": "Coastal climate with alluvial soils; high rainfall favors rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Vadodara (Baroda)",
+      "zone": "west",
+      "reason": "Subtropical climate with black soils; rice cultivation supported by irrigation",
+      "soil": "Black",
+      "rainfall": "800-1000mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Jharsuguda",
+      "zone": "east",
+      "reason": "Humid subtropical climate with alluvial soils; abundant rainfall supports rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Bolangir",
+      "zone": "east",
+      "reason": "Subtropical climate with red loamy soils; rice cultivation supported by rainfall",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Sundergarh",
+      "zone": "east",
+      "reason": "Humid subtropical climate with lateritic soils; high rainfall favors rice farming",
+      "soil": "Lateritic",
+      "rainfall": "1200-1400mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Mayurbhanja",
+      "zone": "east",
+      "reason": "Subtropical climate with red loamy soils; rice cultivation supported by rainfall",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Paschim Bardhaman",
+      "zone": "east",
+      "reason": "Humid subtropical climate with alluvial soils; abundant rainfall supports rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Puruliya",
+      "zone": "east",
+      "reason": "Subtropical climate with red loamy soils; rice cultivation supported by rainfall",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Bankura",
+      "zone": "east",
+      "reason": "Subtropical climate with lateritic soils; rice cultivation supported by rainfall",
+      "soil": "Lateritic",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Murshidabad",
+      "zone": "east",
+      "reason": "Humid subtropical climate with alluvial soils; abundant rainfall supports rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Nadia",
+      "zone": "east",
+      "reason": "Humid subtropical climate with alluvial soils; abundant rainfall supports rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "24-34°C"
+    },
+
+    {
+      "region": "Thanjavur",
+      "zone": "south",
+      "reason": "Fertile deltaic soil with abundant water from the Kaveri river",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Kurnool",
+      "zone": "south",
+      "reason": "Tungabhadra canal irrigation and fertile soils support rice farming",
+      "soil": "Black and Red",
+      "rainfall": "800-1000mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Raichur",
+      "zone": "south",
+      "reason": "Krishna river irrigation and loamy soils ideal for rice",
+      "soil": "Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "26-38°C"
+    },
+    {
+      "region": "Nashik",
+      "zone": "west",
+      "reason": "Rice grown in irrigated tracts of black soil",
+      "soil": "Black",
+      "rainfall": "700-1100mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Nagpur",
+      "zone": "west",
+      "reason": "Paddy cultivation in lowlands with moderate rainfall",
+      "soil": "Lateritic and Black",
+      "rainfall": "800-1000mm",
+      "temperature": "25-38°C"
+    },
+    {
+      "region": "Bhandara",
+      "zone": "west",
+      "reason": "Known as the rice bowl of Maharashtra; high water availability",
+      "soil": "Alluvial and Black",
+      "rainfall": "1000-1200mm",
+      "temperature": "25-36°C"
+    },
+    {
+      "region": "Patna",
+      "zone": "east",
+      "reason": "Fertile Indo-Gangetic plains with good water supply",
+      "soil": "Alluvial",
+      "rainfall": "1000-1200mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Birbhum",
+      "zone": "east",
+      "reason": "Alluvial and lateritic soil with good irrigation for rice",
+      "soil": "Alluvial and Lateritic",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Cuttack",
+      "zone": "east",
+      "reason": "Delta region with frequent rainfall and rich soil",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Alipurduar",
+      "zone": "east",
+      "reason": "Humid subtropical climate with alluvial soils; abundant rainfall supports rice farming",
+      "soil": "Alluvial",
+      "rainfall": "1200-1400mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "west",
+      "reason": "Semi-arid climate with black soils; rice grown in irrigated areas",
+      "soil": "Black",
+      "rainfall": "500-700mm",
+      "temperature": "24-36°C"
+    }
+  ],
+
+  "gur": [
+    {
+      "region": "Bangalore",
+      "zone": "south",
+      "reason": "Warm climate and red loamy soil are favorable for sugarcane cultivation used in gur",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Kolar",
+      "zone": "south",
+      "reason": "Moderate rainfall and fertile soil support sugarcane for gur production",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Belgaum",
+      "zone": "south",
+      "reason": "Well-known sugarcane producing region with suitable climate for gur",
+      "soil": "Black Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Shimoga",
+      "zone": "south",
+      "reason": "High rainfall and red loamy soil aid in sugarcane cultivation",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1300mm",
+      "temperature": "23-33°C"
+    },
+    {
+      "region": "Chamrajnagar",
+      "zone": "south",
+      "reason": "Moderate rainfall and fertile land support gur production",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Chitradurga",
+      "zone": "south",
+      "reason": "Suitable soil and temperature make it a good location for sugarcane-based gur",
+      "soil": "Loamy Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Mandya",
+      "zone": "south",
+      "reason": "Known for sugarcane farming with good irrigation and soil",
+      "soil": "Black Cotton Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-35°C"
+    },
+    {
+      "region": "Kalburgi",
+      "zone": "south",
+      "reason": "Dry climate with irrigation supports sugarcane cultivation",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "25-38°C"
+    },
+    {
+      "region": "Visakhapatnam",
+      "zone": "south",
+      "reason": "Moist climate with well-drained soil helps in sugarcane growth",
+      "soil": "Red Sandy Loam",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-33°C"
+    },
+    {
+      "region": "Chittor",
+      "zone": "south",
+      "reason": "Moderate rainfall and fertile plains are ideal for gur",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Erode",
+      "zone": "south",
+      "reason": "High yield sugarcane variety cultivated for gur",
+      "soil": "Sandy Loam",
+      "rainfall": "800-1000mm",
+      "temperature": "25-36°C"
+    },
+    {
+      "region": "Mahbubnagar",
+      "zone": "south",
+      "reason": "Dry climate but well-irrigated for sugarcane farming",
+      "soil": "Loamy Soil",
+      "rainfall": "700-900mm",
+      "temperature": "26-36°C"
+    },
+    {
+      "region": "Auraiya",
+      "zone": "north",
+      "reason": "Known for traditional gur manufacturing with sugarcane availability",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Agra",
+      "zone": "north",
+      "reason": "Large sugarcane cultivation area, important for gur production",
+      "soil": "Alluvial Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "23-35°C"
+    },
+    {
+      "region": "Mirzapur",
+      "zone": "north",
+      "reason": "Traditional gur production supported by good soil and climate",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "23-34°C"
+    },
+    {
+      "region": "Aligarh",
+      "zone": "north",
+      "reason": "Alluvial plains ideal for sugarcane farming and gur preparation",
+      "soil": "Alluvial Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "22-34°C"
+    },
+    {
+      "region": "Banda",
+      "zone": "north",
+      "reason": "Loamy soil and irrigation facilities support sugarcane",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-35°C"
+    },
+    {
+      "region": "Badaun",
+      "zone": "north",
+      "reason": "Agriculture-based region with major sugarcane cultivation",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "23-34°C"
+    },
+    {
+      "region": "Bahaich",
+      "zone": "north",
+      "reason": "Sugarcane friendly climate and fertile land",
+      "soil": "Alluvial Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-33°C"
+    },
+    {
+      "region": "Maharajganj",
+      "zone": "north",
+      "reason": "Eastern UP known for sugarcane and gur industries",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "23-33°C"
+    },
+    {
+      "region": "Udaipur",
+      "zone": "west",
+      "reason": "Moderate climate and irrigation systems support sugarcane",
+      "soil": "Loamy Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Jaipur",
+      "zone": "west",
+      "reason": "Dry climate but modern irrigation aids in sugarcane farming",
+      "soil": "Loamy Soil",
+      "rainfall": "600-800mm",
+      "temperature": "25-36°C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "west",
+      "reason": "Maharashtra region with widespread sugarcane farming",
+      "soil": "Black Soil",
+      "rainfall": "700-900mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Pune",
+      "zone": "west",
+      "reason": "Major sugarcane production area contributing to gur making",
+      "soil": "Black Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-35°C"
+    },
+    {
+      "region": "Jalana",
+      "zone": "west",
+      "reason": "Dry region but uses canal irrigation for sugarcane",
+      "soil": "Black Soil",
+      "rainfall": "600-800mm",
+      "temperature": "25-36°C"
+    },
+    {
+      "region": "Mumbai",
+      "zone": "west",
+      "reason": "Not a growing region, but involved in gur distribution",
+      "soil": "Alluvial Soil",
+      "rainfall": "2200-2400mm",
+      "temperature": "25-35°C"
+    },
+    {
+      "region": "Angli",
+      "zone": "west",
+      "reason": "Agricultural zone with seasonal sugarcane growth",
+      "soil": "Loamy Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "25-36°C"
+    },
+    {
+      "region": "Sholapur",
+      "zone": "west",
+      "reason": "Major sugarcane farming hub for Maharashtra",
+      "soil": "Black Soil",
+      "rainfall": "600-800mm",
+      "temperature": "25-37°C"
+    },
+    {
+      "region": "Narasinghpur",
+      "zone": "central",
+      "reason": "Central India region with sugarcane cultivation support",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-36°C"
+    },
+    {
+      "region": "Chhindwara",
+      "zone": "central",
+      "reason": "Rich agricultural district, supports sugarcane for gur",
+      "soil": "Black Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Betul",
+      "zone": "central",
+      "reason": "Irrigation facilities and moderate climate support sugarcane",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1000mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Purba Bardhaman",
+      "zone": "east",
+      "reason": "Eastern zone with traditional gur processing units",
+      "soil": "Alluvial Soil",
+      "rainfall": "1100-1300mm",
+      "temperature": "23-34°C"
+    },
+    {
+      "region": "Puruliya",
+      "zone": "east",
+      "reason": "Dry regions with irrigation used for seasonal sugarcane",
+      "soil": "Laterite Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "25-36°C"
+    },
+    {
+      "region": "Kalahandi",
+      "zone": "east",
+      "reason": "Rural belt with increasing sugarcane cultivation for gur",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-34°C"
+    },
+    {
+      "region": "Nowarangpur",
+      "zone": "east",
+      "reason": "Loamy soil and high rainfall favor sugarcane growth",
+      "soil": "Loamy Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "24-33°C"
+    }
+  ],
+  "potato": [
+    {
+      "region": "Hassan",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-25°C",
+      "reason": "Cool climate and well-drained red loamy soil support potato cultivation."
+    },
+    {
+      "region": "Bangalore",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "800-1000mm",
+      "temperature": "20-25°C",
+      "reason": "Moderate climate and suitable soil conditions favor potato growth."
+    },
+    {
+      "region": "Chikmagalur",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "18-22°C",
+      "reason": "High altitude and cool temperatures are ideal for potato farming."
+    },
+    {
+      "region": "Belgaum",
+      "zone": "south",
+      "soil": "Black Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "20-25°C",
+      "reason": "Fertile black soil and favorable climate support potato cultivation."
+    },
+    {
+      "region": "Kolar",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "20-25°C",
+      "reason": "Well-drained soils and moderate climate are suitable for potatoes."
+    },
+    {
+      "region": "Davanagere",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-26°C",
+      "reason": "Moderate rainfall and loamy soils favor potato cultivation."
+    },
+    {
+      "region": "Dharwad",
+      "zone": "south",
+      "soil": "Black Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "20-25°C",
+      "reason": "Fertile soils and suitable climate support potato farming."
+    },
+    {
+      "region": "Mysore",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-25°C",
+      "reason": "Moderate climate and well-drained soils are ideal for potatoes."
+    },
+    {
+      "region": "Shimoga",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "1000-1200mm",
+      "temperature": "20-25°C",
+      "reason": "High rainfall and fertile soils support potato cultivation."
+    },
+    {
+      "region": "Kalburgi",
+      "zone": "south",
+      "soil": "Black Soil",
+      "rainfall": "600-800mm",
+      "temperature": "22-28°C",
+      "reason": "Irrigated black soils and warm climate are suitable for potatoes."
+    },
+    {
+      "region": "Chittor",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "20-25°C",
+      "reason": "Moderate rainfall and well-drained soils favor potato farming."
+    },
+    {
+      "region": "Dharamapuri",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "20-25°C",
+      "reason": "Suitable climate and soil conditions support potato cultivation."
+    },
+    {
+      "region": "Thiruvellore",
+      "zone": "south",
+      "soil": "Sandy Loam",
+      "rainfall": "900-1100mm",
+      "temperature": "22-28°C",
+      "reason": "Moderate climate and well-drained soils are ideal for potatoes."
+    },
+    {
+      "region": "Salem",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "20-26°C",
+      "reason": "Favorable climate and soil conditions support potato farming."
+    },
+    {
+      "region": "Madurai",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "22-28°C",
+      "reason": "Moderate rainfall and suitable soils favor potato cultivation."
+    },
+    {
+      "region": "Theni",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "900-1100mm",
+      "temperature": "20-25°C",
+      "reason": "Cool climate and fertile soils are ideal for potatoes."
+    },
+    {
+      "region": "Thiruvannamalai",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "800-1000mm",
+      "temperature": "20-26°C",
+      "reason": "Suitable climate and well-drained soils support potato farming."
+    },
+    {
+      "region": "Ranipet",
+      "zone": "south",
+      "soil": "Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "22-28°C",
+      "reason": "Moderate climate and suitable soils favor potato cultivation."
+    },
+    {
+      "region": "Ariyalur",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "700-900mm",
+      "temperature": "22-28°C",
+      "reason": "Well-drained soils and moderate climate support potato farming."
+    },
+    {
+      "region": "Hyderabad",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "700-900mm",
+      "temperature": "22-28°C",
+      "reason": "Suitable climate and soils favor potato cultivation."
+    },
+    {
+      "region": "Warangal",
+      "zone": "south",
+      "soil": "Red Loamy",
+      "rainfall": "800-1000mm",
+      "temperature": "22-28°C",
+      "reason": "Moderate rainfall and fertile soils support potato farming."
+    },
+    {
+      "region": "Mahbubnagar",
+      "zone": "south",
+      "soil": "Red Sandy Loam",
+      "rainfall": "600-800mm",
+      "temperature": "20-30°C",
+      "reason": "Mahbubnagar has red sandy loam soil with moderate rainfall. Winter crop season and irrigation support potato farming, though temperature control is essential."
+    },
+    {
+      "region": "Amritsar",
+      "zone": "north",
+      "reason": "Fertile alluvial soils and cool winters support high-yield potato farming.",
+      "soil": "Alluvial Soil",
+      "rainfall": "700-900mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Barnala",
+      "zone": "north",
+      "reason": "Well-drained loamy soils and favorable climate conditions aid potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "600-800mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Muktsar",
+      "zone": "north",
+      "reason": "Sandy loam soils with adequate irrigation support potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Mohali",
+      "zone": "north",
+      "reason": "Proximity to Shivalik hills provides suitable microclimate for potatoes.",
+      "soil": "Loamy Soil",
+      "rainfall": "700-900mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Nawanshahr",
+      "zone": "north",
+      "reason": "Favorable soil texture and climate conditions for potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "600-800mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Fatehgarh Sahib",
+      "zone": "north",
+      "reason": "Well-drained soils and moderate climate support potato farming.",
+      "soil": "Loamy Soil",
+      "rainfall": "600-800mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Gurdaspur",
+      "zone": "north",
+      "reason": "Alluvial soils and cool winters are ideal for potato cultivation.",
+      "soil": "Alluvial Soil",
+      "rainfall": "700-900mm",
+      "temperature": "12-22°C"
+    },
+    {
+      "region": "Bathinda",
+      "zone": "north",
+      "reason": "Sandy loam soils with irrigation facilities support potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Moga",
+      "zone": "north",
+      "reason": "Fertile soils and favorable climate conditions aid potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "600-800mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Ambala",
+      "zone": "north",
+      "reason": "Alluvial soils and cool winters are suitable for potato farming.",
+      "soil": "Alluvial Soil",
+      "rainfall": "700-900mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Faridabad",
+      "zone": "north",
+      "reason": "Loamy soils and moderate climate support potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "600-800mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Hisar",
+      "zone": "north",
+      "reason": "Sandy loam soils with irrigation facilities aid potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Panchkula",
+      "zone": "north",
+      "reason": "Proximity to Shivalik hills provides suitable conditions for potatoes.",
+      "soil": "Loamy Soil",
+      "rainfall": "700-900mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Bhiwani",
+      "zone": "north",
+      "reason": "Sandy loam soils and irrigation support potato cultivation.",
+      "soil": "Sandy Loam",
+      "rainfall": "500-700mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Auraiya",
+      "zone": "north",
+      "reason": "Alluvial soils and cool winters are ideal for potato farming.",
+      "soil": "Alluvial Soil",
+      "rainfall": "700-900mm",
+      "temperature": "12-22°C"
+    },
+    {
+      "region": "Agra",
+      "zone": "north",
+      "reason": "Fertile alluvial soils and favorable climate support potato cultivation.",
+      "soil": "Alluvial Soil",
+      "rainfall": "600-800mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Prayagraj",
+      "zone": "north",
+      "reason": "Alluvial plains with adequate irrigation are suitable for potatoes.",
+      "soil": "Alluvial Soil",
+      "rainfall": "700-900mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Ajmer",
+      "zone": "west",
+      "reason": "Loamy soils and cool winters support potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "500-700mm",
+      "temperature": "12-22°C"
+    },
+    {
+      "region": "Balotra",
+      "zone": "west",
+      "reason": "Sandy loam soils with irrigation facilities aid potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "300-500mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Hanumangarh",
+      "zone": "west",
+      "reason": "Alluvial soils and canal irrigation support potato cultivation.",
+      "soil": "Alluvial Soil",
+      "rainfall": "400-600mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Ahmednagar",
+      "zone": "west",
+      "reason": "Black soils and moderate climate are suitable for potatoes.",
+      "soil": "Black Soil",
+      "rainfall": "500-700mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Sholapur",
+      "zone": "west",
+      "reason": "Sandy loam soils with irrigation support potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "400-600mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Amarawati",
+      "zone": "west",
+      "reason": "Black soil and moderate climate support potato cultivation.",
+      "soil": "Black Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "20-30°C"
+    },
+    {
+      "region": "Jalgaon",
+      "zone": "west",
+      "reason": "Well-drained soils and suitable temperatures favor potato farming.",
+      "soil": "Loamy Soil",
+      "rainfall": "700-900mm",
+      "temperature": "18-28°C"
+    },
+    {
+      "region": "Bilaspur",
+      "zone": "central",
+      "reason": "Fertile plains with adequate rainfall are ideal for potatoes.",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Raigarh",
+      "zone": "central",
+      "reason": "Loamy soils and moderate climate support potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "1100-1300mm",
+      "temperature": "16-26°C"
+    },
+    {
+      "region": "Durg",
+      "zone": "central",
+      "reason": "Favorable soil and climate conditions for potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "900-1100mm",
+      "temperature": "17-27°C"
+    },
+    {
+      "region": "Rajnandgaon",
+      "zone": "central",
+      "reason": "Suitable rainfall and soil types for potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "16-26°C"
+    },
+    {
+      "region": "Indore",
+      "zone": "central",
+      "reason": "Black cotton soil and favorable climate support potato growth.",
+      "soil": "Black Cotton Soil",
+      "rainfall": "800-1000mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Sagar",
+      "zone": "central",
+      "reason": "Loamy soils and adequate rainfall favor potato farming.",
+      "soil": "Loamy Soil",
+      "rainfall": "900-1100mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Morena",
+      "zone": "central",
+      "reason": "Alluvial soils and suitable climate conditions for potatoes.",
+      "soil": "Alluvial Soil",
+      "rainfall": "700-900mm",
+      "temperature": "16-26°C"
+    },
+    {
+      "region": "Bhojpur",
+      "zone": "east",
+      "reason": "Fertile alluvial plains with adequate rainfall support potato cultivation.",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Kishanganj",
+      "zone": "east",
+      "reason": "High rainfall and fertile soils favor potato farming.",
+      "soil": "Loamy Soil",
+      "rainfall": "1200-1400mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Muzaffarpur",
+      "zone": "east",
+      "reason": "Alluvial soils and favorable climate conditions for potatoes.",
+      "soil": "Alluvial Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Alipurduar",
+      "zone": "east",
+      "reason": "High rainfall and loamy soils support potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "2000-2200mm",
+      "temperature": "13-23°C"
+    },
+    {
+      "region": "Paschim Bardhaman",
+      "zone": "east",
+      "reason": "Fertile soils and moderate climate favor potato farming.",
+      "soil": "Alluvial Soil",
+      "rainfall": "1200-1400mm",
+      "temperature": "14-24°C"
+    },
+    {
+      "region": "Khurda",
+      "zone": "east",
+      "reason": "Loamy soils and suitable rainfall support potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "15-25°C"
+    },
+    {
+      "region": "Baragarh",
+      "zone": "east",
+      "reason": "Favorable soil and climate conditions for potato farming.",
+      "soil": "Sandy Loam",
+      "rainfall": "1100-1300mm",
+      "temperature": "16-26°C"
+    },
+    {
+      "region": "Sonepur",
+      "zone": "east",
+      "reason": "Loamy soils and adequate rainfall favor potato cultivation.",
+      "soil": "Loamy Soil",
+      "rainfall": "1000-1200mm",
+      "temperature": "15-25°C"
+    }
+  ]
+}

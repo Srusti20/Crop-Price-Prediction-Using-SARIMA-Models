@@ -1,0 +1,2106 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Ambala,Ambala Cantt.,Orange,3000,3800,3450,23-02-2024
+2,Ambala,Ambala City(Subji Mandi),Orange,1500,3500,2500,21-03-2024
+3,Ambala,Ambala City(Subji Mandi),Orange,1950,3860,2400,27-11-2024
+4,Ambala,Ambala City(Subji Mandi),Orange,2500,4000,3500,17-02-2024
+5,Ambala,Ambala City(Subji Mandi),Orange,2500,4500,3500,06-03-2024
+6,Ambala,Ambala City(Subji Mandi),Orange,2500,4500,3500,08-02-2024
+7,Ambala,Ambala City(Subji Mandi),Orange,2500,4500,3500,16-03-2024
+8,Ambala,Ambala City(Subji Mandi),Orange,2500,4500,3500,24-02-2024
+9,Ambala,Ambala City(Subji Mandi),Orange,2500,5000,3500,15-02-2024
+10,Ambala,Ambala City(Subji Mandi),Orange,2500,5000,3500,21-02-2024
+11,Ambala,Ambala City(Subji Mandi),Orange,2500,5500,3500,05-02-2024
+12,Ambala,Ambala City(Subji Mandi),Orange,2500,5500,3500,07-02-2024
+13,Ambala,Ambala City(Subji Mandi),Orange,2500,5500,3500,09-02-2024
+14,Ambala,Ambala City(Subji Mandi),Orange,2500,5500,3500,14-02-2024
+15,Ambala,Ambala City(Subji Mandi),Orange,2500,5500,3500,22-02-2024
+16,Ambala,Ambala City(Subji Mandi),Orange,2500,5500,3500,31-01-2024
+17,Ambala,Ambala City(Subji Mandi),Orange,2750,4250,3300,05-01-2024
+18,Ambala,Ambala City(Subji Mandi),Orange,2800,5300,4250,06-01-2024
+19,Ambala,Ambala City(Subji Mandi),Orange,3000,4000,3500,03-01-2024
+20,Ambala,Ambala City(Subji Mandi),Orange,3000,4000,3500,09-01-2024
+21,Ambala,Ambala City(Subji Mandi),Orange,3000,4000,3500,23-01-2024
+22,Ambala,Ambala City(Subji Mandi),Orange,3000,4200,3250,20-01-2024
+23,Ambala,Ambala City(Subji Mandi),Orange,3000,4250,3500,18-01-2024
+24,Ambala,Ambala City(Subji Mandi),Orange,3000,4300,3750,08-01-2024
+25,Ambala,Ambala City(Subji Mandi),Orange,3000,4350,3500,19-01-2024
+26,Ambala,Ambala City(Subji Mandi),Orange,3200,4000,3650,04-01-2024
+27,Ambala,Ambala City(Subji Mandi),Orange,3250,4750,4000,26-01-2024
+28,Ambala,Ambala City(Subji Mandi),Orange,3500,4500,4000,01-01-2024
+29,Ambala,Ambala City(Subji Mandi),Orange,3800,5000,4350,03-02-2024
+30,Ambala,Ambala City(Subji Mandi),Orange,3800,5500,4350,11-01-2024
+31,Ambala,Ambala City(Subji Mandi),Orange,4000,5300,4850,13-01-2024
+32,Ambala,Ambala City(Subji Mandi),Orange,4000,5350,4500,24-01-2024
+33,Ambala,Ambala City(Subji Mandi),Orange,4000,5350,4500,25-01-2024
+34,Ambala,Ambala City(Subji Mandi),Orange,4000,6000,5350,30-01-2024
+35,Ambala,Ambala City(Subji Mandi),Orange,5000,6000,5250,02-02-2024
+36,Jhajar,Bahadurgarh,Orange,2000,3000,2500,14-01-2024
+37,Jhajar,Bahadurgarh,Orange,2500,3500,3000,15-01-2024
+38,Jhajar,Bahadurgarh,Orange,3000,4000,3500,01-01-2024
+39,Jhajar,Bahadurgarh,Orange,3000,4000,3500,04-01-2024
+40,Jhajar,Bahadurgarh,Orange,3000,4000,3500,18-02-2024
+41,Jhajar,Bahadurgarh,Orange,3500,3800,3600,15-02-2024
+42,Jhajar,Bahadurgarh,Orange,3500,4000,3800,04-02-2024
+43,Jhajar,Bahadurgarh,Orange,3500,4000,3800,16-02-2024
+44,Jhajar,Bahadurgarh,Orange,4000,5000,4500,21-02-2024
+45,Jhajar,Bahadurgarh,Orange,5000,7000,6000,24-10-2024
+46,Jhajar,Bahadurgarh,Orange,5500,7000,6500,18-10-2024
+47,Jhajar,Bahadurgarh,Orange,6000,8000,7000,14-10-2024
+48,Jhajar,Bahadurgarh,Orange,6000,8000,7000,16-10-2024
+49,Jhajar,Bahadurgarh,Orange,6000,8000,7000,19-10-2024
+50,Jhajar,Bahadurgarh,Orange,6500,7500,7000,15-10-2024
+51,Jhajar,Bahadurgarh,Orange,7000,8000,7500,07-09-2024
+52,Jhajar,Bahadurgarh,Orange,7000,8000,7500,11-10-2024
+53,Jhajar,Bahadurgarh,Orange,7000,8000,7500,13-10-2024
+54,Ambala,Barara,Orange,2000,2000,2000,13-02-2024
+55,Ambala,Barara,Orange,2000,2000,2000,28-02-2024
+56,Ambala,Barara,Orange,2000,2500,2000,22-02-2024
+57,Ambala,Barara,Orange,2000,2500,2000,23-02-2024
+58,Ambala,Barara,Orange,2200,2200,2200,16-02-2024
+59,Ambala,Barara,Orange,2500,2500,2500,01-03-2024
+60,Ambala,Barara,Orange,2500,2500,2500,04-03-2024
+61,Ambala,Barara,Orange,2500,2500,2500,05-03-2024
+62,Ambala,Barara,Orange,2500,2500,2500,09-03-2024
+63,Ambala,Barara,Orange,2500,2500,2500,11-03-2024
+64,Ambala,Barara,Orange,2500,2500,2500,15-03-2024
+65,Ambala,Barara,Orange,2500,2500,2500,29-02-2024
+66,Ambala,Barara,Orange,2500,2800,2500,12-03-2024
+67,Ambala,Barara,Orange,2500,2800,2500,13-03-2024
+68,Ambala,Barara,Orange,2500,2800,2500,16-03-2024
+69,Ambala,Barara,Orange,2500,3000,2500,03-04-2024
+70,Ambala,Barara,Orange,2800,3000,2800,26-03-2024
+71,Ambala,Barara,Orange,2800,3200,3200,12-12-2024
+72,Ambala,Barara,Orange,2800,3200,3200,18-12-2024
+73,Ambala,Barara,Orange,2800,3500,3500,14-12-2024
+74,Ambala,Barara,Orange,3000,3000,3000,04-04-2024
+75,Ambala,Barara,Orange,3000,3000,3000,13-12-2024
+76,Ambala,Barara,Orange,3000,3000,3000,19-03-2024
+77,Ambala,Barara,Orange,3000,3000,3000,20-03-2024
+78,Ambala,Barara,Orange,3000,3000,3000,22-11-2024
+79,Ambala,Barara,Orange,3000,3000,3000,23-03-2024
+80,Ambala,Barara,Orange,3000,3000,3000,24-02-2024
+81,Ambala,Barara,Orange,3000,3000,3000,25-03-2024
+82,Ambala,Barara,Orange,3000,3200,3000,27-03-2024
+83,Ambala,Barara,Orange,3000,3500,3000,21-03-2024
+84,Ambala,Barara,Orange,3000,3500,3000,29-03-2024
+85,Ambala,Barara,Orange,3000,3500,3500,09-12-2024
+86,Ambala,Barara,Orange,3000,3500,3500,10-12-2024
+87,Ambala,Barara,Orange,3000,3500,3500,20-12-2024
+88,Ambala,Barara,Orange,3000,3500,3500,28-03-2024
+89,Ambala,Barara,Orange,3000,3800,3800,23-12-2024
+90,Ambala,Barara,Orange,3000,4000,4000,01-01-2025
+91,Ambala,Barara,Orange,3200,3500,3500,07-12-2024
+92,Ambala,Barara,Orange,3200,3500,3500,11-12-2024
+93,Ambala,Barara,Orange,3500,3500,3500,14-10-2024
+94,Ambala,Barara,Orange,3500,3500,3500,19-11-2024
+95,Ambala,Barara,Orange,3500,3500,3500,22-03-2024
+96,Ambala,Barara,Orange,3500,4000,4000,04-12-2024
+97,Ambala,Barara,Orange,3500,4000,4000,06-12-2024
+98,Ambala,Barara,Orange,3500,4000,4000,19-12-2024
+99,Ambala,Barara,Orange,3500,4000,4000,24-12-2024
+100,Ambala,Barara,Orange,3500,4000,4000,25-12-2024
+101,Ambala,Barara,Orange,4000,4000,4000,02-12-2024
+102,Ambala,Barara,Orange,4000,4000,4000,03-12-2024
+103,Ambala,Barara,Orange,4000,4000,4000,05-12-2024
+104,Ambala,Barara,Orange,4000,4000,4000,13-11-2024
+105,Ambala,Barara,Orange,4000,4000,4000,16-11-2024
+106,Ambala,Barara,Orange,4000,4000,4000,20-11-2024
+107,Ambala,Barara,Orange,4000,4000,4000,21-11-2024
+108,Ambala,Barara,Orange,4000,4000,4000,23-11-2024
+109,Ambala,Barara,Orange,4000,4000,4000,26-11-2024
+110,Ambala,Barara,Orange,4000,4000,4000,27-11-2024
+111,Ambala,Barara,Orange,4000,4000,4000,28-11-2024
+112,Ambala,Barara,Orange,4000,4000,4000,29-11-2024
+113,Ambala,Barara,Orange,4000,4000,4000,30-12-2024
+114,Hissar,Barwala(Hisar),Orange,2000,3000,2500,15-03-2024
+115,Hissar,Barwala(Hisar),Orange,2500,2500,2500,13-02-2024
+116,Hissar,Barwala(Hisar),Orange,2500,2500,2500,15-02-2024
+117,Hissar,Barwala(Hisar),Orange,2500,2500,2500,21-02-2024
+118,Hissar,Barwala(Hisar),Orange,2500,3000,2800,16-03-2024
+119,Hissar,Barwala(Hisar),Orange,2500,3000,2800,18-03-2024
+120,Hissar,Barwala(Hisar),Orange,2500,3000,2800,21-03-2024
+121,Hissar,Barwala(Hisar),Orange,2500,3000,2800,23-03-2024
+122,Hissar,Barwala(Hisar),Orange,2500,3000,2800,26-03-2024
+123,Hissar,Barwala(Hisar),Orange,2500,3000,2800,29-11-2024
+124,Hissar,Barwala(Hisar),Orange,2500,3500,3000,30-03-2024
+125,Hissar,Barwala(Hisar),Orange,2800,3000,2900,12-03-2024
+126,Hissar,Barwala(Hisar),Orange,3000,3000,3000,01-03-2024
+127,Hissar,Barwala(Hisar),Orange,3000,3000,3000,04-03-2024
+128,Hissar,Barwala(Hisar),Orange,3000,3000,3000,14-02-2024
+129,Hissar,Barwala(Hisar),Orange,3000,3500,3300,09-11-2024
+130,Hissar,Barwala(Hisar),Orange,3000,4000,3500,09-10-2024
+131,Hissar,Barwala(Hisar),Orange,3000,4000,3500,17-10-2024
+132,Hissar,Barwala(Hisar),Orange,3000,4000,3500,25-10-2024
+133,Hissar,Barwala(Hisar),Orange,3200,3500,3400,01-04-2024
+134,Hissar,Barwala(Hisar),Orange,3200,3500,3400,03-04-2024
+135,Hissar,Barwala(Hisar),Orange,3500,4000,3800,02-04-2024
+136,Hissar,Barwala(Hisar),Orange,3500,4000,3800,04-04-2024
+137,Hissar,Barwala(Hisar),Orange,3500,4000,3800,06-04-2024
+138,Hissar,Barwala(Hisar),Orange,3500,4000,3800,14-03-2024
+139,Hissar,Barwala(Hisar),Orange,3500,4000,3800,29-03-2024
+140,Hissar,Barwala(Hisar),Orange,3500,4000,3800,29-10-2024
+141,Hissar,Barwala(Hisar),Orange,3500,5000,4500,10-04-2024
+142,Hissar,Barwala(Hisar),Orange,3800,4000,3900,05-04-2024
+143,Hissar,Barwala(Hisar),Orange,4000,4000,4000,08-03-2024
+144,Hissar,Barwala(Hisar),Orange,4000,5000,4500,07-04-2024
+145,Hissar,Barwala(Hisar),Orange,4000,5000,4500,14-10-2024
+146,Hissar,Barwala(Hisar),Orange,4000,5000,4500,15-12-2024
+147,Hissar,Barwala(Hisar),Orange,4000,5000,4500,20-10-2024
+148,Hissar,Barwala(Hisar),Orange,4500,5000,4800,09-04-2024
+149,Hissar,Barwala(Hisar),Orange,4500,5000,4800,12-11-2024
+150,Hissar,Barwala(Hisar),Orange,4500,5000,4800,21-11-2024
+151,Hissar,Barwala(Hisar),Orange,4500,5000,4800,22-11-2024
+152,Hissar,Barwala(Hisar),Orange,4500,5000,4800,22-10-2024
+153,Hissar,Barwala(Hisar),Orange,4500,5000,4800,24-12-2024
+154,Hissar,Barwala(Hisar),Orange,4500,5000,4800,25-11-2024
+155,Hissar,Barwala(Hisar),Orange,4500,5000,4800,26-10-2024
+156,Hissar,Barwala(Hisar),Orange,4500,5000,4800,28-11-2024
+157,Hissar,Barwala(Hisar),Orange,5000,5000,5000,05-03-2024
+158,Hissar,Barwala(Hisar),Orange,5000,6000,5500,18-12-2024
+159,Hissar,Barwala(Hisar),Orange,5000,6000,5500,20-04-2024
+160,Hissar,Barwala(Hisar),Orange,5000,6000,5500,26-11-2024
+161,Hissar,Barwala(Hisar),Orange,5500,6000,5800,03-05-2024
+162,Bhiwani,Bhiwani,Orange,2000,3000,2500,05-01-2024
+163,Bhiwani,Bhiwani,Orange,2530,4100,3201,19-03-2024
+164,Bhiwani,Bhiwani,Orange,2540,3560,2888,28-09-2024
+165,Bhiwani,Bhiwani,Orange,2950,4125,3250,29-03-2024
+166,Bhiwani,Bhiwani,Orange,3000,3980,3320,20-03-2024
+167,Bhiwani,Bhiwani,Orange,3000,4000,3500,10-01-2024
+168,Bhiwani,Bhiwani,Orange,3001,4210,3560,04-03-2024
+169,Bhiwani,Bhiwani,Orange,3025,4515,3890,07-03-2024
+170,Bhiwani,Bhiwani,Orange,3201,4501,3580,16-03-2024
+171,Bhiwani,Bhiwani,Orange,3204,4541,3690,15-02-2024
+172,Bhiwani,Bhiwani,Orange,3210,4000,3540,04-02-2024
+173,Bhiwani,Bhiwani,Orange,3250,4000,3458,06-02-2024
+174,Bhiwani,Bhiwani,Orange,3250,4510,3480,23-02-2024
+175,Bhiwani,Bhiwani,Orange,3500,4100,3950,21-03-2024
+176,Bhiwani,Bhiwani,Orange,3500,4510,3950,23-03-2024
+177,Bhiwani,Bhiwani,Orange,3501,4250,4011,30-01-2024
+178,Bhiwani,Bhiwani,Orange,3501,4500,4100,26-03-2024
+179,Bhiwani,Bhiwani,Orange,3501,4510,4014,14-03-2024
+180,Bhiwani,Bhiwani,Orange,3501,4551,4021,06-03-2024
+181,Bhiwani,Bhiwani,Orange,3501,4580,4001,17-03-2024
+182,Bhiwani,Bhiwani,Orange,3502,4250,4000,07-02-2024
+183,Bhiwani,Bhiwani,Orange,3504,4580,4012,09-03-2024
+184,Bhiwani,Bhiwani,Orange,3504,4580,4210,29-02-2024
+185,Bhiwani,Bhiwani,Orange,3510,4250,4000,22-03-2024
+186,Bhiwani,Bhiwani,Orange,3520,4220,3890,30-03-2024
+187,Bhiwani,Bhiwani,Orange,3520,4500,4102,27-03-2024
+188,Bhiwani,Bhiwani,Orange,3520,4504,3980,16-02-2024
+189,Bhiwani,Bhiwani,Orange,3520,4510,4021,04-04-2024
+190,Bhiwani,Bhiwani,Orange,3520,4520,4014,18-03-2024
+191,Bhiwani,Bhiwani,Orange,3520,5580,4410,29-09-2024
+192,Bhiwani,Bhiwani,Orange,3540,4521,3840,01-03-2024
+193,Bhiwani,Bhiwani,Orange,3540,4580,4210,21-02-2024
+194,Bhiwani,Bhiwani,Orange,3541,4574,4200,11-03-2024
+195,Bhiwani,Bhiwani,Orange,3560,4588,4210,18-02-2024
+196,Bhiwani,Bhiwani,Orange,3590,4540,4011,24-02-2024
+197,Bhiwani,Bhiwani,Orange,3590,4580,4101,08-03-2024
+198,Bhiwani,Bhiwani,Orange,3740,4580,4210,25-02-2024
+199,Bhiwani,Bhiwani,Orange,3750,4580,4260,12-03-2024
+200,Bhiwani,Ch. Dadri,Orange,1500,6000,3750,07-02-2024
+201,Bhiwani,Ch. Dadri,Orange,2250,3500,2875,19-12-2024
+202,Bhiwani,Ch. Dadri,Orange,2300,4000,3150,12-03-2024
+203,Bhiwani,Ch. Dadri,Orange,2500,3000,2750,15-03-2024
+204,Bhiwani,Ch. Dadri,Orange,2500,5000,3750,06-12-2024
+205,Bhiwani,Ch. Dadri,Orange,2500,5000,3750,10-12-2024
+206,Bhiwani,Ch. Dadri,Orange,2600,5000,3800,20-07-2024
+207,Bhiwani,Ch. Dadri,Orange,2600,5000,3800,21-07-2024
+208,Bhiwani,Ch. Dadri,Orange,2800,3000,2900,09-12-2024
+209,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,04-03-2024
+210,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,07-03-2024
+211,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,16-02-2024
+212,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,22-02-2024
+213,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,27-12-2024
+214,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,29-03-2024
+215,Bhiwani,Ch. Dadri,Orange,2900,3000,2950,30-11-2024
+216,Bhiwani,Ch. Dadri,Orange,3000,3000,3000,23-12-2024
+217,Bhiwani,Ch. Dadri,Orange,3000,3000,3000,26-12-2024
+218,Bhiwani,Ch. Dadri,Orange,3000,4000,3500,14-03-2024
+219,Bhiwani,Ch. Dadri,Orange,3000,4000,3500,16-03-2024
+220,Bhiwani,Ch. Dadri,Orange,3000,4000,3500,19-02-2024
+221,Bhiwani,Ch. Dadri,Orange,3000,4000,3500,20-03-2024
+222,Bhiwani,Ch. Dadri,Orange,3000,4000,3500,27-03-2024
+223,Bhiwani,Ch. Dadri,Orange,3000,4000,3500,28-03-2024
+224,Bhiwani,Ch. Dadri,Orange,3000,5000,4000,06-03-2024
+225,Bhiwani,Ch. Dadri,Orange,3000,5000,4000,07-12-2024
+226,Bhiwani,Ch. Dadri,Orange,3000,5000,4000,09-03-2024
+227,Bhiwani,Ch. Dadri,Orange,3000,5000,4000,24-12-2024
+228,Bhiwani,Ch. Dadri,Orange,3100,3200,3150,16-12-2024
+229,Bhiwani,Ch. Dadri,Orange,3100,4000,3550,19-03-2024
+230,Bhiwani,Ch. Dadri,Orange,3200,4000,3600,10-03-2024
+231,Bhiwani,Ch. Dadri,Orange,3200,4000,3600,21-03-2024
+232,Bhiwani,Ch. Dadri,Orange,3200,4000,3600,24-03-2024
+233,Bhiwani,Ch. Dadri,Orange,3250,4000,3625,31-03-2024
+234,Bhiwani,Ch. Dadri,Orange,3400,3500,3450,05-11-2024
+235,Bhiwani,Ch. Dadri,Orange,3400,3500,3450,11-03-2024
+236,Bhiwani,Ch. Dadri,Orange,3400,3500,3450,18-12-2024
+237,Bhiwani,Ch. Dadri,Orange,3400,4000,3700,28-02-2024
+238,Bhiwani,Ch. Dadri,Orange,3400,4000,3700,30-03-2024
+239,Bhiwani,Ch. Dadri,Orange,3500,3600,3550,01-03-2024
+240,Bhiwani,Ch. Dadri,Orange,3500,4000,3750,13-12-2024
+241,Bhiwani,Ch. Dadri,Orange,3500,4000,3750,22-03-2024
+242,Bhiwani,Ch. Dadri,Orange,3500,4000,3750,23-03-2024
+243,Bhiwani,Ch. Dadri,Orange,3500,4000,3750,29-02-2024
+244,Bhiwani,Ch. Dadri,Orange,3500,5000,4250,02-11-2024
+245,Bhiwani,Ch. Dadri,Orange,3500,5000,4250,12-12-2024
+246,Bhiwani,Ch. Dadri,Orange,3500,5000,4250,15-12-2024
+247,Bhiwani,Ch. Dadri,Orange,3500,5000,4250,28-11-2024
+248,Bhiwani,Ch. Dadri,Orange,3500,5000,4250,31-10-2024
+249,Bhiwani,Ch. Dadri,Orange,3500,6000,4750,21-09-2024
+250,Bhiwani,Ch. Dadri,Orange,3900,4000,3950,02-03-2024
+251,Bhiwani,Ch. Dadri,Orange,3900,4000,3950,03-03-2024
+252,Bhiwani,Ch. Dadri,Orange,3900,4000,3950,24-01-2024
+253,Bhiwani,Ch. Dadri,Orange,4000,4500,4250,02-12-2024
+254,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,08-11-2024
+255,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,11-12-2024
+256,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,13-03-2024
+257,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,17-11-2024
+258,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,17-10-2024
+259,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,21-02-2024
+260,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,25-10-2024
+261,Bhiwani,Ch. Dadri,Orange,4000,5000,4500,26-10-2024
+262,Bhiwani,Ch. Dadri,Orange,4000,6000,5000,20-10-2024
+263,Bhiwani,Ch. Dadri,Orange,4400,4500,4450,06-04-2024
+264,Bhiwani,Ch. Dadri,Orange,4400,5000,4700,18-10-2024
+265,Bhiwani,Ch. Dadri,Orange,4500,5000,4750,05-04-2024
+266,Bhiwani,Ch. Dadri,Orange,4800,6000,5400,19-07-2024
+267,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,03-02-2024
+268,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,04-10-2024
+269,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,11-09-2024
+270,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,12-10-2024
+271,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,15-02-2024
+272,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,15-10-2024
+273,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,16-11-2024
+274,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,17-02-2024
+275,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,27-11-2024
+276,Bhiwani,Ch. Dadri,Orange,4900,5000,4950,27-10-2024
+277,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,07-04-2024
+278,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,08-04-2024
+279,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,08-10-2024
+280,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,09-04-2024
+281,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,09-10-2024
+282,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,12-04-2024
+283,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,13-10-2024
+284,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,18-09-2024
+285,Bhiwani,Ch. Dadri,Orange,5000,6000,5500,20-09-2024
+286,Bhiwani,Ch. Dadri,Orange,5000,7000,6000,18-04-2024
+287,Bhiwani,Ch. Dadri,Orange,5400,5500,5450,05-10-2024
+288,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,05-02-2024
+289,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,06-02-2024
+290,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,13-04-2024
+291,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,14-09-2024
+292,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,17-09-2024
+293,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,22-09-2024
+294,Bhiwani,Ch. Dadri,Orange,5900,6000,5950,31-01-2024
+295,Bhiwani,Ch. Dadri,Orange,6000,7000,6500,02-06-2024
+296,Bhiwani,Ch. Dadri,Orange,6400,6500,6450,01-06-2024
+297,Bhiwani,Ch. Dadri,Orange,6900,7000,6950,08-05-2024
+298,Bhiwani,Ch. Dadri,Orange,6900,7000,6950,11-05-2024
+299,Bhiwani,Ch. Dadri,Orange,6900,7000,6950,19-05-2024
+300,Bhiwani,Ch. Dadri,Orange,7900,8000,7950,27-01-2024
+301,Bhiwani,Ch. Dadri,Orange,8900,9000,8950,02-02-2024
+302,Yamuna Nagar,Chhachrauli,Orange,4000,4000,4000,25-01-2024
+303,Faridabad,Faridabad,Orange,800,1500,1150,06-01-2024
+304,Faridabad,Faridabad,Orange,1000,2000,1500,01-01-2025
+305,Faridabad,Faridabad,Orange,1000,2000,1500,02-01-2024
+306,Faridabad,Faridabad,Orange,1000,2000,1500,11-01-2024
+307,Faridabad,Faridabad,Orange,1000,2000,1500,15-01-2024
+308,Faridabad,Faridabad,Orange,1000,2000,1500,18-01-2024
+309,Faridabad,Faridabad,Orange,1000,2000,1500,19-01-2024
+310,Faridabad,Faridabad,Orange,1000,2000,1500,23-01-2024
+311,Faridabad,Faridabad,Orange,1000,2500,1500,26-12-2024
+312,Faridabad,Faridabad,Orange,1000,2500,1750,22-11-2024
+313,Faridabad,Faridabad,Orange,1000,3000,2000,21-11-2024
+314,Faridabad,Faridabad,Orange,1000,3500,2250,25-12-2024
+315,Faridabad,Faridabad,Orange,1100,2000,1550,13-11-2024
+316,Faridabad,Faridabad,Orange,1200,2000,1600,01-01-2024
+317,Faridabad,Faridabad,Orange,1200,2500,1350,24-12-2024
+318,Faridabad,Faridabad,Orange,1500,2200,1850,29-12-2024
+319,Faridabad,Faridabad,Orange,1500,2500,2000,10-11-2024
+320,Faridabad,Faridabad,Orange,1500,2500,2000,12-03-2024
+321,Faridabad,Faridabad,Orange,1500,2500,2000,12-10-2024
+322,Faridabad,Faridabad,Orange,1500,2500,2000,17-11-2024
+323,Faridabad,Faridabad,Orange,1500,3000,2200,19-12-2024
+324,Faridabad,Faridabad,Orange,1500,3000,2250,01-12-2024
+325,Faridabad,Faridabad,Orange,1500,3000,2250,03-10-2024
+326,Faridabad,Faridabad,Orange,1500,3000,2250,04-03-2024
+327,Faridabad,Faridabad,Orange,1500,3000,2250,05-12-2024
+328,Faridabad,Faridabad,Orange,1500,3000,2250,05-11-2024
+329,Faridabad,Faridabad,Orange,1500,3000,2250,09-12-2024
+330,Faridabad,Faridabad,Orange,1500,3000,2250,09-03-2024
+331,Faridabad,Faridabad,Orange,1500,3000,2250,10-12-2024
+332,Faridabad,Faridabad,Orange,1500,3000,2250,10-03-2024
+333,Faridabad,Faridabad,Orange,1500,3000,2250,12-12-2024
+334,Faridabad,Faridabad,Orange,1500,3000,2250,13-12-2024
+335,Faridabad,Faridabad,Orange,1500,3000,2250,15-12-2024
+336,Faridabad,Faridabad,Orange,1500,3000,2250,16-12-2024
+337,Faridabad,Faridabad,Orange,1500,3000,2250,17-12-2024
+338,Faridabad,Faridabad,Orange,1500,3000,2250,17-02-2024
+339,Faridabad,Faridabad,Orange,1500,3000,2250,19-10-2024
+340,Faridabad,Faridabad,Orange,1500,3000,2250,20-12-2024
+341,Faridabad,Faridabad,Orange,1500,3000,2250,20-02-2024
+342,Faridabad,Faridabad,Orange,1500,3000,2250,20-11-2024
+343,Faridabad,Faridabad,Orange,1500,3000,2250,21-02-2024
+344,Faridabad,Faridabad,Orange,1500,3000,2250,22-02-2024
+345,Faridabad,Faridabad,Orange,1500,3000,2250,23-02-2024
+346,Faridabad,Faridabad,Orange,1500,3000,2250,23-11-2024
+347,Faridabad,Faridabad,Orange,1500,3000,2250,24-11-2024
+348,Faridabad,Faridabad,Orange,1500,3000,2250,25-02-2024
+349,Faridabad,Faridabad,Orange,1500,3000,2250,26-10-2024
+350,Faridabad,Faridabad,Orange,1500,3000,2250,27-12-2024
+351,Faridabad,Faridabad,Orange,1500,3000,2250,27-02-2024
+352,Faridabad,Faridabad,Orange,1500,3000,2250,28-12-2024
+353,Faridabad,Faridabad,Orange,1500,3000,2250,28-02-2024
+354,Faridabad,Faridabad,Orange,1500,3000,2250,28-11-2024
+355,Faridabad,Faridabad,Orange,1500,3000,2250,29-11-2024
+356,Faridabad,Faridabad,Orange,1500,3000,2250,30-11-2024
+357,Faridabad,Faridabad,Orange,1500,3000,2750,14-11-2024
+358,Faridabad,Faridabad,Orange,1500,3500,2500,02-12-2024
+359,Faridabad,Faridabad,Orange,1500,3500,2500,06-03-2024
+360,Faridabad,Faridabad,Orange,1500,3500,2500,08-03-2024
+361,Faridabad,Faridabad,Orange,1500,3500,2500,11-03-2024
+362,Faridabad,Faridabad,Orange,1500,3500,2500,13-03-2024
+363,Faridabad,Faridabad,Orange,1500,3500,2500,14-03-2024
+364,Faridabad,Faridabad,Orange,1500,3500,2500,15-03-2024
+365,Faridabad,Faridabad,Orange,1500,3500,2500,16-11-2024
+366,Faridabad,Faridabad,Orange,1500,3500,2500,21-12-2024
+367,Faridabad,Faridabad,Orange,1500,3500,2500,22-12-2024
+368,Faridabad,Faridabad,Orange,1500,3500,2500,28-10-2024
+369,Faridabad,Faridabad,Orange,1500,4000,2750,01-03-2024
+370,Faridabad,Faridabad,Orange,1500,4000,2750,02-03-2024
+371,Faridabad,Faridabad,Orange,1500,4000,2750,03-03-2024
+372,Faridabad,Faridabad,Orange,1500,4000,2750,08-02-2024
+373,Faridabad,Faridabad,Orange,1500,4000,2750,11-12-2024
+374,Faridabad,Faridabad,Orange,1500,4000,2750,15-11-2024
+375,Faridabad,Faridabad,Orange,1500,4000,2750,21-03-2024
+376,Faridabad,Faridabad,Orange,1500,4000,2750,23-10-2024
+377,Faridabad,Faridabad,Orange,1500,4000,2750,24-02-2024
+378,Faridabad,Faridabad,Orange,1500,4000,2750,26-02-2024
+379,Faridabad,Faridabad,Orange,1800,3000,2400,26-09-2024
+380,Faridabad,Faridabad,Orange,1800,4000,2700,27-10-2024
+381,Faridabad,Faridabad,Orange,2000,2500,2250,04-02-2024
+382,Faridabad,Faridabad,Orange,2000,2500,2250,05-10-2024
+383,Faridabad,Faridabad,Orange,2000,2500,2250,06-12-2024
+384,Faridabad,Faridabad,Orange,2000,2500,2250,08-11-2024
+385,Faridabad,Faridabad,Orange,2000,2500,2250,10-10-2024
+386,Faridabad,Faridabad,Orange,2000,2500,2250,11-11-2024
+387,Faridabad,Faridabad,Orange,2000,2500,2250,14-10-2024
+388,Faridabad,Faridabad,Orange,2000,2500,2250,20-10-2024
+389,Faridabad,Faridabad,Orange,2000,2500,2250,30-10-2024
+390,Faridabad,Faridabad,Orange,2000,2500,2250,31-01-2024
+391,Faridabad,Faridabad,Orange,2000,3000,2250,14-12-2024
+392,Faridabad,Faridabad,Orange,2000,3000,2500,03-04-2024
+393,Faridabad,Faridabad,Orange,2000,3000,2500,06-11-2024
+394,Faridabad,Faridabad,Orange,2000,3000,2500,06-10-2024
+395,Faridabad,Faridabad,Orange,2000,3000,2500,09-11-2024
+396,Faridabad,Faridabad,Orange,2000,3000,2500,13-10-2024
+397,Faridabad,Faridabad,Orange,2000,3000,2500,16-02-2024
+398,Faridabad,Faridabad,Orange,2000,3000,2500,18-02-2024
+399,Faridabad,Faridabad,Orange,2000,3000,2500,19-02-2024
+400,Faridabad,Faridabad,Orange,2000,3000,2500,19-11-2024
+401,Faridabad,Faridabad,Orange,2000,3000,2500,25-10-2024
+402,Faridabad,Faridabad,Orange,2000,3000,2500,26-11-2024
+403,Faridabad,Faridabad,Orange,2000,3000,2500,29-02-2024
+404,Faridabad,Faridabad,Orange,2000,3000,2500,29-10-2024
+405,Faridabad,Faridabad,Orange,2000,3500,2750,03-12-2024
+406,Faridabad,Faridabad,Orange,2000,3500,2750,12-11-2024
+407,Faridabad,Faridabad,Orange,2000,3500,2750,16-10-2024
+408,Faridabad,Faridabad,Orange,2000,3500,2750,17-03-2024
+409,Faridabad,Faridabad,Orange,2000,3500,2750,17-10-2024
+410,Faridabad,Faridabad,Orange,2000,3500,2750,18-03-2024
+411,Faridabad,Faridabad,Orange,2000,3500,2750,18-10-2024
+412,Faridabad,Faridabad,Orange,2000,3500,3000,16-03-2024
+413,Faridabad,Faridabad,Orange,2000,4000,3000,03-02-2024
+414,Faridabad,Faridabad,Orange,2000,4000,3000,14-02-2024
+415,Faridabad,Faridabad,Orange,2000,4000,3000,15-02-2024
+416,Faridabad,Faridabad,Orange,2000,4000,3000,15-10-2024
+417,Faridabad,Faridabad,Orange,2000,4000,3000,21-10-2024
+418,Faridabad,Faridabad,Orange,2000,4000,3000,23-03-2024
+419,Faridabad,Faridabad,Orange,2000,4000,3000,24-03-2024
+420,Faridabad,Faridabad,Orange,2000,4000,3000,26-03-2024
+421,Faridabad,Faridabad,Orange,2000,4000,3000,29-03-2024
+422,Faridabad,Faridabad,Orange,2000,4000,3000,31-03-2024
+423,Faridabad,Faridabad,Orange,2000,5000,3500,02-04-2024
+424,Faridabad,Faridabad,Orange,2000,5000,3500,06-02-2024
+425,Faridabad,Faridabad,Orange,2000,5000,3500,09-02-2024
+426,Faridabad,Faridabad,Orange,2000,5000,3500,13-02-2024
+427,Faridabad,Faridabad,Orange,2000,5000,3500,30-03-2024
+428,Faridabad,Faridabad,Orange,2000,6000,3000,19-03-2024
+429,Faridabad,Faridabad,Orange,2200,3000,2600,25-09-2024
+430,Faridabad,Faridabad,Orange,2500,3000,2750,04-10-2024
+431,Faridabad,Faridabad,Orange,2500,3000,2750,22-09-2024
+432,Faridabad,Faridabad,Orange,2500,3000,2750,23-09-2024
+433,Faridabad,Faridabad,Orange,2500,3000,2750,27-09-2024
+434,Faridabad,Faridabad,Orange,2500,3000,2750,28-09-2024
+435,Faridabad,Faridabad,Orange,2500,3000,2750,30-09-2024
+436,Faridabad,Faridabad,Orange,2500,3000,2750,31-10-2024
+437,Faridabad,Faridabad,Orange,2500,3500,3000,12-02-2024
+438,Faridabad,Faridabad,Orange,2500,4000,3250,18-11-2024
+439,Faridabad,Faridabad,Orange,2500,4000,3250,20-03-2024
+440,Faridabad,Faridabad,Orange,2800,3000,2900,01-02-2024
+441,Faridabad,Faridabad,Orange,2800,3000,2900,05-03-2024
+442,Faridabad,Faridabad,Orange,3000,3500,3250,02-10-2024
+443,Faridabad,Faridabad,Orange,3000,4000,3250,25-11-2024
+444,Faridabad,Faridabad,Orange,3000,4000,3500,08-04-2024
+445,Faridabad,Faridabad,Orange,3000,4000,3500,08-12-2024
+446,Faridabad,Faridabad,Orange,3000,4000,3500,09-10-2024
+447,Faridabad,Faridabad,Orange,3000,4000,3500,09-09-2024
+448,Faridabad,Faridabad,Orange,3000,4000,3500,11-02-2024
+449,Faridabad,Faridabad,Orange,3000,4000,3500,11-09-2024
+450,Faridabad,Faridabad,Orange,3000,4000,3500,13-04-2024
+451,Faridabad,Faridabad,Orange,3000,4000,3500,14-04-2024
+452,Faridabad,Faridabad,Orange,3000,4000,3500,14-09-2024
+453,Faridabad,Faridabad,Orange,3000,4000,3500,29-09-2024
+454,Faridabad,Faridabad,Orange,3000,5000,4000,09-04-2024
+455,Faridabad,Faridabad,Orange,3000,5000,4000,11-04-2024
+456,Faridabad,Faridabad,Orange,3000,5000,4000,11-10-2024
+457,Faridabad,Faridabad,Orange,3000,5000,4000,12-04-2024
+458,Faridabad,Faridabad,Orange,3000,5000,4000,16-04-2024
+459,Faridabad,Faridabad,Orange,3000,5000,4000,24-10-2024
+460,Faridabad,Faridabad,Orange,3000,7000,5000,10-04-2024
+461,Faridabad,Faridabad,Orange,3800,4000,3900,18-09-2024
+462,Faridabad,Faridabad,Orange,5000,6500,5500,15-04-2024
+463,Fatehabad,Fatehabad,Orange,2000,2000,2000,05-01-2024
+464,Fatehabad,Fatehabad,Orange,2000,3500,2500,02-01-2024
+465,Fatehabad,Fatehabad,Orange,2000,4000,3500,21-12-2024
+466,Fatehabad,Fatehabad,Orange,2000,6000,4500,23-12-2024
+467,Fatehabad,Fatehabad,Orange,2500,4000,3000,19-12-2024
+468,Fatehabad,Fatehabad,Orange,6000,6000,6000,10-04-2024
+469,Fatehabad,Fatehabad,Orange,6000,6200,6000,08-04-2024
+470,Sonipat,Ganaur,Orange,2500,2500,2500,19-11-2024
+471,Sonipat,Ganaur,Orange,2800,3000,2800,23-11-2024
+472,Sonipat,Ganaur,Orange,3500,4000,3800,03-12-2024
+473,Sonipat,Ganaur,Orange,3500,4000,3800,05-12-2024
+474,Sonipat,Ganaur,Orange,3500,4000,3800,13-12-2024
+475,Sonipat,Ganaur,Orange,3500,4000,3800,17-12-2024
+476,Sonipat,Ganaur,Orange,3500,4000,3800,22-12-2024
+477,Sonipat,Ganaur,Orange,3500,4000,3800,27-12-2024
+478,Sonipat,Ganaur,Orange,3500,4000,3800,30-12-2024
+479,Sonipat,Ganaur,Orange,3800,4000,3800,10-12-2024
+480,Sonipat,Ganaur,Orange,5500,6000,5800,09-11-2024
+481,Sonipat,Ganaur,Orange,5500,6000,5800,26-10-2024
+482,Sonipat,Ganaur,Orange,5500,6000,5800,28-11-2024
+483,Sonipat,Ganaur,Orange,7000,8000,7500,06-05-2024
+484,Sonipat,Ganaur,Orange,8000,9000,8500,17-04-2024
+485,Sonipat,Ganaur,Orange,8000,10000,9000,01-04-2024
+486,Sonipat,Ganaur,Orange,8000,10000,9000,02-03-2024
+487,Sonipat,Ganaur,Orange,8000,10000,9000,04-04-2024
+488,Sonipat,Ganaur,Orange,8000,10000,9000,04-03-2024
+489,Sonipat,Ganaur,Orange,8000,10000,9000,05-04-2024
+490,Sonipat,Ganaur,Orange,8000,10000,9000,05-03-2024
+491,Sonipat,Ganaur,Orange,8000,10000,9000,06-03-2024
+492,Sonipat,Ganaur,Orange,8000,10000,9000,08-04-2024
+493,Sonipat,Ganaur,Orange,8000,10000,9000,09-04-2024
+494,Sonipat,Ganaur,Orange,8000,10000,9000,10-04-2024
+495,Sonipat,Ganaur,Orange,8000,10000,9000,11-04-2024
+496,Sonipat,Ganaur,Orange,8000,10000,9000,12-03-2024
+497,Sonipat,Ganaur,Orange,8000,10000,9000,13-04-2024
+498,Sonipat,Ganaur,Orange,8000,10000,9000,13-03-2024
+499,Sonipat,Ganaur,Orange,8000,10000,9000,14-03-2024
+500,Sonipat,Ganaur,Orange,8000,10000,9000,16-03-2024
+501,Sonipat,Ganaur,Orange,8000,10000,9000,18-04-2024
+502,Sonipat,Ganaur,Orange,8000,10000,9000,18-03-2024
+503,Sonipat,Ganaur,Orange,8000,10000,9000,19-03-2024
+504,Sonipat,Ganaur,Orange,8000,10000,9000,20-04-2024
+505,Sonipat,Ganaur,Orange,8000,10000,9000,20-03-2024
+506,Sonipat,Ganaur,Orange,8000,10000,9000,21-03-2024
+507,Sonipat,Ganaur,Orange,8000,10000,9000,22-03-2024
+508,Sonipat,Ganaur,Orange,8000,10000,9000,23-04-2024
+509,Sonipat,Ganaur,Orange,8000,10000,9000,23-03-2024
+510,Sonipat,Ganaur,Orange,8000,10000,9000,24-04-2024
+511,Sonipat,Ganaur,Orange,8000,10000,9000,25-04-2024
+512,Sonipat,Ganaur,Orange,8000,10000,9000,26-02-2024
+513,Sonipat,Ganaur,Orange,8000,10000,9000,26-03-2024
+514,Sonipat,Ganaur,Orange,8000,10000,9000,27-04-2024
+515,Sonipat,Ganaur,Orange,8000,10000,9000,27-02-2024
+516,Sonipat,Ganaur,Orange,8000,10000,9000,28-03-2024
+517,Sonipat,Ganaur,Orange,8000,10000,9000,29-02-2024
+518,Sonipat,Ganaur,Orange,8000,10000,9000,29-03-2024
+519,Sonipat,Ganaur,Orange,8000,10000,9000,30-03-2024
+520,Sonipat,Ganaur,Orange,8000,10000,10000,01-03-2024
+521,Sonipat,Ganaur,Orange,8000,10000,10000,12-04-2024
+522,Sonipat,Ganaur,Orange,10000,12000,10000,05-01-2024
+523,Sonipat,Ganaur,Orange,10000,12000,12000,28-02-2024
+524,Sonipat,Gohana,Orange,2000,3000,2500,08-11-2024
+525,Sonipat,Gohana,Orange,2000,4000,3000,22-11-2024
+526,Sonipat,Gohana,Orange,3000,4000,3500,01-01-2025
+527,Sonipat,Gohana,Orange,3000,4000,3500,05-11-2024
+528,Sonipat,Gohana,Orange,3000,4000,3500,19-12-2024
+529,Sonipat,Gohana,Orange,3000,4000,3500,30-12-2024
+530,Sonipat,Gohana,Orange,3000,4000,3500,31-12-2024
+531,Sonipat,Gohana,Orange,3000,5000,3500,04-11-2024
+532,Sonipat,Gohana,Orange,3000,5000,4000,01-12-2024
+533,Sonipat,Gohana,Orange,3000,5000,4000,02-12-2024
+534,Sonipat,Gohana,Orange,3000,5000,4000,02-11-2024
+535,Sonipat,Gohana,Orange,3000,5000,4000,03-11-2024
+536,Sonipat,Gohana,Orange,3000,5000,4000,04-12-2024
+537,Sonipat,Gohana,Orange,3000,5000,4000,06-12-2024
+538,Sonipat,Gohana,Orange,3000,5000,4000,06-10-2024
+539,Sonipat,Gohana,Orange,3000,5000,4000,07-12-2024
+540,Sonipat,Gohana,Orange,3000,5000,4000,07-11-2024
+541,Sonipat,Gohana,Orange,3000,5000,4000,07-10-2024
+542,Sonipat,Gohana,Orange,3000,5000,4000,08-10-2024
+543,Sonipat,Gohana,Orange,3000,5000,4000,09-12-2024
+544,Sonipat,Gohana,Orange,3000,5000,4000,09-11-2024
+545,Sonipat,Gohana,Orange,3000,5000,4000,09-10-2024
+546,Sonipat,Gohana,Orange,3000,5000,4000,11-12-2024
+547,Sonipat,Gohana,Orange,3000,5000,4000,11-11-2024
+548,Sonipat,Gohana,Orange,3000,5000,4000,11-10-2024
+549,Sonipat,Gohana,Orange,3000,5000,4000,12-12-2024
+550,Sonipat,Gohana,Orange,3000,5000,4000,12-11-2024
+551,Sonipat,Gohana,Orange,3000,5000,4000,13-12-2024
+552,Sonipat,Gohana,Orange,3000,5000,4000,13-11-2024
+553,Sonipat,Gohana,Orange,3000,5000,4000,14-11-2024
+554,Sonipat,Gohana,Orange,3000,5000,4000,14-10-2024
+555,Sonipat,Gohana,Orange,3000,5000,4000,15-11-2024
+556,Sonipat,Gohana,Orange,3000,5000,4000,16-11-2024
+557,Sonipat,Gohana,Orange,3000,5000,4000,17-12-2024
+558,Sonipat,Gohana,Orange,3000,5000,4000,17-10-2024
+559,Sonipat,Gohana,Orange,3000,5000,4000,18-12-2024
+560,Sonipat,Gohana,Orange,3000,5000,4000,18-11-2024
+561,Sonipat,Gohana,Orange,3000,5000,4000,19-11-2024
+562,Sonipat,Gohana,Orange,3000,5000,4000,20-12-2024
+563,Sonipat,Gohana,Orange,3000,5000,4000,20-11-2024
+564,Sonipat,Gohana,Orange,3000,5000,4000,20-10-2024
+565,Sonipat,Gohana,Orange,3000,5000,4000,21-12-2024
+566,Sonipat,Gohana,Orange,3000,5000,4000,21-11-2024
+567,Sonipat,Gohana,Orange,3000,5000,4000,21-10-2024
+568,Sonipat,Gohana,Orange,3000,5000,4000,22-10-2024
+569,Sonipat,Gohana,Orange,3000,5000,4000,23-11-2024
+570,Sonipat,Gohana,Orange,3000,5000,4000,25-11-2024
+571,Sonipat,Gohana,Orange,3000,5000,4000,26-10-2024
+572,Sonipat,Gohana,Orange,3000,5000,4000,27-11-2024
+573,Sonipat,Gohana,Orange,3000,5000,4000,28-11-2024
+574,Sonipat,Gohana,Orange,3000,5000,4000,28-10-2024
+575,Sonipat,Gohana,Orange,3000,6000,4000,22-09-2024
+576,Sonipat,Gohana,Orange,3500,4000,3800,06-11-2024
+577,Sonipat,Gohana,Orange,3500,5000,4100,19-03-2024
+578,Sonipat,Gohana,Orange,3500,5000,4100,20-03-2024
+579,Sonipat,Gohana,Orange,3500,5000,4100,21-03-2024
+580,Sonipat,Gohana,Orange,3800,4000,3800,06-01-2024
+581,Sonipat,Gohana,Orange,3800,4000,3800,07-01-2024
+582,Sonipat,Gohana,Orange,3800,4000,3800,08-01-2024
+583,Sonipat,Gohana,Orange,4000,5000,4500,05-03-2024
+584,Sonipat,Gohana,Orange,4000,5000,4500,06-03-2024
+585,Sonipat,Gohana,Orange,4000,5000,4500,11-03-2024
+586,Sonipat,Gohana,Orange,4000,5000,4500,13-03-2024
+587,Sonipat,Gohana,Orange,4000,5000,4500,14-03-2024
+588,Sonipat,Gohana,Orange,4000,5000,4500,15-03-2024
+589,Sonipat,Gohana,Orange,4000,5000,4500,16-03-2024
+590,Sonipat,Gohana,Orange,4000,5000,4500,17-03-2024
+591,Sonipat,Gohana,Orange,4000,5000,4500,18-03-2024
+592,Sonipat,Gohana,Orange,4000,5000,4500,22-03-2024
+593,Sonipat,Gohana,Orange,4000,5000,4500,24-10-2024
+594,Sonipat,Gohana,Orange,4000,5000,4500,25-10-2024
+595,Sonipat,Gohana,Orange,4000,5000,4500,26-03-2024
+596,Sonipat,Gohana,Orange,4000,5000,4500,27-03-2024
+597,Sonipat,Gohana,Orange,4000,5000,4500,28-03-2024
+598,Sonipat,Gohana,Orange,4000,5000,4500,29-03-2024
+599,Sonipat,Gohana,Orange,4000,6000,4500,05-10-2024
+600,Sonipat,Gohana,Orange,4000,6000,5000,04-10-2024
+601,Sonipat,Gohana,Orange,4000,6000,5000,13-10-2024
+602,Sonipat,Gohana,Orange,4000,6000,5000,18-09-2024
+603,Sonipat,Gohana,Orange,4000,6000,5000,21-09-2024
+604,Sonipat,Gohana,Orange,4000,6000,5000,28-09-2024
+605,Sonipat,Gohana,Orange,4200,5000,4500,22-02-2024
+606,Sonipat,Gohana,Orange,4500,5000,4750,04-04-2024
+607,Sonipat,Gohana,Orange,4500,5000,4750,08-03-2024
+608,Sonipat,Gohana,Orange,4500,5000,4750,12-02-2024
+609,Sonipat,Gohana,Orange,4500,5000,4750,13-02-2024
+610,Sonipat,Gohana,Orange,4500,5000,4750,14-02-2024
+611,Sonipat,Gohana,Orange,4500,5000,4750,15-02-2024
+612,Sonipat,Gohana,Orange,4500,5000,4750,16-02-2024
+613,Sonipat,Gohana,Orange,4500,5000,4750,17-02-2024
+614,Sonipat,Gohana,Orange,4500,5000,4800,09-03-2024
+615,Sonipat,Gohana,Orange,4800,5000,4800,01-02-2024
+616,Sonipat,Gohana,Orange,4800,5000,4900,01-03-2024
+617,Sonipat,Gohana,Orange,4800,5000,4900,02-02-2024
+618,Sonipat,Gohana,Orange,4800,5000,4900,02-03-2024
+619,Sonipat,Gohana,Orange,4800,5000,4900,04-03-2024
+620,Sonipat,Gohana,Orange,4800,5000,4900,07-03-2024
+621,Sonipat,Gohana,Orange,4800,5000,4900,18-02-2024
+622,Sonipat,Gohana,Orange,4800,5000,4900,19-02-2024
+623,Sonipat,Gohana,Orange,4800,5000,4900,20-02-2024
+624,Sonipat,Gohana,Orange,4800,5000,4900,21-02-2024
+625,Sonipat,Gohana,Orange,4800,5000,4900,23-02-2024
+626,Sonipat,Gohana,Orange,4800,5000,4900,26-02-2024
+627,Sonipat,Gohana,Orange,4800,5000,4900,27-02-2024
+628,Sonipat,Gohana,Orange,4800,5000,4900,28-02-2024
+629,Sonipat,Gohana,Orange,5000,6000,5500,01-04-2024
+630,Sonipat,Gohana,Orange,5000,6000,5500,05-04-2024
+631,Sonipat,Gohana,Orange,5000,6000,5500,07-04-2024
+632,Sonipat,Gohana,Orange,5000,6000,5500,08-04-2024
+633,Sonipat,Gohana,Orange,5000,6000,5500,10-04-2024
+634,Sonipat,Gohana,Orange,5000,6000,5500,12-04-2024
+635,Sonipat,Gohana,Orange,5000,6000,5500,14-04-2024
+636,Sonipat,Gohana,Orange,5000,6000,5500,15-04-2024
+637,Sonipat,Gohana,Orange,5000,6000,5500,30-03-2024
+638,Gurgaon,Gurgaon,Orange,2000,3000,2500,03-11-2024
+639,Gurgaon,Gurgaon,Orange,2000,3000,2500,11-12-2024
+640,Gurgaon,Gurgaon,Orange,2000,3000,2500,26-12-2024
+641,Gurgaon,Gurgaon,Orange,2000,3000,2500,29-10-2024
+642,Gurgaon,Gurgaon,Orange,2000,3000,2500,30-10-2024
+643,Gurgaon,Gurgaon,Orange,2000,4000,3000,01-12-2024
+644,Gurgaon,Gurgaon,Orange,2000,4000,3000,01-01-2025
+645,Gurgaon,Gurgaon,Orange,2000,4000,3000,01-11-2024
+646,Gurgaon,Gurgaon,Orange,2000,4000,3000,02-12-2024
+647,Gurgaon,Gurgaon,Orange,2000,4000,3000,02-11-2024
+648,Gurgaon,Gurgaon,Orange,2000,4000,3000,03-12-2024
+649,Gurgaon,Gurgaon,Orange,2000,4000,3000,04-12-2024
+650,Gurgaon,Gurgaon,Orange,2000,4000,3000,04-11-2024
+651,Gurgaon,Gurgaon,Orange,2000,4000,3000,05-11-2024
+652,Gurgaon,Gurgaon,Orange,2000,4000,3000,06-12-2024
+653,Gurgaon,Gurgaon,Orange,2000,4000,3000,07-12-2024
+654,Gurgaon,Gurgaon,Orange,2000,4000,3000,07-11-2024
+655,Gurgaon,Gurgaon,Orange,2000,4000,3000,08-12-2024
+656,Gurgaon,Gurgaon,Orange,2000,4000,3000,09-12-2024
+657,Gurgaon,Gurgaon,Orange,2000,4000,3000,09-11-2024
+658,Gurgaon,Gurgaon,Orange,2000,4000,3000,10-12-2024
+659,Gurgaon,Gurgaon,Orange,2000,4000,3000,12-12-2024
+660,Gurgaon,Gurgaon,Orange,2000,4000,3000,13-12-2024
+661,Gurgaon,Gurgaon,Orange,2000,4000,3000,13-11-2024
+662,Gurgaon,Gurgaon,Orange,2000,4000,3000,14-12-2024
+663,Gurgaon,Gurgaon,Orange,2000,4000,3000,15-12-2024
+664,Gurgaon,Gurgaon,Orange,2000,4000,3000,15-11-2024
+665,Gurgaon,Gurgaon,Orange,2000,4000,3000,16-12-2024
+666,Gurgaon,Gurgaon,Orange,2000,4000,3000,16-11-2024
+667,Gurgaon,Gurgaon,Orange,2000,4000,3000,17-11-2024
+668,Gurgaon,Gurgaon,Orange,2000,4000,3000,18-12-2024
+669,Gurgaon,Gurgaon,Orange,2000,4000,3000,18-11-2024
+670,Gurgaon,Gurgaon,Orange,2000,4000,3000,19-12-2024
+671,Gurgaon,Gurgaon,Orange,2000,4000,3000,19-11-2024
+672,Gurgaon,Gurgaon,Orange,2000,4000,3000,20-12-2024
+673,Gurgaon,Gurgaon,Orange,2000,4000,3000,20-11-2024
+674,Gurgaon,Gurgaon,Orange,2000,4000,3000,22-12-2024
+675,Gurgaon,Gurgaon,Orange,2000,4000,3000,23-12-2024
+676,Gurgaon,Gurgaon,Orange,2000,4000,3000,23-11-2024
+677,Gurgaon,Gurgaon,Orange,2000,4000,3000,24-12-2024
+678,Gurgaon,Gurgaon,Orange,2000,4000,3000,24-10-2024
+679,Gurgaon,Gurgaon,Orange,2000,4000,3000,25-11-2024
+680,Gurgaon,Gurgaon,Orange,2000,4000,3000,25-10-2024
+681,Gurgaon,Gurgaon,Orange,2000,4000,3000,26-11-2024
+682,Gurgaon,Gurgaon,Orange,2000,4000,3000,27-12-2024
+683,Gurgaon,Gurgaon,Orange,2000,4000,3000,27-11-2024
+684,Gurgaon,Gurgaon,Orange,2000,4000,3000,28-12-2024
+685,Gurgaon,Gurgaon,Orange,2000,4000,3000,28-10-2024
+686,Gurgaon,Gurgaon,Orange,2000,4000,3000,29-11-2024
+687,Gurgaon,Gurgaon,Orange,2000,4000,3000,30-12-2024
+688,Gurgaon,Gurgaon,Orange,2000,4000,3000,30-11-2024
+689,Gurgaon,Gurgaon,Orange,2000,4000,3000,31-12-2024
+690,Gurgaon,Gurgaon,Orange,2000,4000,3000,31-10-2024
+691,Gurgaon,Gurgaon,Orange,3000,5000,4000,05-12-2024
+692,Gurgaon,Gurgaon,Orange,3000,5000,4000,06-11-2024
+693,Gurgaon,Gurgaon,Orange,3000,5000,4000,08-11-2024
+694,Gurgaon,Gurgaon,Orange,3000,5000,4000,10-11-2024
+695,Gurgaon,Gurgaon,Orange,3000,5000,4000,11-11-2024
+696,Gurgaon,Gurgaon,Orange,3000,5000,4000,12-11-2024
+697,Gurgaon,Gurgaon,Orange,3000,5000,4000,17-12-2024
+698,Gurgaon,Gurgaon,Orange,3000,5000,4000,21-12-2024
+699,Gurgaon,Gurgaon,Orange,3000,5000,4000,21-11-2024
+700,Gurgaon,Gurgaon,Orange,3000,5000,4000,22-11-2024
+701,Gurgaon,Gurgaon,Orange,3000,5000,4000,25-12-2024
+702,Gurgaon,Gurgaon,Orange,3000,5000,4000,28-11-2024
+703,Gurgaon,Gurgaon,Orange,2000,4000,3000,26-10-2024
+704,Hissar,Hansi,Orange,2000,2000,2000,09-02-2024
+705,Hissar,Hansi,Orange,3000,3000,3000,01-02-2024
+706,Hissar,Hansi,Orange,3000,3000,3000,01-01-2024
+707,Hissar,Hansi,Orange,3000,3000,3000,07-02-2024
+708,Hissar,Hansi,Orange,3000,3000,3000,30-01-2024
+709,Hissar,Hansi,Orange,3000,4000,3000,02-12-2024
+710,Hissar,Hansi,Orange,3000,4000,3500,01-12-2024
+711,Hissar,Hansi,Orange,3000,4000,3500,03-12-2024
+712,Hissar,Hansi,Orange,3000,4000,3500,04-12-2024
+713,Hissar,Hansi,Orange,3000,4000,3500,05-12-2024
+714,Hissar,Hansi,Orange,3000,4000,3500,06-12-2024
+715,Hissar,Hansi,Orange,3000,4000,3500,07-12-2024
+716,Hissar,Hansi,Orange,3000,4000,3500,08-12-2024
+717,Hissar,Hansi,Orange,3000,4000,3500,09-12-2024
+718,Hissar,Hansi,Orange,3000,4000,3500,11-12-2024
+719,Hissar,Hansi,Orange,3000,4000,3500,12-12-2024
+720,Hissar,Hansi,Orange,3000,4000,3500,13-12-2024
+721,Hissar,Hansi,Orange,3000,4000,3500,15-12-2024
+722,Hissar,Hansi,Orange,3000,4000,3500,16-12-2024
+723,Hissar,Hansi,Orange,3000,4000,3500,17-12-2024
+724,Hissar,Hansi,Orange,3000,4000,3500,18-12-2024
+725,Hissar,Hansi,Orange,3000,4000,3500,19-12-2024
+726,Hissar,Hansi,Orange,3000,4000,3500,21-12-2024
+727,Hissar,Hansi,Orange,3000,4000,3500,22-12-2024
+728,Hissar,Hansi,Orange,3000,4000,3500,26-12-2024
+729,Hissar,Hansi,Orange,3000,4000,3500,29-11-2024
+730,Hissar,Hansi,Orange,3000,4000,3500,31-12-2024
+731,Hissar,Hansi,Orange,3000,4000,4000,14-12-2024
+732,Hissar,Hansi,Orange,3000,4000,4000,20-12-2024
+733,Hissar,Hansi,Orange,3000,4000,4000,27-11-2024
+734,Hissar,Hansi,Orange,3000,5000,4000,28-11-2024
+735,Hissar,Hansi,Orange,4000,4000,4000,14-03-2024
+736,Hissar,Hansi,Orange,4000,4000,4000,15-02-2024
+737,Hissar,Hansi,Orange,4000,4000,4000,16-03-2024
+738,Hissar,Hansi,Orange,4000,4000,4000,27-02-2024
+739,Hissar,Hansi,Orange,4000,4000,4000,29-01-2024
+740,Hissar,Hansi,Orange,4000,5000,4500,01-04-2024
+741,Hissar,Hansi,Orange,4000,5000,4500,09-03-2024
+742,Hissar,Hansi,Orange,4000,5000,4500,12-03-2024
+743,Hissar,Hansi,Orange,4000,5000,4500,13-03-2024
+744,Hissar,Hansi,Orange,4000,5000,4500,17-03-2024
+745,Hissar,Hansi,Orange,4000,5000,4500,18-03-2024
+746,Hissar,Hansi,Orange,4000,5000,4500,19-03-2024
+747,Hissar,Hansi,Orange,4000,5000,4500,20-03-2024
+748,Hissar,Hansi,Orange,4000,5000,4500,21-03-2024
+749,Hissar,Hansi,Orange,4000,5000,4500,22-03-2024
+750,Hissar,Hansi,Orange,4000,5000,4500,23-03-2024
+751,Hissar,Hansi,Orange,4000,5000,4500,24-03-2024
+752,Hissar,Hansi,Orange,4000,5000,4500,27-03-2024
+753,Hissar,Hansi,Orange,4000,5000,4500,28-03-2024
+754,Hissar,Hansi,Orange,4000,5000,4500,29-03-2024
+755,Hissar,Hansi,Orange,4000,5000,4500,31-03-2024
+756,Hissar,Hansi,Orange,4000,5000,5000,02-04-2024
+757,Hissar,Hansi,Orange,4000,5000,5000,26-03-2024
+758,Hissar,Hansi,Orange,5000,5000,5000,01-03-2024
+759,Hissar,Hansi,Orange,5000,5000,5000,02-03-2024
+760,Hissar,Hansi,Orange,5000,5000,5000,03-04-2024
+761,Hissar,Hansi,Orange,5000,5000,5000,03-03-2024
+762,Hissar,Hansi,Orange,5000,5000,5000,04-04-2024
+763,Hissar,Hansi,Orange,5000,5000,5000,04-03-2024
+764,Hissar,Hansi,Orange,5000,5000,5000,05-04-2024
+765,Hissar,Hansi,Orange,5000,5000,5000,06-03-2024
+766,Hissar,Hansi,Orange,5000,5000,5000,07-04-2024
+767,Hissar,Hansi,Orange,5000,5000,5000,07-03-2024
+768,Hissar,Hansi,Orange,5000,5000,5000,08-04-2024
+769,Hissar,Hansi,Orange,5000,5000,5000,08-03-2024
+770,Hissar,Hansi,Orange,5000,5000,5000,09-04-2024
+771,Hissar,Hansi,Orange,5000,5000,5000,10-04-2024
+772,Hissar,Hansi,Orange,5000,5000,5000,10-03-2024
+773,Hissar,Hansi,Orange,5000,5000,5000,11-04-2024
+774,Hissar,Hansi,Orange,5000,5000,5000,11-03-2024
+775,Hissar,Hansi,Orange,5000,5000,5000,12-04-2024
+776,Hissar,Hansi,Orange,5000,5000,5000,13-04-2024
+777,Hissar,Hansi,Orange,5000,5000,5000,14-02-2024
+778,Hissar,Hansi,Orange,5000,5000,5000,16-02-2024
+779,Hissar,Hansi,Orange,5000,5000,5000,17-02-2024
+780,Hissar,Hansi,Orange,5000,5000,5000,18-02-2024
+781,Hissar,Hansi,Orange,5000,5000,5000,20-02-2024
+782,Hissar,Hansi,Orange,5000,5000,5000,23-02-2024
+783,Hissar,Hansi,Orange,5000,5000,5000,25-02-2024
+784,Hissar,Hansi,Orange,5000,5000,5000,26-02-2024
+785,Hissar,Hansi,Orange,5000,5000,5000,28-02-2024
+786,Hissar,Hansi,Orange,5000,6000,5500,10-11-2024
+787,Hissar,Hansi,Orange,5000,6000,5500,12-11-2024
+788,Hissar,Hansi,Orange,5000,6000,5500,13-11-2024
+789,Hissar,Hansi,Orange,5000,6000,5500,17-11-2024
+790,Hissar,Hansi,Orange,5000,6000,5500,18-11-2024
+791,Hissar,Hansi,Orange,5000,6000,5500,19-11-2024
+792,Hissar,Hansi,Orange,5000,6000,5500,21-11-2024
+793,Hissar,Hansi,Orange,5000,6000,5500,22-11-2024
+794,Hissar,Hansi,Orange,5000,6000,5500,23-11-2024
+795,Hissar,Hansi,Orange,5000,6000,5500,24-11-2024
+796,Hissar,Hansi,Orange,5000,6000,5500,25-11-2024
+797,Hissar,Hansi,Orange,6000,6000,6000,01-11-2024
+798,Hissar,Hansi,Orange,6000,6000,6000,01-10-2024
+799,Hissar,Hansi,Orange,6000,6000,6000,02-11-2024
+800,Hissar,Hansi,Orange,6000,6000,6000,02-10-2024
+801,Hissar,Hansi,Orange,6000,6000,6000,03-11-2024
+802,Hissar,Hansi,Orange,6000,6000,6000,03-10-2024
+803,Hissar,Hansi,Orange,6000,6000,6000,04-11-2024
+804,Hissar,Hansi,Orange,6000,6000,6000,04-10-2024
+805,Hissar,Hansi,Orange,6000,6000,6000,05-10-2024
+806,Hissar,Hansi,Orange,6000,6000,6000,07-10-2024
+807,Hissar,Hansi,Orange,6000,6000,6000,08-10-2024
+808,Hissar,Hansi,Orange,6000,6000,6000,09-11-2024
+809,Hissar,Hansi,Orange,6000,6000,6000,09-10-2024
+810,Hissar,Hansi,Orange,6000,6000,6000,10-10-2024
+811,Hissar,Hansi,Orange,6000,6000,6000,11-11-2024
+812,Hissar,Hansi,Orange,6000,6000,6000,11-10-2024
+813,Hissar,Hansi,Orange,6000,6000,6000,12-10-2024
+814,Hissar,Hansi,Orange,6000,6000,6000,13-10-2024
+815,Hissar,Hansi,Orange,6000,6000,6000,14-10-2024
+816,Hissar,Hansi,Orange,6000,6000,6000,15-10-2024
+817,Hissar,Hansi,Orange,6000,6000,6000,16-10-2024
+818,Hissar,Hansi,Orange,6000,6000,6000,17-10-2024
+819,Hissar,Hansi,Orange,6000,6000,6000,18-10-2024
+820,Hissar,Hansi,Orange,6000,6000,6000,19-10-2024
+821,Hissar,Hansi,Orange,6000,6000,6000,19-09-2024
+822,Hissar,Hansi,Orange,6000,6000,6000,20-10-2024
+823,Hissar,Hansi,Orange,6000,6000,6000,20-09-2024
+824,Hissar,Hansi,Orange,6000,6000,6000,21-10-2024
+825,Hissar,Hansi,Orange,6000,6000,6000,22-10-2024
+826,Hissar,Hansi,Orange,6000,6000,6000,24-10-2024
+827,Hissar,Hansi,Orange,6000,6000,6000,25-10-2024
+828,Hissar,Hansi,Orange,6000,6000,6000,27-10-2024
+829,Hissar,Hansi,Orange,6000,6000,6000,27-09-2024
+830,Hissar,Hansi,Orange,6000,6000,6000,28-10-2024
+831,Hissar,Hansi,Orange,6000,6000,6000,29-10-2024
+832,Hissar,Hansi,Orange,6000,6000,6000,30-10-2024
+833,Hissar,Hansi,Orange,6000,6000,6000,30-09-2024
+834,Hissar,Hansi,Orange,6000,6000,6000,31-10-2024
+835,Hissar,Hansi,Orange,6000,8000,7000,06-09-2024
+836,Hissar,Hansi,Orange,6000,8000,7000,08-09-2024
+837,Hissar,Hansi,Orange,7000,7000,7000,11-09-2024
+838,Hissar,Hansi,Orange,7000,7000,7000,13-09-2024
+839,Hissar,Hansi,Orange,8000,8000,8000,05-09-2024
+840,Hissar,Hansi,Orange,8000,8000,8000,26-08-2024
+841,Palwal,Hodal,Orange,4000,5000,4500,21-11-2024
+842,Yamuna Nagar,Jagadhri,Orange,2200,3500,3200,11-11-2024
+843,Yamuna Nagar,Jagadhri,Orange,2200,3500,3250,12-11-2024
+844,Fatehabad,Jakhal,Orange,3000,3400,3400,15-06-2024
+845,Fatehabad,Jakhal,Orange,4000,4000,4000,27-03-2024
+846,Rewari,Kosli,Orange,3000,3000,3000,02-03-2024
+847,Rewari,Kosli,Orange,3000,3000,3000,04-03-2024
+848,Rewari,Kosli,Orange,3000,3000,3000,06-03-2024
+849,Rewari,Kosli,Orange,3000,3000,3000,09-11-2024
+850,Rewari,Kosli,Orange,3000,3000,3000,12-03-2024
+851,Rewari,Kosli,Orange,3000,3000,3000,13-03-2024
+852,Rewari,Kosli,Orange,3000,3000,3000,14-03-2024
+853,Rewari,Kosli,Orange,3000,3000,3000,15-02-2024
+854,Rewari,Kosli,Orange,3000,3000,3000,16-03-2024
+855,Rewari,Kosli,Orange,3000,3000,3000,18-03-2024
+856,Rewari,Kosli,Orange,3000,3000,3000,20-02-2024
+857,Rewari,Kosli,Orange,3000,3000,3000,22-02-2024
+858,Rewari,Kosli,Orange,3000,3000,3000,25-03-2024
+859,Rewari,Kosli,Orange,3000,3000,3000,26-02-2024
+860,Rewari,Kosli,Orange,3000,3000,3000,26-03-2024
+861,Rewari,Kosli,Orange,3000,3000,3000,29-03-2024
+862,Rewari,Kosli,Orange,3000,3000,3000,29-11-2024
+863,Rewari,Kosli,Orange,3500,3500,3500,27-02-2024
+864,Rewari,Kosli,Orange,4000,4000,4000,03-01-2024
+865,Rewari,Kosli,Orange,4000,4000,4000,07-01-2024
+866,Rewari,Kosli,Orange,4000,4000,4000,12-01-2024
+867,Rewari,Kosli,Orange,4000,4000,4000,19-01-2024
+868,Kurukshetra,Ladwa,Orange,2000,2000,2000,19-02-2024
+869,Kurukshetra,Ladwa,Orange,3000,3000,3000,14-04-2024
+870,Kurukshetra,Ladwa,Orange,3000,4000,3500,21-02-2024
+871,Kurukshetra,Ladwa,Orange,3000,4000,3500,28-02-2024
+872,Kurukshetra,Ladwa,Orange,3000,5000,4000,01-03-2024
+873,Kurukshetra,Ladwa,Orange,3000,5000,4000,15-11-2024
+874,Kurukshetra,Ladwa,Orange,3000,5000,4000,20-02-2024
+875,Kurukshetra,Ladwa,Orange,4000,4000,4000,02-03-2024
+876,Kurukshetra,Ladwa,Orange,4000,4000,4000,12-03-2024
+877,Kurukshetra,Ladwa,Orange,4000,4000,4000,15-04-2024
+878,Kurukshetra,Ladwa,Orange,4000,4000,4000,17-04-2024
+879,Kurukshetra,Ladwa,Orange,4000,4000,4000,17-02-2024
+880,Kurukshetra,Ladwa,Orange,4000,4000,4000,23-09-2024
+881,Kurukshetra,Ladwa,Orange,4000,4000,4000,24-02-2024
+882,Kurukshetra,Ladwa,Orange,4000,4000,4000,30-11-2024
+883,Kurukshetra,Ladwa,Orange,4000,4500,4200,20-04-2024
+884,Kurukshetra,Ladwa,Orange,4000,5000,4500,06-03-2024
+885,Kurukshetra,Ladwa,Orange,4000,5000,4500,08-04-2024
+886,Kurukshetra,Ladwa,Orange,4000,5000,4500,09-03-2024
+887,Kurukshetra,Ladwa,Orange,4000,5000,4500,18-03-2024
+888,Kurukshetra,Ladwa,Orange,4000,5000,4500,18-11-2024
+889,Kurukshetra,Ladwa,Orange,4000,5000,4500,19-04-2024
+890,Kurukshetra,Ladwa,Orange,4000,5800,5000,29-11-2024
+891,Kurukshetra,Ladwa,Orange,4200,5000,4600,26-10-2024
+892,Kurukshetra,Ladwa,Orange,4500,5000,4700,06-04-2024
+893,Kurukshetra,Ladwa,Orange,4500,5000,4700,13-11-2024
+894,Kurukshetra,Ladwa,Orange,4500,5000,4800,11-04-2024
+895,Kurukshetra,Ladwa,Orange,4500,5000,4800,16-04-2024
+896,Kurukshetra,Ladwa,Orange,4500,5000,4800,30-03-2024
+897,Kurukshetra,Ladwa,Orange,4500,5200,5000,10-11-2024
+898,Kurukshetra,Ladwa,Orange,5000,5000,5000,01-11-2024
+899,Kurukshetra,Ladwa,Orange,5000,5000,5000,02-10-2024
+900,Kurukshetra,Ladwa,Orange,5000,5000,5000,03-03-2024
+901,Kurukshetra,Ladwa,Orange,5000,5000,5000,03-11-2024
+902,Kurukshetra,Ladwa,Orange,5000,5000,5000,03-10-2024
+903,Kurukshetra,Ladwa,Orange,5000,5000,5000,04-12-2024
+904,Kurukshetra,Ladwa,Orange,5000,5000,5000,04-11-2024
+905,Kurukshetra,Ladwa,Orange,5000,5000,5000,04-10-2024
+906,Kurukshetra,Ladwa,Orange,5000,5000,5000,05-04-2024
+907,Kurukshetra,Ladwa,Orange,5000,5000,5000,05-11-2024
+908,Kurukshetra,Ladwa,Orange,5000,5000,5000,05-10-2024
+909,Kurukshetra,Ladwa,Orange,5000,5000,5000,06-11-2024
+910,Kurukshetra,Ladwa,Orange,5000,5000,5000,06-10-2024
+911,Kurukshetra,Ladwa,Orange,5000,5000,5000,07-04-2024
+912,Kurukshetra,Ladwa,Orange,5000,5000,5000,07-03-2024
+913,Kurukshetra,Ladwa,Orange,5000,5000,5000,08-11-2024
+914,Kurukshetra,Ladwa,Orange,5000,5000,5000,09-11-2024
+915,Kurukshetra,Ladwa,Orange,5000,5000,5000,09-10-2024
+916,Kurukshetra,Ladwa,Orange,5000,5000,5000,10-04-2024
+917,Kurukshetra,Ladwa,Orange,5000,5000,5000,10-10-2024
+918,Kurukshetra,Ladwa,Orange,5000,5000,5000,11-03-2024
+919,Kurukshetra,Ladwa,Orange,5000,5000,5000,12-04-2024
+920,Kurukshetra,Ladwa,Orange,5000,5000,5000,12-11-2024
+921,Kurukshetra,Ladwa,Orange,5000,5000,5000,12-10-2024
+922,Kurukshetra,Ladwa,Orange,5000,5000,5000,13-04-2024
+923,Kurukshetra,Ladwa,Orange,5000,5000,5000,13-02-2024
+924,Kurukshetra,Ladwa,Orange,5000,5000,5000,13-03-2024
+925,Kurukshetra,Ladwa,Orange,5000,5000,5000,13-10-2024
+926,Kurukshetra,Ladwa,Orange,5000,5000,5000,14-03-2024
+927,Kurukshetra,Ladwa,Orange,5000,5000,5000,14-11-2024
+928,Kurukshetra,Ladwa,Orange,5000,5000,5000,14-10-2024
+929,Kurukshetra,Ladwa,Orange,5000,5000,5000,15-02-2024
+930,Kurukshetra,Ladwa,Orange,5000,5000,5000,15-10-2024
+931,Kurukshetra,Ladwa,Orange,5000,5000,5000,16-03-2024
+932,Kurukshetra,Ladwa,Orange,5000,5000,5000,16-11-2024
+933,Kurukshetra,Ladwa,Orange,5000,5000,5000,16-10-2024
+934,Kurukshetra,Ladwa,Orange,5000,5000,5000,17-03-2024
+935,Kurukshetra,Ladwa,Orange,5000,5000,5000,17-10-2024
+936,Kurukshetra,Ladwa,Orange,5000,5000,5000,18-04-2024
+937,Kurukshetra,Ladwa,Orange,5000,5000,5000,18-02-2024
+938,Kurukshetra,Ladwa,Orange,5000,5000,5000,18-10-2024
+939,Kurukshetra,Ladwa,Orange,5000,5000,5000,19-10-2024
+940,Kurukshetra,Ladwa,Orange,5000,5000,5000,20-10-2024
+941,Kurukshetra,Ladwa,Orange,5000,5000,5000,21-04-2024
+942,Kurukshetra,Ladwa,Orange,5000,5000,5000,21-03-2024
+943,Kurukshetra,Ladwa,Orange,5000,5000,5000,21-10-2024
+944,Kurukshetra,Ladwa,Orange,5000,5000,5000,22-10-2024
+945,Kurukshetra,Ladwa,Orange,5000,5000,5000,23-04-2024
+946,Kurukshetra,Ladwa,Orange,5000,5000,5000,23-10-2024
+947,Kurukshetra,Ladwa,Orange,5000,5000,5000,24-10-2024
+948,Kurukshetra,Ladwa,Orange,5000,5000,5000,25-04-2024
+949,Kurukshetra,Ladwa,Orange,5000,5000,5000,25-10-2024
+950,Kurukshetra,Ladwa,Orange,5000,5000,5000,26-03-2024
+951,Kurukshetra,Ladwa,Orange,5000,5000,5000,28-10-2024
+952,Kurukshetra,Ladwa,Orange,5000,5000,5000,29-02-2024
+953,Kurukshetra,Ladwa,Orange,5000,5000,5000,29-03-2024
+954,Kurukshetra,Ladwa,Orange,5000,5000,5000,29-10-2024
+955,Kurukshetra,Ladwa,Orange,5000,5000,5000,31-10-2024
+956,Kurukshetra,Ladwa,Orange,5000,6000,5500,09-04-2024
+957,Kurukshetra,Ladwa,Orange,5000,6000,5500,22-11-2024
+958,Kurukshetra,Ladwa,Orange,5500,5500,5500,02-11-2024
+959,Kurukshetra,Ladwa,Orange,5500,5500,5500,08-12-2024
+960,Kurukshetra,Ladwa,Orange,5500,5500,5500,11-12-2024
+961,Kurukshetra,Ladwa,Orange,5500,5500,5500,15-12-2024
+962,Kurukshetra,Ladwa,Orange,5500,5500,5500,17-11-2024
+963,Kurukshetra,Ladwa,Orange,5500,5500,5500,19-11-2024
+964,Kurukshetra,Ladwa,Orange,5500,5500,5500,20-11-2024
+965,Kurukshetra,Ladwa,Orange,5500,5500,5500,23-11-2024
+966,Kurukshetra,Ladwa,Orange,5500,5500,5500,24-12-2024
+967,Kurukshetra,Ladwa,Orange,5500,5500,5500,26-11-2024
+968,Kurukshetra,Ladwa,Orange,5500,5500,5500,27-11-2024
+969,Kurukshetra,Ladwa,Orange,6000,6000,6000,02-12-2024
+970,Kurukshetra,Ladwa,Orange,6000,6000,6000,17-12-2024
+971,Kurukshetra,Ladwa,Orange,6000,6000,6000,19-12-2024
+972,Kurukshetra,Ladwa,Orange,6000,6000,6000,22-12-2024
+973,Kurukshetra,Ladwa,Orange,6000,6000,6000,23-12-2024
+974,Kurukshetra,Ladwa,Orange,6000,6000,6000,24-11-2024
+975,Kurukshetra,Ladwa,Orange,6000,6000,6000,25-12-2024
+976,Kurukshetra,Ladwa,Orange,6000,6000,6000,27-09-2024
+977,Kurukshetra,Ladwa,Orange,6000,6000,6000,28-12-2024
+978,Kurukshetra,Ladwa,Orange,6000,6000,6000,30-12-2024
+979,Kurukshetra,Ladwa,Orange,6500,6500,6500,05-12-2024
+980,Kurukshetra,Ladwa,Orange,6500,6500,6500,06-12-2024
+981,Kurukshetra,Ladwa,Orange,6500,6500,6500,21-12-2024
+982,Kurukshetra,Ladwa,Orange,6500,6500,6500,27-12-2024
+983,Kurukshetra,Ladwa,Orange,6500,6500,6500,31-12-2024
+984,Kurukshetra,Ladwa,Orange,8000,8000,8000,18-09-2024
+985,Kurukshetra,Ladwa,Orange,4500,5000,4700,23-03-2024
+986,Rohtak,Meham,Orange,2500,4000,3000,02-12-2024
+987,Rohtak,Meham,Orange,3000,3000,3000,01-03-2024
+988,Rohtak,Meham,Orange,3000,3000,3000,03-04-2024
+989,Rohtak,Meham,Orange,3000,3000,3000,04-03-2024
+990,Rohtak,Meham,Orange,3000,3000,3000,09-12-2024
+991,Rohtak,Meham,Orange,3000,3000,3000,12-12-2024
+992,Rohtak,Meham,Orange,3000,3000,3000,14-12-2024
+993,Rohtak,Meham,Orange,3000,3000,3000,19-11-2024
+994,Rohtak,Meham,Orange,3000,3000,3000,22-10-2024
+995,Rohtak,Meham,Orange,3000,3000,3000,23-12-2024
+996,Rohtak,Meham,Orange,3000,3000,3000,25-11-2024
+997,Rohtak,Meham,Orange,3000,3700,3500,13-12-2024
+998,Rohtak,Meham,Orange,3000,4000,3500,24-12-2024
+999,Rohtak,Meham,Orange,3000,4000,3500,26-03-2024
+1000,Rohtak,Meham,Orange,3200,3200,3200,16-12-2024
+1001,Rohtak,Meham,Orange,3200,3200,3200,20-03-2024
+1002,Rohtak,Meham,Orange,3500,3500,3500,03-12-2024
+1003,Rohtak,Meham,Orange,3500,3500,3500,04-12-2024
+1004,Rohtak,Meham,Orange,3500,3500,3500,05-11-2024
+1005,Rohtak,Meham,Orange,3500,3500,3500,07-12-2024
+1006,Rohtak,Meham,Orange,3500,3500,3500,07-11-2024
+1007,Rohtak,Meham,Orange,3500,3500,3500,08-04-2024
+1008,Rohtak,Meham,Orange,3500,3500,3500,14-11-2024
+1009,Rohtak,Meham,Orange,3500,3500,3500,20-12-2024
+1010,Rohtak,Meham,Orange,3500,3500,3500,27-12-2024
+1011,Rohtak,Meham,Orange,3500,3500,3500,27-11-2024
+1012,Rohtak,Meham,Orange,3500,3500,3500,28-11-2024
+1013,Rohtak,Meham,Orange,3500,3500,3500,29-11-2024
+1014,Rohtak,Meham,Orange,3500,5000,3800,24-10-2024
+1015,Rohtak,Meham,Orange,4000,4000,4000,01-11-2024
+1016,Rohtak,Meham,Orange,4000,4000,4000,05-04-2024
+1017,Rohtak,Meham,Orange,4000,4000,4000,06-12-2024
+1018,Rohtak,Meham,Orange,4000,4000,4000,09-03-2024
+1019,Rohtak,Meham,Orange,4000,4000,4000,13-02-2024
+1020,Rohtak,Meham,Orange,4000,4000,4000,14-10-2024
+1021,Rohtak,Meham,Orange,4000,4000,4000,18-12-2024
+1022,Rohtak,Meham,Orange,4000,4000,4000,19-02-2024
+1023,Rohtak,Meham,Orange,4000,4000,4000,26-02-2024
+1024,Rohtak,Meham,Orange,4000,4000,4000,27-03-2024
+1025,Rohtak,Meham,Orange,4000,4000,4000,30-11-2024
+1026,Rohtak,Meham,Orange,4000,4200,4100,31-10-2024
+1027,Rohtak,Meham,Orange,4200,4200,4200,20-02-2024
+1028,Mahendragarh-Narnaul,Mohindergarh,Orange,1000,1000,1000,01-01-2024
+1029,Mahendragarh-Narnaul,Mohindergarh,Orange,1500,3000,2500,11-03-2024
+1030,Mahendragarh-Narnaul,Mohindergarh,Orange,1500,3000,3000,23-02-2024
+1031,Mahendragarh-Narnaul,Mohindergarh,Orange,1800,1800,1800,20-02-2024
+1032,Mahendragarh-Narnaul,Mohindergarh,Orange,2000,3000,2000,01-03-2024
+1033,Mahendragarh-Narnaul,Mohindergarh,Orange,2000,3000,2000,21-02-2024
+1034,Mahendragarh-Narnaul,Mohindergarh,Orange,2000,3000,2000,29-02-2024
+1035,Mahendragarh-Narnaul,Mohindergarh,Orange,2000,3000,3000,12-03-2024
+1036,Mahendragarh-Narnaul,Mohindergarh,Orange,2000,4000,4000,13-04-2024
+1037,Mahendragarh-Narnaul,Mohindergarh,Orange,2200,2200,2200,28-02-2024
+1038,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,2500,2500,01-01-2025
+1039,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,2500,2500,19-03-2024
+1040,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,2500,2500,21-03-2024
+1041,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3000,2500,02-03-2024
+1042,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3000,2500,08-03-2024
+1043,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3000,2500,22-03-2024
+1044,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3000,3000,07-03-2024
+1045,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3000,3000,09-03-2024
+1046,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3000,3000,14-03-2024
+1047,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3500,2500,26-03-2024
+1048,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,3500,3000,05-03-2024
+1049,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,4000,3000,18-02-2024
+1050,Mahendragarh-Narnaul,Mohindergarh,Orange,2500,4000,4000,17-02-2024
+1051,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,03-03-2024
+1052,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,06-01-2024
+1053,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,06-03-2024
+1054,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,07-04-2024
+1055,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,09-11-2024
+1056,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,11-04-2024
+1057,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,15-03-2024
+1058,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,16-03-2024
+1059,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,17-12-2024
+1060,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,18-12-2024
+1061,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,18-03-2024
+1062,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,19-02-2024
+1063,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,20-12-2024
+1064,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,22-12-2024
+1065,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,23-03-2024
+1066,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,24-12-2024
+1067,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,24-03-2024
+1068,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,27-02-2024
+1069,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,28-03-2024
+1070,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3000,3000,30-03-2024
+1071,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3500,3000,04-03-2024
+1072,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3500,3000,11-12-2024
+1073,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,3500,3000,27-03-2024
+1074,Mahendragarh-Narnaul,Mohindergarh,Orange,3000,5000,3500,15-11-2024
+1075,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,03-12-2024
+1076,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,05-12-2024
+1077,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,06-12-2024
+1078,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,07-12-2024
+1079,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,07-10-2024
+1080,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,08-10-2024
+1081,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,10-12-2024
+1082,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,14-12-2024
+1083,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,17-03-2024
+1084,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,29-12-2024
+1085,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,3500,3500,29-03-2024
+1086,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,4000,3500,08-12-2024
+1087,Mahendragarh-Narnaul,Mohindergarh,Orange,3500,4000,4000,06-04-2024
+1088,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,07-11-2024
+1089,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,10-04-2024
+1090,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,11-11-2024
+1091,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,12-04-2024
+1092,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,13-02-2024
+1093,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,15-02-2024
+1094,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4000,4000,16-04-2024
+1095,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,4500,4000,09-02-2024
+1096,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,5000,4000,09-04-2024
+1097,Mahendragarh-Narnaul,Mohindergarh,Orange,4000,5000,4000,16-09-2024
+1098,Mahendragarh-Narnaul,Mohindergarh,Orange,4200,4200,4200,09-12-2024
+1099,Mahendragarh-Narnaul,Mohindergarh,Orange,5000,5000,5000,06-11-2024
+1100,Mahendragarh-Narnaul,Mohindergarh,Orange,6000,6000,6000,02-05-2024
+1101,Mahendragarh-Narnaul,Mohindergarh,Orange,1000,1000,1000,22-02-2024
+1102,Ambala,Naraingarh,Orange,4000,4000,4000,08-03-2024
+1103,Ambala,Naraingarh,Orange,4500,5000,4850,13-09-2024
+1104,Ambala,Naraingarh,Orange,2000,2000,2000,16-10-2024
+1105,Ambala,Naraingarh,Orange,2000,2000,2000,19-03-2024
+1106,Ambala,Naraingarh,Orange,2000,2000,2000,30-12-2024
+1107,Ambala,Naraingarh,Orange,2000,4000,3000,28-10-2024
+1108,Ambala,Naraingarh,Orange,2000,7000,4000,19-10-2024
+1109,Ambala,Naraingarh,Orange,2500,2500,2500,15-10-2024
+1110,Ambala,Naraingarh,Orange,2500,2700,2550,25-03-2024
+1111,Ambala,Naraingarh,Orange,2500,6000,4000,31-12-2024
+1112,Ambala,Naraingarh,Orange,2700,6000,4500,23-03-2024
+1113,Ambala,Naraingarh,Orange,2800,3600,3350,22-03-2024
+1114,Ambala,Naraingarh,Orange,2800,7000,3500,23-11-2024
+1115,Ambala,Naraingarh,Orange,3000,3000,3000,08-10-2024
+1116,Ambala,Naraingarh,Orange,3000,3000,3000,12-01-2024
+1117,Ambala,Naraingarh,Orange,3000,3000,3000,24-12-2024
+1118,Ambala,Naraingarh,Orange,3000,3000,3000,26-03-2024
+1119,Ambala,Naraingarh,Orange,3000,3500,3400,20-03-2024
+1120,Ambala,Naraingarh,Orange,3000,4500,3500,29-10-2024
+1121,Ambala,Naraingarh,Orange,3000,4500,3700,31-10-2024
+1122,Ambala,Naraingarh,Orange,3000,4500,4000,03-12-2024
+1123,Ambala,Naraingarh,Orange,3000,5000,3500,04-10-2024
+1124,Ambala,Naraingarh,Orange,3000,5000,3500,22-11-2024
+1125,Ambala,Naraingarh,Orange,3000,5000,4500,04-03-2024
+1126,Ambala,Naraingarh,Orange,3000,5500,4500,05-12-2024
+1127,Ambala,Naraingarh,Orange,3000,6000,4000,12-10-2024
+1128,Ambala,Naraingarh,Orange,3000,7000,4000,26-10-2024
+1129,Ambala,Naraingarh,Orange,3000,7000,4500,26-11-2024
+1130,Ambala,Naraingarh,Orange,3000,7000,4500,27-11-2024
+1131,Ambala,Naraingarh,Orange,3200,3200,3200,09-09-2024
+1132,Ambala,Naraingarh,Orange,3200,7000,4500,13-11-2024
+1133,Ambala,Naraingarh,Orange,3500,3500,3500,07-03-2024
+1134,Ambala,Naraingarh,Orange,3500,3500,3500,07-10-2024
+1135,Ambala,Naraingarh,Orange,3500,3500,3500,16-02-2024
+1136,Ambala,Naraingarh,Orange,3500,4100,3700,09-11-2024
+1137,Ambala,Naraingarh,Orange,3500,4500,3700,10-10-2024
+1138,Ambala,Naraingarh,Orange,3500,4500,4000,14-11-2024
+1139,Ambala,Naraingarh,Orange,3500,5500,4000,15-11-2024
+1140,Ambala,Naraingarh,Orange,3500,6000,4000,03-04-2024
+1141,Ambala,Naraingarh,Orange,3600,5500,4000,11-11-2024
+1142,Ambala,Naraingarh,Orange,3800,3800,3800,04-04-2024
+1143,Ambala,Naraingarh,Orange,3800,3800,3800,17-02-2024
+1144,Ambala,Naraingarh,Orange,4000,4000,4000,01-04-2024
+1145,Ambala,Naraingarh,Orange,4000,4000,4000,01-03-2024
+1146,Ambala,Naraingarh,Orange,4000,4000,4000,02-12-2024
+1147,Ambala,Naraingarh,Orange,4000,4000,4000,02-11-2024
+1148,Ambala,Naraingarh,Orange,4000,4000,4000,15-03-2024
+1149,Ambala,Naraingarh,Orange,4000,4000,4000,16-11-2024
+1150,Ambala,Naraingarh,Orange,4000,4000,4000,18-04-2024
+1151,Ambala,Naraingarh,Orange,4000,4000,4000,19-11-2024
+1152,Ambala,Naraingarh,Orange,4000,4000,4000,20-11-2024
+1153,Ambala,Naraingarh,Orange,4000,4000,4000,26-02-2024
+1154,Ambala,Naraingarh,Orange,4000,4000,4000,29-03-2024
+1155,Ambala,Naraingarh,Orange,4000,4500,4300,04-12-2024
+1156,Ambala,Naraingarh,Orange,4000,5000,4300,07-11-2024
+1157,Ambala,Naraingarh,Orange,4000,5000,4300,28-03-2024
+1158,Ambala,Naraingarh,Orange,4000,5000,4800,27-03-2024
+1159,Ambala,Naraingarh,Orange,4000,5500,4200,07-12-2024
+1160,Ambala,Naraingarh,Orange,4000,5500,4850,05-04-2024
+1161,Ambala,Naraingarh,Orange,4000,6000,5000,03-02-2024
+1162,Ambala,Naraingarh,Orange,4000,8000,6000,02-10-2024
+1163,Ambala,Naraingarh,Orange,4000,9000,5000,20-01-2024
+1164,Ambala,Naraingarh,Orange,4200,5000,4500,24-10-2024
+1165,Ambala,Naraingarh,Orange,4500,4500,4500,05-11-2024
+1166,Ambala,Naraingarh,Orange,4500,4500,4500,06-12-2024
+1167,Ambala,Naraingarh,Orange,4500,4500,4500,06-03-2024
+1168,Ambala,Naraingarh,Orange,4500,4500,4500,09-03-2024
+1169,Ambala,Naraingarh,Orange,4500,4500,4500,09-10-2024
+1170,Ambala,Naraingarh,Orange,4500,4500,4500,11-10-2024
+1171,Ambala,Naraingarh,Orange,4500,4500,4500,12-09-2024
+1172,Ambala,Naraingarh,Orange,4500,4500,4500,17-09-2024
+1173,Ambala,Naraingarh,Orange,4500,4500,4500,18-10-2024
+1174,Ambala,Naraingarh,Orange,4500,4500,4500,21-10-2024
+1175,Ambala,Naraingarh,Orange,4500,4500,4500,24-09-2024
+1176,Ambala,Naraingarh,Orange,4500,4500,4500,25-09-2024
+1177,Ambala,Naraingarh,Orange,4500,4500,4500,27-02-2024
+1178,Ambala,Naraingarh,Orange,4500,4600,4540,03-10-2024
+1179,Ambala,Naraingarh,Orange,4500,6000,5200,08-11-2024
+1180,Ambala,Naraingarh,Orange,4500,8000,6500,10-12-2024
+1181,Ambala,Naraingarh,Orange,5000,5000,5000,02-02-2024
+1182,Ambala,Naraingarh,Orange,5000,5000,5000,10-09-2024
+1183,Ambala,Naraingarh,Orange,5000,5000,5000,11-09-2024
+1184,Ambala,Naraingarh,Orange,5000,5000,5000,12-11-2024
+1185,Ambala,Naraingarh,Orange,5000,5000,5000,18-05-2024
+1186,Ambala,Naraingarh,Orange,5000,5000,5000,18-09-2024
+1187,Ambala,Naraingarh,Orange,5000,5000,5000,22-01-2024
+1188,Ambala,Naraingarh,Orange,5000,5000,5000,23-12-2024
+1189,Ambala,Naraingarh,Orange,5000,5000,5000,29-02-2024
+1190,Ambala,Naraingarh,Orange,5000,5000,5000,29-11-2024
+1191,Ambala,Naraingarh,Orange,5000,5000,5000,31-01-2024
+1192,Ambala,Naraingarh,Orange,5000,5500,5400,13-04-2024
+1193,Ambala,Naraingarh,Orange,5000,6000,5200,09-04-2024
+1194,Ambala,Naraingarh,Orange,5000,6000,5400,01-11-2024
+1195,Ambala,Naraingarh,Orange,5000,6000,5700,16-04-2024
+1196,Ambala,Naraingarh,Orange,5500,5500,5500,26-09-2024
+1197,Ambala,Naraingarh,Orange,5500,6000,5700,28-11-2024
+1198,Ambala,Naraingarh,Orange,6000,6000,6000,05-02-2024
+1199,Ambala,Naraingarh,Orange,6000,6000,6000,06-02-2024
+1200,Ambala,Naraingarh,Orange,6000,6000,6000,09-12-2024
+1201,Ambala,Naraingarh,Orange,6000,6000,6000,14-12-2024
+1202,Ambala,Naraingarh,Orange,6000,6000,6000,15-04-2024
+1203,Ambala,Naraingarh,Orange,6000,6000,6000,18-11-2024
+1204,Ambala,Naraingarh,Orange,6000,6000,6000,22-10-2024
+1205,Ambala,Naraingarh,Orange,6000,7000,6300,30-10-2024
+1206,Ambala,Naraingarh,Orange,7000,7000,7000,11-12-2024
+1207,Ambala,Naraingarh,Orange,7000,7000,7000,11-06-2024
+1208,Ambala,Naraingarh,Orange,7000,7000,7000,14-10-2024
+1209,Ambala,Naraingarh,Orange,7000,7000,7000,21-11-2024
+1210,Ambala,Naraingarh,Orange,7000,7000,7000,23-04-2024
+1211,Ambala,Naraingarh,Orange,7000,7000,7000,25-10-2024
+1212,Ambala,Naraingarh,Orange,7000,7000,7000,30-01-2024
+1213,Ambala,Naraingarh,Orange,7000,7500,7500,13-12-2024
+1214,Ambala,Naraingarh,Orange,10000,12000,11000,05-06-2024
+1215,Mahendragarh-Narnaul,Narnaul,Orange,1000,2500,1800,04-03-2024
+1216,Mahendragarh-Narnaul,Narnaul,Orange,1500,3000,2000,01-03-2024
+1217,Mahendragarh-Narnaul,Narnaul,Orange,1800,3000,2000,29-02-2024
+1218,Mahendragarh-Narnaul,Narnaul,Orange,1800,4000,3000,05-04-2024
+1219,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,02-03-2024
+1220,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,03-01-2024
+1221,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,04-01-2024
+1222,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,05-01-2024
+1223,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,06-01-2024
+1224,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,07-01-2024
+1225,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,08-01-2024
+1226,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,09-01-2024
+1227,Mahendragarh-Narnaul,Narnaul,Orange,2000,2000,2000,28-01-2024
+1228,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2200,06-03-2024
+1229,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2200,07-03-2024
+1230,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,08-12-2024
+1231,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,10-03-2024
+1232,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,12-02-2024
+1233,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,13-11-2024
+1234,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,14-02-2024
+1235,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,25-12-2024
+1236,Mahendragarh-Narnaul,Narnaul,Orange,2000,2500,2500,28-12-2024
+1237,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,03-03-2024
+1238,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,05-03-2024
+1239,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,09-03-2024
+1240,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,11-03-2024
+1241,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,12-03-2024
+1242,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,13-03-2024
+1243,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,14-03-2024
+1244,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,17-03-2024
+1245,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,22-03-2024
+1246,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,2500,23-11-2024
+1247,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,02-01-2024
+1248,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,11-12-2024
+1249,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,16-02-2024
+1250,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,16-03-2024
+1251,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,17-12-2024
+1252,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,18-02-2024
+1253,Mahendragarh-Narnaul,Narnaul,Orange,2000,3000,3000,23-02-2024
+1254,Mahendragarh-Narnaul,Narnaul,Orange,2000,3500,3000,20-03-2024
+1255,Mahendragarh-Narnaul,Narnaul,Orange,2000,3500,3000,21-03-2024
+1256,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,2500,09-12-2024
+1257,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,3000,20-11-2024
+1258,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,3000,27-11-2024
+1259,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,3500,20-02-2024
+1260,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,3500,21-02-2024
+1261,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,3500,25-02-2024
+1262,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,3500,27-03-2024
+1263,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,4000,07-11-2024
+1264,Mahendragarh-Narnaul,Narnaul,Orange,2000,4000,4000,28-02-2024
+1265,Mahendragarh-Narnaul,Narnaul,Orange,2200,3500,3000,08-03-2024
+1266,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,10-01-2024
+1267,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,12-12-2024
+1268,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,13-02-2024
+1269,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,18-12-2024
+1270,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,21-12-2024
+1271,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,22-12-2024
+1272,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,25-11-2024
+1273,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,26-12-2024
+1274,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,26-01-2024
+1275,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,26-11-2024
+1276,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,29-12-2024
+1277,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,30-12-2024
+1278,Mahendragarh-Narnaul,Narnaul,Orange,2500,2500,2500,31-12-2024
+1279,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,01-04-2024
+1280,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,01-12-2024
+1281,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,02-12-2024
+1282,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,03-12-2024
+1283,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,03-11-2024
+1284,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,05-12-2024
+1285,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,07-12-2024
+1286,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,10-12-2024
+1287,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,13-12-2024
+1288,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,15-03-2024
+1289,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,16-12-2024
+1290,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,18-03-2024
+1291,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,19-12-2024
+1292,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,19-03-2024
+1293,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,21-11-2024
+1294,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,23-12-2024
+1295,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,27-02-2024
+1296,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,28-11-2024
+1297,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,29-11-2024
+1298,Mahendragarh-Narnaul,Narnaul,Orange,2500,3000,3000,30-11-2024
+1299,Mahendragarh-Narnaul,Narnaul,Orange,2500,3500,3000,26-02-2024
+1300,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,3000,04-12-2024
+1301,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,3000,14-11-2024
+1302,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,3500,04-04-2024
+1303,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,3500,22-11-2024
+1304,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,3500,31-03-2024
+1305,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,4000,15-11-2024
+1306,Mahendragarh-Narnaul,Narnaul,Orange,2500,4000,4000,19-11-2024
+1307,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,01-01-2024
+1308,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,01-01-2025
+1309,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,06-04-2024
+1310,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,09-09-2024
+1311,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,14-12-2024
+1312,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,14-09-2024
+1313,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,19-02-2024
+1314,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,19-09-2024
+1315,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,20-09-2024
+1316,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,21-10-2024
+1317,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,22-10-2024
+1318,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,24-12-2024
+1319,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,24-11-2024
+1320,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,24-10-2024
+1321,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,25-10-2024
+1322,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,28-10-2024
+1323,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,30-10-2024
+1324,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,30-09-2024
+1325,Mahendragarh-Narnaul,Narnaul,Orange,3000,3000,3000,31-10-2024
+1326,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,3500,26-03-2024
+1327,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,3500,29-03-2024
+1328,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,3500,30-03-2024
+1329,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,06-12-2024
+1330,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,06-11-2024
+1331,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,09-11-2024
+1332,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,10-11-2024
+1333,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,11-11-2024
+1334,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,12-11-2024
+1335,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,16-10-2024
+1336,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,17-11-2024
+1337,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,20-12-2024
+1338,Mahendragarh-Narnaul,Narnaul,Orange,3000,4000,4000,29-10-2024
+1339,Mahendragarh-Narnaul,Narnaul,Orange,3000,4500,4500,09-04-2024
+1340,Mahendragarh-Narnaul,Narnaul,Orange,3000,5000,3500,24-03-2024
+1341,Mahendragarh-Narnaul,Narnaul,Orange,3500,4000,4000,07-04-2024
+1342,Mahendragarh-Narnaul,Narnaul,Orange,3500,4000,4000,08-04-2024
+1343,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,08-11-2024
+1344,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,13-04-2024
+1345,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,14-10-2024
+1346,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,15-10-2024
+1347,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,17-04-2024
+1348,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,18-04-2024
+1349,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,22-02-2024
+1350,Mahendragarh-Narnaul,Narnaul,Orange,4000,4000,4000,26-09-2024
+1351,Mahendragarh-Narnaul,Narnaul,Orange,4000,4500,4500,11-04-2024
+1352,Mahendragarh-Narnaul,Narnaul,Orange,4000,4800,4800,12-04-2024
+1353,Mahendragarh-Narnaul,Narnaul,Orange,4000,5000,4500,23-03-2024
+1354,Mahendragarh-Narnaul,Narnaul,Orange,4000,5000,5000,15-04-2024
+1355,Mahendragarh-Narnaul,Narnaul,Orange,4000,5000,5000,28-03-2024
+1356,Mahendragarh-Narnaul,Narnaul,Orange,4200,4200,4200,03-10-2024
+1357,Mahendragarh-Narnaul,Narnaul,Orange,4500,4500,4500,10-04-2024
+1358,Mahendragarh-Narnaul,Narnaul,Orange,5000,5000,5000,06-10-2024
+1359,Mahendragarh-Narnaul,Narnaul,Orange,5000,5000,5000,24-04-2024
+1360,Mahendragarh-Narnaul,Narnaul,Orange,6000,6000,6000,16-04-2024
+1361,Panchkula,"New Grain Market , Panchkula",Orange,2000,3000,2500,01-03-2024
+1362,Panchkula,"New Grain Market , Panchkula",Orange,2000,3000,2500,04-03-2024
+1363,Panchkula,"New Grain Market , Panchkula",Orange,2500,3500,3000,03-03-2024
+1364,Panchkula,"New Grain Market , Panchkula",Orange,3000,4000,3500,02-01-2024
+1365,Panchkula,"New Grain Market , Panchkula",Orange,4000,5000,4500,13-02-2024
+1366,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,07-02-2024
+1367,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,08-02-2024
+1368,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,11-01-2024
+1369,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,15-02-2024
+1370,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,16-02-2024
+1371,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,19-01-2024
+1372,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,24-01-2024
+1373,Panchkula,"New Grain Market , Panchkula",Orange,4500,5500,5000,26-02-2024
+1374,Panchkula,"New Grain Market , Panchkula",Orange,5000,6000,5500,29-01-2024
+1375,Palwal,Palwal,Orange,2000,2000,2000,20-02-2024
+1376,Palwal,Palwal,Orange,2000,2000,2000,21-02-2024
+1377,Palwal,Palwal,Orange,2000,2500,2250,10-12-2024
+1378,Palwal,Palwal,Orange,2000,2500,2250,11-12-2024
+1379,Palwal,Palwal,Orange,2000,2500,2250,12-12-2024
+1380,Palwal,Palwal,Orange,2000,2500,2250,17-12-2024
+1381,Palwal,Palwal,Orange,2000,2500,2250,24-12-2024
+1382,Palwal,Palwal,Orange,2500,2500,2500,17-03-2024
+1383,Palwal,Palwal,Orange,2500,2500,2500,18-03-2024
+1384,Palwal,Palwal,Orange,2500,2500,2500,20-03-2024
+1385,Palwal,Palwal,Orange,2500,2500,2500,21-03-2024
+1386,Palwal,Palwal,Orange,2500,2500,2500,22-03-2024
+1387,Palwal,Palwal,Orange,2500,2500,2500,24-03-2024
+1388,Palwal,Palwal,Orange,2500,3000,2750,06-03-2024
+1389,Palwal,Palwal,Orange,2500,3000,2750,07-03-2024
+1390,Palwal,Palwal,Orange,2500,3000,2750,08-03-2024
+1391,Palwal,Palwal,Orange,2500,3000,2750,09-03-2024
+1392,Palwal,Palwal,Orange,2500,3000,2750,10-03-2024
+1393,Palwal,Palwal,Orange,2500,3000,2750,11-03-2024
+1394,Palwal,Palwal,Orange,2500,3000,2750,12-03-2024
+1395,Palwal,Palwal,Orange,2500,3000,2750,15-03-2024
+1396,Palwal,Palwal,Orange,2500,3000,2750,16-03-2024
+1397,Palwal,Palwal,Orange,3000,3000,3000,02-02-2024
+1398,Palwal,Palwal,Orange,3000,3000,3000,02-03-2024
+1399,Palwal,Palwal,Orange,3000,3000,3000,03-02-2024
+1400,Palwal,Palwal,Orange,3000,3000,3000,04-02-2024
+1401,Palwal,Palwal,Orange,3000,3000,3000,04-03-2024
+1402,Palwal,Palwal,Orange,3000,3000,3000,05-02-2024
+1403,Palwal,Palwal,Orange,3000,3000,3000,05-03-2024
+1404,Palwal,Palwal,Orange,3000,3000,3000,06-02-2024
+1405,Palwal,Palwal,Orange,3000,3000,3000,09-01-2024
+1406,Palwal,Palwal,Orange,3000,3000,3000,10-01-2024
+1407,Palwal,Palwal,Orange,3000,3000,3000,11-01-2024
+1408,Palwal,Palwal,Orange,3000,3000,3000,12-01-2024
+1409,Palwal,Palwal,Orange,3000,3000,3000,13-02-2024
+1410,Palwal,Palwal,Orange,3000,3000,3000,15-01-2024
+1411,Palwal,Palwal,Orange,3000,3000,3000,16-01-2024
+1412,Palwal,Palwal,Orange,3000,3000,3000,17-01-2024
+1413,Palwal,Palwal,Orange,3000,3000,3000,18-01-2024
+1414,Palwal,Palwal,Orange,3000,3000,3000,19-01-2024
+1415,Palwal,Palwal,Orange,3000,3000,3000,20-01-2024
+1416,Palwal,Palwal,Orange,3000,3000,3000,23-01-2024
+1417,Palwal,Palwal,Orange,3000,3000,3000,24-01-2024
+1418,Palwal,Palwal,Orange,3000,3000,3000,27-01-2024
+1419,Palwal,Palwal,Orange,3000,3000,3000,29-01-2024
+1420,Palwal,Palwal,Orange,3000,3000,3000,30-01-2024
+1421,Palwal,Palwal,Orange,3000,3000,3000,31-01-2024
+1422,Palwal,Palwal,Orange,4000,4000,4000,07-02-2024
+1423,Palwal,Palwal,Orange,4000,4000,4000,08-02-2024
+1424,Palwal,Palwal,Orange,4000,4000,4000,15-02-2024
+1425,Palwal,Palwal,Orange,4000,4000,4000,16-02-2024
+1426,Palwal,Palwal,Orange,4000,4000,4000,17-02-2024
+1427,Palwal,Palwal,Orange,4000,4000,4000,18-02-2024
+1428,Palwal,Palwal,Orange,4000,4000,4000,19-02-2024
+1429,Gurgaon,Pataudi,Orange,1500,1700,1600,14-02-2024
+1430,Gurgaon,Pataudi,Orange,1600,2200,1800,25-01-2024
+1431,Gurgaon,Pataudi,Orange,2500,2800,2600,11-03-2024
+1432,Gurgaon,Pataudi,Orange,2500,2800,2600,30-11-2024
+1433,Gurgaon,Pataudi,Orange,2500,3000,2800,18-12-2024
+1434,Gurgaon,Pataudi,Orange,2800,3000,2900,04-12-2024
+1435,Gurgaon,Pataudi,Orange,2800,3000,2900,26-03-2024
+1436,Gurgaon,Pataudi,Orange,2800,3000,2900,28-11-2024
+1437,Gurgaon,Pataudi,Orange,2800,3200,3000,02-12-2024
+1438,Gurgaon,Pataudi,Orange,2800,3200,3000,26-11-2024
+1439,Gurgaon,Pataudi,Orange,2800,3200,3000,27-11-2024
+1440,Gurgaon,Pataudi,Orange,2800,3500,3000,22-11-2024
+1441,Gurgaon,Pataudi,Orange,3000,3200,3100,23-11-2024
+1442,Gurgaon,Pataudi,Orange,3000,3200,3100,26-02-2024
+1443,Gurgaon,Pataudi,Orange,3000,3300,3200,14-12-2024
+1444,Gurgaon,Pataudi,Orange,3000,3300,3200,15-11-2024
+1445,Gurgaon,Pataudi,Orange,3000,3300,3200,16-12-2024
+1446,Gurgaon,Pataudi,Orange,3000,3400,3200,13-12-2024
+1447,Gurgaon,Pataudi,Orange,3000,3500,3200,01-03-2024
+1448,Gurgaon,Pataudi,Orange,3000,3500,3200,02-03-2024
+1449,Gurgaon,Pataudi,Orange,3000,3500,3200,07-03-2024
+1450,Gurgaon,Pataudi,Orange,3000,3500,3200,21-02-2024
+1451,Gurgaon,Pataudi,Orange,3000,3500,3200,22-12-2024
+1452,Gurgaon,Pataudi,Orange,3000,3500,3200,23-02-2024
+1453,Gurgaon,Pataudi,Orange,3000,3500,3200,28-02-2024
+1454,Gurgaon,Pataudi,Orange,3000,3500,3200,30-03-2024
+1455,Gurgaon,Pataudi,Orange,3000,4000,3500,10-03-2024
+1456,Gurgaon,Pataudi,Orange,3000,6000,4500,21-12-2024
+1457,Gurgaon,Pataudi,Orange,3000,6000,5000,09-12-2024
+1458,Gurgaon,Pataudi,Orange,3200,3600,3300,03-11-2024
+1459,Gurgaon,Pataudi,Orange,3200,5500,4000,07-12-2024
+1460,Gurgaon,Pataudi,Orange,3300,3500,3400,16-03-2024
+1461,Gurgaon,Pataudi,Orange,3300,3500,3400,29-03-2024
+1462,Gurgaon,Pataudi,Orange,3300,3500,3400,31-03-2024
+1463,Gurgaon,Pataudi,Orange,3300,6000,4500,17-12-2024
+1464,Gurgaon,Pataudi,Orange,3400,6000,4500,15-12-2024
+1465,Gurgaon,Pataudi,Orange,3500,3800,3600,02-11-2024
+1466,Gurgaon,Pataudi,Orange,3500,4000,3800,03-03-2024
+1467,Gurgaon,Pataudi,Orange,3500,4000,3800,04-03-2024
+1468,Gurgaon,Pataudi,Orange,3500,4000,3800,29-11-2024
+1469,Gurgaon,Pataudi,Orange,3500,4500,4000,07-02-2024
+1470,Gurgaon,Pataudi,Orange,3600,4000,3800,21-03-2024
+1471,Gurgaon,Pataudi,Orange,4000,4500,4200,03-12-2024
+1472,Gurgaon,Pataudi,Orange,4000,4500,4200,06-03-2024
+1473,Gurgaon,Pataudi,Orange,4000,4500,4200,24-01-2024
+1474,Gurgaon,Pataudi,Orange,4000,4500,4200,30-01-2024
+1475,Gurgaon,Pataudi,Orange,4500,5000,4800,02-01-2024
+1476,Gurgaon,Pataudi,Orange,4500,5000,4800,04-01-2024
+1477,Gurgaon,Pataudi,Orange,5000,5500,5200,31-12-2024
+1478,Gurgaon,Pataudi,Orange,5000,6000,5500,12-12-2024
+1479,Gurgaon,Pataudi,Orange,5500,6000,5800,01-01-2025
+1480,Gurgaon,Pataudi,Orange,5500,6000,5800,23-12-2024
+1481,Gurgaon,Pataudi,Orange,6000,6500,6200,05-12-2024
+1482,Gurgaon,Pataudi,Orange,6000,6500,6200,26-12-2024
+1483,Gurgaon,Pataudi,Orange,6800,7500,7000,09-04-2024
+1484,Kurukshetra,Pehowa,Orange,1450,1654,1540,27-07-2024
+1485,Kurukshetra,Pehowa,Orange,1600,1812,1650,19-04-2024
+1486,Kurukshetra,Pehowa,Orange,1600,1900,1800,01-05-2024
+1487,Kurukshetra,Pehowa,Orange,1600,1900,1800,13-08-2024
+1488,Kurukshetra,Pehowa,Orange,1600,1900,1800,26-07-2024
+1489,Kurukshetra,Pehowa,Orange,1650,1900,1890,04-04-2024
+1490,Mewat,Punhana,Orange,1500,1500,1500,07-03-2024
+1491,Mewat,Punhana,Orange,1500,1500,1500,09-03-2024
+1492,Mewat,Punhana,Orange,1500,1500,1500,25-02-2024
+1493,Yamuna Nagar,Radaur,Orange,2000,3000,2500,11-03-2024
+1494,Yamuna Nagar,Radaur,Orange,2200,3000,2500,06-03-2024
+1495,Yamuna Nagar,Radaur,Orange,2200,3200,2500,21-03-2024
+1496,Yamuna Nagar,Radaur,Orange,2500,3000,2800,04-03-2024
+1497,Yamuna Nagar,Radaur,Orange,2500,3000,2800,07-03-2024
+1498,Yamuna Nagar,Radaur,Orange,2500,3000,2800,08-03-2024
+1499,Yamuna Nagar,Radaur,Orange,2500,3000,2800,14-03-2024
+1500,Yamuna Nagar,Radaur,Orange,2500,3000,2800,22-03-2024
+1501,Yamuna Nagar,Radaur,Orange,2500,3000,2800,26-03-2024
+1502,Yamuna Nagar,Radaur,Orange,2500,3200,2800,09-03-2024
+1503,Yamuna Nagar,Radaur,Orange,2500,3200,3000,19-03-2024
+1504,Yamuna Nagar,Radaur,Orange,2500,3500,3000,23-03-2024
+1505,Yamuna Nagar,Radaur,Orange,3000,3000,3000,12-03-2024
+1506,Yamuna Nagar,Radaur,Orange,3000,3000,3000,16-03-2024
+1507,Yamuna Nagar,Radaur,Orange,3000,3000,3000,20-03-2024
+1508,Yamuna Nagar,Radaur,Orange,3000,3500,3200,02-03-2024
+1509,Yamuna Nagar,Radaur,Orange,3000,3500,3200,13-03-2024
+1510,Yamuna Nagar,Radaur,Orange,3000,3500,3200,18-03-2024
+1511,Yamuna Nagar,Radaur,Orange,3000,3500,3200,27-03-2024
+1512,Yamuna Nagar,Radaur,Orange,3000,3500,3200,28-03-2024
+1513,Yamuna Nagar,Radaur,Orange,3000,3500,3200,30-03-2024
+1514,Yamuna Nagar,Radaur,Orange,3000,4000,3500,05-03-2024
+1515,Yamuna Nagar,Radaur,Orange,3500,4200,4000,29-03-2024
+1516,Fatehabad,Ratia,Orange,1500,3000,2300,24-11-2024
+1517,Fatehabad,Ratia,Orange,2500,2500,2500,03-11-2024
+1518,Fatehabad,Ratia,Orange,2500,3500,3000,15-12-2024
+1519,Fatehabad,Ratia,Orange,2500,3500,3000,20-11-2024
+1520,Fatehabad,Ratia,Orange,2500,4000,3000,19-11-2024
+1521,Fatehabad,Ratia,Orange,2500,4500,3500,04-12-2024
+1522,Fatehabad,Ratia,Orange,2500,5500,3500,03-04-2024
+1523,Fatehabad,Ratia,Orange,2700,4000,3400,13-03-2024
+1524,Fatehabad,Ratia,Orange,2700,5500,4000,11-11-2024
+1525,Fatehabad,Ratia,Orange,2800,3500,3200,17-12-2024
+1526,Fatehabad,Ratia,Orange,2800,5900,4000,21-11-2024
+1527,Fatehabad,Ratia,Orange,3000,3000,3000,02-12-2024
+1528,Fatehabad,Ratia,Orange,3000,3000,3000,15-03-2024
+1529,Fatehabad,Ratia,Orange,3000,3000,3000,18-03-2024
+1530,Fatehabad,Ratia,Orange,3000,3000,3000,23-11-2024
+1531,Fatehabad,Ratia,Orange,3000,3200,3100,10-11-2024
+1532,Fatehabad,Ratia,Orange,3000,3200,3100,26-11-2024
+1533,Fatehabad,Ratia,Orange,3000,3500,3200,10-03-2024
+1534,Fatehabad,Ratia,Orange,3000,3500,3300,03-12-2024
+1535,Fatehabad,Ratia,Orange,3000,3500,3300,08-11-2024
+1536,Fatehabad,Ratia,Orange,3000,4000,3500,11-12-2024
+1537,Fatehabad,Ratia,Orange,3000,4500,3800,30-11-2024
+1538,Fatehabad,Ratia,Orange,3000,4500,4000,06-03-2024
+1539,Fatehabad,Ratia,Orange,3000,4500,4000,07-12-2024
+1540,Fatehabad,Ratia,Orange,3000,4500,4000,29-11-2024
+1541,Fatehabad,Ratia,Orange,3000,5200,4000,19-12-2024
+1542,Fatehabad,Ratia,Orange,3200,3500,3350,10-12-2024
+1543,Fatehabad,Ratia,Orange,3500,3500,3500,07-03-2024
+1544,Fatehabad,Ratia,Orange,3500,3500,3500,22-11-2024
+1545,Fatehabad,Ratia,Orange,3500,3500,3500,24-12-2024
+1546,Fatehabad,Ratia,Orange,3500,3500,3500,28-02-2024
+1547,Fatehabad,Ratia,Orange,3500,3500,3500,29-02-2024
+1548,Fatehabad,Ratia,Orange,3500,4000,3700,23-10-2024
+1549,Fatehabad,Ratia,Orange,3500,4000,3800,28-03-2024
+1550,Fatehabad,Ratia,Orange,3500,4500,4000,08-12-2024
+1551,Fatehabad,Ratia,Orange,3500,4800,4200,05-03-2024
+1552,Fatehabad,Ratia,Orange,4000,4000,4000,02-04-2024
+1553,Fatehabad,Ratia,Orange,4000,4000,4000,20-03-2024
+1554,Fatehabad,Ratia,Orange,4000,4000,4000,28-11-2024
+1555,Fatehabad,Ratia,Orange,4000,4000,4000,29-03-2024
+1556,Fatehabad,Ratia,Orange,4000,4000,4000,30-03-2024
+1557,Fatehabad,Ratia,Orange,4500,4500,4500,14-11-2024
+1558,Fatehabad,Ratia,Orange,4500,4500,4500,17-11-2024
+1559,Fatehabad,Ratia,Orange,4500,4500,4500,21-03-2024
+1560,Fatehabad,Ratia,Orange,6700,6700,6700,19-09-2024
+1561,Rohtak,Rohtak,Orange,1000,1500,1200,20-02-2024
+1562,Rohtak,Rohtak,Orange,1000,1500,1200,27-03-2024
+1563,Rohtak,Rohtak,Orange,1000,2000,1500,03-04-2024
+1564,Rohtak,Rohtak,Orange,1000,2000,1500,18-03-2024
+1565,Rohtak,Rohtak,Orange,1000,2000,1500,23-02-2024
+1566,Rohtak,Rohtak,Orange,1000,2000,1500,28-02-2024
+1567,Rohtak,Rohtak,Orange,1500,2500,2000,06-04-2024
+1568,Rohtak,Rohtak,Orange,1500,2500,2000,26-04-2024
+1569,Rohtak,Rohtak,Orange,2000,3000,2500,04-04-2024
+1570,Rohtak,Rohtak,Orange,2000,4000,3000,19-03-2024
+1571,Rohtak,Rohtak,Orange,2000,5000,3000,15-10-2024
+1572,Rohtak,Rohtak,Orange,2500,4000,3000,04-12-2024
+1573,Yamuna Nagar,Sadhaura,Orange,2500,2500,2500,26-11-2024
+1574,Yamuna Nagar,Sadhaura,Orange,3000,3000,3000,19-12-2024
+1575,Yamuna Nagar,Sadhaura,Orange,3000,4000,3500,30-10-2024
+1576,Yamuna Nagar,Sadhaura,Orange,3500,4500,4000,11-11-2024
+1577,Yamuna Nagar,Sadhaura,Orange,3500,4500,4000,29-10-2024
+1578,Yamuna Nagar,Sadhaura,Orange,4000,4000,4000,21-11-2024
+1579,Yamuna Nagar,Sadhaura,Orange,4000,4000,4000,22-11-2024
+1580,Yamuna Nagar,Sadhaura,Orange,4500,4500,4500,25-11-2024
+1581,Yamuna Nagar,Sadhaura,Orange,4500,5500,5000,05-11-2024
+1582,Yamuna Nagar,Sadhaura,Orange,4500,5500,5000,06-11-2024
+1583,Yamuna Nagar,Sadhaura,Orange,4500,5500,5000,08-11-2024
+1584,Yamuna Nagar,Sadhaura,Orange,4500,5500,5000,09-11-2024
+1585,Yamuna Nagar,Sadhaura,Orange,4500,5500,5000,12-11-2024
+1586,Jind,Safidon,Orange,2500,3000,2800,18-11-2024
+1587,Jind,Safidon,Orange,3000,3000,3000,14-03-2024
+1588,Jind,Safidon,Orange,3000,3000,3000,17-11-2024
+1589,Jind,Safidon,Orange,4000,4000,4000,01-04-2024
+1590,Jind,Safidon,Orange,4000,4000,4000,21-03-2024
+1591,Jind,Safidon,Orange,4000,4000,4000,22-03-2024
+1592,Jind,Safidon,Orange,4000,4000,4000,23-03-2024
+1593,Jind,Safidon,Orange,4000,4000,4000,29-03-2024
+1594,Jind,Safidon,Orange,5000,5000,5000,13-04-2024
+1595,Jind,Safidon,Orange,6000,6000,6000,08-04-2024
+1596,Rohtak,Sampla,Orange,1000,1000,1000,02-03-2024
+1597,Rohtak,Sampla,Orange,1000,1000,1000,22-02-2024
+1598,Rohtak,Sampla,Orange,1000,1000,1000,23-02-2024
+1599,Rohtak,Sampla,Orange,1000,1200,1200,17-02-2024
+1600,Rohtak,Sampla,Orange,1000,1200,1200,25-02-2024
+1601,Rohtak,Sampla,Orange,1000,1800,1500,05-03-2024
+1602,Rohtak,Sampla,Orange,1200,1200,1200,11-01-2024
+1603,Rohtak,Sampla,Orange,1200,1200,1200,15-01-2024
+1604,Rohtak,Sampla,Orange,1200,1200,1200,24-02-2024
+1605,Rohtak,Sampla,Orange,1200,1200,1200,27-02-2024
+1606,Rohtak,Sampla,Orange,1200,1800,1800,18-01-2024
+1607,Rohtak,Sampla,Orange,1500,1500,1500,04-03-2024
+1608,Rohtak,Sampla,Orange,1500,1500,1500,13-01-2024
+1609,Rohtak,Sampla,Orange,1600,1600,1600,03-02-2024
+1610,Rohtak,Sampla,Orange,1600,1600,1600,03-01-2024
+1611,Rohtak,Sampla,Orange,1600,1600,1600,07-02-2024
+1612,Rohtak,Sampla,Orange,1600,1600,1600,29-01-2024
+1613,Rohtak,Sampla,Orange,1600,1600,1600,30-01-2024
+1614,Rohtak,Sampla,Orange,1600,1800,1700,01-02-2024
+1615,Rohtak,Sampla,Orange,1600,2000,1600,04-01-2024
+1616,Rohtak,Sampla,Orange,1700,1700,1700,12-02-2024
+1617,Rohtak,Sampla,Orange,1800,1800,1800,05-02-2024
+1618,Rohtak,Sampla,Orange,1800,1800,1800,05-01-2024
+1619,Rohtak,Sampla,Orange,1800,1800,1800,06-02-2024
+1620,Rohtak,Sampla,Orange,1800,1800,1800,10-02-2024
+1621,Rohtak,Sampla,Orange,1800,1800,1800,22-01-2024
+1622,Rohtak,Sampla,Orange,1800,1800,1800,25-01-2024
+1623,Rohtak,Sampla,Orange,1800,1800,1800,26-01-2024
+1624,Rohtak,Sampla,Orange,1800,1800,1800,28-01-2024
+1625,Rohtak,Sampla,Orange,1800,1800,1800,31-01-2024
+1626,Rohtak,Sampla,Orange,2000,2000,2000,01-01-2024
+1627,Rohtak,Sampla,Orange,2000,2000,2000,04-02-2024
+1628,Rohtak,Sampla,Orange,2500,3000,3000,13-12-2024
+1629,Rohtak,Sampla,Orange,3000,3000,3000,14-03-2024
+1630,Rohtak,Sampla,Orange,4000,4000,4000,26-11-2024
+1631,Rohtak,Sampla,Orange,4000,4500,4500,28-11-2024
+1632,Kurukshetra,Shahabad,Orange,3000,3500,3200,23-03-2024
+1633,Kurukshetra,Shahabad,Orange,4040,4040,4040,03-05-2024
+1634,Kurukshetra,Shahabad,Orange,5000,6475,5500,26-09-2024
+1635,Kurukshetra,Shahabad,Orange,2000,3500,3000,19-03-2024
+1636,Kurukshetra,Shahabad,Orange,2000,3500,3200,07-11-2024
+1637,Kurukshetra,Shahabad,Orange,2000,3665,3200,05-11-2024
+1638,Kurukshetra,Shahabad,Orange,2000,3935,3500,20-11-2024
+1639,Kurukshetra,Shahabad,Orange,2000,4000,3500,09-11-2024
+1640,Kurukshetra,Shahabad,Orange,2000,4035,3500,22-11-2024
+1641,Kurukshetra,Shahabad,Orange,2000,4125,3200,18-11-2024
+1642,Kurukshetra,Shahabad,Orange,2000,4937,3500,12-11-2024
+1643,Kurukshetra,Shahabad,Orange,2000,5115,3500,19-11-2024
+1644,Kurukshetra,Shahabad,Orange,2100,4050,3500,21-11-2024
+1645,Kurukshetra,Shahabad,Orange,2200,3500,3000,23-11-2024
+1646,Kurukshetra,Shahabad,Orange,2200,3500,3200,16-11-2024
+1647,Kurukshetra,Shahabad,Orange,2200,7875,3500,11-11-2024
+1648,Kurukshetra,Shahabad,Orange,2480,4500,4000,06-04-2024
+1649,Kurukshetra,Shahabad,Orange,2500,3500,3000,15-11-2024
+1650,Kurukshetra,Shahabad,Orange,2500,3500,3200,06-11-2024
+1651,Kurukshetra,Shahabad,Orange,2500,3600,3500,30-11-2024
+1652,Kurukshetra,Shahabad,Orange,2500,3820,3500,28-10-2024
+1653,Kurukshetra,Shahabad,Orange,2500,3850,3200,02-12-2024
+1654,Kurukshetra,Shahabad,Orange,2500,3890,3500,28-11-2024
+1655,Kurukshetra,Shahabad,Orange,2500,4000,3000,19-10-2024
+1656,Kurukshetra,Shahabad,Orange,2500,4000,3200,16-10-2024
+1657,Kurukshetra,Shahabad,Orange,2500,4140,3500,14-10-2024
+1658,Kurukshetra,Shahabad,Orange,2500,4460,3500,15-10-2024
+1659,Kurukshetra,Shahabad,Orange,2500,4560,3500,25-10-2024
+1660,Kurukshetra,Shahabad,Orange,2500,4565,3200,27-11-2024
+1661,Kurukshetra,Shahabad,Orange,2500,4980,3500,30-10-2024
+1662,Kurukshetra,Shahabad,Orange,2500,5070,3500,08-11-2024
+1663,Kurukshetra,Shahabad,Orange,2500,5085,3500,02-11-2024
+1664,Kurukshetra,Shahabad,Orange,2500,5700,3500,23-10-2024
+1665,Kurukshetra,Shahabad,Orange,2500,7215,3500,13-11-2024
+1666,Kurukshetra,Shahabad,Orange,2500,7215,3500,14-11-2024
+1667,Kurukshetra,Shahabad,Orange,2500,7315,3500,21-10-2024
+1668,Kurukshetra,Shahabad,Orange,2600,3500,3200,31-10-2024
+1669,Kurukshetra,Shahabad,Orange,2600,4030,3500,29-10-2024
+1670,Kurukshetra,Shahabad,Orange,2600,4500,3500,17-10-2024
+1671,Kurukshetra,Shahabad,Orange,2600,4900,3500,04-11-2024
+1672,Kurukshetra,Shahabad,Orange,2800,3000,2900,08-03-2024
+1673,Kurukshetra,Shahabad,Orange,2800,3340,3000,01-03-2024
+1674,Kurukshetra,Shahabad,Orange,2800,3570,3000,12-03-2024
+1675,Kurukshetra,Shahabad,Orange,2800,3860,3000,02-03-2024
+1676,Kurukshetra,Shahabad,Orange,2800,3890,3000,29-02-2024
+1677,Kurukshetra,Shahabad,Orange,2800,4000,3500,22-10-2024
+1678,Kurukshetra,Shahabad,Orange,2800,4000,3500,24-10-2024
+1679,Kurukshetra,Shahabad,Orange,2800,4470,4000,18-10-2024
+1680,Kurukshetra,Shahabad,Orange,2800,4970,3000,09-03-2024
+1681,Kurukshetra,Shahabad,Orange,2820,4000,3000,17-12-2024
+1682,Kurukshetra,Shahabad,Orange,2965,3000,2965,13-03-2024
+1683,Kurukshetra,Shahabad,Orange,3000,3000,3000,07-03-2024
+1684,Kurukshetra,Shahabad,Orange,3000,3000,3000,16-02-2024
+1685,Kurukshetra,Shahabad,Orange,3000,3000,3000,30-12-2024
+1686,Kurukshetra,Shahabad,Orange,3000,3250,3200,27-02-2024
+1687,Kurukshetra,Shahabad,Orange,3000,3335,3200,26-03-2024
+1688,Kurukshetra,Shahabad,Orange,3000,3340,3200,05-03-2024
+1689,Kurukshetra,Shahabad,Orange,3000,3390,3200,14-03-2024
+1690,Kurukshetra,Shahabad,Orange,3000,3480,3200,21-03-2024
+1691,Kurukshetra,Shahabad,Orange,3000,3500,3200,18-03-2024
+1692,Kurukshetra,Shahabad,Orange,3000,3500,3200,20-12-2024
+1693,Kurukshetra,Shahabad,Orange,3000,3500,3200,21-12-2024
+1694,Kurukshetra,Shahabad,Orange,3000,3500,3200,28-12-2024
+1695,Kurukshetra,Shahabad,Orange,3000,3500,3200,28-02-2024
+1696,Kurukshetra,Shahabad,Orange,3000,3525,3200,27-03-2024
+1697,Kurukshetra,Shahabad,Orange,3000,3570,3200,07-12-2024
+1698,Kurukshetra,Shahabad,Orange,3000,3585,3200,25-03-2024
+1699,Kurukshetra,Shahabad,Orange,3000,3610,3200,04-03-2024
+1700,Kurukshetra,Shahabad,Orange,3000,3775,3500,31-12-2024
+1701,Kurukshetra,Shahabad,Orange,3000,3830,3500,05-12-2024
+1702,Kurukshetra,Shahabad,Orange,3000,3870,3500,26-02-2024
+1703,Kurukshetra,Shahabad,Orange,3000,3880,3200,22-03-2024
+1704,Kurukshetra,Shahabad,Orange,3000,3990,3500,15-03-2024
+1705,Kurukshetra,Shahabad,Orange,3000,4000,3200,01-04-2024
+1706,Kurukshetra,Shahabad,Orange,3000,4000,3200,19-12-2024
+1707,Kurukshetra,Shahabad,Orange,3000,4000,3200,24-12-2024
+1708,Kurukshetra,Shahabad,Orange,3000,4000,3270,18-12-2024
+1709,Kurukshetra,Shahabad,Orange,3000,4000,3500,01-01-2025
+1710,Kurukshetra,Shahabad,Orange,3000,4000,3500,11-12-2024
+1711,Kurukshetra,Shahabad,Orange,3000,4000,3500,25-12-2024
+1712,Kurukshetra,Shahabad,Orange,3000,4000,3500,26-12-2024
+1713,Kurukshetra,Shahabad,Orange,3000,4000,3820,23-12-2024
+1714,Kurukshetra,Shahabad,Orange,3000,4000,3920,21-02-2024
+1715,Kurukshetra,Shahabad,Orange,3000,4140,4000,17-02-2024
+1716,Kurukshetra,Shahabad,Orange,3000,4195,3500,06-03-2024
+1717,Kurukshetra,Shahabad,Orange,3000,4200,3500,11-03-2024
+1718,Kurukshetra,Shahabad,Orange,3000,4270,3500,06-12-2024
+1719,Kurukshetra,Shahabad,Orange,3000,4465,3500,24-02-2024
+1720,Kurukshetra,Shahabad,Orange,3000,4500,3500,15-02-2024
+1721,Kurukshetra,Shahabad,Orange,3000,4500,3960,12-02-2024
+1722,Kurukshetra,Shahabad,Orange,3000,4685,3500,16-03-2024
+1723,Kurukshetra,Shahabad,Orange,3000,4830,3200,28-03-2024
+1724,Kurukshetra,Shahabad,Orange,3000,5000,4000,11-10-2024
+1725,Kurukshetra,Shahabad,Orange,3000,5410,3500,14-12-2024
+1726,Kurukshetra,Shahabad,Orange,3000,5435,4000,04-04-2024
+1727,Kurukshetra,Shahabad,Orange,3000,5710,3200,12-12-2024
+1728,Kurukshetra,Shahabad,Orange,3000,5710,3200,13-12-2024
+1729,Kurukshetra,Shahabad,Orange,3131,3500,3200,04-12-2024
+1730,Kurukshetra,Shahabad,Orange,3200,3500,3300,27-12-2024
+1731,Kurukshetra,Shahabad,Orange,3200,3500,3300,30-03-2024
+1732,Kurukshetra,Shahabad,Orange,3200,3500,3400,03-12-2024
+1733,Kurukshetra,Shahabad,Orange,3200,3500,3500,29-03-2024
+1734,Kurukshetra,Shahabad,Orange,3200,3775,3500,29-11-2024
+1735,Kurukshetra,Shahabad,Orange,3200,4000,3500,22-02-2024
+1736,Kurukshetra,Shahabad,Orange,3200,4435,3500,10-12-2024
+1737,Kurukshetra,Shahabad,Orange,3500,4140,4000,23-02-2024
+1738,Kurukshetra,Shahabad,Orange,3500,4500,4280,20-02-2024
+1739,Kurukshetra,Shahabad,Orange,3500,5000,3700,08-02-2024
+1740,Kurukshetra,Shahabad,Orange,3500,5120,4000,26-11-2024
+1741,Kurukshetra,Shahabad,Orange,3500,5790,4500,09-12-2024
+1742,Kurukshetra,Shahabad,Orange,3500,7740,5500,25-11-2024
+1743,Kurukshetra,Shahabad,Orange,4000,4000,4000,14-02-2024
+1744,Kurukshetra,Shahabad,Orange,4000,4500,4200,19-02-2024
+1745,Kurukshetra,Shahabad,Orange,4000,4685,4500,13-02-2024
+1746,Kurukshetra,Shahabad,Orange,4000,5000,4500,05-04-2024
+1747,Kurukshetra,Shahabad,Orange,4000,5000,4500,05-10-2024
+1748,Kurukshetra,Shahabad,Orange,4000,5000,4500,12-04-2024
+1749,Kurukshetra,Shahabad,Orange,4030,5000,4500,02-10-2024
+1750,Kurukshetra,Shahabad,Orange,4035,5000,4500,05-02-2024
+1751,Kurukshetra,Shahabad,Orange,4080,5000,4500,09-10-2024
+1752,Kurukshetra,Shahabad,Orange,4100,5000,4500,13-04-2024
+1753,Kurukshetra,Shahabad,Orange,4200,5000,4800,08-10-2024
+1754,Kurukshetra,Shahabad,Orange,4215,4500,4300,10-10-2024
+1755,Kurukshetra,Shahabad,Orange,4288,4288,4288,02-05-2024
+1756,Kurukshetra,Shahabad,Orange,4500,4500,4500,18-04-2024
+1757,Kurukshetra,Shahabad,Orange,4500,4800,4700,07-10-2024
+1758,Kurukshetra,Shahabad,Orange,4500,5000,4700,15-04-2024
+1759,Kurukshetra,Shahabad,Orange,4500,5000,4700,23-09-2024
+1760,Kurukshetra,Shahabad,Orange,4500,5000,4715,10-04-2024
+1761,Kurukshetra,Shahabad,Orange,4500,5340,5000,08-04-2024
+1762,Kurukshetra,Shahabad,Orange,4500,5675,5000,17-04-2024
+1763,Kurukshetra,Shahabad,Orange,4500,6000,5000,19-04-2024
+1764,Kurukshetra,Shahabad,Orange,4500,8180,5000,22-04-2024
+1765,Kurukshetra,Shahabad,Orange,4910,5000,4910,24-09-2024
+1766,Kurukshetra,Shahabad,Orange,5000,5000,5000,01-10-2024
+1767,Kurukshetra,Shahabad,Orange,5000,5000,5000,02-02-2024
+1768,Kurukshetra,Shahabad,Orange,5000,5000,5000,03-10-2024
+1769,Kurukshetra,Shahabad,Orange,5000,5000,5000,04-10-2024
+1770,Kurukshetra,Shahabad,Orange,5000,5000,5000,19-09-2024
+1771,Kurukshetra,Shahabad,Orange,5000,5000,5000,20-09-2024
+1772,Kurukshetra,Shahabad,Orange,5000,5000,5000,23-04-2024
+1773,Kurukshetra,Shahabad,Orange,5000,5000,5000,28-09-2024
+1774,Kurukshetra,Shahabad,Orange,5000,5000,5000,30-01-2024
+1775,Kurukshetra,Shahabad,Orange,5000,5455,5400,07-02-2024
+1776,Kurukshetra,Shahabad,Orange,5000,6000,5500,16-09-2024
+1777,Kurukshetra,Shahabad,Orange,5000,6000,5500,17-09-2024
+1778,Kurukshetra,Shahabad,Orange,5000,6000,5500,20-04-2024
+1779,Kurukshetra,Shahabad,Orange,5000,6230,5000,09-04-2024
+1780,Kurukshetra,Shahabad,Orange,5000,6475,5500,27-09-2024
+1781,Kurukshetra,Shahabad,Orange,5000,6870,6000,24-04-2024
+1782,Kurukshetra,Shahabad,Orange,5000,6940,6000,25-09-2024
+1783,Kurukshetra,Shahabad,Orange,5000,7550,5500,30-09-2024
+1784,Kurukshetra,Shahabad,Orange,5025,5025,5025,29-01-2024
+1785,Kurukshetra,Shahabad,Orange,5365,7000,6000,14-09-2024
+1786,Kurukshetra,Shahabad,Orange,5850,5850,5850,29-04-2024
+1787,Kurukshetra,Shahabad,Orange,6000,6000,6000,01-05-2024
+1788,Kurukshetra,Shahabad,Orange,6000,6000,6000,25-04-2024
+1789,Kurukshetra,Shahabad,Orange,6000,6000,6000,30-04-2024
+1790,Kurukshetra,Shahabad,Orange,6000,7140,6500,27-04-2024
+1791,Kurukshetra,Shahabad,Orange,6000,7390,6500,26-04-2024
+1792,Kurukshetra,Shahabad,Orange,6600,7000,6700,13-09-2024
+1793,Kurukshetra,Shahabad,Orange,7000,7000,7000,12-09-2024
+1794,Sonipat,Sonepat(Kharkhoda),Orange,1500,1500,1500,29-03-2024
+1795,Mewat,Tauru,Orange,2000,2000,2000,10-11-2024
+1796,Mewat,Tauru,Orange,2000,3500,2000,14-11-2024
+1797,Mewat,Tauru,Orange,3000,3000,3000,07-03-2024
+1798,Mewat,Tauru,Orange,3000,3000,3000,12-02-2024
+1799,Mewat,Tauru,Orange,3000,3000,3000,16-12-2024
+1800,Mewat,Tauru,Orange,3000,4000,4000,25-12-2024
+1801,Mewat,Tauru,Orange,3500,3500,3500,15-03-2024
+1802,Mewat,Tauru,Orange,3500,3500,3500,20-02-2024
+1803,Mewat,Tauru,Orange,3500,4000,3500,21-03-2024
+1804,Mewat,Tauru,Orange,4000,4000,4000,02-04-2024
+1805,Mewat,Tauru,Orange,4000,4000,4000,04-03-2024
+1806,Mewat,Tauru,Orange,4000,4000,4000,05-11-2024
+1807,Mewat,Tauru,Orange,4000,4000,4000,07-11-2024
+1808,Mewat,Tauru,Orange,4000,4000,4000,08-03-2024
+1809,Mewat,Tauru,Orange,4000,4000,4000,13-12-2024
+1810,Mewat,Tauru,Orange,4000,4000,4000,18-03-2024
+1811,Mewat,Tauru,Orange,4000,4000,4000,20-12-2024
+1812,Mewat,Tauru,Orange,4000,4000,4000,22-02-2024
+1813,Mewat,Tauru,Orange,4000,4000,4000,22-03-2024
+1814,Mewat,Tauru,Orange,4000,4000,4000,23-03-2024
+1815,Mewat,Tauru,Orange,4000,4000,4000,25-02-2024
+1816,Mewat,Tauru,Orange,4000,4000,4000,26-02-2024
+1817,Mewat,Tauru,Orange,4000,4000,4000,28-11-2024
+1818,Mewat,Tauru,Orange,5000,5000,5000,03-04-2024
+1819,Mewat,Tauru,Orange,5000,5000,5000,04-11-2024
+1820,Mewat,Tauru,Orange,5000,5000,5000,10-04-2024
+1821,Mewat,Tauru,Orange,5000,5000,5000,11-04-2024
+1822,Mewat,Tauru,Orange,5000,5000,5000,14-04-2024
+1823,Mewat,Tauru,Orange,5000,5000,5000,28-02-2024
+1824,Mewat,Tauru,Orange,6000,6000,6000,18-04-2024
+1825,Kurukshetra,Thanesar,Orange,1500,6000,4000,25-10-2024
+1826,Kurukshetra,Thanesar,Orange,1500,6000,4000,26-10-2024
+1827,Kurukshetra,Thanesar,Orange,2000,4000,3000,01-11-2024
+1828,Kurukshetra,Thanesar,Orange,2000,4000,3000,07-11-2024
+1829,Kurukshetra,Thanesar,Orange,2000,4000,3000,08-11-2024
+1830,Kurukshetra,Thanesar,Orange,2000,4000,3000,28-10-2024
+1831,Kurukshetra,Thanesar,Orange,2000,4000,3000,29-10-2024
+1832,Kurukshetra,Thanesar,Orange,2000,4000,3000,30-10-2024
+1833,Kurukshetra,Thanesar,Orange,2000,5000,3000,02-11-2024
+1834,Kurukshetra,Thanesar,Orange,2000,5000,3000,04-12-2024
+1835,Kurukshetra,Thanesar,Orange,2000,5000,3000,05-11-2024
+1836,Kurukshetra,Thanesar,Orange,2000,5000,3000,09-11-2024
+1837,Kurukshetra,Thanesar,Orange,2000,5000,3500,04-11-2024
+1838,Kurukshetra,Thanesar,Orange,2000,5000,3500,11-11-2024
+1839,Kurukshetra,Thanesar,Orange,2000,6000,3000,18-11-2024
+1840,Kurukshetra,Thanesar,Orange,2000,6000,3000,19-11-2024
+1841,Kurukshetra,Thanesar,Orange,2000,6000,3000,20-11-2024
+1842,Kurukshetra,Thanesar,Orange,2000,6000,3000,21-11-2024
+1843,Kurukshetra,Thanesar,Orange,2000,6000,3500,05-12-2024
+1844,Kurukshetra,Thanesar,Orange,2000,6000,3500,13-11-2024
+1845,Kurukshetra,Thanesar,Orange,2000,6000,3500,25-11-2024
+1846,Kurukshetra,Thanesar,Orange,2000,6000,4000,02-12-2024
+1847,Kurukshetra,Thanesar,Orange,2000,6000,4000,03-12-2024
+1848,Kurukshetra,Thanesar,Orange,2000,6000,4000,06-12-2024
+1849,Kurukshetra,Thanesar,Orange,2000,6000,4000,07-12-2024
+1850,Kurukshetra,Thanesar,Orange,2000,6000,4000,09-12-2024
+1851,Kurukshetra,Thanesar,Orange,2000,6000,4000,11-12-2024
+1852,Kurukshetra,Thanesar,Orange,2000,6000,4000,14-11-2024
+1853,Kurukshetra,Thanesar,Orange,2000,6000,4000,15-11-2024
+1854,Kurukshetra,Thanesar,Orange,2000,6000,4000,16-11-2024
+1855,Kurukshetra,Thanesar,Orange,2000,6000,4000,22-11-2024
+1856,Kurukshetra,Thanesar,Orange,2000,6000,4000,23-12-2024
+1857,Kurukshetra,Thanesar,Orange,2000,6000,4000,23-11-2024
+1858,Kurukshetra,Thanesar,Orange,2000,6000,4000,26-11-2024
+1859,Kurukshetra,Thanesar,Orange,2000,6000,4000,27-11-2024
+1860,Kurukshetra,Thanesar,Orange,2000,6000,4000,28-11-2024
+1861,Kurukshetra,Thanesar,Orange,2000,6000,4000,29-11-2024
+1862,Kurukshetra,Thanesar,Orange,2000,6000,4000,30-11-2024
+1863,Kurukshetra,Thanesar,Orange,2000,7000,4000,10-12-2024
+1864,Kurukshetra,Thanesar,Orange,2500,4500,3500,12-11-2024
+1865,Kurukshetra,Thanesar,Orange,3000,5000,4000,01-04-2024
+1866,Kurukshetra,Thanesar,Orange,3000,5000,4000,06-11-2024
+1867,Kurukshetra,Thanesar,Orange,3000,5000,4000,20-03-2024
+1868,Kurukshetra,Thanesar,Orange,3000,5000,4000,21-03-2024
+1869,Kurukshetra,Thanesar,Orange,3000,5000,4000,22-03-2024
+1870,Kurukshetra,Thanesar,Orange,3000,5000,4000,25-03-2024
+1871,Kurukshetra,Thanesar,Orange,3000,5000,4000,26-03-2024
+1872,Kurukshetra,Thanesar,Orange,3000,5000,4000,27-03-2024
+1873,Kurukshetra,Thanesar,Orange,3000,5000,4000,28-03-2024
+1874,Kurukshetra,Thanesar,Orange,3000,5000,4000,29-03-2024
+1875,Kurukshetra,Thanesar,Orange,3000,5000,4000,30-03-2024
+1876,Kurukshetra,Thanesar,Orange,3000,6000,4000,12-12-2024
+1877,Kurukshetra,Thanesar,Orange,3000,6000,4000,13-03-2024
+1878,Kurukshetra,Thanesar,Orange,3000,6000,4000,14-12-2024
+1879,Kurukshetra,Thanesar,Orange,3000,6000,4000,16-12-2024
+1880,Kurukshetra,Thanesar,Orange,3000,6000,4000,20-12-2024
+1881,Kurukshetra,Thanesar,Orange,3000,6000,4000,21-12-2024
+1882,Kurukshetra,Thanesar,Orange,3000,6000,4000,24-12-2024
+1883,Kurukshetra,Thanesar,Orange,3000,6000,4000,25-12-2024
+1884,Kurukshetra,Thanesar,Orange,3000,6000,4000,26-12-2024
+1885,Kurukshetra,Thanesar,Orange,3000,6000,4500,02-04-2024
+1886,Kurukshetra,Thanesar,Orange,3000,6000,4500,13-12-2024
+1887,Kurukshetra,Thanesar,Orange,3000,6000,4500,14-03-2024
+1888,Kurukshetra,Thanesar,Orange,3000,6000,4500,18-12-2024
+1889,Kurukshetra,Thanesar,Orange,3000,6000,4500,19-12-2024
+1890,Kurukshetra,Thanesar,Orange,3000,6000,4500,19-03-2024
+1891,Kurukshetra,Thanesar,Orange,3000,6000,4500,27-12-2024
+1892,Kurukshetra,Thanesar,Orange,3000,6000,5000,17-12-2024
+1893,Kurukshetra,Thanesar,Orange,3000,7000,4500,02-03-2024
+1894,Kurukshetra,Thanesar,Orange,3000,7000,4500,06-03-2024
+1895,Kurukshetra,Thanesar,Orange,3000,7000,4500,07-03-2024
+1896,Kurukshetra,Thanesar,Orange,3000,7000,4500,08-03-2024
+1897,Kurukshetra,Thanesar,Orange,3000,7000,4500,09-03-2024
+1898,Kurukshetra,Thanesar,Orange,3000,7000,4500,11-03-2024
+1899,Kurukshetra,Thanesar,Orange,3000,7000,4500,12-03-2024
+1900,Kurukshetra,Thanesar,Orange,3000,7000,4500,26-02-2024
+1901,Kurukshetra,Thanesar,Orange,3000,7000,4500,27-02-2024
+1902,Kurukshetra,Thanesar,Orange,3000,7000,4500,28-02-2024
+1903,Kurukshetra,Thanesar,Orange,3000,7000,5000,01-03-2024
+1904,Kurukshetra,Thanesar,Orange,3000,7000,5000,04-03-2024
+1905,Kurukshetra,Thanesar,Orange,3000,7000,5000,05-03-2024
+1906,Kurukshetra,Thanesar,Orange,3000,7000,5000,19-02-2024
+1907,Kurukshetra,Thanesar,Orange,3000,8000,5000,16-02-2024
+1908,Kurukshetra,Thanesar,Orange,3000,8000,5000,17-02-2024
+1909,Kurukshetra,Thanesar,Orange,3000,8000,5000,20-02-2024
+1910,Kurukshetra,Thanesar,Orange,3000,8000,5000,21-02-2024
+1911,Kurukshetra,Thanesar,Orange,3000,8000,5000,29-02-2024
+1912,Kurukshetra,Thanesar,Orange,4000,5000,4500,03-01-2024
+1913,Kurukshetra,Thanesar,Orange,4000,6000,5000,03-04-2024
+1914,Kurukshetra,Thanesar,Orange,4000,6000,5000,04-04-2024
+1915,Kurukshetra,Thanesar,Orange,4000,6000,5000,09-10-2024
+1916,Kurukshetra,Thanesar,Orange,4000,6000,5000,11-10-2024
+1917,Kurukshetra,Thanesar,Orange,4000,6000,5000,12-10-2024
+1918,Kurukshetra,Thanesar,Orange,4000,6000,5000,14-10-2024
+1919,Kurukshetra,Thanesar,Orange,4000,6000,5000,15-03-2024
+1920,Kurukshetra,Thanesar,Orange,4000,6000,5000,15-10-2024
+1921,Kurukshetra,Thanesar,Orange,4000,6000,5000,16-10-2024
+1922,Kurukshetra,Thanesar,Orange,4000,6000,5000,17-10-2024
+1923,Kurukshetra,Thanesar,Orange,4000,6000,5000,18-10-2024
+1924,Kurukshetra,Thanesar,Orange,4000,6000,5000,19-10-2024
+1925,Kurukshetra,Thanesar,Orange,4000,6000,5000,19-09-2024
+1926,Kurukshetra,Thanesar,Orange,4000,6000,5000,21-10-2024
+1927,Kurukshetra,Thanesar,Orange,4000,6000,5000,21-09-2024
+1928,Kurukshetra,Thanesar,Orange,4000,6000,5000,22-10-2024
+1929,Kurukshetra,Thanesar,Orange,4000,6000,5000,23-10-2024
+1930,Kurukshetra,Thanesar,Orange,4000,6000,5000,24-10-2024
+1931,Kurukshetra,Thanesar,Orange,4000,6000,5000,30-12-2024
+1932,Kurukshetra,Thanesar,Orange,4000,7000,5500,05-04-2024
+1933,Kurukshetra,Thanesar,Orange,4000,7000,5500,23-02-2024
+1934,Kurukshetra,Thanesar,Orange,4000,7000,5500,24-02-2024
+1935,Kurukshetra,Thanesar,Orange,4000,8000,5000,01-01-2025
+1936,Kurukshetra,Thanesar,Orange,4000,8000,6000,04-10-2024
+1937,Kurukshetra,Thanesar,Orange,4000,8000,6000,05-10-2024
+1938,Kurukshetra,Thanesar,Orange,4000,8000,6000,06-04-2024
+1939,Kurukshetra,Thanesar,Orange,4000,8000,6000,07-10-2024
+1940,Kurukshetra,Thanesar,Orange,4000,8000,6000,08-04-2024
+1941,Kurukshetra,Thanesar,Orange,4000,8000,6000,08-10-2024
+1942,Kurukshetra,Thanesar,Orange,4000,8000,6000,10-04-2024
+1943,Kurukshetra,Thanesar,Orange,4000,8000,6000,10-10-2024
+1944,Kurukshetra,Thanesar,Orange,4000,8000,6000,11-04-2024
+1945,Kurukshetra,Thanesar,Orange,4000,8000,6000,15-02-2024
+1946,Kurukshetra,Thanesar,Orange,4000,8000,6000,16-03-2024
+1947,Kurukshetra,Thanesar,Orange,4000,8000,6000,18-03-2024
+1948,Kurukshetra,Thanesar,Orange,5000,7000,6000,18-09-2024
+1949,Kurukshetra,Thanesar,Orange,5000,7000,6000,20-09-2024
+1950,Kurukshetra,Thanesar,Orange,5000,7000,6000,23-09-2024
+1951,Kurukshetra,Thanesar,Orange,5000,7000,6000,24-09-2024
+1952,Kurukshetra,Thanesar,Orange,5000,7000,6000,25-09-2024
+1953,Kurukshetra,Thanesar,Orange,5000,7000,6000,26-09-2024
+1954,Kurukshetra,Thanesar,Orange,5000,7000,6000,27-09-2024
+1955,Kurukshetra,Thanesar,Orange,5000,8000,6000,02-10-2024
+1956,Kurukshetra,Thanesar,Orange,5000,8000,6000,03-10-2024
+1957,Kurukshetra,Thanesar,Orange,5000,8000,6000,13-04-2024
+1958,Kurukshetra,Thanesar,Orange,5000,8000,6000,15-04-2024
+1959,Kurukshetra,Thanesar,Orange,5000,8000,6000,17-04-2024
+1960,Kurukshetra,Thanesar,Orange,5000,8000,6000,19-04-2024
+1961,Kurukshetra,Thanesar,Orange,5000,8000,6000,20-04-2024
+1962,Kurukshetra,Thanesar,Orange,5000,8000,6000,22-04-2024
+1963,Kurukshetra,Thanesar,Orange,5000,8000,6000,23-04-2024
+1964,Kurukshetra,Thanesar,Orange,5000,8000,6000,24-04-2024
+1965,Kurukshetra,Thanesar,Orange,5000,8000,6000,25-04-2024
+1966,Kurukshetra,Thanesar,Orange,5000,8000,6000,25-01-2024
+1967,Kurukshetra,Thanesar,Orange,5000,8000,6000,28-09-2024
+1968,Kurukshetra,Thanesar,Orange,5000,8000,6000,30-09-2024
+1969,Kurukshetra,Thanesar,Orange,5000,8000,6500,12-04-2024
+1970,Kurukshetra,Thanesar,Orange,5000,10000,7000,01-02-2024
+1971,Kurukshetra,Thanesar,Orange,5000,10000,7000,05-02-2024
+1972,Kurukshetra,Thanesar,Orange,5000,10000,7000,06-02-2024
+1973,Kurukshetra,Thanesar,Orange,5000,10000,7000,12-02-2024
+1974,Kurukshetra,Thanesar,Orange,5000,10000,7000,13-02-2024
+1975,Kurukshetra,Thanesar,Orange,5000,10000,7000,22-02-2024
+1976,Kurukshetra,Thanesar,Orange,6000,8000,7000,08-02-2024
+1977,Kurukshetra,Thanesar,Orange,6000,8000,7000,29-01-2024
+1978,Kurukshetra,Thanesar,Orange,6000,10000,7500,09-02-2024
+1979,Kurukshetra,Thanesar,Orange,6000,10000,8000,03-02-2024
+1980,Kurukshetra,Thanesar,Orange,6000,10000,8000,07-02-2024
+1981,Kurukshetra,Thanesar,Orange,7000,10000,8500,30-01-2024
+1982,Kurukshetra,Thanesar,Orange,8000,10000,9000,31-01-2024
+1983,Hissar,Uklana,Orange,2500,2500,2500,20-03-2024
+1984,Hissar,Uklana,Orange,2500,3000,3000,28-11-2024
+1985,Hissar,Uklana,Orange,2800,3000,3000,21-12-2024
+1986,Hissar,Uklana,Orange,3000,3000,3000,01-04-2024
+1987,Hissar,Uklana,Orange,3000,3000,3000,05-04-2024
+1988,Hissar,Uklana,Orange,3000,3000,3000,14-12-2024
+1989,Hissar,Uklana,Orange,3000,3000,3000,16-12-2024
+1990,Hissar,Uklana,Orange,3000,3000,3000,18-12-2024
+1991,Hissar,Uklana,Orange,3000,3000,3000,20-12-2024
+1992,Hissar,Uklana,Orange,3000,3000,3000,25-11-2024
+1993,Hissar,Uklana,Orange,3000,3000,3000,26-03-2024
+1994,Hissar,Uklana,Orange,3000,3000,3000,30-11-2024
+1995,Hissar,Uklana,Orange,3000,3500,3500,24-03-2024
+1996,Hissar,Uklana,Orange,4000,4000,4000,23-03-2024
+1997,Yamuna Nagar,Yamuna Nagar,Orange,5000,9000,7500,16-09-2024
+1998,Yamuna Nagar,Yamuna Nagar,Orange,1000,4600,3500,14-12-2024
+1999,Yamuna Nagar,Yamuna Nagar,Orange,1000,4600,3500,16-12-2024
+2000,Yamuna Nagar,Yamuna Nagar,Orange,1000,4700,3000,27-10-2024
+2001,Yamuna Nagar,Yamuna Nagar,Orange,1000,4950,3000,25-11-2024
+2002,Yamuna Nagar,Yamuna Nagar,Orange,1000,5000,3000,17-12-2024
+2003,Yamuna Nagar,Yamuna Nagar,Orange,1000,5000,3500,18-12-2024
+2004,Yamuna Nagar,Yamuna Nagar,Orange,1000,5000,3500,23-11-2024
+2005,Yamuna Nagar,Yamuna Nagar,Orange,1200,1600,1400,01-12-2024
+2006,Yamuna Nagar,Yamuna Nagar,Orange,1200,4400,3500,20-12-2024
+2007,Yamuna Nagar,Yamuna Nagar,Orange,1200,4700,3000,26-12-2024
+2008,Yamuna Nagar,Yamuna Nagar,Orange,1200,5000,3500,21-12-2024
+2009,Yamuna Nagar,Yamuna Nagar,Orange,1200,5000,3600,23-12-2024
+2010,Yamuna Nagar,Yamuna Nagar,Orange,1200,5000,3600,24-11-2024
+2011,Yamuna Nagar,Yamuna Nagar,Orange,1200,5500,3200,16-11-2024
+2012,Yamuna Nagar,Yamuna Nagar,Orange,1500,4000,2800,24-09-2024
+2013,Yamuna Nagar,Yamuna Nagar,Orange,1500,4000,3000,06-10-2024
+2014,Yamuna Nagar,Yamuna Nagar,Orange,1500,4500,3500,22-11-2024
+2015,Yamuna Nagar,Yamuna Nagar,Orange,1500,5200,3200,10-12-2024
+2016,Yamuna Nagar,Yamuna Nagar,Orange,1500,5500,3500,15-11-2024
+2017,Yamuna Nagar,Yamuna Nagar,Orange,1500,5800,4500,09-12-2024
+2018,Yamuna Nagar,Yamuna Nagar,Orange,1500,7500,5000,27-09-2024
+2019,Yamuna Nagar,Yamuna Nagar,Orange,1700,6700,3500,28-10-2024
+2020,Yamuna Nagar,Yamuna Nagar,Orange,1800,2800,2000,12-01-2024
+2021,Yamuna Nagar,Yamuna Nagar,Orange,1800,4800,3200,12-12-2024
+2022,Yamuna Nagar,Yamuna Nagar,Orange,1800,5600,4000,19-12-2024
+2023,Yamuna Nagar,Yamuna Nagar,Orange,2000,4200,3200,17-11-2024
+2024,Yamuna Nagar,Yamuna Nagar,Orange,2000,4300,3000,29-11-2024
+2025,Yamuna Nagar,Yamuna Nagar,Orange,2000,4500,3500,23-10-2024
+2026,Yamuna Nagar,Yamuna Nagar,Orange,2000,4500,3500,30-12-2024
+2027,Yamuna Nagar,Yamuna Nagar,Orange,2000,4700,3500,31-12-2024
+2028,Yamuna Nagar,Yamuna Nagar,Orange,2000,4700,3600,15-10-2024
+2029,Yamuna Nagar,Yamuna Nagar,Orange,2000,4800,3600,25-12-2024
+2030,Yamuna Nagar,Yamuna Nagar,Orange,2000,4800,3800,24-12-2024
+2031,Yamuna Nagar,Yamuna Nagar,Orange,2000,4900,3500,21-10-2024
+2032,Yamuna Nagar,Yamuna Nagar,Orange,2000,4900,3600,20-11-2024
+2033,Yamuna Nagar,Yamuna Nagar,Orange,2000,4900,3800,24-10-2024
+2034,Yamuna Nagar,Yamuna Nagar,Orange,2000,4923,3000,26-10-2024
+2035,Yamuna Nagar,Yamuna Nagar,Orange,2000,5000,3500,11-12-2024
+2036,Yamuna Nagar,Yamuna Nagar,Orange,2000,5000,3500,25-10-2024
+2037,Yamuna Nagar,Yamuna Nagar,Orange,2000,5000,3500,27-12-2024
+2038,Yamuna Nagar,Yamuna Nagar,Orange,2000,5200,4000,13-11-2024
+2039,Yamuna Nagar,Yamuna Nagar,Orange,2000,5280,4000,05-12-2024
+2040,Yamuna Nagar,Yamuna Nagar,Orange,2000,5500,4500,04-12-2024
+2041,Yamuna Nagar,Yamuna Nagar,Orange,2000,5600,3500,30-11-2024
+2042,Yamuna Nagar,Yamuna Nagar,Orange,2000,5600,4000,14-10-2024
+2043,Yamuna Nagar,Yamuna Nagar,Orange,2000,5650,4200,02-12-2024
+2044,Yamuna Nagar,Yamuna Nagar,Orange,2000,6000,4000,03-12-2024
+2045,Yamuna Nagar,Yamuna Nagar,Orange,2000,6000,4000,19-10-2024
+2046,Yamuna Nagar,Yamuna Nagar,Orange,2000,6000,4000,20-10-2024
+2047,Yamuna Nagar,Yamuna Nagar,Orange,2000,6000,4200,11-11-2024
+2048,Yamuna Nagar,Yamuna Nagar,Orange,2000,6000,4500,03-10-2024
+2049,Yamuna Nagar,Yamuna Nagar,Orange,2000,6000,4500,04-10-2024
+2050,Yamuna Nagar,Yamuna Nagar,Orange,2000,6100,4000,06-12-2024
+2051,Yamuna Nagar,Yamuna Nagar,Orange,2000,6100,4500,07-12-2024
+2052,Yamuna Nagar,Yamuna Nagar,Orange,2000,6500,4000,09-11-2024
+2053,Yamuna Nagar,Yamuna Nagar,Orange,2000,6500,4000,11-10-2024
+2054,Yamuna Nagar,Yamuna Nagar,Orange,2000,6600,4200,28-09-2024
+2055,Yamuna Nagar,Yamuna Nagar,Orange,2000,6800,4500,01-10-2024
+2056,Yamuna Nagar,Yamuna Nagar,Orange,2000,6800,4800,08-11-2024
+2057,Yamuna Nagar,Yamuna Nagar,Orange,2000,7000,5000,17-02-2024
+2058,Yamuna Nagar,Yamuna Nagar,Orange,2000,7000,5000,18-10-2024
+2059,Yamuna Nagar,Yamuna Nagar,Orange,2000,7000,5000,29-10-2024
+2060,Yamuna Nagar,Yamuna Nagar,Orange,2000,7000,5500,30-09-2024
+2061,Yamuna Nagar,Yamuna Nagar,Orange,2000,7200,5000,02-10-2024
+2062,Yamuna Nagar,Yamuna Nagar,Orange,2000,7500,5500,10-10-2024
+2063,Yamuna Nagar,Yamuna Nagar,Orange,2000,7500,6000,07-10-2024
+2064,Yamuna Nagar,Yamuna Nagar,Orange,2500,4000,3000,08-01-2024
+2065,Yamuna Nagar,Yamuna Nagar,Orange,2500,4800,3500,07-02-2024
+2066,Yamuna Nagar,Yamuna Nagar,Orange,2500,5000,3500,06-01-2024
+2067,Yamuna Nagar,Yamuna Nagar,Orange,2500,6000,4500,16-02-2024
+2068,Yamuna Nagar,Yamuna Nagar,Orange,2500,6000,4500,18-11-2024
+2069,Yamuna Nagar,Yamuna Nagar,Orange,2500,9000,6500,13-01-2024
+2070,Yamuna Nagar,Yamuna Nagar,Orange,2800,12000,7000,05-02-2024
+2071,Yamuna Nagar,Yamuna Nagar,Orange,3000,3000,3000,09-01-2024
+2072,Yamuna Nagar,Yamuna Nagar,Orange,3000,3000,3000,10-01-2024
+2073,Yamuna Nagar,Yamuna Nagar,Orange,3000,4000,3500,11-09-2024
+2074,Yamuna Nagar,Yamuna Nagar,Orange,3000,4000,3500,31-01-2024
+2075,Yamuna Nagar,Yamuna Nagar,Orange,3000,4500,4000,01-01-2025
+2076,Yamuna Nagar,Yamuna Nagar,Orange,3000,5000,4000,04-01-2024
+2077,Yamuna Nagar,Yamuna Nagar,Orange,3000,5000,4000,18-09-2024
+2078,Yamuna Nagar,Yamuna Nagar,Orange,3000,6000,4000,05-01-2024
+2079,Yamuna Nagar,Yamuna Nagar,Orange,3000,6000,4500,21-09-2024
+2080,Yamuna Nagar,Yamuna Nagar,Orange,3000,6290,4500,17-09-2024
+2081,Yamuna Nagar,Yamuna Nagar,Orange,3000,6500,4000,06-02-2024
+2082,Yamuna Nagar,Yamuna Nagar,Orange,3000,6500,5000,20-09-2024
+2083,Yamuna Nagar,Yamuna Nagar,Orange,3000,6600,4500,25-09-2024
+2084,Yamuna Nagar,Yamuna Nagar,Orange,3000,7000,5000,09-10-2024
+2085,Yamuna Nagar,Yamuna Nagar,Orange,3000,7000,5500,08-10-2024
+2086,Yamuna Nagar,Yamuna Nagar,Orange,3000,8000,5000,30-08-2024
+2087,Yamuna Nagar,Yamuna Nagar,Orange,4000,4000,4000,02-02-2024
+2088,Yamuna Nagar,Yamuna Nagar,Orange,4000,7000,5500,19-09-2024
+2089,Yamuna Nagar,Yamuna Nagar,Orange,4000,7000,5500,26-09-2024
+2090,Yamuna Nagar,Yamuna Nagar,Orange,5000,15000,9000,03-02-2024
+2091,Yamuna Nagar,Yamuna Nagar,Orange,6500,6500,6500,29-07-2024
+2092,Yamuna Nagar,Yamuna Nagar,Orange,8000,8400,8000,18-01-2024
+2093,Yamuna Nagar,Yamuna Nagar,Orange,8000,9000,8500,19-01-2024
+2094,Yamuna Nagar,Yamuna Nagar,Orange,8000,17000,13000,03-08-2024
+2095,Yamuna Nagar,Yamuna Nagar,Orange,8000,19100,15000,06-09-2024
+2096,Yamuna Nagar,Yamuna Nagar,Orange,8000,20500,15000,09-09-2024
+2097,Yamuna Nagar,Yamuna Nagar,Orange,10000,17000,12000,10-08-2024
+2098,Yamuna Nagar,Yamuna Nagar,Orange,10000,17000,14000,08-08-2024
+2099,Yamuna Nagar,Yamuna Nagar,Orange,10000,18000,14000,04-09-2024
+2100,Yamuna Nagar,Yamuna Nagar,Orange,10000,18000,15000,02-09-2024
+2101,Yamuna Nagar,Yamuna Nagar,Orange,10000,19000,14000,31-08-2024
+2102,Yamuna Nagar,Yamuna Nagar,Orange,10000,20000,15000,07-09-2024
+2103,Yamuna Nagar,Yamuna Nagar,Orange,10000,20000,15000,14-09-2024
+2104,Yamuna Nagar,Yamuna Nagar,Orange,10000,22000,16000,12-09-2024
+2105,Yamuna Nagar,Yamuna Nagar,Orange,12000,17800,15000,22-07-2024

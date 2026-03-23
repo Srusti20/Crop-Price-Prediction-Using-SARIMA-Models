@@ -1,0 +1,956 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1000,1200,1200,01-09-2024
+2,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1200,1400,1400,12-09-2024
+3,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1200,1500,1500,13-09-2024
+4,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1200,1500,1500,31-08-2024
+5,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1300,1500,1500,03-09-2024
+6,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1300,1500,1500,09-09-2024
+7,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,02-09-2024
+8,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,07-09-2024
+9,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,08-09-2024
+10,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,10-09-2024
+11,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,11-09-2024
+12,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,14-09-2024
+13,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1400,1600,1600,18-08-2024
+14,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1500,1800,1800,26-08-2024
+15,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1500,1800,1800,30-12-2024
+16,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1500,1800,1800,31-12-2024
+17,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1500,2000,2000,16-12-2024
+18,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1500,2000,2000,17-12-2024
+19,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,01-01-2025
+20,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,06-09-2024
+21,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,09-11-2024
+22,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,10-11-2024
+23,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,11-08-2024
+24,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,15-12-2024
+25,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,16-08-2024
+26,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,17-08-2024
+27,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,20-12-2024
+28,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,27-08-2024
+29,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,28-08-2024
+30,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1600,1800,1800,30-08-2024
+31,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,02-11-2024
+32,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,03-11-2024
+33,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,04-11-2024
+34,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,04-09-2024
+35,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,05-09-2024
+36,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,07-08-2024
+37,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,08-08-2024
+38,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,09-08-2024
+39,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,10-08-2024
+40,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,12-12-2024
+41,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,13-12-2024
+42,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,15-08-2024
+43,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,15-09-2024
+44,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,18-12-2024
+45,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-08-2024
+46,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-12-2024
+47,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-09-2024
+48,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,20-08-2024
+49,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,21-12-2024
+50,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,22-12-2024
+51,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,23-08-2024
+52,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,25-08-2024
+53,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,26-12-2024
+54,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,29-08-2024
+55,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,1800,2000,2000,29-12-2024
+56,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2200,2200,08-11-2024
+57,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2200,2200,11-11-2024
+58,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2200,2200,27-12-2024
+59,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,05-08-2024
+60,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,05-11-2024
+61,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,12-08-2024
+62,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,12-11-2024
+63,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,13-08-2024
+64,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,16-09-2024
+65,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2400,2400,24-12-2024
+66,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2500,2500,06-08-2024
+67,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2000,2500,2500,17-09-2024
+68,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,01-11-2024
+69,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,06-11-2024
+70,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,07-11-2024
+71,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,11-12-2024
+72,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-08-2024
+73,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-12-2024
+74,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,21-08-2024
+75,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,22-08-2024
+76,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,24-08-2024
+77,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,25-12-2024
+78,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2400,2400,28-12-2024
+79,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2500,2500,01-08-2024
+80,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2500,2500,13-11-2024
+81,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2500,2500,17-11-2024
+82,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2500,2500,20-09-2024
+83,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2500,2500,24-11-2024
+84,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2200,2600,2600,30-07-2024
+85,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,02-08-2024
+86,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,03-08-2024
+87,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,04-08-2024
+88,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,14-11-2024
+89,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,18-09-2024
+90,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,23-12-2024
+91,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,26-09-2024
+92,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,27-07-2024
+93,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,30-10-2024
+94,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,31-07-2024
+95,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2400,2600,2600,31-10-2024
+96,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,2700,2700,15-11-2024
+97,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,2700,2700,24-09-2024
+98,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,2800,2800,10-12-2024
+99,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,2800,2800,29-10-2024
+100,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,3000,3000,18-11-2024
+101,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,3000,3000,23-09-2024
+102,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,3000,3000,25-11-2024
+103,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,3000,3000,28-10-2024
+104,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2500,3000,3000,30-09-2024
+105,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2600,2800,2800,16-11-2024
+106,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2600,2800,2800,24-10-2024
+107,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2600,2800,2800,29-07-2024
+108,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,12-10-2024
+109,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,21-09-2024
+110,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,23-10-2024
+111,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,25-07-2024
+112,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,26-07-2024
+113,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,26-10-2024
+114,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,27-10-2024
+115,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,28-07-2024
+116,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,2800,3000,3000,29-09-2024
+117,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3200,3200,19-11-2024
+118,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3200,3200,22-10-2024
+119,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3200,3200,23-11-2024
+120,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3200,3200,25-10-2024
+121,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3200,3200,26-11-2024
+122,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3500,3500,01-10-2024
+123,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3500,3500,09-12-2024
+124,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3500,3500,14-10-2024
+125,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3000,3600,3600,15-10-2024
+126,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,10-10-2024
+127,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,13-10-2024
+128,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,18-10-2024
+129,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,22-11-2024
+130,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,22-09-2024
+131,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,25-09-2024
+132,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3400,3400,27-09-2024
+133,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3200,3500,3500,11-10-2024
+134,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,09-10-2024
+135,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,20-11-2024
+136,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,21-11-2024
+137,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,21-10-2024
+138,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,27-11-2024
+139,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,28-11-2024
+140,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,28-09-2024
+141,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3400,3600,3600,29-11-2024
+142,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3500,4000,4000,08-10-2024
+143,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3800,4000,4000,02-10-2024
+144,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3800,4000,4000,08-12-2024
+145,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3800,4000,4000,17-10-2024
+146,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3800,4000,4000,19-10-2024
+147,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3800,4000,4000,20-10-2024
+148,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,3800,4000,4000,24-07-2024
+149,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4000,4400,4400,02-12-2024
+150,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4200,4500,4500,03-10-2024
+151,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4400,4600,4600,16-10-2024
+152,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4500,4800,4800,07-10-2024
+153,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4500,4800,4800,23-07-2024
+154,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4500,5000,5000,03-12-2024
+155,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4500,5000,5000,22-07-2024
+156,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4600,4800,4800,07-12-2024
+157,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4800,5000,5000,05-10-2024
+158,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4800,5000,5000,06-10-2024
+159,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,4800,5000,5000,21-07-2024
+160,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,5000,5400,5400,20-07-2024
+161,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,5200,5500,5500,04-10-2024
+162,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,5500,6000,6000,04-12-2024
+163,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,5500,6000,6000,05-12-2024
+164,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,5500,6000,6000,19-07-2024
+165,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,5600,5800,5800,06-12-2024
+166,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,6000,6500,6500,16-07-2024
+167,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,6400,6800,6800,18-07-2024
+168,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Tomato,6600,7000,7000,17-07-2024
+169,Dharmapuri,Arur,Tomato,28,30,30,06-07-2024
+170,Dharmapuri,Arur,Tomato,28,30,30,07-07-2024
+171,Dharmapuri,Arur,Tomato,30,36,36,04-07-2024
+172,Dharmapuri,Arur,Tomato,34,36,36,05-07-2024
+173,Dharmapuri,Arur,Tomato,38,40,40,01-07-2024
+174,Dharmapuri,Arur,Tomato,38,40,40,02-07-2024
+175,Dharmapuri,Arur,Tomato,38,40,40,03-07-2024
+176,Dharmapuri,Arur,Tomato,40,45,45,28-06-2024
+177,Dharmapuri,Arur,Tomato,43,45,45,29-06-2024
+178,Dharmapuri,Arur,Tomato,43,45,45,30-06-2024
+179,Dharmapuri,Arur,Tomato,50,60,60,27-06-2024
+180,Dharmapuri,Arur,Tomato,58,60,60,18-06-2024
+181,Dharmapuri,Arur,Tomato,58,60,60,26-06-2024
+182,Dharmapuri,Arur,Tomato,60,62,62,19-06-2024
+183,Dharmapuri,Arur,Tomato,60,62,62,20-06-2024
+184,Dharmapuri,Arur,Tomato,60,65,65,25-06-2024
+185,Dharmapuri,Arur,Tomato,70,74,74,21-06-2024
+186,Dharmapuri,Arur,Tomato,70,74,74,22-06-2024
+187,Dharmapuri,Arur,Tomato,72,74,74,23-06-2024
+188,Dharmapuri,Arur,Tomato,72,74,74,24-06-2024
+189,Dharmapuri,Arur,Tomato,3200,3500,3500,08-07-2024
+190,Dharmapuri,Arur,Tomato,3300,3500,3500,09-07-2024
+191,Dharmapuri,Arur,Tomato,3400,3600,3600,10-07-2024
+192,Dharmapuri,Arur,Tomato,3800,4000,4000,11-07-2024
+193,Dharmapuri,Arur,Tomato,4300,4500,4500,12-07-2024
+194,Dharmapuri,Arur,Tomato,5000,5400,5400,14-07-2024
+195,Dharmapuri,Arur,Tomato,5200,5400,5400,13-07-2024
+196,Dharmapuri,Arur,Tomato,5500,6000,6000,16-07-2024
+197,Dharmapuri,Arur,Tomato,6000,6500,6500,15-07-2024
+198,Dharmapuri,Dharampuri,Tomato,28,30,30,06-07-2024
+199,Dharmapuri,Dharampuri,Tomato,28,30,30,07-07-2024
+200,Dharmapuri,Dharampuri,Tomato,30,32,32,03-07-2024
+201,Dharmapuri,Dharampuri,Tomato,30,32,32,04-07-2024
+202,Dharmapuri,Dharampuri,Tomato,33,36,36,01-07-2024
+203,Dharmapuri,Dharampuri,Tomato,33,36,36,02-07-2024
+204,Dharmapuri,Dharampuri,Tomato,35,40,40,05-07-2024
+205,Dharmapuri,Dharampuri,Tomato,38,40,40,30-06-2024
+206,Dharmapuri,Dharampuri,Tomato,40,42,42,29-06-2024
+207,Dharmapuri,Dharampuri,Tomato,45,48,48,28-06-2024
+208,Dharmapuri,Dharampuri,Tomato,45,50,50,27-06-2024
+209,Dharmapuri,Dharampuri,Tomato,47,50,50,26-06-2024
+210,Dharmapuri,Dharampuri,Tomato,55,58,58,23-06-2024
+211,Dharmapuri,Dharampuri,Tomato,55,60,60,25-06-2024
+212,Dharmapuri,Dharampuri,Tomato,58,66,66,18-06-2024
+213,Dharmapuri,Dharampuri,Tomato,60,66,66,19-06-2024
+214,Dharmapuri,Dharampuri,Tomato,60,66,66,22-06-2024
+215,Dharmapuri,Dharampuri,Tomato,62,66,66,24-06-2024
+216,Dharmapuri,Dharampuri,Tomato,65,70,70,21-06-2024
+217,Dharmapuri,Dharampuri,Tomato,70,75,75,20-06-2024
+218,Dharmapuri,Dharampuri,Tomato,3200,3500,3500,08-07-2024
+219,Dharmapuri,Dharampuri,Tomato,3200,3500,3500,09-07-2024
+220,Dharmapuri,Dharampuri,Tomato,3300,3600,3600,10-07-2024
+221,Dharmapuri,Dharampuri,Tomato,3500,3800,3800,11-07-2024
+222,Dharmapuri,Dharampuri,Tomato,4200,4400,4400,12-07-2024
+223,Dharmapuri,Dharampuri,Tomato,4500,4800,4800,13-07-2024
+224,Dharmapuri,Dharampuri,Tomato,5500,5800,5800,15-07-2024
+225,Dharmapuri,Dharampuri,Tomato,5500,6000,6000,14-07-2024
+226,Dharmapuri,Dharampuri,Tomato,5800,6200,6200,16-07-2024
+227,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1000,1200,1200,01-09-2024
+228,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1200,1400,1400,12-09-2024
+229,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1300,1500,1500,03-09-2024
+230,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1300,1500,1500,09-09-2024
+231,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1300,1500,1500,13-09-2024
+232,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1300,1500,1500,31-08-2024
+233,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,02-09-2024
+234,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,07-09-2024
+235,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,08-09-2024
+236,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,10-09-2024
+237,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,11-09-2024
+238,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,14-09-2024
+239,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1400,1600,1600,18-08-2024
+240,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,01-01-2025
+241,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,06-09-2024
+242,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,09-11-2024
+243,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,10-11-2024
+244,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,15-12-2024
+245,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,16-08-2024
+246,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,16-12-2024
+247,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,17-08-2024
+248,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,20-12-2024
+249,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,26-08-2024
+250,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,27-08-2024
+251,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,28-08-2024
+252,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,30-08-2024
+253,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,30-12-2024
+254,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1600,1800,1800,31-12-2024
+255,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,02-11-2024
+256,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,03-11-2024
+257,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,04-11-2024
+258,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,04-09-2024
+259,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,05-09-2024
+260,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,07-08-2024
+261,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,08-08-2024
+262,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,09-08-2024
+263,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,10-08-2024
+264,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,11-08-2024
+265,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,11-11-2024
+266,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,12-12-2024
+267,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,12-11-2024
+268,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,13-08-2024
+269,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,17-12-2024
+270,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,18-12-2024
+271,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-08-2024
+272,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-12-2024
+273,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-09-2024
+274,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,20-08-2024
+275,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,21-12-2024
+276,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,22-12-2024
+277,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,23-08-2024
+278,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,25-08-2024
+279,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,26-12-2024
+280,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,29-08-2024
+281,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1800,2000,2000,29-12-2024
+282,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2000,2200,2200,05-11-2024
+283,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2000,2200,2200,08-11-2024
+284,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2000,2200,2200,11-12-2024
+285,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2000,2200,2200,17-11-2024
+286,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2000,2200,2200,27-12-2024
+287,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,01-11-2024
+288,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,05-08-2024
+289,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,06-11-2024
+290,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,07-11-2024
+291,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,12-08-2024
+292,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,13-12-2024
+293,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-08-2024
+294,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-12-2024
+295,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-11-2024
+296,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,15-08-2024
+297,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,15-09-2024
+298,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,16-09-2024
+299,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,21-08-2024
+300,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,22-08-2024
+301,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,24-08-2024
+302,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,24-12-2024
+303,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,25-12-2024
+304,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2200,2400,2400,28-12-2024
+305,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2500,2500,06-08-2024
+306,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2500,2500,13-11-2024
+307,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2500,2500,15-11-2024
+308,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2500,2500,17-09-2024
+309,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2500,2500,20-09-2024
+310,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2500,2500,24-11-2024
+311,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2600,2600,03-08-2024
+312,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2600,2600,04-08-2024
+313,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2300,2600,2600,27-07-2024
+314,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2500,2500,01-08-2024
+315,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,02-08-2024
+316,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,16-11-2024
+317,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,18-11-2024
+318,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,18-09-2024
+319,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,23-12-2024
+320,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,30-07-2024
+321,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,30-10-2024
+322,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,31-07-2024
+323,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2400,2600,2600,31-10-2024
+324,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2500,2800,2800,10-12-2024
+325,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2500,2800,2800,24-10-2024
+326,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2500,2800,2800,29-07-2024
+327,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2500,2800,2800,29-10-2024
+328,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2500,2800,2800,29-09-2024
+329,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2600,2800,2800,24-09-2024
+330,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2700,3000,3000,12-10-2024
+331,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2700,3000,3000,25-11-2024
+332,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,19-11-2024
+333,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,21-09-2024
+334,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,23-11-2024
+335,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,23-10-2024
+336,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,25-07-2024
+337,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,26-07-2024
+338,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,26-09-2024
+339,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,27-10-2024
+340,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,28-07-2024
+341,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,28-10-2024
+342,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3000,3000,30-09-2024
+343,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,2800,3200,3200,26-11-2024
+344,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3000,3200,3200,22-10-2024
+345,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3000,3200,3200,25-10-2024
+346,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3000,3200,3200,26-10-2024
+347,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,10-10-2024
+348,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,13-10-2024
+349,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,18-10-2024
+350,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,22-11-2024
+351,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,22-09-2024
+352,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,23-09-2024
+353,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,25-09-2024
+354,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3400,3400,27-09-2024
+355,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3500,3500,09-12-2024
+356,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3500,3500,11-10-2024
+357,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3500,3500,14-10-2024
+358,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3600,3600,20-11-2024
+359,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3200,3600,3600,27-11-2024
+360,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3300,3600,3600,08-12-2024
+361,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3300,3600,3600,21-10-2024
+362,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3300,3600,3600,29-11-2024
+363,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3400,3600,3600,09-10-2024
+364,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3400,3600,3600,21-11-2024
+365,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3400,3600,3600,28-11-2024
+366,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3400,3600,3600,28-09-2024
+367,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3500,3800,3800,15-10-2024
+368,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3500,3800,3800,17-10-2024
+369,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3500,3800,3800,20-10-2024
+370,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3500,4000,4000,24-07-2024
+371,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3600,4000,4000,01-10-2024
+372,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3600,4000,4000,02-10-2024
+373,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3600,4000,4000,08-10-2024
+374,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3600,4000,4000,16-10-2024
+375,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,3700,4000,4000,19-10-2024
+376,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4000,4400,4400,02-12-2024
+377,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4200,4500,4500,03-10-2024
+378,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4400,4800,4800,07-12-2024
+379,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4500,4800,4800,07-10-2024
+380,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4500,4800,4800,22-07-2024
+381,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4500,5000,5000,19-07-2024
+382,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4500,5000,5000,23-07-2024
+383,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4600,5000,5000,03-12-2024
+384,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4600,5000,5000,05-10-2024
+385,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,4600,5000,5000,06-10-2024
+386,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5000,5200,5200,21-07-2024
+387,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5000,5500,5500,04-12-2024
+388,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5000,5500,5500,04-10-2024
+389,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5200,5400,5400,20-07-2024
+390,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5200,5600,5600,05-12-2024
+391,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5500,5800,5800,06-12-2024
+392,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,5800,6200,6200,16-07-2024
+393,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,6500,6800,6800,18-07-2024
+394,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,6500,7000,7000,17-07-2024
+395,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,1400,1800,1800,02-09-2024
+396,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,1600,1800,1800,01-09-2024
+397,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,03-09-2024
+398,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,04-09-2024
+399,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,05-09-2024
+400,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,06-09-2024
+401,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,07-09-2024
+402,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,08-09-2024
+403,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,09-09-2024
+404,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,10-11-2024
+405,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,10-09-2024
+406,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,11-09-2024
+407,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,12-09-2024
+408,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,13-09-2024
+409,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,16-12-2024
+410,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,17-12-2024
+411,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,18-08-2024
+412,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,18-12-2024
+413,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,19-08-2024
+414,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,19-12-2024
+415,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,20-12-2024
+416,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,21-12-2024
+417,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,22-12-2024
+418,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,23-12-2024
+419,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,24-12-2024
+420,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,25-12-2024
+421,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,26-12-2024
+422,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,27-08-2024
+423,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,27-12-2024
+424,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,28-08-2024
+425,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,28-12-2024
+426,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,29-08-2024
+427,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,29-12-2024
+428,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,30-08-2024
+429,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,30-12-2024
+430,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2000,2200,2200,31-08-2024
+431,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2200,2300,2300,01-01-2025
+432,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2200,2300,2300,31-12-2024
+433,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2300,2500,2500,28-07-2024
+434,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2300,2500,2500,31-07-2024
+435,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2300,2600,2600,11-08-2024
+436,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,01-08-2024
+437,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,01-11-2024
+438,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,02-08-2024
+439,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,03-08-2024
+440,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,04-08-2024
+441,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,05-08-2024
+442,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,06-08-2024
+443,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,07-08-2024
+444,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,08-08-2024
+445,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,09-08-2024
+446,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,10-08-2024
+447,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,11-11-2024
+448,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,12-08-2024
+449,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,12-12-2024
+450,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,12-11-2024
+451,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,13-08-2024
+452,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,13-11-2024
+453,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,14-08-2024
+454,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,14-12-2024
+455,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,14-11-2024
+456,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,14-09-2024
+457,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,15-08-2024
+458,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,15-12-2024
+459,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,15-11-2024
+460,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,15-09-2024
+461,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,16-08-2024
+462,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,16-11-2024
+463,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,16-09-2024
+464,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,17-08-2024
+465,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,17-09-2024
+466,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,18-09-2024
+467,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,19-09-2024
+468,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,20-08-2024
+469,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,20-09-2024
+470,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,21-08-2024
+471,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,22-08-2024
+472,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,23-08-2024
+473,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,24-08-2024
+474,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,25-08-2024
+475,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,26-08-2024
+476,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2400,2600,2600,31-10-2024
+477,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2500,2800,2800,13-12-2024
+478,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2500,3000,3000,08-11-2024
+479,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2500,3000,3000,21-09-2024
+480,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2500,3000,3000,26-07-2024
+481,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2500,3000,3000,27-09-2024
+482,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2600,2800,2800,17-11-2024
+483,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2600,3000,3000,07-11-2024
+484,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,05-11-2024
+485,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,06-11-2024
+486,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,09-11-2024
+487,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,18-11-2024
+488,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,19-11-2024
+489,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,27-07-2024
+490,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,29-07-2024
+491,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,2800,3000,3000,30-07-2024
+492,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3000,3500,3500,22-09-2024
+493,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3200,3500,3500,21-11-2024
+494,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3200,3500,3500,22-11-2024
+495,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3200,3500,3500,23-09-2024
+496,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3200,3500,3500,25-09-2024
+497,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3200,3500,3500,27-11-2024
+498,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,02-11-2024
+499,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,03-11-2024
+500,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,04-11-2024
+501,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,20-11-2024
+502,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,23-11-2024
+503,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,24-11-2024
+504,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,24-09-2024
+505,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,25-11-2024
+506,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,26-11-2024
+507,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,26-09-2024
+508,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3300,3500,3500,29-09-2024
+509,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3500,3500,28-09-2024
+510,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,10-12-2024
+511,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,11-12-2024
+512,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,26-10-2024
+513,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,27-10-2024
+514,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,28-10-2024
+515,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,29-10-2024
+516,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3400,3600,3600,30-10-2024
+517,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3500,4000,4000,28-11-2024
+518,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3500,4000,4000,29-11-2024
+519,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3600,4000,4000,30-09-2024
+520,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3800,4000,4000,01-10-2024
+521,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3800,4000,4000,02-10-2024
+522,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,3800,4000,4000,25-10-2024
+523,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4000,4500,4500,23-10-2024
+524,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4000,4500,4500,24-10-2024
+525,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4000,4500,4500,25-07-2024
+526,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4200,4400,4400,09-12-2024
+527,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,02-12-2024
+528,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,10-10-2024
+529,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,11-10-2024
+530,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,12-10-2024
+531,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,13-10-2024
+532,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,21-10-2024
+533,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,22-10-2024
+534,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4300,4500,4500,24-07-2024
+535,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4800,5000,5000,03-10-2024
+536,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,4800,5000,5000,04-10-2024
+537,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5000,5500,5500,05-12-2024
+538,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5000,5500,5500,05-10-2024
+539,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5000,5500,5500,06-12-2024
+540,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5000,5500,5500,15-10-2024
+541,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5000,5500,5500,17-10-2024
+542,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5000,5500,5500,18-10-2024
+543,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,03-12-2024
+544,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,04-12-2024
+545,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,07-12-2024
+546,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,08-12-2024
+547,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,09-10-2024
+548,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,14-10-2024
+549,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,16-10-2024
+550,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,19-10-2024
+551,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,20-10-2024
+552,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,22-07-2024
+553,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5300,5500,5500,23-07-2024
+554,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5500,6000,6000,06-10-2024
+555,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5500,6000,6000,16-07-2024
+556,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5800,6000,6000,07-10-2024
+557,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5800,6000,6000,08-10-2024
+558,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5800,6000,6000,17-07-2024
+559,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5800,6000,6000,20-07-2024
+560,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,5800,6000,6000,21-07-2024
+561,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,6300,6500,6500,18-07-2024
+562,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,6300,6500,6500,19-07-2024
+563,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1400,1600,1600,09-09-2024
+564,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,01-09-2024
+565,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,03-09-2024
+566,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,11-11-2024
+567,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,13-09-2024
+568,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,14-09-2024
+569,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,17-12-2024
+570,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1500,1600,1600,18-11-2024
+571,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1700,1800,1800,02-09-2024
+572,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1700,1800,1800,10-09-2024
+573,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1700,1800,1800,11-09-2024
+574,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1700,1800,1800,12-09-2024
+575,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1700,1800,1800,31-08-2024
+576,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1700,2000,2000,15-08-2024
+577,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,01-01-2025
+578,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,02-11-2024
+579,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,04-09-2024
+580,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,05-11-2024
+581,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,05-09-2024
+582,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,06-11-2024
+583,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,06-09-2024
+584,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,07-08-2024
+585,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,07-09-2024
+586,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,08-08-2024
+587,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,08-09-2024
+588,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,09-08-2024
+589,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,09-11-2024
+590,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,10-08-2024
+591,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,10-11-2024
+592,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,11-08-2024
+593,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,12-11-2024
+594,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,13-12-2024
+595,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,13-11-2024
+596,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,14-08-2024
+597,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,14-11-2024
+598,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,15-12-2024
+599,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,15-11-2024
+600,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,15-09-2024
+601,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,16-12-2024
+602,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,17-08-2024
+603,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,17-11-2024
+604,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,18-08-2024
+605,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-08-2024
+606,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-12-2024
+607,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,20-08-2024
+608,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,20-12-2024
+609,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,21-12-2024
+610,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,22-12-2024
+611,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,25-08-2024
+612,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,26-08-2024
+613,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,26-12-2024
+614,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,27-08-2024
+615,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,28-08-2024
+616,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,29-08-2024
+617,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,29-12-2024
+618,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,30-08-2024
+619,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,30-12-2024
+620,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1800,2000,2000,31-12-2024
+621,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2000,2200,2200,01-08-2024
+622,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2000,2200,2200,16-08-2024
+623,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2000,2200,2200,16-11-2024
+624,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2000,2200,2200,19-11-2024
+625,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,02-08-2024
+626,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,03-11-2024
+627,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,04-11-2024
+628,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,06-08-2024
+629,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,08-11-2024
+630,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,13-08-2024
+631,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-12-2024
+632,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,16-09-2024
+633,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,19-09-2024
+634,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,21-08-2024
+635,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,22-08-2024
+636,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,23-08-2024
+637,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,23-12-2024
+638,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,24-08-2024
+639,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,24-12-2024
+640,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2200,2400,2400,27-12-2024
+641,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2300,2500,2500,18-12-2024
+642,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,03-08-2024
+643,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,04-08-2024
+644,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,05-08-2024
+645,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,07-11-2024
+646,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,11-12-2024
+647,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,12-08-2024
+648,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,12-12-2024
+649,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,17-09-2024
+650,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,18-09-2024
+651,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,20-11-2024
+652,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,20-09-2024
+653,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,24-09-2024
+654,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,25-12-2024
+655,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,25-11-2024
+656,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,27-07-2024
+657,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,28-12-2024
+658,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,30-07-2024
+659,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2400,2600,2600,31-07-2024
+660,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2600,2800,2800,22-09-2024
+661,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,01-11-2024
+662,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,12-10-2024
+663,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,21-09-2024
+664,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,23-10-2024
+665,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,24-11-2024
+666,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,24-10-2024
+667,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,26-07-2024
+668,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,26-11-2024
+669,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,26-10-2024
+670,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,26-09-2024
+671,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,27-10-2024
+672,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,28-07-2024
+673,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,28-10-2024
+674,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,29-07-2024
+675,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,29-09-2024
+676,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,2700,3000,3000,30-09-2024
+677,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3000,3400,3400,25-10-2024
+678,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3200,3500,3500,25-09-2024
+679,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,02-12-2024
+680,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,03-12-2024
+681,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,09-12-2024
+682,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,13-10-2024
+683,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,14-10-2024
+684,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,15-10-2024
+685,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,16-10-2024
+686,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,19-10-2024
+687,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,23-09-2024
+688,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,25-07-2024
+689,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,27-09-2024
+690,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,28-09-2024
+691,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,29-10-2024
+692,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3300,3600,3600,31-10-2024
+693,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3500,3800,3800,21-11-2024
+694,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,01-10-2024
+695,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,02-10-2024
+696,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,09-10-2024
+697,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,10-12-2024
+698,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,10-10-2024
+699,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,11-10-2024
+700,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,17-10-2024
+701,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,18-10-2024
+702,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,20-10-2024
+703,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,22-11-2024
+704,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,23-11-2024
+705,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,27-11-2024
+706,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,28-11-2024
+707,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,29-11-2024
+708,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3600,4000,4000,30-10-2024
+709,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,3800,4200,4200,08-12-2024
+710,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4200,4600,4600,21-10-2024
+711,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4200,4600,4600,22-10-2024
+712,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4200,4600,4600,24-07-2024
+713,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4500,5000,5000,03-10-2024
+714,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4500,5000,5000,04-12-2024
+715,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4500,5000,5000,07-10-2024
+716,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,4500,5000,5000,22-07-2024
+717,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5000,5400,5400,19-07-2024
+718,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5000,5400,5400,23-07-2024
+719,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5000,5500,5500,08-10-2024
+720,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5000,5600,5600,21-07-2024
+721,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5100,5600,5600,05-12-2024
+722,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5500,6000,6000,04-10-2024
+723,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5500,6000,6000,05-10-2024
+724,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5500,6000,6000,06-12-2024
+725,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5500,6000,6000,06-10-2024
+726,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5500,6000,6000,07-12-2024
+727,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5500,6000,6000,20-07-2024
+728,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,5700,6200,6200,16-07-2024
+729,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,6500,7000,7000,17-07-2024
+730,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,6500,7000,7000,18-07-2024
+731,Dharmapuri,Palakode,Tomato,25,30,30,04-07-2024
+732,Dharmapuri,Palakode,Tomato,27,30,30,05-07-2024
+733,Dharmapuri,Palakode,Tomato,27,30,30,06-07-2024
+734,Dharmapuri,Palakode,Tomato,27,30,30,07-07-2024
+735,Dharmapuri,Palakode,Tomato,35,40,40,02-07-2024
+736,Dharmapuri,Palakode,Tomato,35,40,40,03-07-2024
+737,Dharmapuri,Palakode,Tomato,36,40,40,01-07-2024
+738,Dharmapuri,Palakode,Tomato,36,40,40,28-06-2024
+739,Dharmapuri,Palakode,Tomato,36,40,40,29-06-2024
+740,Dharmapuri,Palakode,Tomato,36,40,40,30-06-2024
+741,Dharmapuri,Palakode,Tomato,40,45,45,27-06-2024
+742,Dharmapuri,Palakode,Tomato,55,60,60,23-06-2024
+743,Dharmapuri,Palakode,Tomato,55,60,60,25-06-2024
+744,Dharmapuri,Palakode,Tomato,55,60,60,26-06-2024
+745,Dharmapuri,Palakode,Tomato,60,70,70,18-06-2024
+746,Dharmapuri,Palakode,Tomato,60,70,70,19-06-2024
+747,Dharmapuri,Palakode,Tomato,65,70,70,20-06-2024
+748,Dharmapuri,Palakode,Tomato,65,70,70,21-06-2024
+749,Dharmapuri,Palakode,Tomato,65,70,70,22-06-2024
+750,Dharmapuri,Palakode,Tomato,65,70,70,24-06-2024
+751,Dharmapuri,Palakode,Tomato,3300,3600,3600,08-07-2024
+752,Dharmapuri,Palakode,Tomato,3300,3600,3600,09-07-2024
+753,Dharmapuri,Palakode,Tomato,3300,3600,3600,10-07-2024
+754,Dharmapuri,Palakode,Tomato,3500,3800,3800,11-07-2024
+755,Dharmapuri,Palakode,Tomato,3500,4000,4000,12-07-2024
+756,Dharmapuri,Palakode,Tomato,4500,5000,5000,13-07-2024
+757,Dharmapuri,Palakode,Tomato,5500,6000,6000,14-07-2024
+758,Dharmapuri,Palakode,Tomato,5500,6000,6000,15-07-2024
+759,Dharmapuri,Palakode,Tomato,5700,6200,6200,16-07-2024
+760,Dharmapuri,Pennagaram,Tomato,25,28,28,05-07-2024
+761,Dharmapuri,Pennagaram,Tomato,25,30,30,06-07-2024
+762,Dharmapuri,Pennagaram,Tomato,25,30,30,07-07-2024
+763,Dharmapuri,Pennagaram,Tomato,27,30,30,04-07-2024
+764,Dharmapuri,Pennagaram,Tomato,36,40,40,03-07-2024
+765,Dharmapuri,Pennagaram,Tomato,38,40,40,02-07-2024
+766,Dharmapuri,Pennagaram,Tomato,40,42,42,01-07-2024
+767,Dharmapuri,Pennagaram,Tomato,40,45,45,28-06-2024
+768,Dharmapuri,Pennagaram,Tomato,40,45,45,29-06-2024
+769,Dharmapuri,Pennagaram,Tomato,45,48,48,30-06-2024
+770,Dharmapuri,Pennagaram,Tomato,50,55,55,25-06-2024
+771,Dharmapuri,Pennagaram,Tomato,55,57,57,27-06-2024
+772,Dharmapuri,Pennagaram,Tomato,55,58,58,26-06-2024
+773,Dharmapuri,Pennagaram,Tomato,65,70,70,24-06-2024
+774,Dharmapuri,Pennagaram,Tomato,66,68,68,23-06-2024
+775,Dharmapuri,Pennagaram,Tomato,66,70,70,18-06-2024
+776,Dharmapuri,Pennagaram,Tomato,68,70,70,21-06-2024
+777,Dharmapuri,Pennagaram,Tomato,68,70,70,22-06-2024
+778,Dharmapuri,Pennagaram,Tomato,70,75,75,19-06-2024
+779,Dharmapuri,Pennagaram,Tomato,78,80,80,20-06-2024
+780,Dharmapuri,Pennagaram,Tomato,2800,3000,3000,08-07-2024
+781,Dharmapuri,Pennagaram,Tomato,3000,3500,3500,09-07-2024
+782,Dharmapuri,Pennagaram,Tomato,3200,3500,3500,10-07-2024
+783,Dharmapuri,Pennagaram,Tomato,3800,4400,4400,11-07-2024
+784,Dharmapuri,Pennagaram,Tomato,4800,5000,5000,12-07-2024
+785,Dharmapuri,Pennagaram,Tomato,5500,6000,6000,13-07-2024
+786,Dharmapuri,Pennagaram,Tomato,6500,7000,7000,16-07-2024
+787,Dharmapuri,Pennagaram,Tomato,7000,7500,7500,14-07-2024
+788,Dharmapuri,Pennagaram,Tomato,7000,7500,7500,15-07-2024
+789,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,01-09-2024
+790,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,08-09-2024
+791,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,09-09-2024
+792,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,10-09-2024
+793,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,11-09-2024
+794,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,12-09-2024
+795,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1400,1400,31-08-2024
+796,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1500,1500,02-09-2024
+797,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1500,1500,03-09-2024
+798,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1500,1500,06-09-2024
+799,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1200,1500,1500,13-09-2024
+800,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1400,1500,1500,07-09-2024
+801,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1400,1500,1500,30-08-2024
+802,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1400,1600,1600,05-09-2024
+803,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1400,1600,1600,12-11-2024
+804,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,1600,1600,04-09-2024
+805,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,1600,1600,29-08-2024
+806,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,1700,1700,27-08-2024
+807,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,1800,1800,15-09-2024
+808,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,1800,1800,30-12-2024
+809,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,2000,2000,10-11-2024
+810,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,2000,2000,18-12-2024
+811,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,2000,2000,19-12-2024
+812,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1500,2000,2000,29-12-2024
+813,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1600,1700,1700,28-08-2024
+814,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1600,1800,1800,11-11-2024
+815,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1600,1800,1800,26-08-2024
+816,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1600,2000,2000,14-09-2024
+817,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1700,2000,2000,14-12-2024
+818,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1700,2400,2400,20-12-2024
+819,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,01-01-2025
+820,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,09-11-2024
+821,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,16-08-2024
+822,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,16-12-2024
+823,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,16-09-2024
+824,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,17-08-2024
+825,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,19-08-2024
+826,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,20-08-2024
+827,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,21-08-2024
+828,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,22-08-2024
+829,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,23-08-2024
+830,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,24-08-2024
+831,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,25-08-2024
+832,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2000,2000,31-12-2024
+833,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2500,2500,21-12-2024
+834,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1800,2500,2500,22-12-2024
+835,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2200,2200,15-08-2024
+836,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2200,2200,26-12-2024
+837,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2300,2300,18-08-2024
+838,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,10-12-2024
+839,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,11-12-2024
+840,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,12-12-2024
+841,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,13-11-2024
+842,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,15-12-2024
+843,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,16-11-2024
+844,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,17-12-2024
+845,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,19-09-2024
+846,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,25-12-2024
+847,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,27-12-2024
+848,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2400,2400,28-12-2024
+849,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2500,2500,15-11-2024
+850,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2500,2500,18-11-2024
+851,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2600,2600,03-11-2024
+852,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2000,2600,2600,20-09-2024
+853,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2300,2300,09-08-2024
+854,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2400,2400,08-08-2024
+855,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2400,2400,08-11-2024
+856,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2400,2400,14-08-2024
+857,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2400,2400,18-09-2024
+858,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2500,2500,04-11-2024
+859,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2500,2500,05-11-2024
+860,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2500,2500,13-12-2024
+861,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2500,2500,17-09-2024
+862,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2500,2500,23-12-2024
+863,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2500,2500,24-12-2024
+864,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2200,2600,2600,17-11-2024
+865,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2300,2500,2500,10-08-2024
+866,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2300,2700,2700,23-11-2024
+867,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2500,2500,02-08-2024
+868,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2500,2500,03-08-2024
+869,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2500,2500,07-08-2024
+870,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2500,2500,11-08-2024
+871,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2500,2500,12-08-2024
+872,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2600,2600,01-11-2024
+873,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2400,2600,2600,13-08-2024
+874,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2700,2700,04-08-2024
+875,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2700,2700,07-11-2024
+876,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2700,2700,31-10-2024
+877,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2800,2800,21-09-2024
+878,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2800,2800,22-09-2024
+879,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2800,2800,23-09-2024
+880,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2800,2800,24-09-2024
+881,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2800,2800,29-10-2024
+882,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,2900,2900,28-10-2024
+883,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,02-11-2024
+884,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,06-11-2024
+885,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,14-11-2024
+886,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,22-10-2024
+887,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,26-09-2024
+888,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,27-10-2024
+889,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2500,3000,3000,28-09-2024
+890,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2600,2800,2800,06-08-2024
+891,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2600,3000,3000,27-09-2024
+892,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2800,3000,3000,01-08-2024
+893,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2800,3000,3000,05-08-2024
+894,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2800,3000,3000,26-07-2024
+895,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2800,3000,3000,28-07-2024
+896,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2800,3000,3000,29-07-2024
+897,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,2800,3000,3000,29-09-2024
+898,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3200,3200,23-10-2024
+899,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3200,3200,30-10-2024
+900,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3300,3300,25-11-2024
+901,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3300,3300,25-09-2024
+902,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3400,3400,01-10-2024
+903,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3400,3400,11-10-2024
+904,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3400,3400,19-11-2024
+905,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3400,3400,26-11-2024
+906,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3500,3500,13-10-2024
+907,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3500,3500,22-11-2024
+908,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3000,3600,3600,10-10-2024
+909,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3200,3400,3400,30-09-2024
+910,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3200,3500,3500,24-11-2024
+911,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3200,3500,3500,24-10-2024
+912,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3200,3500,3500,26-10-2024
+913,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3200,3500,3500,30-07-2024
+914,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3300,3500,3500,31-07-2024
+915,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3400,3500,3500,27-07-2024
+916,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3400,3600,3600,20-11-2024
+917,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3400,3600,3600,21-10-2024
+918,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3400,3700,3700,12-10-2024
+919,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3400,3700,3700,25-10-2024
+920,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3400,3700,3700,28-11-2024
+921,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3500,3800,3800,09-12-2024
+922,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3500,4000,4000,09-10-2024
+923,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3500,4000,4000,14-10-2024
+924,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3500,4800,4800,05-10-2024
+925,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3600,4000,4000,02-12-2024
+926,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3700,4000,4000,08-12-2024
+927,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4000,4000,18-10-2024
+928,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4000,4000,21-11-2024
+929,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4000,4000,25-07-2024
+930,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4000,4000,27-11-2024
+931,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4400,4400,17-10-2024
+932,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4400,4400,19-10-2024
+933,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,3800,4500,4500,02-10-2024
+934,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4000,4400,4400,16-10-2024
+935,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4000,4400,4400,20-10-2024
+936,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4000,4500,4500,24-07-2024
+937,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4000,4600,4600,03-10-2024
+938,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4000,5000,5000,03-12-2024
+939,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4200,4400,4400,15-10-2024
+940,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4200,4500,4500,08-10-2024
+941,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4500,4700,4700,07-12-2024
+942,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,4500,5000,5000,07-10-2024
+943,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5000,5200,5200,06-10-2024
+944,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5000,5400,5400,04-10-2024
+945,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5000,5500,5500,04-12-2024
+946,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5200,5500,5500,21-07-2024
+947,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5200,5500,5500,23-07-2024
+948,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5400,6000,6000,20-07-2024
+949,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5500,6000,6000,06-12-2024
+950,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,5600,6000,6000,22-07-2024
+951,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,6500,7000,7000,16-07-2024
+952,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,6800,7000,7000,05-12-2024
+953,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,6800,7000,7000,19-07-2024
+954,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,7000,7500,7500,18-07-2024
+955,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,7500,8000,8000,17-07-2024

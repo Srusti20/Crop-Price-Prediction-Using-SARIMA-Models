@@ -1,0 +1,756 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Sholapur,Akluj,Coriander(Leaves),1,5,4,26-01-2024
+2,Sholapur,Akluj,Coriander(Leaves),2,3,3,01-01-2024
+3,Sholapur,Akluj,Coriander(Leaves),2,3,3,02-02-2024
+4,Sholapur,Akluj,Coriander(Leaves),2,3,3,09-02-2024
+5,Sholapur,Akluj,Coriander(Leaves),2,3,3,11-02-2024
+6,Sholapur,Akluj,Coriander(Leaves),2,3,3,12-02-2024
+7,Sholapur,Akluj,Coriander(Leaves),2,3,3,14-02-2024
+8,Sholapur,Akluj,Coriander(Leaves),2,3,3,22-01-2024
+9,Sholapur,Akluj,Coriander(Leaves),2,3,3,25-01-2024
+10,Sholapur,Akluj,Coriander(Leaves),2,3,3,29-01-2024
+11,Sholapur,Akluj,Coriander(Leaves),2,3,3,29-07-2024
+12,Sholapur,Akluj,Coriander(Leaves),2,3,3,31-07-2024
+13,Sholapur,Akluj,Coriander(Leaves),2,4,3,02-08-2024
+14,Sholapur,Akluj,Coriander(Leaves),2,5,4,16-10-2024
+15,Sholapur,Akluj,Coriander(Leaves),3,4,3,07-02-2024
+16,Sholapur,Akluj,Coriander(Leaves),3,4,3,29-12-2024
+17,Sholapur,Akluj,Coriander(Leaves),3,4,4,08-02-2024
+18,Sholapur,Akluj,Coriander(Leaves),3,4,4,15-02-2024
+19,Sholapur,Akluj,Coriander(Leaves),3,4,4,19-07-2024
+20,Sholapur,Akluj,Coriander(Leaves),3,4,4,20-01-2024
+21,Sholapur,Akluj,Coriander(Leaves),3,5,4,01-02-2024
+22,Sholapur,Akluj,Coriander(Leaves),3,5,4,01-01-2025
+23,Sholapur,Akluj,Coriander(Leaves),3,5,4,03-02-2024
+24,Sholapur,Akluj,Coriander(Leaves),3,5,4,03-01-2024
+25,Sholapur,Akluj,Coriander(Leaves),3,5,4,05-02-2024
+26,Sholapur,Akluj,Coriander(Leaves),3,5,4,07-08-2024
+27,Sholapur,Akluj,Coriander(Leaves),3,5,4,08-01-2024
+28,Sholapur,Akluj,Coriander(Leaves),3,5,4,09-10-2024
+29,Sholapur,Akluj,Coriander(Leaves),3,5,4,10-02-2024
+30,Sholapur,Akluj,Coriander(Leaves),3,5,4,10-01-2024
+31,Sholapur,Akluj,Coriander(Leaves),3,5,4,10-03-2024
+32,Sholapur,Akluj,Coriander(Leaves),3,5,4,11-10-2024
+33,Sholapur,Akluj,Coriander(Leaves),3,5,4,12-08-2024
+34,Sholapur,Akluj,Coriander(Leaves),3,5,4,12-01-2024
+35,Sholapur,Akluj,Coriander(Leaves),3,5,4,13-07-2024
+36,Sholapur,Akluj,Coriander(Leaves),3,5,4,13-10-2024
+37,Sholapur,Akluj,Coriander(Leaves),3,5,4,14-01-2024
+38,Sholapur,Akluj,Coriander(Leaves),3,5,4,14-10-2024
+39,Sholapur,Akluj,Coriander(Leaves),3,5,4,15-07-2024
+40,Sholapur,Akluj,Coriander(Leaves),3,5,4,16-02-2024
+41,Sholapur,Akluj,Coriander(Leaves),3,5,4,17-08-2024
+42,Sholapur,Akluj,Coriander(Leaves),3,5,4,17-02-2024
+43,Sholapur,Akluj,Coriander(Leaves),3,5,4,17-10-2024
+44,Sholapur,Akluj,Coriander(Leaves),3,5,4,18-02-2024
+45,Sholapur,Akluj,Coriander(Leaves),3,5,4,18-01-2024
+46,Sholapur,Akluj,Coriander(Leaves),3,5,4,18-07-2024
+47,Sholapur,Akluj,Coriander(Leaves),3,5,4,18-10-2024
+48,Sholapur,Akluj,Coriander(Leaves),3,5,4,20-07-2024
+49,Sholapur,Akluj,Coriander(Leaves),3,5,4,21-01-2024
+50,Sholapur,Akluj,Coriander(Leaves),3,5,4,23-12-2024
+51,Sholapur,Akluj,Coriander(Leaves),3,5,4,24-01-2024
+52,Sholapur,Akluj,Coriander(Leaves),3,5,4,26-12-2024
+53,Sholapur,Akluj,Coriander(Leaves),3,5,4,27-12-2024
+54,Sholapur,Akluj,Coriander(Leaves),3,5,4,27-07-2024
+55,Sholapur,Akluj,Coriander(Leaves),3,5,4,28-12-2024
+56,Sholapur,Akluj,Coriander(Leaves),3,5,4,28-01-2024
+57,Sholapur,Akluj,Coriander(Leaves),3,5,4,29-03-2024
+58,Sholapur,Akluj,Coriander(Leaves),3,5,4,30-12-2024
+59,Sholapur,Akluj,Coriander(Leaves),3,5,4,31-01-2024
+60,Sholapur,Akluj,Coriander(Leaves),3,5,5,11-08-2024
+61,Sholapur,Akluj,Coriander(Leaves),4,5,4,12-10-2024
+62,Sholapur,Akluj,Coriander(Leaves),4,5,5,04-01-2024
+63,Sholapur,Akluj,Coriander(Leaves),4,5,5,10-10-2024
+64,Sholapur,Akluj,Coriander(Leaves),4,5,5,11-12-2024
+65,Sholapur,Akluj,Coriander(Leaves),4,5,5,13-01-2024
+66,Sholapur,Akluj,Coriander(Leaves),4,5,5,14-07-2024
+67,Sholapur,Akluj,Coriander(Leaves),4,5,5,15-01-2024
+68,Sholapur,Akluj,Coriander(Leaves),4,5,5,19-02-2024
+69,Sholapur,Akluj,Coriander(Leaves),4,5,5,24-07-2024
+70,Sholapur,Akluj,Coriander(Leaves),4,5,5,27-01-2024
+71,Sholapur,Akluj,Coriander(Leaves),5,6,5,22-12-2024
+72,Sholapur,Akluj,Coriander(Leaves),5,6,6,19-01-2024
+73,Sholapur,Akluj,Coriander(Leaves),5,7,6,03-04-2024
+74,Sholapur,Akluj,Coriander(Leaves),5,7,6,04-04-2024
+75,Sholapur,Akluj,Coriander(Leaves),5,7,6,07-12-2024
+76,Sholapur,Akluj,Coriander(Leaves),5,7,6,07-01-2024
+77,Sholapur,Akluj,Coriander(Leaves),5,7,6,08-04-2024
+78,Sholapur,Akluj,Coriander(Leaves),5,7,6,08-12-2024
+79,Sholapur,Akluj,Coriander(Leaves),5,7,6,08-03-2024
+80,Sholapur,Akluj,Coriander(Leaves),5,7,6,09-03-2024
+81,Sholapur,Akluj,Coriander(Leaves),5,7,6,11-01-2024
+82,Sholapur,Akluj,Coriander(Leaves),5,7,6,11-03-2024
+83,Sholapur,Akluj,Coriander(Leaves),5,7,6,14-08-2024
+84,Sholapur,Akluj,Coriander(Leaves),5,7,6,14-03-2024
+85,Sholapur,Akluj,Coriander(Leaves),5,7,6,15-04-2024
+86,Sholapur,Akluj,Coriander(Leaves),5,7,6,15-12-2024
+87,Sholapur,Akluj,Coriander(Leaves),5,7,6,16-08-2024
+88,Sholapur,Akluj,Coriander(Leaves),5,7,6,17-01-2024
+89,Sholapur,Akluj,Coriander(Leaves),5,7,6,17-03-2024
+90,Sholapur,Akluj,Coriander(Leaves),5,7,6,19-12-2024
+91,Sholapur,Akluj,Coriander(Leaves),5,7,6,21-12-2024
+92,Sholapur,Akluj,Coriander(Leaves),5,7,6,21-03-2024
+93,Sholapur,Akluj,Coriander(Leaves),5,7,6,22-03-2024
+94,Sholapur,Akluj,Coriander(Leaves),5,7,6,24-03-2024
+95,Sholapur,Akluj,Coriander(Leaves),5,7,6,24-10-2024
+96,Sholapur,Akluj,Coriander(Leaves),5,7,6,25-04-2024
+97,Sholapur,Akluj,Coriander(Leaves),5,7,6,25-12-2024
+98,Sholapur,Akluj,Coriander(Leaves),5,7,6,25-07-2024
+99,Sholapur,Akluj,Coriander(Leaves),5,7,6,26-04-2024
+100,Sholapur,Akluj,Coriander(Leaves),5,7,6,26-07-2024
+101,Sholapur,Akluj,Coriander(Leaves),5,7,6,27-04-2024
+102,Sholapur,Akluj,Coriander(Leaves),5,8,6,15-03-2024
+103,Sholapur,Akluj,Coriander(Leaves),5,8,7,01-04-2024
+104,Sholapur,Akluj,Coriander(Leaves),5,8,7,05-01-2024
+105,Sholapur,Akluj,Coriander(Leaves),5,8,7,07-03-2024
+106,Sholapur,Akluj,Coriander(Leaves),5,8,7,10-08-2024
+107,Sholapur,Akluj,Coriander(Leaves),5,8,7,12-12-2024
+108,Sholapur,Akluj,Coriander(Leaves),5,8,7,13-04-2024
+109,Sholapur,Akluj,Coriander(Leaves),5,8,7,16-12-2024
+110,Sholapur,Akluj,Coriander(Leaves),5,8,7,19-08-2024
+111,Sholapur,Akluj,Coriander(Leaves),5,8,7,20-12-2024
+112,Sholapur,Akluj,Coriander(Leaves),5,8,7,25-03-2024
+113,Sholapur,Akluj,Coriander(Leaves),5,8,7,29-04-2024
+114,Sholapur,Akluj,Coriander(Leaves),5,8,8,08-11-2024
+115,Sholapur,Akluj,Coriander(Leaves),5,10,7,08-08-2024
+116,Sholapur,Akluj,Coriander(Leaves),5,10,8,03-03-2024
+117,Sholapur,Akluj,Coriander(Leaves),5,10,8,04-08-2024
+118,Sholapur,Akluj,Coriander(Leaves),5,10,8,06-01-2024
+119,Sholapur,Akluj,Coriander(Leaves),5,10,8,09-08-2024
+120,Sholapur,Akluj,Coriander(Leaves),5,10,8,14-12-2024
+121,Sholapur,Akluj,Coriander(Leaves),5,10,8,18-03-2024
+122,Sholapur,Akluj,Coriander(Leaves),5,10,8,21-08-2024
+123,Sholapur,Akluj,Coriander(Leaves),5,10,8,21-02-2024
+124,Sholapur,Akluj,Coriander(Leaves),5,10,8,24-02-2024
+125,Sholapur,Akluj,Coriander(Leaves),5,10,8,27-03-2024
+126,Sholapur,Akluj,Coriander(Leaves),6,8,7,13-03-2024
+127,Sholapur,Akluj,Coriander(Leaves),6,8,7,16-03-2024
+128,Sholapur,Akluj,Coriander(Leaves),6,8,7,28-03-2024
+129,Sholapur,Akluj,Coriander(Leaves),6,15,13,25-08-2024
+130,Sholapur,Akluj,Coriander(Leaves),7,9,8,20-04-2024
+131,Sholapur,Akluj,Coriander(Leaves),7,10,8,05-04-2024
+132,Sholapur,Akluj,Coriander(Leaves),7,10,8,05-07-2024
+133,Sholapur,Akluj,Coriander(Leaves),7,10,8,06-11-2024
+134,Sholapur,Akluj,Coriander(Leaves),7,10,8,07-04-2024
+135,Sholapur,Akluj,Coriander(Leaves),7,10,8,07-07-2024
+136,Sholapur,Akluj,Coriander(Leaves),7,10,8,07-11-2024
+137,Sholapur,Akluj,Coriander(Leaves),7,10,8,10-07-2024
+138,Sholapur,Akluj,Coriander(Leaves),7,10,8,15-11-2024
+139,Sholapur,Akluj,Coriander(Leaves),7,10,8,16-11-2024
+140,Sholapur,Akluj,Coriander(Leaves),7,10,8,17-11-2024
+141,Sholapur,Akluj,Coriander(Leaves),7,10,8,19-04-2024
+142,Sholapur,Akluj,Coriander(Leaves),7,10,8,23-02-2024
+143,Sholapur,Akluj,Coriander(Leaves),7,10,8,24-04-2024
+144,Sholapur,Akluj,Coriander(Leaves),7,10,8,25-11-2024
+145,Sholapur,Akluj,Coriander(Leaves),7,10,9,06-04-2024
+146,Sholapur,Akluj,Coriander(Leaves),7,10,9,20-03-2024
+147,Sholapur,Akluj,Coriander(Leaves),7,10,9,22-02-2024
+148,Sholapur,Akluj,Coriander(Leaves),7,10,9,23-03-2024
+149,Sholapur,Akluj,Coriander(Leaves),7,10,9,30-10-2024
+150,Sholapur,Akluj,Coriander(Leaves),7,10,9,31-10-2024
+151,Sholapur,Akluj,Coriander(Leaves),7,12,10,02-12-2024
+152,Sholapur,Akluj,Coriander(Leaves),8,10,9,08-07-2024
+153,Sholapur,Akluj,Coriander(Leaves),8,10,9,19-10-2024
+154,Sholapur,Akluj,Coriander(Leaves),8,10,9,22-08-2024
+155,Sholapur,Akluj,Coriander(Leaves),8,10,9,22-11-2024
+156,Sholapur,Akluj,Coriander(Leaves),8,10,9,30-03-2024
+157,Sholapur,Akluj,Coriander(Leaves),8,10,9,30-09-2024
+158,Sholapur,Akluj,Coriander(Leaves),8,12,10,21-10-2024
+159,Sholapur,Akluj,Coriander(Leaves),8,12,10,27-10-2024
+160,Sholapur,Akluj,Coriander(Leaves),8,15,13,23-08-2024
+161,Sholapur,Akluj,Coriander(Leaves),10,12,11,23-10-2024
+162,Sholapur,Akluj,Coriander(Leaves),10,13,11,14-11-2024
+163,Sholapur,Akluj,Coriander(Leaves),10,13,12,24-11-2024
+164,Sholapur,Akluj,Coriander(Leaves),10,13,12,27-11-2024
+165,Sholapur,Akluj,Coriander(Leaves),10,15,12,21-11-2024
+166,Sholapur,Akluj,Coriander(Leaves),10,15,13,01-05-2024
+167,Sholapur,Akluj,Coriander(Leaves),10,15,13,02-05-2024
+168,Sholapur,Akluj,Coriander(Leaves),10,15,13,03-05-2024
+169,Sholapur,Akluj,Coriander(Leaves),10,15,13,04-07-2024
+170,Sholapur,Akluj,Coriander(Leaves),10,15,13,06-07-2024
+171,Sholapur,Akluj,Coriander(Leaves),10,15,13,11-07-2024
+172,Sholapur,Akluj,Coriander(Leaves),10,15,13,11-11-2024
+173,Sholapur,Akluj,Coriander(Leaves),10,15,13,12-07-2024
+174,Sholapur,Akluj,Coriander(Leaves),10,15,13,13-11-2024
+175,Sholapur,Akluj,Coriander(Leaves),10,15,13,24-08-2024
+176,Sholapur,Akluj,Coriander(Leaves),10,15,13,26-08-2024
+177,Sholapur,Akluj,Coriander(Leaves),10,15,13,28-08-2024
+178,Sholapur,Akluj,Coriander(Leaves),10,15,13,28-10-2024
+179,Sholapur,Akluj,Coriander(Leaves),10,15,13,29-08-2024
+180,Sholapur,Akluj,Coriander(Leaves),10,15,13,29-09-2024
+181,Sholapur,Akluj,Coriander(Leaves),10,15,13,30-08-2024
+182,Sholapur,Akluj,Coriander(Leaves),10,15,14,02-11-2024
+183,Sholapur,Akluj,Coriander(Leaves),10,15,14,03-11-2024
+184,Sholapur,Akluj,Coriander(Leaves),10,16,15,10-11-2024
+185,Sholapur,Akluj,Coriander(Leaves),10,18,15,31-08-2024
+186,Sholapur,Akluj,Coriander(Leaves),10,20,15,01-11-2024
+187,Sholapur,Akluj,Coriander(Leaves),10,20,15,03-07-2024
+188,Sholapur,Akluj,Coriander(Leaves),10,20,15,09-06-2024
+189,Sholapur,Akluj,Coriander(Leaves),10,20,15,27-09-2024
+190,Sholapur,Akluj,Coriander(Leaves),10,25,20,16-05-2024
+191,Sholapur,Akluj,Coriander(Leaves),10,25,20,30-06-2024
+192,Sholapur,Akluj,Coriander(Leaves),13,15,14,09-11-2024
+193,Sholapur,Akluj,Coriander(Leaves),15,20,18,11-05-2024
+194,Sholapur,Akluj,Coriander(Leaves),15,20,18,12-06-2024
+195,Sholapur,Akluj,Coriander(Leaves),15,20,18,12-05-2024
+196,Sholapur,Akluj,Coriander(Leaves),15,20,18,13-06-2024
+197,Sholapur,Akluj,Coriander(Leaves),15,20,18,13-05-2024
+198,Sholapur,Akluj,Coriander(Leaves),15,20,18,14-06-2024
+199,Sholapur,Akluj,Coriander(Leaves),15,20,18,15-05-2024
+200,Sholapur,Akluj,Coriander(Leaves),15,20,18,17-05-2024
+201,Sholapur,Akluj,Coriander(Leaves),15,20,18,26-09-2024
+202,Sholapur,Akluj,Coriander(Leaves),15,25,20,15-06-2024
+203,Sholapur,Akluj,Coriander(Leaves),15,25,20,18-05-2024
+204,Sholapur,Akluj,Coriander(Leaves),15,25,20,25-05-2024
+205,Sholapur,Akluj,Coriander(Leaves),15,25,20,26-05-2024
+206,Sholapur,Akluj,Coriander(Leaves),15,25,20,31-05-2024
+207,Sholapur,Akluj,Coriander(Leaves),15,30,25,13-09-2024
+208,Sholapur,Akluj,Coriander(Leaves),15,30,25,20-09-2024
+209,Sholapur,Akluj,Coriander(Leaves),15,35,30,02-06-2024
+210,Sholapur,Akluj,Coriander(Leaves),15,35,30,08-09-2024
+211,Sholapur,Akluj,Coriander(Leaves),18,25,20,10-06-2024
+212,Sholapur,Akluj,Coriander(Leaves),18,25,20,12-09-2024
+213,Sholapur,Akluj,Coriander(Leaves),18,25,20,23-05-2024
+214,Sholapur,Akluj,Coriander(Leaves),18,30,25,04-09-2024
+215,Sholapur,Akluj,Coriander(Leaves),18,30,25,18-09-2024
+216,Sholapur,Akluj,Coriander(Leaves),18,40,35,01-09-2024
+217,Sholapur,Akluj,Coriander(Leaves),20,25,20,19-09-2024
+218,Sholapur,Akluj,Coriander(Leaves),20,25,23,19-05-2024
+219,Sholapur,Akluj,Coriander(Leaves),20,25,23,25-09-2024
+220,Sholapur,Akluj,Coriander(Leaves),20,25,23,29-06-2024
+221,Sholapur,Akluj,Coriander(Leaves),20,30,25,01-06-2024
+222,Sholapur,Akluj,Coriander(Leaves),20,30,25,05-06-2024
+223,Sholapur,Akluj,Coriander(Leaves),20,30,25,06-06-2024
+224,Sholapur,Akluj,Coriander(Leaves),20,30,25,11-09-2024
+225,Sholapur,Akluj,Coriander(Leaves),20,30,25,14-09-2024
+226,Sholapur,Akluj,Coriander(Leaves),20,30,25,22-05-2024
+227,Sholapur,Akluj,Coriander(Leaves),20,30,25,24-05-2024
+228,Sholapur,Akluj,Coriander(Leaves),20,30,25,27-06-2024
+229,Sholapur,Akluj,Coriander(Leaves),20,30,25,27-05-2024
+230,Sholapur,Akluj,Coriander(Leaves),20,30,27,16-09-2024
+231,Sholapur,Akluj,Coriander(Leaves),20,35,30,02-09-2024
+232,Sholapur,Akluj,Coriander(Leaves),20,35,30,08-05-2024
+233,Sholapur,Akluj,Coriander(Leaves),20,35,30,09-05-2024
+234,Sholapur,Akluj,Coriander(Leaves),25,30,28,29-05-2024
+235,Sholapur,Akluj,Coriander(Leaves),25,45,40,22-06-2024
+236,Sholapur,Akluj,Coriander(Leaves),25,50,40,19-06-2024
+237,Sholapur,Akluj,Coriander(Leaves),30,35,32,07-06-2024
+238,Sholapur,Akluj,Coriander(Leaves),30,35,32,07-09-2024
+239,Sholapur,Akluj,Coriander(Leaves),30,40,35,17-06-2024
+240,Sholapur,Akluj,Coriander(Leaves),30,40,35,26-06-2024
+241,Sholapur,Akluj,Coriander(Leaves),30,40,35,30-05-2024
+242,Sholapur,Akluj,Coriander(Leaves),30,45,40,05-09-2024
+243,Sholapur,Akluj,Coriander(Leaves),30,45,40,15-09-2024
+244,Sholapur,Akluj,Coriander(Leaves),30,45,40,20-06-2024
+245,Sholapur,Akluj,Coriander(Leaves),30,50,40,16-06-2024
+246,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,01-02-2024
+247,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,01-01-2025
+248,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,02-02-2024
+249,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,07-02-2024
+250,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,08-08-2024
+251,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,10-08-2024
+252,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,11-01-2024
+253,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,26-12-2024
+254,Sholapur,Mangal Wedha,Coriander(Leaves),1,3,2,27-12-2024
+255,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,06-01-2024
+256,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,07-08-2024
+257,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,07-01-2024
+258,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,09-08-2024
+259,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,09-02-2024
+260,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,20-01-2024
+261,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,28-12-2024
+262,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,2,29-12-2024
+263,Sholapur,Mangal Wedha,Coriander(Leaves),1,4,3,10-02-2024
+264,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,11-08-2024
+265,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,14-01-2024
+266,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,19-08-2024
+267,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,19-01-2024
+268,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,22-12-2024
+269,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,23-12-2024
+270,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,2,25-09-2024
+271,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,01-08-2024
+272,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,02-08-2024
+273,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,03-08-2024
+274,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,04-08-2024
+275,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,04-01-2024
+276,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,05-12-2024
+277,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,12-08-2024
+278,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,12-12-2024
+279,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,14-02-2024
+280,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,15-01-2024
+281,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,16-08-2024
+282,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,24-11-2024
+283,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,27-01-2024
+284,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,28-07-2024
+285,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,29-01-2024
+286,Sholapur,Mangal Wedha,Coriander(Leaves),1,5,3,30-12-2024
+287,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,05-02-2024
+288,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,08-01-2024
+289,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,15-12-2024
+290,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,18-12-2024
+291,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,21-01-2024
+292,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,23-11-2024
+293,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,3,25-07-2024
+294,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,4,03-02-2024
+295,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,4,20-07-2024
+296,Sholapur,Mangal Wedha,Coriander(Leaves),1,6,5,06-03-2024
+297,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,2,20-12-2024
+298,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,3,05-08-2024
+299,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,4,12-02-2024
+300,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,4,16-12-2024
+301,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,4,17-03-2024
+302,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,4,18-08-2024
+303,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,4,21-12-2024
+304,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,4,24-02-2024
+305,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,5,13-12-2024
+306,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,6,18-02-2024
+307,Sholapur,Mangal Wedha,Coriander(Leaves),1,7,6,24-01-2024
+308,Sholapur,Mangal Wedha,Coriander(Leaves),1,8,3,29-07-2024
+309,Sholapur,Mangal Wedha,Coriander(Leaves),1,8,4,07-03-2024
+310,Sholapur,Mangal Wedha,Coriander(Leaves),1,9,5,02-03-2024
+311,Sholapur,Mangal Wedha,Coriander(Leaves),1,9,5,22-03-2024
+312,Sholapur,Mangal Wedha,Coriander(Leaves),1,9,6,22-08-2024
+313,Sholapur,Mangal Wedha,Coriander(Leaves),1,10,6,23-03-2024
+314,Sholapur,Mangal Wedha,Coriander(Leaves),1,10,7,09-03-2024
+315,Sholapur,Mangal Wedha,Coriander(Leaves),1,10,9,28-08-2024
+316,Sholapur,Mangal Wedha,Coriander(Leaves),1,12,7,26-04-2024
+317,Sholapur,Mangal Wedha,Coriander(Leaves),1,12,8,21-08-2024
+318,Sholapur,Mangal Wedha,Coriander(Leaves),2,4,3,18-01-2024
+319,Sholapur,Mangal Wedha,Coriander(Leaves),2,4,3,19-02-2024
+320,Sholapur,Mangal Wedha,Coriander(Leaves),2,5,3,05-01-2024
+321,Sholapur,Mangal Wedha,Coriander(Leaves),2,5,3,11-12-2024
+322,Sholapur,Mangal Wedha,Coriander(Leaves),2,5,3,17-01-2024
+323,Sholapur,Mangal Wedha,Coriander(Leaves),2,5,3,19-12-2024
+324,Sholapur,Mangal Wedha,Coriander(Leaves),2,5,3,31-07-2024
+325,Sholapur,Mangal Wedha,Coriander(Leaves),2,5,4,04-02-2024
+326,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,3,13-01-2024
+327,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,3,14-12-2024
+328,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,3,15-02-2024
+329,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,3,16-02-2024
+330,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,08-12-2024
+331,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,12-01-2024
+332,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,17-08-2024
+333,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,17-11-2024
+334,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,21-07-2024
+335,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,22-02-2024
+336,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,23-02-2024
+337,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,4,29-02-2024
+338,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,5,01-01-2024
+339,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,5,10-03-2024
+340,Sholapur,Mangal Wedha,Coriander(Leaves),2,6,5,17-02-2024
+341,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,4,06-12-2024
+342,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,4,24-07-2024
+343,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,01-04-2024
+344,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,01-03-2024
+345,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,03-03-2024
+346,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,06-10-2024
+347,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,09-12-2024
+348,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,14-11-2024
+349,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,15-03-2024
+350,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,27-07-2024
+351,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,27-03-2024
+352,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,5,28-03-2024
+353,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,6,16-03-2024
+354,Sholapur,Mangal Wedha,Coriander(Leaves),2,7,6,29-03-2024
+355,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,4,18-03-2024
+356,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,5,10-10-2024
+357,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,5,15-11-2024
+358,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,5,21-02-2024
+359,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,5,22-11-2024
+360,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,6,08-03-2024
+361,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,6,10-01-2024
+362,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,6,25-11-2024
+363,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,6,26-10-2024
+364,Sholapur,Mangal Wedha,Coriander(Leaves),2,8,6,30-03-2024
+365,Sholapur,Mangal Wedha,Coriander(Leaves),2,9,5,04-04-2024
+366,Sholapur,Mangal Wedha,Coriander(Leaves),2,9,5,14-03-2024
+367,Sholapur,Mangal Wedha,Coriander(Leaves),2,9,6,07-04-2024
+368,Sholapur,Mangal Wedha,Coriander(Leaves),2,9,6,31-03-2024
+369,Sholapur,Mangal Wedha,Coriander(Leaves),2,10,5,02-12-2024
+370,Sholapur,Mangal Wedha,Coriander(Leaves),2,10,5,25-01-2024
+371,Sholapur,Mangal Wedha,Coriander(Leaves),2,10,7,12-04-2024
+372,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,5,28-11-2024
+373,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,6,04-12-2024
+374,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,6,05-04-2024
+375,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,6,06-11-2024
+376,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,6,14-08-2024
+377,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,6,19-04-2024
+378,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,6,25-03-2024
+379,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,8,23-08-2024
+380,Sholapur,Mangal Wedha,Coriander(Leaves),2,12,10,15-04-2024
+381,Sholapur,Mangal Wedha,Coriander(Leaves),2,15,6,07-12-2024
+382,Sholapur,Mangal Wedha,Coriander(Leaves),2,15,7,25-08-2024
+383,Sholapur,Mangal Wedha,Coriander(Leaves),2,16,6,04-10-2024
+384,Sholapur,Mangal Wedha,Coriander(Leaves),2,17,9,25-04-2024
+385,Sholapur,Mangal Wedha,Coriander(Leaves),3,5,4,28-01-2024
+386,Sholapur,Mangal Wedha,Coriander(Leaves),3,7,4,16-11-2024
+387,Sholapur,Mangal Wedha,Coriander(Leaves),3,7,5,04-03-2024
+388,Sholapur,Mangal Wedha,Coriander(Leaves),3,7,5,11-07-2024
+389,Sholapur,Mangal Wedha,Coriander(Leaves),3,7,5,12-10-2024
+390,Sholapur,Mangal Wedha,Coriander(Leaves),3,7,5,26-01-2024
+391,Sholapur,Mangal Wedha,Coriander(Leaves),3,7,5,28-09-2024
+392,Sholapur,Mangal Wedha,Coriander(Leaves),3,8,5,11-03-2024
+393,Sholapur,Mangal Wedha,Coriander(Leaves),3,8,5,19-07-2024
+394,Sholapur,Mangal Wedha,Coriander(Leaves),3,8,5,27-09-2024
+395,Sholapur,Mangal Wedha,Coriander(Leaves),3,8,6,03-01-2024
+396,Sholapur,Mangal Wedha,Coriander(Leaves),3,8,6,26-07-2024
+397,Sholapur,Mangal Wedha,Coriander(Leaves),3,8,6,27-11-2024
+398,Sholapur,Mangal Wedha,Coriander(Leaves),3,9,7,20-03-2024
+399,Sholapur,Mangal Wedha,Coriander(Leaves),3,9,7,21-03-2024
+400,Sholapur,Mangal Wedha,Coriander(Leaves),3,10,6,18-07-2024
+401,Sholapur,Mangal Wedha,Coriander(Leaves),3,10,6,18-11-2024
+402,Sholapur,Mangal Wedha,Coriander(Leaves),3,10,6,22-01-2024
+403,Sholapur,Mangal Wedha,Coriander(Leaves),3,10,6,25-02-2024
+404,Sholapur,Mangal Wedha,Coriander(Leaves),3,10,7,13-07-2024
+405,Sholapur,Mangal Wedha,Coriander(Leaves),3,10,7,28-02-2024
+406,Sholapur,Mangal Wedha,Coriander(Leaves),3,11,6,20-09-2024
+407,Sholapur,Mangal Wedha,Coriander(Leaves),3,12,6,11-11-2024
+408,Sholapur,Mangal Wedha,Coriander(Leaves),3,12,7,08-04-2024
+409,Sholapur,Mangal Wedha,Coriander(Leaves),3,12,8,06-04-2024
+410,Sholapur,Mangal Wedha,Coriander(Leaves),3,12,8,07-11-2024
+411,Sholapur,Mangal Wedha,Coriander(Leaves),3,12,8,24-04-2024
+412,Sholapur,Mangal Wedha,Coriander(Leaves),3,13,7,13-11-2024
+413,Sholapur,Mangal Wedha,Coriander(Leaves),3,13,8,17-10-2024
+414,Sholapur,Mangal Wedha,Coriander(Leaves),3,13,10,05-07-2024
+415,Sholapur,Mangal Wedha,Coriander(Leaves),3,13,10,10-11-2024
+416,Sholapur,Mangal Wedha,Coriander(Leaves),3,13,11,13-10-2024
+417,Sholapur,Mangal Wedha,Coriander(Leaves),3,14,6,30-10-2024
+418,Sholapur,Mangal Wedha,Coriander(Leaves),3,14,10,16-10-2024
+419,Sholapur,Mangal Wedha,Coriander(Leaves),3,15,7,11-10-2024
+420,Sholapur,Mangal Wedha,Coriander(Leaves),3,15,8,21-10-2024
+421,Sholapur,Mangal Wedha,Coriander(Leaves),3,15,10,03-10-2024
+422,Sholapur,Mangal Wedha,Coriander(Leaves),3,15,10,04-07-2024
+423,Sholapur,Mangal Wedha,Coriander(Leaves),3,15,10,07-07-2024
+424,Sholapur,Mangal Wedha,Coriander(Leaves),3,18,6,19-10-2024
+425,Sholapur,Mangal Wedha,Coriander(Leaves),3,18,11,02-10-2024
+426,Sholapur,Mangal Wedha,Coriander(Leaves),3,18,15,01-05-2024
+427,Sholapur,Mangal Wedha,Coriander(Leaves),4,9,6,11-02-2024
+428,Sholapur,Mangal Wedha,Coriander(Leaves),4,11,6,25-10-2024
+429,Sholapur,Mangal Wedha,Coriander(Leaves),4,12,6,03-04-2024
+430,Sholapur,Mangal Wedha,Coriander(Leaves),4,12,8,14-10-2024
+431,Sholapur,Mangal Wedha,Coriander(Leaves),4,12,8,31-10-2024
+432,Sholapur,Mangal Wedha,Coriander(Leaves),4,13,6,05-10-2024
+433,Sholapur,Mangal Wedha,Coriander(Leaves),4,13,7,10-07-2024
+434,Sholapur,Mangal Wedha,Coriander(Leaves),4,13,8,21-11-2024
+435,Sholapur,Mangal Wedha,Coriander(Leaves),4,13,9,24-08-2024
+436,Sholapur,Mangal Wedha,Coriander(Leaves),4,15,13,13-04-2024
+437,Sholapur,Mangal Wedha,Coriander(Leaves),4,16,10,06-07-2024
+438,Sholapur,Mangal Wedha,Coriander(Leaves),4,16,12,22-04-2024
+439,Sholapur,Mangal Wedha,Coriander(Leaves),4,18,14,08-05-2024
+440,Sholapur,Mangal Wedha,Coriander(Leaves),4,20,10,29-08-2024
+441,Sholapur,Mangal Wedha,Coriander(Leaves),4,20,15,18-05-2024
+442,Sholapur,Mangal Wedha,Coriander(Leaves),4,25,10,10-05-2024
+443,Sholapur,Mangal Wedha,Coriander(Leaves),4,28,20,22-09-2024
+444,Sholapur,Mangal Wedha,Coriander(Leaves),5,7,6,14-07-2024
+445,Sholapur,Mangal Wedha,Coriander(Leaves),5,10,8,20-10-2024
+446,Sholapur,Mangal Wedha,Coriander(Leaves),5,11,8,29-09-2024
+447,Sholapur,Mangal Wedha,Coriander(Leaves),5,12,8,24-03-2024
+448,Sholapur,Mangal Wedha,Coriander(Leaves),5,13,7,17-07-2024
+449,Sholapur,Mangal Wedha,Coriander(Leaves),5,13,8,27-10-2024
+450,Sholapur,Mangal Wedha,Coriander(Leaves),5,15,10,08-07-2024
+451,Sholapur,Mangal Wedha,Coriander(Leaves),5,15,13,30-09-2024
+452,Sholapur,Mangal Wedha,Coriander(Leaves),5,17,10,08-11-2024
+453,Sholapur,Mangal Wedha,Coriander(Leaves),5,17,12,24-10-2024
+454,Sholapur,Mangal Wedha,Coriander(Leaves),5,17,13,09-10-2024
+455,Sholapur,Mangal Wedha,Coriander(Leaves),5,18,8,22-07-2024
+456,Sholapur,Mangal Wedha,Coriander(Leaves),5,20,15,06-05-2024
+457,Sholapur,Mangal Wedha,Coriander(Leaves),5,20,15,28-04-2024
+458,Sholapur,Mangal Wedha,Coriander(Leaves),5,20,16,17-05-2024
+459,Sholapur,Mangal Wedha,Coriander(Leaves),5,21,13,11-05-2024
+460,Sholapur,Mangal Wedha,Coriander(Leaves),5,22,15,02-09-2024
+461,Sholapur,Mangal Wedha,Coriander(Leaves),5,23,9,26-08-2024
+462,Sholapur,Mangal Wedha,Coriander(Leaves),5,23,11,18-10-2024
+463,Sholapur,Mangal Wedha,Coriander(Leaves),5,23,20,27-06-2024
+464,Sholapur,Mangal Wedha,Coriander(Leaves),5,23,20,29-05-2024
+465,Sholapur,Mangal Wedha,Coriander(Leaves),5,25,13,28-10-2024
+466,Sholapur,Mangal Wedha,Coriander(Leaves),5,25,17,16-05-2024
+467,Sholapur,Mangal Wedha,Coriander(Leaves),5,25,23,23-05-2024
+468,Sholapur,Mangal Wedha,Coriander(Leaves),5,30,15,13-05-2024
+469,Sholapur,Mangal Wedha,Coriander(Leaves),5,35,20,02-06-2024
+470,Sholapur,Mangal Wedha,Coriander(Leaves),6,10,6,26-09-2024
+471,Sholapur,Mangal Wedha,Coriander(Leaves),6,12,10,14-04-2024
+472,Sholapur,Mangal Wedha,Coriander(Leaves),6,15,10,02-11-2024
+473,Sholapur,Mangal Wedha,Coriander(Leaves),6,16,10,09-11-2024
+474,Sholapur,Mangal Wedha,Coriander(Leaves),6,18,10,02-05-2024
+475,Sholapur,Mangal Wedha,Coriander(Leaves),6,20,15,03-07-2024
+476,Sholapur,Mangal Wedha,Coriander(Leaves),6,20,15,27-04-2024
+477,Sholapur,Mangal Wedha,Coriander(Leaves),6,21,12,29-04-2024
+478,Sholapur,Mangal Wedha,Coriander(Leaves),6,23,18,23-10-2024
+479,Sholapur,Mangal Wedha,Coriander(Leaves),6,23,20,26-06-2024
+480,Sholapur,Mangal Wedha,Coriander(Leaves),6,25,20,25-05-2024
+481,Sholapur,Mangal Wedha,Coriander(Leaves),6,25,20,30-06-2024
+482,Sholapur,Mangal Wedha,Coriander(Leaves),6,25,22,11-09-2024
+483,Sholapur,Mangal Wedha,Coriander(Leaves),6,25,23,14-09-2024
+484,Sholapur,Mangal Wedha,Coriander(Leaves),6,29,20,14-06-2024
+485,Sholapur,Mangal Wedha,Coriander(Leaves),7,13,11,21-04-2024
+486,Sholapur,Mangal Wedha,Coriander(Leaves),7,15,10,01-11-2024
+487,Sholapur,Mangal Wedha,Coriander(Leaves),7,18,15,28-06-2024
+488,Sholapur,Mangal Wedha,Coriander(Leaves),7,20,15,23-09-2024
+489,Sholapur,Mangal Wedha,Coriander(Leaves),7,25,20,07-06-2024
+490,Sholapur,Mangal Wedha,Coriander(Leaves),7,26,15,03-11-2024
+491,Sholapur,Mangal Wedha,Coriander(Leaves),7,26,20,06-09-2024
+492,Sholapur,Mangal Wedha,Coriander(Leaves),7,27,22,13-09-2024
+493,Sholapur,Mangal Wedha,Coriander(Leaves),7,30,20,15-06-2024
+494,Sholapur,Mangal Wedha,Coriander(Leaves),7,45,25,27-05-2024
+495,Sholapur,Mangal Wedha,Coriander(Leaves),8,18,15,03-05-2024
+496,Sholapur,Mangal Wedha,Coriander(Leaves),8,20,18,12-05-2024
+497,Sholapur,Mangal Wedha,Coriander(Leaves),8,23,16,05-05-2024
+498,Sholapur,Mangal Wedha,Coriander(Leaves),8,23,18,22-05-2024
+499,Sholapur,Mangal Wedha,Coriander(Leaves),8,30,18,15-05-2024
+500,Sholapur,Mangal Wedha,Coriander(Leaves),8,30,22,20-05-2024
+501,Sholapur,Mangal Wedha,Coriander(Leaves),8,32,20,21-09-2024
+502,Sholapur,Mangal Wedha,Coriander(Leaves),8,32,26,21-06-2024
+503,Sholapur,Mangal Wedha,Coriander(Leaves),8,44,26,04-09-2024
+504,Sholapur,Mangal Wedha,Coriander(Leaves),9,20,16,09-05-2024
+505,Sholapur,Mangal Wedha,Coriander(Leaves),9,22,15,30-05-2024
+506,Sholapur,Mangal Wedha,Coriander(Leaves),9,22,20,19-05-2024
+507,Sholapur,Mangal Wedha,Coriander(Leaves),9,30,20,06-06-2024
+508,Sholapur,Mangal Wedha,Coriander(Leaves),9,30,25,10-06-2024
+509,Sholapur,Mangal Wedha,Coriander(Leaves),9,45,30,01-06-2024
+510,Sholapur,Mangal Wedha,Coriander(Leaves),10,13,12,04-05-2024
+511,Sholapur,Mangal Wedha,Coriander(Leaves),10,20,16,30-08-2024
+512,Sholapur,Mangal Wedha,Coriander(Leaves),10,25,20,01-07-2024
+513,Sholapur,Mangal Wedha,Coriander(Leaves),10,27,18,07-09-2024
+514,Sholapur,Mangal Wedha,Coriander(Leaves),10,27,20,29-06-2024
+515,Sholapur,Mangal Wedha,Coriander(Leaves),10,30,25,22-06-2024
+516,Sholapur,Mangal Wedha,Coriander(Leaves),10,30,26,19-09-2024
+517,Sholapur,Mangal Wedha,Coriander(Leaves),10,31,22,08-09-2024
+518,Sholapur,Mangal Wedha,Coriander(Leaves),10,32,25,08-06-2024
+519,Sholapur,Mangal Wedha,Coriander(Leaves),11,27,25,13-06-2024
+520,Sholapur,Mangal Wedha,Coriander(Leaves),11,30,25,09-09-2024
+521,Sholapur,Mangal Wedha,Coriander(Leaves),11,33,30,05-06-2024
+522,Sholapur,Mangal Wedha,Coriander(Leaves),12,25,22,24-05-2024
+523,Sholapur,Mangal Wedha,Coriander(Leaves),13,30,20,01-09-2024
+524,Sholapur,Mangal Wedha,Coriander(Leaves),13,38,27,24-06-2024
+525,Sholapur,Mangal Wedha,Coriander(Leaves),14,40,25,05-09-2024
+526,Sholapur,Mangal Wedha,Coriander(Leaves),15,30,20,31-08-2024
+527,Sholapur,Mangal Wedha,Coriander(Leaves),17,45,36,31-05-2024
+528,Sholapur,Mangal Wedha,Coriander(Leaves),18,30,25,23-06-2024
+529,Sholapur,Mangal Wedha,Coriander(Leaves),18,32,23,12-09-2024
+530,Sholapur,Mangal Wedha,Coriander(Leaves),18,37,25,03-06-2024
+531,Sholapur,Mangal Wedha,Coriander(Leaves),18,40,35,16-09-2024
+532,Sholapur,Mangal Wedha,Coriander(Leaves),20,40,30,12-06-2024
+533,Sholapur,Mangal Wedha,Coriander(Leaves),23,54,40,16-06-2024
+534,Sholapur,Mangal Wedha,Coriander(Leaves),25,45,30,09-06-2024
+535,Sholapur,Mangal Wedha,Coriander(Leaves),25,45,35,19-06-2024
+536,Sholapur,Mangal Wedha,Coriander(Leaves),27,50,40,17-06-2024
+537,Sholapur,Mangal Wedha,Coriander(Leaves),28,50,40,20-06-2024
+538,Sholapur,Mangal Wedha,Coriander(Leaves),30,42,35,15-09-2024
+539,Sholapur,Mangal Wedha,Coriander(Leaves),30,58,32,18-09-2024
+540,Sholapur,Mangal Wedha,Coriander(Leaves),40,50,40,26-05-2024
+541,Sholapur,Solapur,Coriander(Leaves),100,500,300,10-02-2024
+542,Sholapur,Solapur,Coriander(Leaves),100,500,300,13-08-2024
+543,Sholapur,Solapur,Coriander(Leaves),100,500,300,24-12-2024
+544,Sholapur,Solapur,Coriander(Leaves),100,500,300,27-07-2024
+545,Sholapur,Solapur,Coriander(Leaves),100,600,400,20-12-2024
+546,Sholapur,Solapur,Coriander(Leaves),150,600,400,01-08-2024
+547,Sholapur,Solapur,Coriander(Leaves),150,600,400,20-07-2024
+548,Sholapur,Solapur,Coriander(Leaves),200,400,300,07-02-2024
+549,Sholapur,Solapur,Coriander(Leaves),200,500,300,08-04-2024
+550,Sholapur,Solapur,Coriander(Leaves),200,500,300,09-08-2024
+551,Sholapur,Solapur,Coriander(Leaves),200,500,300,10-12-2024
+552,Sholapur,Solapur,Coriander(Leaves),200,500,300,13-02-2024
+553,Sholapur,Solapur,Coriander(Leaves),200,500,300,14-02-2024
+554,Sholapur,Solapur,Coriander(Leaves),200,500,300,18-07-2024
+555,Sholapur,Solapur,Coriander(Leaves),200,500,300,28-12-2024
+556,Sholapur,Solapur,Coriander(Leaves),200,500,300,29-01-2024
+557,Sholapur,Solapur,Coriander(Leaves),200,500,300,29-03-2024
+558,Sholapur,Solapur,Coriander(Leaves),200,600,300,29-02-2024
+559,Sholapur,Solapur,Coriander(Leaves),200,600,400,02-02-2024
+560,Sholapur,Solapur,Coriander(Leaves),200,600,400,02-03-2024
+561,Sholapur,Solapur,Coriander(Leaves),200,600,400,06-03-2024
+562,Sholapur,Solapur,Coriander(Leaves),200,600,400,07-08-2024
+563,Sholapur,Solapur,Coriander(Leaves),200,600,400,07-03-2024
+564,Sholapur,Solapur,Coriander(Leaves),200,600,400,08-08-2024
+565,Sholapur,Solapur,Coriander(Leaves),200,600,400,09-02-2024
+566,Sholapur,Solapur,Coriander(Leaves),200,600,400,12-02-2024
+567,Sholapur,Solapur,Coriander(Leaves),200,600,400,13-03-2024
+568,Sholapur,Solapur,Coriander(Leaves),200,600,400,16-12-2024
+569,Sholapur,Solapur,Coriander(Leaves),200,600,400,19-07-2024
+570,Sholapur,Solapur,Coriander(Leaves),200,600,400,20-01-2024
+571,Sholapur,Solapur,Coriander(Leaves),200,600,400,25-01-2024
+572,Sholapur,Solapur,Coriander(Leaves),200,600,400,27-02-2024
+573,Sholapur,Solapur,Coriander(Leaves),200,600,400,27-03-2024
+574,Sholapur,Solapur,Coriander(Leaves),200,700,400,14-03-2024
+575,Sholapur,Solapur,Coriander(Leaves),200,700,400,20-02-2024
+576,Sholapur,Solapur,Coriander(Leaves),200,700,500,01-04-2024
+577,Sholapur,Solapur,Coriander(Leaves),200,700,500,01-01-2024
+578,Sholapur,Solapur,Coriander(Leaves),200,700,600,02-04-2024
+579,Sholapur,Solapur,Coriander(Leaves),200,800,400,06-04-2024
+580,Sholapur,Solapur,Coriander(Leaves),200,1000,500,14-10-2024
+581,Sholapur,Solapur,Coriander(Leaves),200,1000,600,16-07-2024
+582,Sholapur,Solapur,Coriander(Leaves),200,1000,700,07-11-2024
+583,Sholapur,Solapur,Coriander(Leaves),200,1300,500,07-10-2024
+584,Sholapur,Solapur,Coriander(Leaves),200,2000,1300,25-10-2024
+585,Sholapur,Solapur,Coriander(Leaves),250,500,300,26-02-2024
+586,Sholapur,Solapur,Coriander(Leaves),250,500,300,31-07-2024
+587,Sholapur,Solapur,Coriander(Leaves),250,600,400,01-02-2024
+588,Sholapur,Solapur,Coriander(Leaves),250,600,400,26-03-2024
+589,Sholapur,Solapur,Coriander(Leaves),300,500,400,01-03-2024
+590,Sholapur,Solapur,Coriander(Leaves),300,500,400,03-02-2024
+591,Sholapur,Solapur,Coriander(Leaves),300,500,400,05-08-2024
+592,Sholapur,Solapur,Coriander(Leaves),300,500,400,11-12-2024
+593,Sholapur,Solapur,Coriander(Leaves),300,500,400,12-12-2024
+594,Sholapur,Solapur,Coriander(Leaves),300,500,400,17-12-2024
+595,Sholapur,Solapur,Coriander(Leaves),300,500,400,18-12-2024
+596,Sholapur,Solapur,Coriander(Leaves),300,500,400,19-12-2024
+597,Sholapur,Solapur,Coriander(Leaves),300,500,400,25-12-2024
+598,Sholapur,Solapur,Coriander(Leaves),300,500,400,26-12-2024
+599,Sholapur,Solapur,Coriander(Leaves),300,500,400,28-03-2024
+600,Sholapur,Solapur,Coriander(Leaves),300,600,400,05-02-2024
+601,Sholapur,Solapur,Coriander(Leaves),300,600,400,08-02-2024
+602,Sholapur,Solapur,Coriander(Leaves),300,600,400,09-12-2024
+603,Sholapur,Solapur,Coriander(Leaves),300,600,400,10-08-2024
+604,Sholapur,Solapur,Coriander(Leaves),300,600,400,12-08-2024
+605,Sholapur,Solapur,Coriander(Leaves),300,600,400,21-02-2024
+606,Sholapur,Solapur,Coriander(Leaves),300,600,400,22-03-2024
+607,Sholapur,Solapur,Coriander(Leaves),300,600,400,26-07-2024
+608,Sholapur,Solapur,Coriander(Leaves),300,600,500,04-04-2024
+609,Sholapur,Solapur,Coriander(Leaves),300,600,500,07-12-2024
+610,Sholapur,Solapur,Coriander(Leaves),300,600,500,09-10-2024
+611,Sholapur,Solapur,Coriander(Leaves),300,600,500,17-02-2024
+612,Sholapur,Solapur,Coriander(Leaves),300,600,500,20-03-2024
+613,Sholapur,Solapur,Coriander(Leaves),300,600,500,21-12-2024
+614,Sholapur,Solapur,Coriander(Leaves),300,600,500,27-01-2024
+615,Sholapur,Solapur,Coriander(Leaves),300,700,400,23-02-2024
+616,Sholapur,Solapur,Coriander(Leaves),300,700,500,01-01-2025
+617,Sholapur,Solapur,Coriander(Leaves),300,700,500,04-03-2024
+618,Sholapur,Solapur,Coriander(Leaves),300,700,500,06-01-2024
+619,Sholapur,Solapur,Coriander(Leaves),300,700,500,08-01-2024
+620,Sholapur,Solapur,Coriander(Leaves),300,700,500,11-07-2024
+621,Sholapur,Solapur,Coriander(Leaves),300,700,500,15-02-2024
+622,Sholapur,Solapur,Coriander(Leaves),300,700,500,16-02-2024
+623,Sholapur,Solapur,Coriander(Leaves),300,700,500,22-02-2024
+624,Sholapur,Solapur,Coriander(Leaves),300,700,500,28-02-2024
+625,Sholapur,Solapur,Coriander(Leaves),300,700,500,31-12-2024
+626,Sholapur,Solapur,Coriander(Leaves),300,700,600,02-01-2024
+627,Sholapur,Solapur,Coriander(Leaves),300,800,500,05-04-2024
+628,Sholapur,Solapur,Coriander(Leaves),300,800,500,13-01-2024
+629,Sholapur,Solapur,Coriander(Leaves),300,800,500,14-12-2024
+630,Sholapur,Solapur,Coriander(Leaves),300,800,500,23-03-2024
+631,Sholapur,Solapur,Coriander(Leaves),300,800,500,25-09-2024
+632,Sholapur,Solapur,Coriander(Leaves),300,800,600,05-12-2024
+633,Sholapur,Solapur,Coriander(Leaves),300,900,500,15-04-2024
+634,Sholapur,Solapur,Coriander(Leaves),300,1000,500,19-04-2024
+635,Sholapur,Solapur,Coriander(Leaves),300,1000,600,04-01-2024
+636,Sholapur,Solapur,Coriander(Leaves),300,1200,500,05-10-2024
+637,Sholapur,Solapur,Coriander(Leaves),300,1200,900,11-10-2024
+638,Sholapur,Solapur,Coriander(Leaves),300,2000,1200,21-09-2024
+639,Sholapur,Solapur,Coriander(Leaves),400,500,400,23-12-2024
+640,Sholapur,Solapur,Coriander(Leaves),400,600,500,03-04-2024
+641,Sholapur,Solapur,Coriander(Leaves),400,600,500,05-01-2024
+642,Sholapur,Solapur,Coriander(Leaves),400,600,500,06-12-2024
+643,Sholapur,Solapur,Coriander(Leaves),400,600,500,06-02-2024
+644,Sholapur,Solapur,Coriander(Leaves),400,600,500,24-01-2024
+645,Sholapur,Solapur,Coriander(Leaves),400,600,500,31-01-2024
+646,Sholapur,Solapur,Coriander(Leaves),400,700,500,17-01-2024
+647,Sholapur,Solapur,Coriander(Leaves),400,700,500,19-11-2024
+648,Sholapur,Solapur,Coriander(Leaves),400,700,500,23-01-2024
+649,Sholapur,Solapur,Coriander(Leaves),400,700,600,13-04-2024
+650,Sholapur,Solapur,Coriander(Leaves),400,700,600,30-01-2024
+651,Sholapur,Solapur,Coriander(Leaves),400,800,500,14-08-2024
+652,Sholapur,Solapur,Coriander(Leaves),400,800,500,15-10-2024
+653,Sholapur,Solapur,Coriander(Leaves),400,800,500,18-01-2024
+654,Sholapur,Solapur,Coriander(Leaves),400,800,600,09-01-2024
+655,Sholapur,Solapur,Coriander(Leaves),400,800,600,12-01-2024
+656,Sholapur,Solapur,Coriander(Leaves),400,800,600,24-04-2024
+657,Sholapur,Solapur,Coriander(Leaves),400,900,700,03-01-2024
+658,Sholapur,Solapur,Coriander(Leaves),400,1000,500,03-10-2024
+659,Sholapur,Solapur,Coriander(Leaves),400,1000,500,27-09-2024
+660,Sholapur,Solapur,Coriander(Leaves),400,1000,600,02-12-2024
+661,Sholapur,Solapur,Coriander(Leaves),400,1000,600,16-08-2024
+662,Sholapur,Solapur,Coriander(Leaves),400,1000,600,30-09-2024
+663,Sholapur,Solapur,Coriander(Leaves),400,1200,600,16-10-2024
+664,Sholapur,Solapur,Coriander(Leaves),400,1200,700,04-10-2024
+665,Sholapur,Solapur,Coriander(Leaves),400,1200,700,26-09-2024
+666,Sholapur,Solapur,Coriander(Leaves),400,1300,800,24-08-2024
+667,Sholapur,Solapur,Coriander(Leaves),400,2000,1000,24-10-2024
+668,Sholapur,Solapur,Coriander(Leaves),500,700,600,10-01-2024
+669,Sholapur,Solapur,Coriander(Leaves),500,700,600,16-01-2024
+670,Sholapur,Solapur,Coriander(Leaves),500,700,600,26-11-2024
+671,Sholapur,Solapur,Coriander(Leaves),500,800,600,03-12-2024
+672,Sholapur,Solapur,Coriander(Leaves),500,900,600,14-11-2024
+673,Sholapur,Solapur,Coriander(Leaves),500,1000,600,08-07-2024
+674,Sholapur,Solapur,Coriander(Leaves),500,1000,700,17-08-2024
+675,Sholapur,Solapur,Coriander(Leaves),500,1000,700,25-04-2024
+676,Sholapur,Solapur,Coriander(Leaves),500,1000,800,12-11-2024
+677,Sholapur,Solapur,Coriander(Leaves),500,1000,800,16-11-2024
+678,Sholapur,Solapur,Coriander(Leaves),500,1000,800,21-11-2024
+679,Sholapur,Solapur,Coriander(Leaves),500,1000,800,23-11-2024
+680,Sholapur,Solapur,Coriander(Leaves),500,1100,700,27-11-2024
+681,Sholapur,Solapur,Coriander(Leaves),500,1100,800,15-11-2024
+682,Sholapur,Solapur,Coriander(Leaves),500,1100,800,17-10-2024
+683,Sholapur,Solapur,Coriander(Leaves),500,1200,800,08-11-2024
+684,Sholapur,Solapur,Coriander(Leaves),500,1200,800,19-10-2024
+685,Sholapur,Solapur,Coriander(Leaves),500,1200,800,21-08-2024
+686,Sholapur,Solapur,Coriander(Leaves),500,1200,800,21-10-2024
+687,Sholapur,Solapur,Coriander(Leaves),500,1200,800,28-11-2024
+688,Sholapur,Solapur,Coriander(Leaves),500,1200,1000,22-08-2024
+689,Sholapur,Solapur,Coriander(Leaves),500,1300,800,20-08-2024
+690,Sholapur,Solapur,Coriander(Leaves),500,1300,900,19-08-2024
+691,Sholapur,Solapur,Coriander(Leaves),500,1300,1000,23-08-2024
+692,Sholapur,Solapur,Coriander(Leaves),500,1400,1000,10-05-2024
+693,Sholapur,Solapur,Coriander(Leaves),500,1500,1000,06-05-2024
+694,Sholapur,Solapur,Coriander(Leaves),500,1500,1000,09-11-2024
+695,Sholapur,Solapur,Coriander(Leaves),500,1500,1000,11-11-2024
+696,Sholapur,Solapur,Coriander(Leaves),500,1500,1000,29-06-2024
+697,Sholapur,Solapur,Coriander(Leaves),500,2000,1200,26-10-2024
+698,Sholapur,Solapur,Coriander(Leaves),500,2000,1400,10-06-2024
+699,Sholapur,Solapur,Coriander(Leaves),500,2200,1300,23-10-2024
+700,Sholapur,Solapur,Coriander(Leaves),600,800,700,04-12-2024
+701,Sholapur,Solapur,Coriander(Leaves),600,1400,1000,18-05-2024
+702,Sholapur,Solapur,Coriander(Leaves),600,1400,1000,29-04-2024
+703,Sholapur,Solapur,Coriander(Leaves),600,2000,1400,11-06-2024
+704,Sholapur,Solapur,Coriander(Leaves),700,1100,900,09-05-2024
+705,Sholapur,Solapur,Coriander(Leaves),700,1200,900,18-10-2024
+706,Sholapur,Solapur,Coriander(Leaves),700,1400,1200,03-05-2024
+707,Sholapur,Solapur,Coriander(Leaves),700,1500,1000,04-05-2024
+708,Sholapur,Solapur,Coriander(Leaves),700,2500,2000,28-08-2024
+709,Sholapur,Solapur,Coriander(Leaves),700,4000,3000,11-09-2024
+710,Sholapur,Solapur,Coriander(Leaves),800,1300,1000,06-11-2024
+711,Sholapur,Solapur,Coriander(Leaves),800,1500,1000,13-05-2024
+712,Sholapur,Solapur,Coriander(Leaves),800,1500,1000,30-04-2024
+713,Sholapur,Solapur,Coriander(Leaves),800,1600,1200,05-11-2024
+714,Sholapur,Solapur,Coriander(Leaves),800,1600,1200,28-10-2024
+715,Sholapur,Solapur,Coriander(Leaves),800,1700,1200,25-05-2024
+716,Sholapur,Solapur,Coriander(Leaves),800,1800,1400,22-10-2024
+717,Sholapur,Solapur,Coriander(Leaves),800,2000,1400,25-06-2024
+718,Sholapur,Solapur,Coriander(Leaves),800,2000,1500,07-06-2024
+719,Sholapur,Solapur,Coriander(Leaves),800,2500,1500,04-11-2024
+720,Sholapur,Solapur,Coriander(Leaves),800,2500,1600,01-06-2024
+721,Sholapur,Solapur,Coriander(Leaves),800,3500,2000,13-09-2024
+722,Sholapur,Solapur,Coriander(Leaves),800,5000,3000,09-09-2024
+723,Sholapur,Solapur,Coriander(Leaves),900,1500,1000,23-09-2024
+724,Sholapur,Solapur,Coriander(Leaves),900,2000,1300,29-05-2024
+725,Sholapur,Solapur,Coriander(Leaves),900,2200,1300,03-06-2024
+726,Sholapur,Solapur,Coriander(Leaves),900,4000,2500,06-09-2024
+727,Sholapur,Solapur,Coriander(Leaves),1000,1500,1300,01-07-2024
+728,Sholapur,Solapur,Coriander(Leaves),1000,1600,1400,14-05-2024
+729,Sholapur,Solapur,Coriander(Leaves),1000,1900,1400,24-05-2024
+730,Sholapur,Solapur,Coriander(Leaves),1000,2000,1400,29-10-2024
+731,Sholapur,Solapur,Coriander(Leaves),1000,2000,1500,06-06-2024
+732,Sholapur,Solapur,Coriander(Leaves),1000,2000,1500,20-09-2024
+733,Sholapur,Solapur,Coriander(Leaves),1000,2200,1500,30-05-2024
+734,Sholapur,Solapur,Coriander(Leaves),1000,2200,1500,30-10-2024
+735,Sholapur,Solapur,Coriander(Leaves),1000,2300,1500,31-05-2024
+736,Sholapur,Solapur,Coriander(Leaves),1000,2500,1500,27-08-2024
+737,Sholapur,Solapur,Coriander(Leaves),1000,2500,2000,26-08-2024
+738,Sholapur,Solapur,Coriander(Leaves),1000,2700,2000,29-08-2024
+739,Sholapur,Solapur,Coriander(Leaves),1000,3000,2000,30-08-2024
+740,Sholapur,Solapur,Coriander(Leaves),1000,3000,2000,31-08-2024
+741,Sholapur,Solapur,Coriander(Leaves),1000,3500,1500,19-09-2024
+742,Sholapur,Solapur,Coriander(Leaves),1000,3500,2500,05-09-2024
+743,Sholapur,Solapur,Coriander(Leaves),1200,2500,1500,21-06-2024
+744,Sholapur,Solapur,Coriander(Leaves),1200,3500,2800,14-09-2024
+745,Sholapur,Solapur,Coriander(Leaves),1400,1800,1500,08-06-2024
+746,Sholapur,Solapur,Coriander(Leaves),1400,2500,2000,22-06-2024
+747,Sholapur,Solapur,Coriander(Leaves),1500,2400,2000,24-06-2024
+748,Sholapur,Solapur,Coriander(Leaves),1500,4000,3000,04-09-2024
+749,Sholapur,Solapur,Coriander(Leaves),1600,4000,3000,12-09-2024
+750,Sholapur,Solapur,Coriander(Leaves),2000,4000,3200,10-09-2024
+751,Sholapur,Solapur,Coriander(Leaves),2000,4500,3000,02-09-2024
+752,Sholapur,Solapur,Coriander(Leaves),2000,5000,4000,03-09-2024
+753,Sholapur,Solapur,Coriander(Leaves),2000,6000,4000,19-01-2024
+754,Sholapur,Solapur,Coriander(Leaves),2000,7000,4000,24-02-2024
+755,Sholapur,Solapur,Coriander(Leaves),4000,7000,6000,22-11-2024

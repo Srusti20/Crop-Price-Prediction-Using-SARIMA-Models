@@ -1,0 +1,1166 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Ambala,Ambala Cantt.,Tomato,400,680,500,07-06-2024
+2,Ambala,Ambala Cantt.,Tomato,400,700,500,29-05-2024
+3,Ambala,Ambala Cantt.,Tomato,400,700,600,08-06-2024
+4,Ambala,Ambala Cantt.,Tomato,400,700,600,31-05-2024
+5,Ambala,Ambala Cantt.,Tomato,500,800,600,14-06-2024
+6,Ambala,Ambala Cantt.,Tomato,600,1000,800,02-01-2024
+7,Ambala,Ambala Cantt.,Tomato,600,1000,800,03-01-2024
+8,Ambala,Ambala Cantt.,Tomato,700,800,750,23-05-2024
+9,Ambala,Ambala Cantt.,Tomato,700,1200,800,08-05-2024
+10,Ambala,Ambala Cantt.,Tomato,700,1200,800,10-05-2024
+11,Ambala,Ambala Cantt.,Tomato,700,1200,800,15-05-2024
+12,Ambala,Ambala Cantt.,Tomato,700,1200,800,17-05-2024
+13,Ambala,Ambala Cantt.,Tomato,700,1200,800,26-05-2024
+14,Ambala,Ambala Cantt.,Tomato,700,1200,800,28-05-2024
+15,Ambala,Ambala Cantt.,Tomato,700,1200,1000,25-05-2024
+16,Ambala,Ambala Cantt.,Tomato,700,1200,1100,24-05-2024
+17,Ambala,Ambala Cantt.,Tomato,700,1300,1000,15-02-2024
+18,Ambala,Ambala Cantt.,Tomato,700,1300,1200,16-02-2024
+19,Ambala,Ambala Cantt.,Tomato,800,1000,900,04-01-2024
+20,Ambala,Ambala Cantt.,Tomato,800,1000,900,05-01-2024
+21,Ambala,Ambala Cantt.,Tomato,800,1000,900,06-01-2024
+22,Ambala,Ambala Cantt.,Tomato,800,1000,900,07-01-2024
+23,Ambala,Ambala Cantt.,Tomato,800,1000,900,09-01-2024
+24,Ambala,Ambala Cantt.,Tomato,800,1000,900,11-01-2024
+25,Ambala,Ambala Cantt.,Tomato,800,1000,900,12-01-2024
+26,Ambala,Ambala Cantt.,Tomato,800,1000,900,18-01-2024
+27,Ambala,Ambala Cantt.,Tomato,800,1000,1000,16-01-2024
+28,Ambala,Ambala Cantt.,Tomato,800,1200,1000,10-02-2024
+29,Ambala,Ambala Cantt.,Tomato,800,1200,1000,13-02-2024
+30,Ambala,Ambala Cantt.,Tomato,800,1400,1000,14-01-2024
+31,Ambala,Ambala Cantt.,Tomato,800,1400,1200,18-02-2024
+32,Ambala,Ambala Cantt.,Tomato,800,1400,1200,20-02-2024
+33,Ambala,Ambala Cantt.,Tomato,800,1400,1200,21-02-2024
+34,Ambala,Ambala Cantt.,Tomato,800,1400,1200,24-02-2024
+35,Ambala,Ambala Cantt.,Tomato,800,1500,900,17-04-2024
+36,Ambala,Ambala Cantt.,Tomato,800,1500,1200,01-03-2024
+37,Ambala,Ambala Cantt.,Tomato,800,1500,1200,18-04-2024
+38,Ambala,Ambala Cantt.,Tomato,800,1500,1200,22-02-2024
+39,Ambala,Ambala Cantt.,Tomato,800,1500,1200,23-02-2024
+40,Ambala,Ambala Cantt.,Tomato,800,1500,1200,25-02-2024
+41,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,04-04-2024
+42,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,06-04-2024
+43,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,07-04-2024
+44,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,09-04-2024
+45,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,11-04-2024
+46,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,12-04-2024
+47,Ambala,Ambala Cantt.,Tomato,1000,1300,1200,16-05-2024
+48,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,01-02-2024
+49,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,02-02-2024
+50,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,02-06-2024
+51,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,02-03-2024
+52,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,03-02-2024
+53,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,06-02-2024
+54,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,17-01-2024
+55,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,23-01-2024
+56,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,24-01-2024
+57,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,24-06-2024
+58,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,26-01-2024
+59,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,27-04-2024
+60,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,28-04-2024
+61,Ambala,Ambala Cantt.,Tomato,1000,1500,1200,31-12-2024
+62,Ambala,Ambala Cantt.,Tomato,1000,1500,1300,01-01-2025
+63,Ambala,Ambala Cantt.,Tomato,1000,1600,1200,04-02-2024
+64,Ambala,Ambala Cantt.,Tomato,1000,1600,1200,08-03-2024
+65,Ambala,Ambala Cantt.,Tomato,1000,1600,1500,25-04-2024
+66,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,02-04-2024
+67,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,13-03-2024
+68,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,14-03-2024
+69,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,15-03-2024
+70,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,17-03-2024
+71,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,20-03-2024
+72,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,27-03-2024
+73,Ambala,Ambala Cantt.,Tomato,1000,2000,1500,30-03-2024
+74,Ambala,Ambala Cantt.,Tomato,1000,2500,2000,22-07-2024
+75,Ambala,Ambala Cantt.,Tomato,1200,1500,1400,26-12-2024
+76,Ambala,Ambala Cantt.,Tomato,1200,1550,1500,21-01-2024
+77,Ambala,Ambala Cantt.,Tomato,1200,1550,1500,24-04-2024
+78,Ambala,Ambala Cantt.,Tomato,1200,1600,1400,25-01-2024
+79,Ambala,Ambala Cantt.,Tomato,1200,1600,1400,28-01-2024
+80,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,02-07-2024
+81,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,05-03-2024
+82,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,06-03-2024
+83,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,07-03-2024
+84,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,19-06-2024
+85,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,20-06-2024
+86,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,21-06-2024
+87,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,26-06-2024
+88,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,26-03-2024
+89,Ambala,Ambala Cantt.,Tomato,1200,2000,1500,27-06-2024
+90,Ambala,Ambala Cantt.,Tomato,1200,2000,1600,10-03-2024
+91,Ambala,Ambala Cantt.,Tomato,1200,2000,1800,12-03-2024
+92,Ambala,Ambala Cantt.,Tomato,1300,2200,1500,04-09-2024
+93,Ambala,Ambala Cantt.,Tomato,1300,2200,1500,06-09-2024
+94,Ambala,Ambala Cantt.,Tomato,1300,2200,1500,08-09-2024
+95,Ambala,Ambala Cantt.,Tomato,1300,2200,1500,17-09-2024
+96,Ambala,Ambala Cantt.,Tomato,1300,2200,1800,18-09-2024
+97,Ambala,Ambala Cantt.,Tomato,1300,2200,2000,13-09-2024
+98,Ambala,Ambala Cantt.,Tomato,1300,2500,2200,20-09-2024
+99,Ambala,Ambala Cantt.,Tomato,1400,2400,1800,21-03-2024
+100,Ambala,Ambala Cantt.,Tomato,1500,2000,1700,12-12-2024
+101,Ambala,Ambala Cantt.,Tomato,1500,2000,1700,16-12-2024
+102,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,11-12-2024
+103,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,13-12-2024
+104,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,18-12-2024
+105,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,20-12-2024
+106,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,21-12-2024
+107,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,22-12-2024
+108,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,22-03-2024
+109,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,25-12-2024
+110,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,27-12-2024
+111,Ambala,Ambala Cantt.,Tomato,1500,2000,1800,28-12-2024
+112,Ambala,Ambala Cantt.,Tomato,1500,2600,2200,03-09-2024
+113,Ambala,Ambala Cantt.,Tomato,1500,2600,2200,28-08-2024
+114,Ambala,Ambala Cantt.,Tomato,1500,2600,2200,30-08-2024
+115,Ambala,Ambala Cantt.,Tomato,1500,2600,2200,31-08-2024
+116,Ambala,Ambala Cantt.,Tomato,1500,2800,2500,29-08-2024
+117,Ambala,Ambala Cantt.,Tomato,1600,2400,2000,02-12-2024
+118,Ambala,Ambala Cantt.,Tomato,1600,2400,2000,03-12-2024
+119,Ambala,Ambala Cantt.,Tomato,1600,2600,2100,30-11-2024
+120,Ambala,Ambala Cantt.,Tomato,1800,2200,2000,05-09-2024
+121,Ambala,Ambala Cantt.,Tomato,1800,2500,2000,20-11-2024
+122,Ambala,Ambala Cantt.,Tomato,1800,2500,2000,25-11-2024
+123,Ambala,Ambala Cantt.,Tomato,1800,2500,2000,26-11-2024
+124,Ambala,Ambala Cantt.,Tomato,1800,2500,2100,05-12-2024
+125,Ambala,Ambala Cantt.,Tomato,1800,2500,2100,06-12-2024
+126,Ambala,Ambala Cantt.,Tomato,1800,2500,2100,10-12-2024
+127,Ambala,Ambala Cantt.,Tomato,1800,2500,2100,28-11-2024
+128,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,04-12-2024
+129,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,07-12-2024
+130,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,09-12-2024
+131,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,18-11-2024
+132,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,19-08-2024
+133,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,21-11-2024
+134,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,22-11-2024
+135,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,23-08-2024
+136,Ambala,Ambala Cantt.,Tomato,1800,2500,2200,24-11-2024
+137,Ambala,Ambala Cantt.,Tomato,2000,2500,2100,03-10-2024
+138,Ambala,Ambala Cantt.,Tomato,2000,2500,2200,02-10-2024
+139,Ambala,Ambala Cantt.,Tomato,2000,2500,2200,21-09-2024
+140,Ambala,Ambala Cantt.,Tomato,2000,2500,2200,22-09-2024
+141,Ambala,Ambala Cantt.,Tomato,2000,2500,2200,29-09-2024
+142,Ambala,Ambala Cantt.,Tomato,2000,2700,2400,29-11-2024
+143,Ambala,Ambala Cantt.,Tomato,2000,3000,2500,07-07-2024
+144,Ambala,Ambala Cantt.,Tomato,2000,4000,2500,11-08-2024
+145,Ambala,Ambala Cantt.,Tomato,2000,4000,2500,27-07-2024
+146,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,01-08-2024
+147,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,02-08-2024
+148,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,04-08-2024
+149,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,09-08-2024
+150,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,10-08-2024
+151,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,30-07-2024
+152,Ambala,Ambala Cantt.,Tomato,2000,4000,3500,31-07-2024
+153,Ambala,Ambala Cantt.,Tomato,2200,3500,3000,03-11-2024
+154,Ambala,Ambala Cantt.,Tomato,2500,3500,2800,08-11-2024
+155,Ambala,Ambala Cantt.,Tomato,2500,3500,2800,18-10-2024
+156,Ambala,Ambala Cantt.,Tomato,2500,3500,2900,20-10-2024
+157,Ambala,Ambala Cantt.,Tomato,2500,3500,3000,07-11-2024
+158,Ambala,Ambala Cantt.,Tomato,2500,3500,3000,12-11-2024
+159,Ambala,Ambala Cantt.,Tomato,2500,3500,3000,17-10-2024
+160,Ambala,Ambala Cantt.,Tomato,2500,3500,3000,19-10-2024
+161,Ambala,Ambala Cantt.,Tomato,2500,3500,3000,31-10-2024
+162,Ambala,Ambala Cantt.,Tomato,2500,3500,3200,01-11-2024
+163,Ambala,Ambala Cantt.,Tomato,2500,3500,3200,24-10-2024
+164,Ambala,Ambala Cantt.,Tomato,2500,4000,3500,06-10-2024
+165,Ambala,Ambala Cantt.,Tomato,2500,4000,3500,07-10-2024
+166,Ambala,Ambala Cantt.,Tomato,2500,4500,3500,11-10-2024
+167,Ambala,Ambala Cantt.,Tomato,2500,4500,3500,22-10-2024
+168,Ambala,Ambala Cantt.,Tomato,3000,4200,3500,11-07-2024
+169,Ambala,Ambala Cantt.,Tomato,3000,4200,3500,14-07-2024
+170,Ambala,Ambala Cantt.,Tomato,3000,4200,3500,18-07-2024
+171,Ambala,Ambala Cantt.,Tomato,3000,4200,3800,20-07-2024
+172,Ambala,Ambala Cantt.,Tomato,3000,4200,4000,10-07-2024
+173,Ambala,Ambala Cantt.,Tomato,3000,4200,4000,12-07-2024
+174,Ambala,Ambala Cantt.,Tomato,3000,4200,4000,16-07-2024
+175,Ambala,Ambala Cantt.,Tomato,3000,4200,4000,19-07-2024
+176,Ambala,Ambala Cantt.,Tomato,3000,4200,4000,23-07-2024
+177,Ambala,Ambala Cantt.,Tomato,3000,4200,4000,24-07-2024
+178,Ambala,Ambala Cantt.,Tomato,3000,4500,3500,13-07-2024
+179,Ambala,Ambala Cantt.,Tomato,3500,5000,4500,09-10-2024
+180,Ambala,Ambala City(Subji Mandi),Tomato,1000,2500,1500,09-02-2024
+181,Ambala,Ambala City(Subji Mandi),Tomato,1000,2500,1500,21-02-2024
+182,Ambala,Ambala City(Subji Mandi),Tomato,1000,3000,2000,20-02-2024
+183,Ambala,Ambala City(Subji Mandi),Tomato,1000,3500,2000,17-02-2024
+184,Ambala,Ambala City(Subji Mandi),Tomato,1200,1950,1550,06-01-2024
+185,Ambala,Ambala City(Subji Mandi),Tomato,1250,1900,1400,08-01-2024
+186,Ambala,Ambala City(Subji Mandi),Tomato,1300,2100,1650,01-01-2024
+187,Ambala,Ambala City(Subji Mandi),Tomato,1350,2450,1700,11-01-2024
+188,Ambala,Ambala City(Subji Mandi),Tomato,1400,2300,1850,19-01-2024
+189,Ambala,Ambala City(Subji Mandi),Tomato,1425,2250,1600,03-01-2024
+190,Ambala,Ambala City(Subji Mandi),Tomato,1450,2400,1950,04-01-2024
+191,Ambala,Ambala City(Subji Mandi),Tomato,1500,2100,1680,09-01-2024
+192,Ambala,Ambala City(Subji Mandi),Tomato,1500,2600,2150,23-01-2024
+193,Ambala,Ambala City(Subji Mandi),Tomato,1500,2880,2000,03-12-2024
+194,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,04-03-2024
+195,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,05-04-2024
+196,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,06-03-2024
+197,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,08-02-2024
+198,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,11-03-2024
+199,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,14-03-2024
+200,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,15-02-2024
+201,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,18-03-2024
+202,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,19-02-2024
+203,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,24-02-2024
+204,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,27-03-2024
+205,Ambala,Ambala City(Subji Mandi),Tomato,1500,3000,2000,31-01-2024
+206,Ambala,Ambala City(Subji Mandi),Tomato,1500,3250,2000,08-04-2024
+207,Ambala,Ambala City(Subji Mandi),Tomato,1500,3250,2500,13-02-2024
+208,Ambala,Ambala City(Subji Mandi),Tomato,1500,3500,2000,07-02-2024
+209,Ambala,Ambala City(Subji Mandi),Tomato,1500,3500,2000,13-03-2024
+210,Ambala,Ambala City(Subji Mandi),Tomato,1500,3500,2000,21-03-2024
+211,Ambala,Ambala City(Subji Mandi),Tomato,1500,3500,2000,22-02-2024
+212,Ambala,Ambala City(Subji Mandi),Tomato,1500,3500,2000,22-03-2024
+213,Ambala,Ambala City(Subji Mandi),Tomato,1500,3500,2000,30-03-2024
+214,Ambala,Ambala City(Subji Mandi),Tomato,1600,2400,1850,12-01-2024
+215,Ambala,Ambala City(Subji Mandi),Tomato,1600,2500,1800,05-01-2024
+216,Ambala,Ambala City(Subji Mandi),Tomato,1650,2350,1800,18-01-2024
+217,Ambala,Ambala City(Subji Mandi),Tomato,1650,2650,1800,13-01-2024
+218,Ambala,Ambala City(Subji Mandi),Tomato,1750,2450,2000,10-01-2024
+219,Ambala,Ambala City(Subji Mandi),Tomato,1850,2950,2200,27-01-2024
+220,Ambala,Ambala City(Subji Mandi),Tomato,1900,2850,2225,17-01-2024
+221,Ambala,Ambala City(Subji Mandi),Tomato,1950,3100,2400,02-02-2024
+222,Ambala,Ambala City(Subji Mandi),Tomato,1970,2600,2200,02-12-2024
+223,Ambala,Ambala City(Subji Mandi),Tomato,2000,2600,2350,02-01-2024
+224,Ambala,Ambala City(Subji Mandi),Tomato,2000,2850,2450,16-01-2024
+225,Ambala,Ambala City(Subji Mandi),Tomato,2000,2850,2500,20-01-2024
+226,Ambala,Ambala City(Subji Mandi),Tomato,2000,3000,2450,22-01-2024
+227,Ambala,Ambala City(Subji Mandi),Tomato,2000,3000,2500,05-12-2024
+228,Ambala,Ambala City(Subji Mandi),Tomato,2000,3200,3000,05-02-2024
+229,Ambala,Ambala City(Subji Mandi),Tomato,2000,3250,2450,21-11-2024
+230,Ambala,Ambala City(Subji Mandi),Tomato,2000,3350,2500,24-01-2024
+231,Ambala,Ambala City(Subji Mandi),Tomato,2250,3000,2600,30-11-2024
+232,Ambala,Ambala City(Subji Mandi),Tomato,2250,3250,2600,03-02-2024
+233,Ambala,Ambala City(Subji Mandi),Tomato,2350,3000,2700,26-01-2024
+234,Ambala,Ambala City(Subji Mandi),Tomato,2450,3300,2800,01-02-2024
+235,Ambala,Ambala City(Subji Mandi),Tomato,2500,3200,2755,25-01-2024
+236,Ambala,Ambala City(Subji Mandi),Tomato,2500,3400,2950,29-01-2024
+237,Ambala,Ambala City(Subji Mandi),Tomato,2500,3500,3000,27-11-2024
+238,Ambala,Ambala City(Subji Mandi),Tomato,2600,3600,3150,18-11-2024
+239,Ambala,Ambala City(Subji Mandi),Tomato,2800,4390,3300,04-12-2024
+240,Ambala,Ambala City(Subji Mandi),Tomato,3000,3500,3250,30-01-2024
+241,Ambala,Ambala City(Subji Mandi),Tomato,3000,4000,3500,19-11-2024
+242,Ambala,Ambala City(Subji Mandi),Tomato,3160,4300,3470,06-12-2024
+243,Ambala,Ambala City(Subji Mandi),Tomato,3350,4380,3800,07-12-2024
+244,Ambala,Ambala City(Subji Mandi),Tomato,3500,4500,4000,20-11-2024
+245,Ambala,Ambala City(Subji Mandi),Tomato,3500,5000,4250,25-11-2024
+246,Ambala,Ambala City(Subji Mandi),Tomato,3500,5800,4250,21-12-2024
+247,Ambala,Ambala City(Subji Mandi),Tomato,3600,5200,4700,12-12-2024
+248,Ambala,Ambala City(Subji Mandi),Tomato,4000,4850,4250,14-12-2024
+249,Ambala,Ambala City(Subji Mandi),Tomato,4250,5700,4800,13-12-2024
+250,Ambala,Ambala City(Subji Mandi),Tomato,4300,5600,4850,20-12-2024
+251,Ambala,Ambala City(Subji Mandi),Tomato,5200,6500,5850,16-12-2024
+252,Ambala,Barara,Tomato,500,600,500,04-01-2024
+253,Ambala,Barara,Tomato,800,1000,800,10-02-2024
+254,Ambala,Barara,Tomato,800,1300,800,17-01-2024
+255,Ambala,Barara,Tomato,900,1200,1200,08-06-2024
+256,Ambala,Barara,Tomato,1000,1100,1000,04-06-2024
+257,Ambala,Barara,Tomato,1000,1100,1000,07-02-2024
+258,Ambala,Barara,Tomato,1000,1100,1000,16-05-2024
+259,Ambala,Barara,Tomato,1000,1100,1000,18-01-2024
+260,Ambala,Barara,Tomato,1000,1200,1000,06-06-2024
+261,Ambala,Barara,Tomato,1000,1200,1000,13-06-2024
+262,Ambala,Barara,Tomato,1000,1200,1000,13-05-2024
+263,Ambala,Barara,Tomato,1000,1200,1000,16-01-2024
+264,Ambala,Barara,Tomato,1000,1200,1000,22-01-2024
+265,Ambala,Barara,Tomato,1000,1200,1000,28-05-2024
+266,Ambala,Barara,Tomato,1000,1200,1000,29-05-2024
+267,Ambala,Barara,Tomato,1000,1200,1000,30-05-2024
+268,Ambala,Barara,Tomato,1000,1200,1200,27-05-2024
+269,Ambala,Barara,Tomato,1000,1300,1300,23-05-2024
+270,Ambala,Barara,Tomato,1000,1400,1000,06-03-2024
+271,Ambala,Barara,Tomato,1000,1400,1000,15-05-2024
+272,Ambala,Barara,Tomato,1000,1500,1000,03-01-2024
+273,Ambala,Barara,Tomato,1000,1500,1000,03-06-2024
+274,Ambala,Barara,Tomato,1000,1500,1000,12-01-2024
+275,Ambala,Barara,Tomato,1000,1500,1000,12-06-2024
+276,Ambala,Barara,Tomato,1000,1500,1000,17-05-2024
+277,Ambala,Barara,Tomato,1000,1500,1000,21-05-2024
+278,Ambala,Barara,Tomato,1000,1500,1000,22-02-2024
+279,Ambala,Barara,Tomato,1000,1500,1000,23-02-2024
+280,Ambala,Barara,Tomato,1000,1500,1000,24-05-2024
+281,Ambala,Barara,Tomato,1000,1500,1000,29-06-2024
+282,Ambala,Barara,Tomato,1000,1500,1000,31-05-2024
+283,Ambala,Barara,Tomato,1000,1500,1200,18-05-2024
+284,Ambala,Barara,Tomato,1000,1500,1500,01-06-2024
+285,Ambala,Barara,Tomato,1000,1500,1500,05-06-2024
+286,Ambala,Barara,Tomato,1100,1200,1100,14-05-2024
+287,Ambala,Barara,Tomato,1100,1200,1100,15-01-2024
+288,Ambala,Barara,Tomato,1100,1400,1100,05-02-2024
+289,Ambala,Barara,Tomato,1100,1400,1100,25-04-2024
+290,Ambala,Barara,Tomato,1100,1500,1100,09-01-2024
+291,Ambala,Barara,Tomato,1100,1500,1100,20-05-2024
+292,Ambala,Barara,Tomato,1100,2000,1100,08-02-2024
+293,Ambala,Barara,Tomato,1100,2000,1100,13-01-2024
+294,Ambala,Barara,Tomato,1200,1300,1200,02-02-2024
+295,Ambala,Barara,Tomato,1200,1300,1200,14-02-2024
+296,Ambala,Barara,Tomato,1200,1300,1200,15-02-2024
+297,Ambala,Barara,Tomato,1200,1300,1200,24-01-2024
+298,Ambala,Barara,Tomato,1200,1300,1200,30-01-2024
+299,Ambala,Barara,Tomato,1200,1300,1200,31-01-2024
+300,Ambala,Barara,Tomato,1200,1400,1200,06-02-2024
+301,Ambala,Barara,Tomato,1200,1400,1200,07-05-2024
+302,Ambala,Barara,Tomato,1200,1400,1200,11-06-2024
+303,Ambala,Barara,Tomato,1200,1400,1200,11-03-2024
+304,Ambala,Barara,Tomato,1200,1400,1200,16-02-2024
+305,Ambala,Barara,Tomato,1200,1400,1200,19-02-2024
+306,Ambala,Barara,Tomato,1200,1400,1200,19-01-2024
+307,Ambala,Barara,Tomato,1200,1500,1200,01-03-2024
+308,Ambala,Barara,Tomato,1200,1500,1200,02-01-2024
+309,Ambala,Barara,Tomato,1200,1500,1200,04-03-2024
+310,Ambala,Barara,Tomato,1200,1500,1200,05-01-2024
+311,Ambala,Barara,Tomato,1200,1500,1200,06-01-2024
+312,Ambala,Barara,Tomato,1200,1500,1200,10-01-2024
+313,Ambala,Barara,Tomato,1200,1500,1200,10-06-2024
+314,Ambala,Barara,Tomato,1200,1500,1200,13-03-2024
+315,Ambala,Barara,Tomato,1200,1500,1200,14-06-2024
+316,Ambala,Barara,Tomato,1200,1500,1200,20-02-2024
+317,Ambala,Barara,Tomato,1200,1500,1200,21-03-2024
+318,Ambala,Barara,Tomato,1200,1500,1200,23-01-2024
+319,Ambala,Barara,Tomato,1200,1500,1200,24-02-2024
+320,Ambala,Barara,Tomato,1200,1500,1200,25-05-2024
+321,Ambala,Barara,Tomato,1200,1500,1200,27-02-2024
+322,Ambala,Barara,Tomato,1200,1500,1200,28-06-2024
+323,Ambala,Barara,Tomato,1200,1500,1200,28-03-2024
+324,Ambala,Barara,Tomato,1200,1500,1200,29-04-2024
+325,Ambala,Barara,Tomato,1200,1500,1200,29-01-2024
+326,Ambala,Barara,Tomato,1200,1500,1500,02-07-2024
+327,Ambala,Barara,Tomato,1200,1500,1500,18-06-2024
+328,Ambala,Barara,Tomato,1200,1600,1200,04-04-2024
+329,Ambala,Barara,Tomato,1200,1600,1200,10-05-2024
+330,Ambala,Barara,Tomato,1200,1600,1200,20-01-2024
+331,Ambala,Barara,Tomato,1200,1600,1200,27-04-2024
+332,Ambala,Barara,Tomato,1200,1600,1200,29-03-2024
+333,Ambala,Barara,Tomato,1200,1700,1200,21-02-2024
+334,Ambala,Barara,Tomato,1200,1800,1200,05-04-2024
+335,Ambala,Barara,Tomato,1200,1800,1200,08-04-2024
+336,Ambala,Barara,Tomato,1200,1800,1200,18-04-2024
+337,Ambala,Barara,Tomato,1200,1800,1200,27-01-2024
+338,Ambala,Barara,Tomato,1200,1800,1500,08-07-2024
+339,Ambala,Barara,Tomato,1200,1800,1800,15-06-2024
+340,Ambala,Barara,Tomato,1200,2000,1200,22-05-2024
+341,Ambala,Barara,Tomato,1300,1400,1300,03-04-2024
+342,Ambala,Barara,Tomato,1300,1400,1300,12-03-2024
+343,Ambala,Barara,Tomato,1300,1400,1300,13-02-2024
+344,Ambala,Barara,Tomato,1300,1400,1300,19-03-2024
+345,Ambala,Barara,Tomato,1300,1400,1300,26-02-2024
+346,Ambala,Barara,Tomato,1300,1500,1300,01-02-2024
+347,Ambala,Barara,Tomato,1300,1500,1300,05-03-2024
+348,Ambala,Barara,Tomato,1300,1500,1300,09-02-2024
+349,Ambala,Barara,Tomato,1300,1500,1300,11-01-2024
+350,Ambala,Barara,Tomato,1300,1500,1300,14-03-2024
+351,Ambala,Barara,Tomato,1300,1500,1300,16-04-2024
+352,Ambala,Barara,Tomato,1300,1500,1300,17-02-2024
+353,Ambala,Barara,Tomato,1300,1500,1300,20-03-2024
+354,Ambala,Barara,Tomato,1300,1500,1300,26-04-2024
+355,Ambala,Barara,Tomato,1300,1500,1500,15-04-2024
+356,Ambala,Barara,Tomato,1300,1600,1300,06-05-2024
+357,Ambala,Barara,Tomato,1300,1600,1300,19-04-2024
+358,Ambala,Barara,Tomato,1300,1600,1300,26-03-2024
+359,Ambala,Barara,Tomato,1300,1700,1300,27-03-2024
+360,Ambala,Barara,Tomato,1300,1800,1300,02-05-2024
+361,Ambala,Barara,Tomato,1300,1800,1300,11-05-2024
+362,Ambala,Barara,Tomato,1300,1800,1300,13-04-2024
+363,Ambala,Barara,Tomato,1300,1800,1300,26-01-2024
+364,Ambala,Barara,Tomato,1300,1800,1800,12-07-2024
+365,Ambala,Barara,Tomato,1300,2000,1300,03-05-2024
+366,Ambala,Barara,Tomato,1300,2000,1300,17-04-2024
+367,Ambala,Barara,Tomato,1300,2000,1300,30-04-2024
+368,Ambala,Barara,Tomato,1400,1500,1400,01-01-2024
+369,Ambala,Barara,Tomato,1400,1500,1400,02-03-2024
+370,Ambala,Barara,Tomato,1400,1500,1400,09-04-2024
+371,Ambala,Barara,Tomato,1400,1500,1400,09-03-2024
+372,Ambala,Barara,Tomato,1400,1500,1400,11-04-2024
+373,Ambala,Barara,Tomato,1400,1500,1400,12-02-2024
+374,Ambala,Barara,Tomato,1400,1500,1400,16-03-2024
+375,Ambala,Barara,Tomato,1400,1500,1400,18-03-2024
+376,Ambala,Barara,Tomato,1400,1500,1400,24-04-2024
+377,Ambala,Barara,Tomato,1400,1500,1400,25-03-2024
+378,Ambala,Barara,Tomato,1400,1500,1400,28-02-2024
+379,Ambala,Barara,Tomato,1400,1500,1400,29-02-2024
+380,Ambala,Barara,Tomato,1400,1600,1400,20-04-2024
+381,Ambala,Barara,Tomato,1400,1600,1400,22-04-2024
+382,Ambala,Barara,Tomato,1400,1800,1400,22-03-2024
+383,Ambala,Barara,Tomato,1400,1800,1400,23-04-2024
+384,Ambala,Barara,Tomato,1400,1800,1400,25-06-2024
+385,Ambala,Barara,Tomato,1400,2000,1400,08-01-2024
+386,Ambala,Barara,Tomato,1500,1600,1500,03-02-2024
+387,Ambala,Barara,Tomato,1500,1600,1500,23-03-2024
+388,Ambala,Barara,Tomato,1500,1600,1500,25-01-2024
+389,Ambala,Barara,Tomato,1500,1800,1500,01-07-2024
+390,Ambala,Barara,Tomato,1500,1800,1500,04-07-2024
+391,Ambala,Barara,Tomato,1500,1800,1500,04-05-2024
+392,Ambala,Barara,Tomato,1500,1800,1500,09-05-2024
+393,Ambala,Barara,Tomato,1500,1800,1500,17-06-2024
+394,Ambala,Barara,Tomato,1500,1800,1500,20-06-2024
+395,Ambala,Barara,Tomato,1500,1800,1500,22-06-2024
+396,Ambala,Barara,Tomato,1500,1800,1800,13-07-2024
+397,Ambala,Barara,Tomato,1500,1800,1800,30-12-2024
+398,Ambala,Barara,Tomato,1500,2000,1500,01-05-2024
+399,Ambala,Barara,Tomato,1500,2000,1500,08-05-2024
+400,Ambala,Barara,Tomato,1500,2000,1500,10-04-2024
+401,Ambala,Barara,Tomato,1500,2000,1500,19-06-2024
+402,Ambala,Barara,Tomato,1500,2000,1500,21-06-2024
+403,Ambala,Barara,Tomato,1500,2000,1500,26-06-2024
+404,Ambala,Barara,Tomato,1500,2000,1500,27-06-2024
+405,Ambala,Barara,Tomato,1500,2000,2000,03-07-2024
+406,Ambala,Barara,Tomato,1500,2000,2000,05-07-2024
+407,Ambala,Barara,Tomato,1500,2000,2000,10-07-2024
+408,Ambala,Barara,Tomato,1500,2000,2000,10-09-2024
+409,Ambala,Barara,Tomato,1500,2000,2000,11-09-2024
+410,Ambala,Barara,Tomato,1500,2000,2000,16-07-2024
+411,Ambala,Barara,Tomato,1500,2000,2000,18-09-2024
+412,Ambala,Barara,Tomato,1500,2250,2000,21-08-2024
+413,Ambala,Barara,Tomato,1500,2500,1500,17-07-2024
+414,Ambala,Barara,Tomato,1500,2500,2500,02-09-2024
+415,Ambala,Barara,Tomato,1500,2500,2500,05-09-2024
+416,Ambala,Barara,Tomato,1500,2500,2500,06-09-2024
+417,Ambala,Barara,Tomato,1500,2500,2500,09-09-2024
+418,Ambala,Barara,Tomato,1500,2500,2500,11-07-2024
+419,Ambala,Barara,Tomato,1500,2500,2500,16-09-2024
+420,Ambala,Barara,Tomato,1500,2500,2500,26-08-2024
+421,Ambala,Barara,Tomato,1500,2500,2500,30-08-2024
+422,Ambala,Barara,Tomato,1500,2500,2500,31-08-2024
+423,Ambala,Barara,Tomato,1500,3000,2800,24-08-2024
+424,Ambala,Barara,Tomato,1600,1800,1600,15-03-2024
+425,Ambala,Barara,Tomato,1800,2000,1800,12-04-2024
+426,Ambala,Barara,Tomato,1800,2000,1800,23-07-2024
+427,Ambala,Barara,Tomato,1800,2000,1800,24-06-2024
+428,Ambala,Barara,Tomato,1800,2000,2000,03-08-2024
+429,Ambala,Barara,Tomato,1800,2000,2000,09-07-2024
+430,Ambala,Barara,Tomato,1800,2000,2000,14-09-2024
+431,Ambala,Barara,Tomato,1800,2000,2000,22-08-2024
+432,Ambala,Barara,Tomato,1800,2200,1800,06-07-2024
+433,Ambala,Barara,Tomato,1800,2200,2200,01-10-2024
+434,Ambala,Barara,Tomato,1800,2200,2200,07-09-2024
+435,Ambala,Barara,Tomato,1800,2200,2200,13-09-2024
+436,Ambala,Barara,Tomato,1800,2200,2200,20-09-2024
+437,Ambala,Barara,Tomato,1800,2200,2200,28-09-2024
+438,Ambala,Barara,Tomato,1800,2250,2250,30-09-2024
+439,Ambala,Barara,Tomato,1800,2500,2200,04-09-2024
+440,Ambala,Barara,Tomato,1800,2500,2500,02-08-2024
+441,Ambala,Barara,Tomato,1800,2500,2500,03-09-2024
+442,Ambala,Barara,Tomato,1800,2500,2500,07-08-2024
+443,Ambala,Barara,Tomato,1800,2500,2500,12-09-2024
+444,Ambala,Barara,Tomato,1800,2500,2500,17-09-2024
+445,Ambala,Barara,Tomato,1800,2500,2500,18-07-2024
+446,Ambala,Barara,Tomato,1800,2500,2500,23-09-2024
+447,Ambala,Barara,Tomato,1800,2500,2500,26-09-2024
+448,Ambala,Barara,Tomato,1800,2500,2500,27-07-2024
+449,Ambala,Barara,Tomato,1800,2500,2500,27-09-2024
+450,Ambala,Barara,Tomato,1800,2500,2500,31-07-2024
+451,Ambala,Barara,Tomato,1800,2800,2800,01-08-2024
+452,Ambala,Barara,Tomato,1800,3000,3000,15-08-2024
+453,Ambala,Barara,Tomato,2000,2200,2200,02-10-2024
+454,Ambala,Barara,Tomato,2000,2200,2200,22-07-2024
+455,Ambala,Barara,Tomato,2000,2250,2250,01-01-2025
+456,Ambala,Barara,Tomato,2000,2250,2250,31-12-2024
+457,Ambala,Barara,Tomato,2000,2500,2000,24-07-2024
+458,Ambala,Barara,Tomato,2000,2500,2000,29-07-2024
+459,Ambala,Barara,Tomato,2000,2500,2500,01-11-2024
+460,Ambala,Barara,Tomato,2000,2500,2500,04-10-2024
+461,Ambala,Barara,Tomato,2000,2500,2500,05-10-2024
+462,Ambala,Barara,Tomato,2000,2500,2500,10-10-2024
+463,Ambala,Barara,Tomato,2000,2500,2500,16-08-2024
+464,Ambala,Barara,Tomato,2000,2500,2500,19-09-2024
+465,Ambala,Barara,Tomato,2000,2500,2500,20-07-2024
+466,Ambala,Barara,Tomato,2000,2500,2500,21-09-2024
+467,Ambala,Barara,Tomato,2000,2500,2500,25-12-2024
+468,Ambala,Barara,Tomato,2000,2500,2500,25-07-2024
+469,Ambala,Barara,Tomato,2000,2500,2500,25-09-2024
+470,Ambala,Barara,Tomato,2000,2800,2800,10-08-2024
+471,Ambala,Barara,Tomato,2000,3000,2800,19-07-2024
+472,Ambala,Barara,Tomato,2000,3000,3000,05-08-2024
+473,Ambala,Barara,Tomato,2000,3000,3000,09-08-2024
+474,Ambala,Barara,Tomato,2000,3000,3000,24-09-2024
+475,Ambala,Barara,Tomato,2000,3000,3000,26-07-2024
+476,Ambala,Barara,Tomato,2000,3000,3000,29-08-2024
+477,Ambala,Barara,Tomato,2200,2480,2200,03-10-2024
+478,Ambala,Barara,Tomato,2200,2500,2500,23-12-2024
+479,Ambala,Barara,Tomato,2200,3000,3000,13-11-2024
+480,Ambala,Barara,Tomato,2500,2500,2500,20-12-2024
+481,Ambala,Barara,Tomato,2500,2800,2500,08-10-2024
+482,Ambala,Barara,Tomato,2500,2800,2800,05-11-2024
+483,Ambala,Barara,Tomato,2500,2800,2800,07-10-2024
+484,Ambala,Barara,Tomato,2500,2800,2800,09-12-2024
+485,Ambala,Barara,Tomato,2500,2800,2800,12-10-2024
+486,Ambala,Barara,Tomato,2500,2800,2800,17-12-2024
+487,Ambala,Barara,Tomato,2500,2800,2800,17-10-2024
+488,Ambala,Barara,Tomato,2500,2800,2800,18-10-2024
+489,Ambala,Barara,Tomato,2500,2800,2800,21-12-2024
+490,Ambala,Barara,Tomato,2500,2800,2800,22-11-2024
+491,Ambala,Barara,Tomato,2500,2800,2800,24-12-2024
+492,Ambala,Barara,Tomato,2500,2800,2800,26-12-2024
+493,Ambala,Barara,Tomato,2500,2800,2800,27-08-2024
+494,Ambala,Barara,Tomato,2500,3000,2500,12-08-2024
+495,Ambala,Barara,Tomato,2500,3000,2500,14-08-2024
+496,Ambala,Barara,Tomato,2500,3000,3000,02-11-2024
+497,Ambala,Barara,Tomato,2500,3000,3000,06-11-2024
+498,Ambala,Barara,Tomato,2500,3000,3000,08-08-2024
+499,Ambala,Barara,Tomato,2500,3000,3000,09-10-2024
+500,Ambala,Barara,Tomato,2500,3000,3000,13-08-2024
+501,Ambala,Barara,Tomato,2500,3000,3000,15-07-2024
+502,Ambala,Barara,Tomato,2500,3000,3000,15-10-2024
+503,Ambala,Barara,Tomato,2500,3000,3000,16-12-2024
+504,Ambala,Barara,Tomato,2500,3000,3000,16-10-2024
+505,Ambala,Barara,Tomato,2500,3000,3000,19-10-2024
+506,Ambala,Barara,Tomato,2500,3000,3000,20-11-2024
+507,Ambala,Barara,Tomato,2500,3000,3000,21-10-2024
+508,Ambala,Barara,Tomato,2500,3000,3000,23-08-2024
+509,Ambala,Barara,Tomato,2500,3000,3000,28-08-2024
+510,Ambala,Barara,Tomato,2500,3000,3000,28-11-2024
+511,Ambala,Barara,Tomato,2500,3000,3000,28-10-2024
+512,Ambala,Barara,Tomato,2500,3000,3000,29-10-2024
+513,Ambala,Barara,Tomato,2500,3000,3000,30-07-2024
+514,Ambala,Barara,Tomato,2500,3000,3000,31-10-2024
+515,Ambala,Barara,Tomato,2500,3200,3200,06-08-2024
+516,Ambala,Barara,Tomato,2500,3500,3500,12-11-2024
+517,Ambala,Barara,Tomato,2500,3500,3500,22-10-2024
+518,Ambala,Barara,Tomato,2800,3000,2800,19-11-2024
+519,Ambala,Barara,Tomato,2800,3000,3000,08-11-2024
+520,Ambala,Barara,Tomato,2800,3000,3000,10-12-2024
+521,Ambala,Barara,Tomato,2800,3000,3000,12-12-2024
+522,Ambala,Barara,Tomato,2800,3000,3000,13-12-2024
+523,Ambala,Barara,Tomato,2800,3000,3000,15-11-2024
+524,Ambala,Barara,Tomato,2800,3000,3000,18-12-2024
+525,Ambala,Barara,Tomato,2800,3000,3000,19-12-2024
+526,Ambala,Barara,Tomato,2800,3000,3000,23-11-2024
+527,Ambala,Barara,Tomato,2800,3000,3000,23-10-2024
+528,Ambala,Barara,Tomato,2800,3000,3000,26-10-2024
+529,Ambala,Barara,Tomato,2800,3000,3000,27-11-2024
+530,Ambala,Barara,Tomato,2800,3200,3200,16-11-2024
+531,Ambala,Barara,Tomato,2800,3200,3200,17-08-2024
+532,Ambala,Barara,Tomato,2800,3200,3200,18-11-2024
+533,Ambala,Barara,Tomato,2800,3200,3200,25-11-2024
+534,Ambala,Barara,Tomato,2800,3200,3200,25-10-2024
+535,Ambala,Barara,Tomato,2800,3500,3500,02-12-2024
+536,Ambala,Barara,Tomato,2800,3500,3500,04-12-2024
+537,Ambala,Barara,Tomato,2800,3500,3500,06-12-2024
+538,Ambala,Barara,Tomato,2800,3500,3500,07-11-2024
+539,Ambala,Barara,Tomato,2800,3500,3500,11-11-2024
+540,Ambala,Barara,Tomato,2800,3500,3500,14-11-2024
+541,Ambala,Barara,Tomato,2800,3500,3500,26-11-2024
+542,Ambala,Barara,Tomato,2800,3500,3500,30-10-2024
+543,Ambala,Barara,Tomato,3000,3000,3000,05-12-2024
+544,Ambala,Barara,Tomato,3000,3000,3000,07-12-2024
+545,Ambala,Barara,Tomato,3000,3000,3000,11-12-2024
+546,Ambala,Barara,Tomato,3000,3200,3200,24-10-2024
+547,Ambala,Barara,Tomato,3000,3200,3200,29-11-2024
+548,Ambala,Barara,Tomato,3000,3500,3500,11-10-2024
+549,Ambala,Barara,Tomato,3000,3500,3500,14-12-2024
+550,Ambala,Barara,Tomato,3000,3500,3500,21-11-2024
+551,Ambala,Barara,Tomato,3000,3800,3500,03-12-2024
+552,Ambala,Naraingarh,Tomato,200,600,450,07-06-2024
+553,Ambala,Naraingarh,Tomato,200,700,500,14-06-2024
+554,Ambala,Naraingarh,Tomato,200,800,550,13-06-2024
+555,Ambala,Naraingarh,Tomato,200,800,600,15-06-2024
+556,Ambala,Naraingarh,Tomato,200,900,500,12-06-2024
+557,Ambala,Naraingarh,Tomato,200,900,700,17-05-2024
+558,Ambala,Naraingarh,Tomato,200,1000,600,10-06-2024
+559,Ambala,Naraingarh,Tomato,200,1000,700,17-06-2024
+560,Ambala,Naraingarh,Tomato,200,1000,700,18-05-2024
+561,Ambala,Naraingarh,Tomato,200,1000,800,18-06-2024
+562,Ambala,Naraingarh,Tomato,250,600,500,05-06-2024
+563,Ambala,Naraingarh,Tomato,250,700,500,06-06-2024
+564,Ambala,Naraingarh,Tomato,250,700,550,04-06-2024
+565,Ambala,Naraingarh,Tomato,250,700,600,03-06-2024
+566,Ambala,Naraingarh,Tomato,250,800,500,01-06-2024
+567,Ambala,Naraingarh,Tomato,250,800,600,08-06-2024
+568,Ambala,Naraingarh,Tomato,250,1000,800,24-05-2024
+569,Ambala,Naraingarh,Tomato,300,1000,600,11-06-2024
+570,Ambala,Naraingarh,Tomato,300,1000,700,23-05-2024
+571,Ambala,Naraingarh,Tomato,300,1000,700,30-05-2024
+572,Ambala,Naraingarh,Tomato,300,1000,700,31-05-2024
+573,Ambala,Naraingarh,Tomato,300,1000,800,25-05-2024
+574,Ambala,Naraingarh,Tomato,300,1000,800,27-05-2024
+575,Ambala,Naraingarh,Tomato,300,1200,700,21-05-2024
+576,Ambala,Naraingarh,Tomato,350,1200,800,15-05-2024
+577,Ambala,Naraingarh,Tomato,400,1000,800,29-05-2024
+578,Ambala,Naraingarh,Tomato,400,1200,1000,08-05-2024
+579,Ambala,Naraingarh,Tomato,400,1400,1000,10-05-2024
+580,Ambala,Naraingarh,Tomato,500,800,600,16-05-2024
+581,Ambala,Naraingarh,Tomato,500,1000,850,22-05-2024
+582,Ambala,Naraingarh,Tomato,500,1200,800,28-05-2024
+583,Ambala,Naraingarh,Tomato,500,1200,1000,09-05-2024
+584,Ambala,Naraingarh,Tomato,500,1500,1000,25-06-2024
+585,Ambala,Naraingarh,Tomato,500,1600,1200,13-05-2024
+586,Ambala,Naraingarh,Tomato,500,1800,1500,20-04-2024
+587,Ambala,Naraingarh,Tomato,500,2000,1000,16-02-2024
+588,Ambala,Naraingarh,Tomato,500,2500,2000,20-08-2024
+589,Ambala,Naraingarh,Tomato,600,1200,1000,11-05-2024
+590,Ambala,Naraingarh,Tomato,600,1200,1000,20-05-2024
+591,Ambala,Naraingarh,Tomato,600,1500,1200,01-05-2024
+592,Ambala,Naraingarh,Tomato,600,1500,1200,09-04-2024
+593,Ambala,Naraingarh,Tomato,600,2000,1200,17-02-2024
+594,Ambala,Naraingarh,Tomato,600,2500,1500,13-01-2024
+595,Ambala,Naraingarh,Tomato,700,1200,1000,08-04-2024
+596,Ambala,Naraingarh,Tomato,700,1800,1200,22-06-2024
+597,Ambala,Naraingarh,Tomato,700,2000,1200,15-02-2024
+598,Ambala,Naraingarh,Tomato,800,1200,1000,09-02-2024
+599,Ambala,Naraingarh,Tomato,800,1200,1000,10-02-2024
+600,Ambala,Naraingarh,Tomato,800,1200,1000,13-02-2024
+601,Ambala,Naraingarh,Tomato,800,1200,1000,14-05-2024
+602,Ambala,Naraingarh,Tomato,800,1500,1100,06-05-2024
+603,Ambala,Naraingarh,Tomato,800,1500,1200,04-01-2024
+604,Ambala,Naraingarh,Tomato,800,1500,1200,05-04-2024
+605,Ambala,Naraingarh,Tomato,800,1500,1200,08-02-2024
+606,Ambala,Naraingarh,Tomato,800,1500,1200,11-01-2024
+607,Ambala,Naraingarh,Tomato,800,1500,1200,14-02-2024
+608,Ambala,Naraingarh,Tomato,800,1500,1300,01-07-2024
+609,Ambala,Naraingarh,Tomato,800,1500,1300,10-04-2024
+610,Ambala,Naraingarh,Tomato,800,1500,1300,12-02-2024
+611,Ambala,Naraingarh,Tomato,800,1500,1400,20-06-2024
+612,Ambala,Naraingarh,Tomato,800,1600,1400,01-03-2024
+613,Ambala,Naraingarh,Tomato,800,1800,1200,03-05-2024
+614,Ambala,Naraingarh,Tomato,800,2000,1500,04-09-2024
+615,Ambala,Naraingarh,Tomato,800,2000,1500,19-02-2024
+616,Ambala,Naraingarh,Tomato,800,2000,1500,22-02-2024
+617,Ambala,Naraingarh,Tomato,800,2000,1500,28-06-2024
+618,Ambala,Naraingarh,Tomato,800,2000,1700,22-04-2024
+619,Ambala,Naraingarh,Tomato,800,2200,1500,23-08-2024
+620,Ambala,Naraingarh,Tomato,800,2500,1200,21-06-2024
+621,Ambala,Naraingarh,Tomato,800,2500,1500,20-02-2024
+622,Ambala,Naraingarh,Tomato,800,2500,1700,27-02-2024
+623,Ambala,Naraingarh,Tomato,800,2500,1800,18-04-2024
+624,Ambala,Naraingarh,Tomato,800,3000,2000,06-08-2024
+625,Ambala,Naraingarh,Tomato,900,1500,1100,26-06-2024
+626,Ambala,Naraingarh,Tomato,900,1500,1300,28-02-2024
+627,Ambala,Naraingarh,Tomato,900,2000,1600,26-04-2024
+628,Ambala,Naraingarh,Tomato,900,2200,1800,14-09-2024
+629,Ambala,Naraingarh,Tomato,900,2500,2200,13-12-2024
+630,Ambala,Naraingarh,Tomato,900,3000,1500,22-08-2024
+631,Ambala,Naraingarh,Tomato,900,3800,2500,30-10-2024
+632,Ambala,Naraingarh,Tomato,1000,1300,1200,01-01-2024
+633,Ambala,Naraingarh,Tomato,1000,1500,1200,04-04-2024
+634,Ambala,Naraingarh,Tomato,1000,1500,1200,05-01-2024
+635,Ambala,Naraingarh,Tomato,1000,1500,1200,08-01-2024
+636,Ambala,Naraingarh,Tomato,1000,1500,1200,09-01-2024
+637,Ambala,Naraingarh,Tomato,1000,1500,1200,24-06-2024
+638,Ambala,Naraingarh,Tomato,1000,1500,1200,29-02-2024
+639,Ambala,Naraingarh,Tomato,1000,1500,1300,01-01-2025
+640,Ambala,Naraingarh,Tomato,1000,1500,1300,02-05-2024
+641,Ambala,Naraingarh,Tomato,1000,1500,1300,29-04-2024
+642,Ambala,Naraingarh,Tomato,1000,1500,1400,12-01-2024
+643,Ambala,Naraingarh,Tomato,1000,1500,1400,16-01-2024
+644,Ambala,Naraingarh,Tomato,1000,1600,1200,02-01-2024
+645,Ambala,Naraingarh,Tomato,1000,1600,1400,04-05-2024
+646,Ambala,Naraingarh,Tomato,1000,1600,1400,07-02-2024
+647,Ambala,Naraingarh,Tomato,1000,1600,1400,07-05-2024
+648,Ambala,Naraingarh,Tomato,1000,1800,1200,03-01-2024
+649,Ambala,Naraingarh,Tomato,1000,1800,1200,10-01-2024
+650,Ambala,Naraingarh,Tomato,1000,1800,1200,19-06-2024
+651,Ambala,Naraingarh,Tomato,1000,1800,1500,17-01-2024
+652,Ambala,Naraingarh,Tomato,1000,1800,1500,20-01-2024
+653,Ambala,Naraingarh,Tomato,1000,1800,1500,23-02-2024
+654,Ambala,Naraingarh,Tomato,1000,1800,1500,28-03-2024
+655,Ambala,Naraingarh,Tomato,1000,1800,1500,30-04-2024
+656,Ambala,Naraingarh,Tomato,1000,2000,1100,27-06-2024
+657,Ambala,Naraingarh,Tomato,1000,2000,1400,02-03-2024
+658,Ambala,Naraingarh,Tomato,1000,2000,1400,03-04-2024
+659,Ambala,Naraingarh,Tomato,1000,2000,1400,06-01-2024
+660,Ambala,Naraingarh,Tomato,1000,2000,1400,24-02-2024
+661,Ambala,Naraingarh,Tomato,1000,2000,1400,26-02-2024
+662,Ambala,Naraingarh,Tomato,1000,2000,1500,01-04-2024
+663,Ambala,Naraingarh,Tomato,1000,2000,1500,06-02-2024
+664,Ambala,Naraingarh,Tomato,1000,2000,1500,15-01-2024
+665,Ambala,Naraingarh,Tomato,1000,2000,1500,22-03-2024
+666,Ambala,Naraingarh,Tomato,1000,2000,1500,23-01-2024
+667,Ambala,Naraingarh,Tomato,1000,2000,1500,29-03-2024
+668,Ambala,Naraingarh,Tomato,1000,2000,1600,01-02-2024
+669,Ambala,Naraingarh,Tomato,1000,2000,1600,02-02-2024
+670,Ambala,Naraingarh,Tomato,1000,2000,1600,07-03-2024
+671,Ambala,Naraingarh,Tomato,1000,2000,1600,11-04-2024
+672,Ambala,Naraingarh,Tomato,1000,2000,1600,12-04-2024
+673,Ambala,Naraingarh,Tomato,1000,2000,1600,17-04-2024
+674,Ambala,Naraingarh,Tomato,1000,2000,1600,19-01-2024
+675,Ambala,Naraingarh,Tomato,1000,2000,1700,02-09-2024
+676,Ambala,Naraingarh,Tomato,1000,2000,1700,06-03-2024
+677,Ambala,Naraingarh,Tomato,1000,2000,1700,11-03-2024
+678,Ambala,Naraingarh,Tomato,1000,2000,1700,13-03-2024
+679,Ambala,Naraingarh,Tomato,1000,2000,1700,14-03-2024
+680,Ambala,Naraingarh,Tomato,1000,2000,1700,18-01-2024
+681,Ambala,Naraingarh,Tomato,1000,2000,1700,22-01-2024
+682,Ambala,Naraingarh,Tomato,1000,2000,1700,24-01-2024
+683,Ambala,Naraingarh,Tomato,1000,2000,1700,30-12-2024
+684,Ambala,Naraingarh,Tomato,1000,2000,1800,03-09-2024
+685,Ambala,Naraingarh,Tomato,1000,2000,1800,25-01-2024
+686,Ambala,Naraingarh,Tomato,1000,2000,1800,27-03-2024
+687,Ambala,Naraingarh,Tomato,1000,2000,1800,29-06-2024
+688,Ambala,Naraingarh,Tomato,1000,2200,1500,06-09-2024
+689,Ambala,Naraingarh,Tomato,1000,2200,1500,24-08-2024
+690,Ambala,Naraingarh,Tomato,1000,2200,1700,15-04-2024
+691,Ambala,Naraingarh,Tomato,1000,2200,1700,27-04-2024
+692,Ambala,Naraingarh,Tomato,1000,2200,1800,09-09-2024
+693,Ambala,Naraingarh,Tomato,1000,2200,1850,31-08-2024
+694,Ambala,Naraingarh,Tomato,1000,2200,2000,11-09-2024
+695,Ambala,Naraingarh,Tomato,1000,2500,1500,29-08-2024
+696,Ambala,Naraingarh,Tomato,1000,2500,1600,05-02-2024
+697,Ambala,Naraingarh,Tomato,1000,2500,1600,30-08-2024
+698,Ambala,Naraingarh,Tomato,1000,2500,2000,07-09-2024
+699,Ambala,Naraingarh,Tomato,1000,2500,2000,27-12-2024
+700,Ambala,Naraingarh,Tomato,1000,2800,2000,27-08-2024
+701,Ambala,Naraingarh,Tomato,1000,2800,2000,27-01-2024
+702,Ambala,Naraingarh,Tomato,1000,3000,1500,26-08-2024
+703,Ambala,Naraingarh,Tomato,1000,3000,1800,28-08-2024
+704,Ambala,Naraingarh,Tomato,1000,3000,2000,09-08-2024
+705,Ambala,Naraingarh,Tomato,1000,3000,2000,10-08-2024
+706,Ambala,Naraingarh,Tomato,1000,3000,2000,19-08-2024
+707,Ambala,Naraingarh,Tomato,1000,3000,2000,21-08-2024
+708,Ambala,Naraingarh,Tomato,1000,3000,2200,01-11-2024
+709,Ambala,Naraingarh,Tomato,1000,3000,2200,04-07-2024
+710,Ambala,Naraingarh,Tomato,1000,3000,2200,05-07-2024
+711,Ambala,Naraingarh,Tomato,1000,3000,2200,08-03-2024
+712,Ambala,Naraingarh,Tomato,1000,3000,2200,09-03-2024
+713,Ambala,Naraingarh,Tomato,1000,3000,2200,10-07-2024
+714,Ambala,Naraingarh,Tomato,1000,3000,2500,05-11-2024
+715,Ambala,Naraingarh,Tomato,1000,3500,2000,19-07-2024
+716,Ambala,Naraingarh,Tomato,1000,3500,2500,27-07-2024
+717,Ambala,Naraingarh,Tomato,1000,3500,2800,31-10-2024
+718,Ambala,Naraingarh,Tomato,1000,4000,1800,25-09-2024
+719,Ambala,Naraingarh,Tomato,1000,4000,2200,01-08-2024
+720,Ambala,Naraingarh,Tomato,1000,4000,3000,17-07-2024
+721,Ambala,Naraingarh,Tomato,1000,4500,3000,01-10-2024
+722,Ambala,Naraingarh,Tomato,1100,2000,1700,12-03-2024
+723,Ambala,Naraingarh,Tomato,1100,3800,2200,24-09-2024
+724,Ambala,Naraingarh,Tomato,1150,2000,1700,19-03-2024
+725,Ambala,Naraingarh,Tomato,1200,1700,1500,26-03-2024
+726,Ambala,Naraingarh,Tomato,1200,1800,1600,31-12-2024
+727,Ambala,Naraingarh,Tomato,1200,2000,1500,03-02-2024
+728,Ambala,Naraingarh,Tomato,1200,2000,1500,21-02-2024
+729,Ambala,Naraingarh,Tomato,1200,2000,1500,23-04-2024
+730,Ambala,Naraingarh,Tomato,1200,2000,1500,30-03-2024
+731,Ambala,Naraingarh,Tomato,1200,2000,1600,20-03-2024
+732,Ambala,Naraingarh,Tomato,1200,2000,1700,04-03-2024
+733,Ambala,Naraingarh,Tomato,1200,2000,1700,19-04-2024
+734,Ambala,Naraingarh,Tomato,1200,2000,1700,23-03-2024
+735,Ambala,Naraingarh,Tomato,1200,2000,1700,25-04-2024
+736,Ambala,Naraingarh,Tomato,1200,2000,1800,30-01-2024
+737,Ambala,Naraingarh,Tomato,1200,2200,1800,05-09-2024
+738,Ambala,Naraingarh,Tomato,1200,2200,2000,02-07-2024
+739,Ambala,Naraingarh,Tomato,1200,2500,1800,13-04-2024
+740,Ambala,Naraingarh,Tomato,1200,3000,2000,08-08-2024
+741,Ambala,Naraingarh,Tomato,1200,3000,2000,12-08-2024
+742,Ambala,Naraingarh,Tomato,1200,3000,2000,16-11-2024
+743,Ambala,Naraingarh,Tomato,1200,3500,2500,02-08-2024
+744,Ambala,Naraingarh,Tomato,1200,3500,2700,20-09-2024
+745,Ambala,Naraingarh,Tomato,1200,4000,2200,17-12-2024
+746,Ambala,Naraingarh,Tomato,1200,4000,2500,18-12-2024
+747,Ambala,Naraingarh,Tomato,1200,5000,3500,19-10-2024
+748,Ambala,Naraingarh,Tomato,1300,2500,1600,31-01-2024
+749,Ambala,Naraingarh,Tomato,1300,3000,2400,03-08-2024
+750,Ambala,Naraingarh,Tomato,1400,2500,2000,26-01-2024
+751,Ambala,Naraingarh,Tomato,1500,2000,1600,21-03-2024
+752,Ambala,Naraingarh,Tomato,1500,2000,1600,25-03-2024
+753,Ambala,Naraingarh,Tomato,1500,2000,1700,15-03-2024
+754,Ambala,Naraingarh,Tomato,1500,2000,1800,05-03-2024
+755,Ambala,Naraingarh,Tomato,1500,2000,1800,16-04-2024
+756,Ambala,Naraingarh,Tomato,1500,2000,2000,18-03-2024
+757,Ambala,Naraingarh,Tomato,1500,2200,1800,10-09-2024
+758,Ambala,Naraingarh,Tomato,1500,2200,2000,13-09-2024
+759,Ambala,Naraingarh,Tomato,1500,2200,2000,28-12-2024
+760,Ambala,Naraingarh,Tomato,1500,2500,1800,12-09-2024
+761,Ambala,Naraingarh,Tomato,1500,2500,2000,17-09-2024
+762,Ambala,Naraingarh,Tomato,1500,2500,2200,11-12-2024
+763,Ambala,Naraingarh,Tomato,1500,2500,2200,16-09-2024
+764,Ambala,Naraingarh,Tomato,1500,2800,2400,03-07-2024
+765,Ambala,Naraingarh,Tomato,1500,3000,2000,05-08-2024
+766,Ambala,Naraingarh,Tomato,1500,3000,2000,19-12-2024
+767,Ambala,Naraingarh,Tomato,1500,3000,2000,24-12-2024
+768,Ambala,Naraingarh,Tomato,1500,3000,2200,21-12-2024
+769,Ambala,Naraingarh,Tomato,1500,3000,2200,23-09-2024
+770,Ambala,Naraingarh,Tomato,1500,3000,2200,26-12-2024
+771,Ambala,Naraingarh,Tomato,1500,3000,2500,02-11-2024
+772,Ambala,Naraingarh,Tomato,1500,3000,2500,06-12-2024
+773,Ambala,Naraingarh,Tomato,1500,3000,2500,09-11-2024
+774,Ambala,Naraingarh,Tomato,1500,3000,2500,11-11-2024
+775,Ambala,Naraingarh,Tomato,1500,3000,2500,12-07-2024
+776,Ambala,Naraingarh,Tomato,1500,3000,2500,21-09-2024
+777,Ambala,Naraingarh,Tomato,1500,3000,2500,26-11-2024
+778,Ambala,Naraingarh,Tomato,1500,3000,2500,29-11-2024
+779,Ambala,Naraingarh,Tomato,1500,3500,2300,04-11-2024
+780,Ambala,Naraingarh,Tomato,1500,3500,2500,07-08-2024
+781,Ambala,Naraingarh,Tomato,1500,3500,2800,18-09-2024
+782,Ambala,Naraingarh,Tomato,1500,3500,3000,18-07-2024
+783,Ambala,Naraingarh,Tomato,1500,3500,3000,20-07-2024
+784,Ambala,Naraingarh,Tomato,1500,4000,2200,20-12-2024
+785,Ambala,Naraingarh,Tomato,1500,4000,2500,02-10-2024
+786,Ambala,Naraingarh,Tomato,1500,4000,2500,13-11-2024
+787,Ambala,Naraingarh,Tomato,1500,4000,2500,29-07-2024
+788,Ambala,Naraingarh,Tomato,1500,4000,2500,31-07-2024
+789,Ambala,Naraingarh,Tomato,1500,4000,3000,22-07-2024
+790,Ambala,Naraingarh,Tomato,1500,4000,3000,23-07-2024
+791,Ambala,Naraingarh,Tomato,1500,4000,3000,30-09-2024
+792,Ambala,Naraingarh,Tomato,1500,4200,3000,27-09-2024
+793,Ambala,Naraingarh,Tomato,1500,5000,3000,16-10-2024
+794,Ambala,Naraingarh,Tomato,1500,5000,3500,14-10-2024
+795,Ambala,Naraingarh,Tomato,1550,3000,2000,14-08-2024
+796,Ambala,Naraingarh,Tomato,1600,2500,2000,13-08-2024
+797,Ambala,Naraingarh,Tomato,1600,2500,2000,15-11-2024
+798,Ambala,Naraingarh,Tomato,1600,2500,2000,16-12-2024
+799,Ambala,Naraingarh,Tomato,1600,3000,2500,18-11-2024
+800,Ambala,Naraingarh,Tomato,1600,3000,2500,19-11-2024
+801,Ambala,Naraingarh,Tomato,1600,3500,2200,17-08-2024
+802,Ambala,Naraingarh,Tomato,1700,4000,3000,02-12-2024
+803,Ambala,Naraingarh,Tomato,1800,2200,2050,29-01-2024
+804,Ambala,Naraingarh,Tomato,1800,2500,2000,24-04-2024
+805,Ambala,Naraingarh,Tomato,1800,2500,2200,12-12-2024
+806,Ambala,Naraingarh,Tomato,1800,3000,2200,14-11-2024
+807,Ambala,Naraingarh,Tomato,1800,3000,2200,16-08-2024
+808,Ambala,Naraingarh,Tomato,1800,3000,2500,03-12-2024
+809,Ambala,Naraingarh,Tomato,1800,3000,2500,08-07-2024
+810,Ambala,Naraingarh,Tomato,1800,3000,2500,14-12-2024
+811,Ambala,Naraingarh,Tomato,1800,3000,2500,20-11-2024
+812,Ambala,Naraingarh,Tomato,1800,3000,2700,07-11-2024
+813,Ambala,Naraingarh,Tomato,1800,3000,2700,28-11-2024
+814,Ambala,Naraingarh,Tomato,1800,3300,2200,23-11-2024
+815,Ambala,Naraingarh,Tomato,1800,3300,2500,06-11-2024
+816,Ambala,Naraingarh,Tomato,1800,3500,2850,25-11-2024
+817,Ambala,Naraingarh,Tomato,1800,4000,2500,22-11-2024
+818,Ambala,Naraingarh,Tomato,1800,4000,3000,26-07-2024
+819,Ambala,Naraingarh,Tomato,1800,4000,3000,30-07-2024
+820,Ambala,Naraingarh,Tomato,1800,4000,4000,04-10-2024
+821,Ambala,Naraingarh,Tomato,2000,3000,2200,10-12-2024
+822,Ambala,Naraingarh,Tomato,2000,3000,2300,25-12-2024
+823,Ambala,Naraingarh,Tomato,2000,3000,2400,23-12-2024
+824,Ambala,Naraingarh,Tomato,2000,3000,2400,28-10-2024
+825,Ambala,Naraingarh,Tomato,2000,3000,2500,09-07-2024
+826,Ambala,Naraingarh,Tomato,2000,3000,2500,12-11-2024
+827,Ambala,Naraingarh,Tomato,2000,3000,2700,09-12-2024
+828,Ambala,Naraingarh,Tomato,2000,3000,2700,27-11-2024
+829,Ambala,Naraingarh,Tomato,2000,3300,2800,19-09-2024
+830,Ambala,Naraingarh,Tomato,2000,3300,3000,06-07-2024
+831,Ambala,Naraingarh,Tomato,2000,3500,2500,15-08-2024
+832,Ambala,Naraingarh,Tomato,2000,3500,2700,07-12-2024
+833,Ambala,Naraingarh,Tomato,2000,3500,2800,04-12-2024
+834,Ambala,Naraingarh,Tomato,2000,3500,3000,11-07-2024
+835,Ambala,Naraingarh,Tomato,2000,3500,3000,15-07-2024
+836,Ambala,Naraingarh,Tomato,2000,3500,3200,08-11-2024
+837,Ambala,Naraingarh,Tomato,2000,4000,2500,30-11-2024
+838,Ambala,Naraingarh,Tomato,2000,4000,2800,25-07-2024
+839,Ambala,Naraingarh,Tomato,2000,4000,2800,26-09-2024
+840,Ambala,Naraingarh,Tomato,2000,4000,2800,29-10-2024
+841,Ambala,Naraingarh,Tomato,2000,4000,3000,05-12-2024
+842,Ambala,Naraingarh,Tomato,2000,4000,3000,16-07-2024
+843,Ambala,Naraingarh,Tomato,2000,4000,3200,13-07-2024
+844,Ambala,Naraingarh,Tomato,2000,4500,3800,22-10-2024
+845,Ambala,Naraingarh,Tomato,2000,5000,3200,05-10-2024
+846,Ambala,Naraingarh,Tomato,2000,5000,4000,23-10-2024
+847,Ambala,Naraingarh,Tomato,2000,5000,4000,26-10-2024
+848,Ambala,Naraingarh,Tomato,2200,4000,3500,25-10-2024
+849,Ambala,Naraingarh,Tomato,2500,4200,3000,03-10-2024
+850,Ambala,Naraingarh,Tomato,2500,4500,3500,24-07-2024
+851,Ambala,Naraingarh,Tomato,2500,5000,3500,21-10-2024
+852,Ambala,Naraingarh,Tomato,2500,6000,4500,07-10-2024
+853,Ambala,Naraingarh,Tomato,2500,6000,4500,10-10-2024
+854,Ambala,Naraingarh,Tomato,2700,4000,3200,18-10-2024
+855,Ambala,Naraingarh,Tomato,2700,4000,3500,17-10-2024
+856,Ambala,Naraingarh,Tomato,2700,6000,4000,12-10-2024
+857,Ambala,Naraingarh,Tomato,3000,4000,3400,24-10-2024
+858,Ambala,Naraingarh,Tomato,3000,6000,3800,15-10-2024
+859,Ambala,Naraingarh,Tomato,3000,6000,4800,09-10-2024
+860,Ambala,Naraingarh,Tomato,3000,6000,5000,11-10-2024
+861,Ambala,Naraingarh,Tomato,3500,6000,4500,08-10-2024
+862,Ambala,Shahzadpur,Tomato,500,1000,800,03-06-2024
+863,Ambala,Shahzadpur,Tomato,500,1000,800,11-06-2024
+864,Ambala,Shahzadpur,Tomato,500,1000,1000,01-06-2024
+865,Ambala,Shahzadpur,Tomato,500,1000,1000,04-06-2024
+866,Ambala,Shahzadpur,Tomato,500,1000,1000,13-06-2024
+867,Ambala,Shahzadpur,Tomato,500,1000,1000,21-05-2024
+868,Ambala,Shahzadpur,Tomato,500,1000,1000,31-05-2024
+869,Ambala,Shahzadpur,Tomato,500,1100,1000,08-06-2024
+870,Ambala,Shahzadpur,Tomato,500,1200,600,15-06-2024
+871,Ambala,Shahzadpur,Tomato,500,2000,1500,05-09-2024
+872,Ambala,Shahzadpur,Tomato,600,1000,600,07-06-2024
+873,Ambala,Shahzadpur,Tomato,800,1000,800,25-05-2024
+874,Ambala,Shahzadpur,Tomato,800,1000,1000,06-06-2024
+875,Ambala,Shahzadpur,Tomato,800,1000,1000,12-06-2024
+876,Ambala,Shahzadpur,Tomato,800,1000,1000,14-06-2024
+877,Ambala,Shahzadpur,Tomato,800,1000,1000,16-05-2024
+878,Ambala,Shahzadpur,Tomato,800,1000,1000,17-05-2024
+879,Ambala,Shahzadpur,Tomato,800,1000,1000,18-05-2024
+880,Ambala,Shahzadpur,Tomato,800,1000,1000,22-05-2024
+881,Ambala,Shahzadpur,Tomato,800,1000,1000,27-05-2024
+882,Ambala,Shahzadpur,Tomato,800,1000,1000,29-05-2024
+883,Ambala,Shahzadpur,Tomato,800,1300,1000,20-05-2024
+884,Ambala,Shahzadpur,Tomato,800,1300,1000,23-05-2024
+885,Ambala,Shahzadpur,Tomato,800,1500,1000,28-05-2024
+886,Ambala,Shahzadpur,Tomato,800,1600,1000,11-01-2024
+887,Ambala,Shahzadpur,Tomato,800,2000,1200,10-01-2024
+888,Ambala,Shahzadpur,Tomato,1000,1000,1000,12-01-2024
+889,Ambala,Shahzadpur,Tomato,1000,1000,1000,17-06-2024
+890,Ambala,Shahzadpur,Tomato,1000,1000,1000,24-05-2024
+891,Ambala,Shahzadpur,Tomato,1000,1100,1000,30-05-2024
+892,Ambala,Shahzadpur,Tomato,1000,1200,1000,09-04-2024
+893,Ambala,Shahzadpur,Tomato,1000,1200,1200,15-01-2024
+894,Ambala,Shahzadpur,Tomato,1000,1400,1200,04-01-2024
+895,Ambala,Shahzadpur,Tomato,1000,1500,1000,03-05-2024
+896,Ambala,Shahzadpur,Tomato,1000,1500,1000,08-05-2024
+897,Ambala,Shahzadpur,Tomato,1000,1500,1000,09-02-2024
+898,Ambala,Shahzadpur,Tomato,1000,1500,1000,10-06-2024
+899,Ambala,Shahzadpur,Tomato,1000,1500,1000,11-05-2024
+900,Ambala,Shahzadpur,Tomato,1000,1500,1000,13-05-2024
+901,Ambala,Shahzadpur,Tomato,1000,1500,1000,14-02-2024
+902,Ambala,Shahzadpur,Tomato,1000,1500,1000,14-05-2024
+903,Ambala,Shahzadpur,Tomato,1000,1500,1000,15-05-2024
+904,Ambala,Shahzadpur,Tomato,1000,1500,1100,09-05-2024
+905,Ambala,Shahzadpur,Tomato,1000,1500,1400,01-01-2024
+906,Ambala,Shahzadpur,Tomato,1000,1500,1500,06-03-2024
+907,Ambala,Shahzadpur,Tomato,1000,1500,1500,08-01-2024
+908,Ambala,Shahzadpur,Tomato,1000,1500,1500,09-01-2024
+909,Ambala,Shahzadpur,Tomato,1000,1500,1500,13-02-2024
+910,Ambala,Shahzadpur,Tomato,1000,1500,1500,16-02-2024
+911,Ambala,Shahzadpur,Tomato,1000,1500,1500,18-06-2024
+912,Ambala,Shahzadpur,Tomato,1000,1600,1200,13-01-2024
+913,Ambala,Shahzadpur,Tomato,1000,1600,1500,19-06-2024
+914,Ambala,Shahzadpur,Tomato,1000,1800,1500,03-01-2024
+915,Ambala,Shahzadpur,Tomato,1000,1800,1500,05-01-2024
+916,Ambala,Shahzadpur,Tomato,1000,1800,1500,06-01-2024
+917,Ambala,Shahzadpur,Tomato,1000,1800,1500,25-06-2024
+918,Ambala,Shahzadpur,Tomato,1000,2000,1000,02-05-2024
+919,Ambala,Shahzadpur,Tomato,1000,2000,1000,04-09-2024
+920,Ambala,Shahzadpur,Tomato,1000,2000,1000,06-05-2024
+921,Ambala,Shahzadpur,Tomato,1000,2000,1000,17-01-2024
+922,Ambala,Shahzadpur,Tomato,1000,2000,1000,26-06-2024
+923,Ambala,Shahzadpur,Tomato,1000,2000,1000,28-06-2024
+924,Ambala,Shahzadpur,Tomato,1000,2000,1200,12-02-2024
+925,Ambala,Shahzadpur,Tomato,1000,2000,1500,01-05-2024
+926,Ambala,Shahzadpur,Tomato,1000,2000,1500,04-05-2024
+927,Ambala,Shahzadpur,Tomato,1000,2000,1500,10-05-2024
+928,Ambala,Shahzadpur,Tomato,1000,2000,1500,15-03-2024
+929,Ambala,Shahzadpur,Tomato,1000,2000,1500,18-01-2024
+930,Ambala,Shahzadpur,Tomato,1000,2000,1500,20-02-2024
+931,Ambala,Shahzadpur,Tomato,1000,2000,1500,22-06-2024
+932,Ambala,Shahzadpur,Tomato,1000,2000,1500,29-02-2024
+933,Ambala,Shahzadpur,Tomato,1000,2000,1800,27-08-2024
+934,Ambala,Shahzadpur,Tomato,1000,2000,2000,05-04-2024
+935,Ambala,Shahzadpur,Tomato,1000,2000,2000,05-02-2024
+936,Ambala,Shahzadpur,Tomato,1000,2000,2000,05-03-2024
+937,Ambala,Shahzadpur,Tomato,1000,2000,2000,16-01-2024
+938,Ambala,Shahzadpur,Tomato,1000,2000,2000,17-02-2024
+939,Ambala,Shahzadpur,Tomato,1000,2000,2000,20-01-2024
+940,Ambala,Shahzadpur,Tomato,1000,2000,2000,22-01-2024
+941,Ambala,Shahzadpur,Tomato,1000,2000,2000,23-02-2024
+942,Ambala,Shahzadpur,Tomato,1000,2000,2000,24-04-2024
+943,Ambala,Shahzadpur,Tomato,1000,2000,2000,24-06-2024
+944,Ambala,Shahzadpur,Tomato,1000,2000,2000,28-02-2024
+945,Ambala,Shahzadpur,Tomato,1000,2200,1500,07-09-2024
+946,Ambala,Shahzadpur,Tomato,1000,2200,2000,06-04-2024
+947,Ambala,Shahzadpur,Tomato,1000,2200,2000,19-08-2024
+948,Ambala,Shahzadpur,Tomato,1000,2200,2000,21-03-2024
+949,Ambala,Shahzadpur,Tomato,1000,2200,2000,24-02-2024
+950,Ambala,Shahzadpur,Tomato,1000,2400,2400,28-08-2024
+951,Ambala,Shahzadpur,Tomato,1000,2500,1500,21-08-2024
+952,Ambala,Shahzadpur,Tomato,1000,2500,1500,25-03-2024
+953,Ambala,Shahzadpur,Tomato,1000,2500,2000,14-03-2024
+954,Ambala,Shahzadpur,Tomato,1000,2500,2000,30-01-2024
+955,Ambala,Shahzadpur,Tomato,1000,3000,2000,12-03-2024
+956,Ambala,Shahzadpur,Tomato,1000,3000,2100,14-08-2024
+957,Ambala,Shahzadpur,Tomato,1000,3000,2600,18-09-2024
+958,Ambala,Shahzadpur,Tomato,1000,3100,2000,16-09-2024
+959,Ambala,Shahzadpur,Tomato,1200,1600,1500,19-01-2024
+960,Ambala,Shahzadpur,Tomato,1200,1800,1500,26-02-2024
+961,Ambala,Shahzadpur,Tomato,1200,2000,1500,07-05-2024
+962,Ambala,Shahzadpur,Tomato,1200,2000,1500,19-02-2024
+963,Ambala,Shahzadpur,Tomato,1200,2000,1500,23-01-2024
+964,Ambala,Shahzadpur,Tomato,1200,2000,1500,26-01-2024
+965,Ambala,Shahzadpur,Tomato,1200,2000,2000,06-02-2024
+966,Ambala,Shahzadpur,Tomato,1200,2000,2000,10-04-2024
+967,Ambala,Shahzadpur,Tomato,1200,2000,2000,23-08-2024
+968,Ambala,Shahzadpur,Tomato,1300,2000,1300,15-02-2024
+969,Ambala,Shahzadpur,Tomato,1300,2000,1500,21-06-2024
+970,Ambala,Shahzadpur,Tomato,1300,2100,1500,08-04-2024
+971,Ambala,Shahzadpur,Tomato,1500,1500,1500,29-06-2024
+972,Ambala,Shahzadpur,Tomato,1500,1700,1500,08-02-2024
+973,Ambala,Shahzadpur,Tomato,1500,1800,1800,01-01-2025
+974,Ambala,Shahzadpur,Tomato,1500,2000,1500,01-04-2024
+975,Ambala,Shahzadpur,Tomato,1500,2000,1500,02-02-2024
+976,Ambala,Shahzadpur,Tomato,1500,2000,1500,03-04-2024
+977,Ambala,Shahzadpur,Tomato,1500,2000,1500,07-02-2024
+978,Ambala,Shahzadpur,Tomato,1500,2000,1500,25-01-2024
+979,Ambala,Shahzadpur,Tomato,1500,2000,1600,01-03-2024
+980,Ambala,Shahzadpur,Tomato,1500,2000,1800,06-09-2024
+981,Ambala,Shahzadpur,Tomato,1500,2000,1800,31-08-2024
+982,Ambala,Shahzadpur,Tomato,1500,2000,2000,02-04-2024
+983,Ambala,Shahzadpur,Tomato,1500,2000,2000,03-09-2024
+984,Ambala,Shahzadpur,Tomato,1500,2000,2000,08-03-2024
+985,Ambala,Shahzadpur,Tomato,1500,2000,2000,09-09-2024
+986,Ambala,Shahzadpur,Tomato,1500,2000,2000,13-03-2024
+987,Ambala,Shahzadpur,Tomato,1500,2000,2000,22-04-2024
+988,Ambala,Shahzadpur,Tomato,1500,2000,2000,22-08-2024
+989,Ambala,Shahzadpur,Tomato,1500,2000,2000,22-03-2024
+990,Ambala,Shahzadpur,Tomato,1500,2000,2000,24-01-2024
+991,Ambala,Shahzadpur,Tomato,1500,2000,2000,26-04-2024
+992,Ambala,Shahzadpur,Tomato,1500,2000,2000,26-08-2024
+993,Ambala,Shahzadpur,Tomato,1500,2000,2000,27-02-2024
+994,Ambala,Shahzadpur,Tomato,1500,2000,2000,27-06-2024
+995,Ambala,Shahzadpur,Tomato,1500,2000,2000,29-04-2024
+996,Ambala,Shahzadpur,Tomato,1500,2000,2000,29-01-2024
+997,Ambala,Shahzadpur,Tomato,1500,2000,2000,30-04-2024
+998,Ambala,Shahzadpur,Tomato,1500,2000,2000,30-08-2024
+999,Ambala,Shahzadpur,Tomato,1500,2000,2000,30-03-2024
+1000,Ambala,Shahzadpur,Tomato,1500,2100,1700,30-12-2024
+1001,Ambala,Shahzadpur,Tomato,1500,2100,2000,03-02-2024
+1002,Ambala,Shahzadpur,Tomato,1500,2100,2000,10-09-2024
+1003,Ambala,Shahzadpur,Tomato,1500,2100,2000,14-09-2024
+1004,Ambala,Shahzadpur,Tomato,1500,2200,1500,21-02-2024
+1005,Ambala,Shahzadpur,Tomato,1500,2200,1500,29-08-2024
+1006,Ambala,Shahzadpur,Tomato,1500,2200,1500,29-03-2024
+1007,Ambala,Shahzadpur,Tomato,1500,2200,2000,09-03-2024
+1008,Ambala,Shahzadpur,Tomato,1500,2200,2000,27-04-2024
+1009,Ambala,Shahzadpur,Tomato,1500,2200,2000,31-01-2024
+1010,Ambala,Shahzadpur,Tomato,1500,2300,2000,22-02-2024
+1011,Ambala,Shahzadpur,Tomato,1500,2500,1500,04-03-2024
+1012,Ambala,Shahzadpur,Tomato,1500,2500,2000,01-02-2024
+1013,Ambala,Shahzadpur,Tomato,1500,2500,2000,02-09-2024
+1014,Ambala,Shahzadpur,Tomato,1500,2500,2000,11-04-2024
+1015,Ambala,Shahzadpur,Tomato,1500,2500,2000,11-03-2024
+1016,Ambala,Shahzadpur,Tomato,1500,2500,2000,11-09-2024
+1017,Ambala,Shahzadpur,Tomato,1500,2500,2000,18-04-2024
+1018,Ambala,Shahzadpur,Tomato,1500,2500,2000,20-03-2024
+1019,Ambala,Shahzadpur,Tomato,1500,2500,2500,20-06-2024
+1020,Ambala,Shahzadpur,Tomato,1500,2800,2000,07-03-2024
+1021,Ambala,Shahzadpur,Tomato,1500,2800,2000,12-09-2024
+1022,Ambala,Shahzadpur,Tomato,1500,2800,2000,23-09-2024
+1023,Ambala,Shahzadpur,Tomato,1500,3000,2000,02-08-2024
+1024,Ambala,Shahzadpur,Tomato,1500,3000,2000,13-12-2024
+1025,Ambala,Shahzadpur,Tomato,1500,3000,2000,16-03-2024
+1026,Ambala,Shahzadpur,Tomato,1500,3000,2100,24-08-2024
+1027,Ambala,Shahzadpur,Tomato,1500,4000,2000,08-07-2024
+1028,Ambala,Shahzadpur,Tomato,1600,3000,2000,27-03-2024
+1029,Ambala,Shahzadpur,Tomato,1800,2000,2000,18-11-2024
+1030,Ambala,Shahzadpur,Tomato,1800,2000,2000,23-03-2024
+1031,Ambala,Shahzadpur,Tomato,1900,2200,2200,27-01-2024
+1032,Ambala,Shahzadpur,Tomato,2000,2000,2000,01-08-2024
+1033,Ambala,Shahzadpur,Tomato,2000,2000,2000,03-07-2024
+1034,Ambala,Shahzadpur,Tomato,2000,2000,2000,09-08-2024
+1035,Ambala,Shahzadpur,Tomato,2000,2000,2000,14-12-2024
+1036,Ambala,Shahzadpur,Tomato,2000,2000,2000,15-08-2024
+1037,Ambala,Shahzadpur,Tomato,2000,2000,2000,16-04-2024
+1038,Ambala,Shahzadpur,Tomato,2000,2000,2000,17-04-2024
+1039,Ambala,Shahzadpur,Tomato,2000,2000,2000,20-04-2024
+1040,Ambala,Shahzadpur,Tomato,2000,2000,2000,22-11-2024
+1041,Ambala,Shahzadpur,Tomato,2000,2000,2000,23-04-2024
+1042,Ambala,Shahzadpur,Tomato,2000,2000,2000,27-07-2024
+1043,Ambala,Shahzadpur,Tomato,2000,2000,2000,30-07-2024
+1044,Ambala,Shahzadpur,Tomato,2000,2100,2000,20-08-2024
+1045,Ambala,Shahzadpur,Tomato,2000,2300,2000,25-11-2024
+1046,Ambala,Shahzadpur,Tomato,2000,2300,2300,31-12-2024
+1047,Ambala,Shahzadpur,Tomato,2000,2400,2000,12-08-2024
+1048,Ambala,Shahzadpur,Tomato,2000,2500,2000,08-08-2024
+1049,Ambala,Shahzadpur,Tomato,2000,2500,2000,11-12-2024
+1050,Ambala,Shahzadpur,Tomato,2000,2500,2000,13-09-2024
+1051,Ambala,Shahzadpur,Tomato,2000,2500,2000,15-04-2024
+1052,Ambala,Shahzadpur,Tomato,2000,2500,2000,18-03-2024
+1053,Ambala,Shahzadpur,Tomato,2000,2500,2000,24-12-2024
+1054,Ambala,Shahzadpur,Tomato,2000,2500,2000,25-04-2024
+1055,Ambala,Shahzadpur,Tomato,2000,2500,2000,26-12-2024
+1056,Ambala,Shahzadpur,Tomato,2000,2500,2200,12-12-2024
+1057,Ambala,Shahzadpur,Tomato,2000,2500,2500,02-07-2024
+1058,Ambala,Shahzadpur,Tomato,2000,2500,2500,12-04-2024
+1059,Ambala,Shahzadpur,Tomato,2000,2500,2500,26-09-2024
+1060,Ambala,Shahzadpur,Tomato,2000,2600,2000,07-08-2024
+1061,Ambala,Shahzadpur,Tomato,2000,2600,2000,19-04-2024
+1062,Ambala,Shahzadpur,Tomato,2000,2600,2000,19-03-2024
+1063,Ambala,Shahzadpur,Tomato,2000,2600,2000,30-11-2024
+1064,Ambala,Shahzadpur,Tomato,2000,2700,2000,04-12-2024
+1065,Ambala,Shahzadpur,Tomato,2000,2700,2000,05-11-2024
+1066,Ambala,Shahzadpur,Tomato,2000,2700,2000,21-12-2024
+1067,Ambala,Shahzadpur,Tomato,2000,2700,2700,25-12-2024
+1068,Ambala,Shahzadpur,Tomato,2000,2800,2000,16-08-2024
+1069,Ambala,Shahzadpur,Tomato,2000,2800,2000,21-11-2024
+1070,Ambala,Shahzadpur,Tomato,2000,2800,2000,28-12-2024
+1071,Ambala,Shahzadpur,Tomato,2000,2900,2000,09-10-2024
+1072,Ambala,Shahzadpur,Tomato,2000,3000,2000,02-12-2024
+1073,Ambala,Shahzadpur,Tomato,2000,3000,2000,03-08-2024
+1074,Ambala,Shahzadpur,Tomato,2000,3000,2000,04-07-2024
+1075,Ambala,Shahzadpur,Tomato,2000,3000,2000,05-08-2024
+1076,Ambala,Shahzadpur,Tomato,2000,3000,2000,06-08-2024
+1077,Ambala,Shahzadpur,Tomato,2000,3000,2000,13-08-2024
+1078,Ambala,Shahzadpur,Tomato,2000,3000,2000,13-11-2024
+1079,Ambala,Shahzadpur,Tomato,2000,3000,2000,14-11-2024
+1080,Ambala,Shahzadpur,Tomato,2000,3000,2000,15-11-2024
+1081,Ambala,Shahzadpur,Tomato,2000,3000,2000,16-12-2024
+1082,Ambala,Shahzadpur,Tomato,2000,3000,2000,17-08-2024
+1083,Ambala,Shahzadpur,Tomato,2000,3000,2000,18-12-2024
+1084,Ambala,Shahzadpur,Tomato,2000,3000,2000,19-07-2024
+1085,Ambala,Shahzadpur,Tomato,2000,3000,2000,20-09-2024
+1086,Ambala,Shahzadpur,Tomato,2000,3000,2000,23-12-2024
+1087,Ambala,Shahzadpur,Tomato,2000,3000,2000,25-09-2024
+1088,Ambala,Shahzadpur,Tomato,2000,3000,2000,27-12-2024
+1089,Ambala,Shahzadpur,Tomato,2000,3000,2000,31-07-2024
+1090,Ambala,Shahzadpur,Tomato,2000,3000,2200,17-09-2024
+1091,Ambala,Shahzadpur,Tomato,2000,3000,2500,03-12-2024
+1092,Ambala,Shahzadpur,Tomato,2000,3000,2500,12-07-2024
+1093,Ambala,Shahzadpur,Tomato,2000,3000,2500,19-09-2024
+1094,Ambala,Shahzadpur,Tomato,2000,3000,2500,20-12-2024
+1095,Ambala,Shahzadpur,Tomato,2000,3000,2500,24-09-2024
+1096,Ambala,Shahzadpur,Tomato,2000,3000,2800,19-12-2024
+1097,Ambala,Shahzadpur,Tomato,2000,3000,2800,28-09-2024
+1098,Ambala,Shahzadpur,Tomato,2000,3000,2900,06-12-2024
+1099,Ambala,Shahzadpur,Tomato,2000,3000,2900,09-11-2024
+1100,Ambala,Shahzadpur,Tomato,2000,3000,2900,19-10-2024
+1101,Ambala,Shahzadpur,Tomato,2000,3000,3000,02-11-2024
+1102,Ambala,Shahzadpur,Tomato,2000,3000,3000,06-07-2024
+1103,Ambala,Shahzadpur,Tomato,2000,3000,3000,09-12-2024
+1104,Ambala,Shahzadpur,Tomato,2000,3000,3000,09-07-2024
+1105,Ambala,Shahzadpur,Tomato,2000,3000,3000,10-07-2024
+1106,Ambala,Shahzadpur,Tomato,2000,3000,3000,11-07-2024
+1107,Ambala,Shahzadpur,Tomato,2000,3000,3000,11-11-2024
+1108,Ambala,Shahzadpur,Tomato,2000,3000,3000,11-10-2024
+1109,Ambala,Shahzadpur,Tomato,2000,3000,3000,15-07-2024
+1110,Ambala,Shahzadpur,Tomato,2000,3000,3000,17-12-2024
+1111,Ambala,Shahzadpur,Tomato,2000,3000,3000,22-07-2024
+1112,Ambala,Shahzadpur,Tomato,2000,3000,3000,23-07-2024
+1113,Ambala,Shahzadpur,Tomato,2000,3000,3000,27-09-2024
+1114,Ambala,Shahzadpur,Tomato,2000,3000,3000,29-10-2024
+1115,Ambala,Shahzadpur,Tomato,2000,3100,2000,10-08-2024
+1116,Ambala,Shahzadpur,Tomato,2000,3200,2000,08-11-2024
+1117,Ambala,Shahzadpur,Tomato,2000,3200,2000,10-12-2024
+1118,Ambala,Shahzadpur,Tomato,2000,3200,3200,24-10-2024
+1119,Ambala,Shahzadpur,Tomato,2000,3200,3200,31-10-2024
+1120,Ambala,Shahzadpur,Tomato,2000,3300,3300,07-11-2024
+1121,Ambala,Shahzadpur,Tomato,2000,3500,2000,01-11-2024
+1122,Ambala,Shahzadpur,Tomato,2000,3500,2000,21-09-2024
+1123,Ambala,Shahzadpur,Tomato,2000,3500,3000,10-10-2024
+1124,Ambala,Shahzadpur,Tomato,2000,3500,3000,17-07-2024
+1125,Ambala,Shahzadpur,Tomato,2000,3500,3000,25-07-2024
+1126,Ambala,Shahzadpur,Tomato,2000,3600,2000,30-09-2024
+1127,Ambala,Shahzadpur,Tomato,2000,3600,3000,12-10-2024
+1128,Ambala,Shahzadpur,Tomato,2000,4000,2000,16-07-2024
+1129,Ambala,Shahzadpur,Tomato,2000,4000,2000,18-07-2024
+1130,Ambala,Shahzadpur,Tomato,2000,4000,2000,19-11-2024
+1131,Ambala,Shahzadpur,Tomato,2000,4000,2000,22-10-2024
+1132,Ambala,Shahzadpur,Tomato,2000,4000,2000,25-10-2024
+1133,Ambala,Shahzadpur,Tomato,2000,4000,2500,23-11-2024
+1134,Ambala,Shahzadpur,Tomato,2000,4000,2800,01-10-2024
+1135,Ambala,Shahzadpur,Tomato,2000,4000,3000,15-10-2024
+1136,Ambala,Shahzadpur,Tomato,2000,4000,3000,26-07-2024
+1137,Ambala,Shahzadpur,Tomato,2000,4000,3000,28-10-2024
+1138,Ambala,Shahzadpur,Tomato,2000,4000,3000,29-07-2024
+1139,Ambala,Shahzadpur,Tomato,2000,4000,3200,18-10-2024
+1140,Ambala,Shahzadpur,Tomato,2000,4000,4000,05-12-2024
+1141,Ambala,Shahzadpur,Tomato,2000,4200,3000,05-10-2024
+1142,Ambala,Shahzadpur,Tomato,2000,5000,2000,07-10-2024
+1143,Ambala,Shahzadpur,Tomato,2000,5500,3000,03-10-2024
+1144,Ambala,Shahzadpur,Tomato,2100,2500,2500,13-04-2024
+1145,Ambala,Shahzadpur,Tomato,2100,3000,3000,29-11-2024
+1146,Ambala,Shahzadpur,Tomato,2300,3000,2300,27-11-2024
+1147,Ambala,Shahzadpur,Tomato,2500,3000,2500,05-07-2024
+1148,Ambala,Shahzadpur,Tomato,2700,3000,3000,26-11-2024
+1149,Ambala,Shahzadpur,Tomato,2800,3000,3000,13-07-2024
+1150,Ambala,Shahzadpur,Tomato,3000,3000,3000,04-10-2024
+1151,Ambala,Shahzadpur,Tomato,3000,3000,3000,12-11-2024
+1152,Ambala,Shahzadpur,Tomato,3000,3000,3000,28-11-2024
+1153,Ambala,Shahzadpur,Tomato,3000,3100,3000,23-10-2024
+1154,Ambala,Shahzadpur,Tomato,3000,3200,3000,20-11-2024
+1155,Ambala,Shahzadpur,Tomato,3000,3300,3000,06-11-2024
+1156,Ambala,Shahzadpur,Tomato,3000,3500,3000,24-07-2024
+1157,Ambala,Shahzadpur,Tomato,3000,3600,3000,14-10-2024
+1158,Ambala,Shahzadpur,Tomato,3000,3600,3000,20-07-2024
+1159,Ambala,Shahzadpur,Tomato,3000,3600,3000,21-10-2024
+1160,Ambala,Shahzadpur,Tomato,3000,3800,3000,04-11-2024
+1161,Ambala,Shahzadpur,Tomato,3000,4000,3000,02-10-2024
+1162,Ambala,Shahzadpur,Tomato,3000,4000,4000,17-10-2024
+1163,Ambala,Shahzadpur,Tomato,3000,4100,4000,26-10-2024
+1164,Ambala,Shahzadpur,Tomato,3000,5000,3000,16-10-2024
+1165,Ambala,Shahzadpur,Tomato,3600,3600,3600,07-12-2024

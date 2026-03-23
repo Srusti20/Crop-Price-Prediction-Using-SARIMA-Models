@@ -1,0 +1,461 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Hingoli,Akhadabalapur,Turmeric,10000,12000,11000,02-08-2024
+2,Hingoli,Akhadabalapur,Turmeric,14000,16000,15000,24-05-2024
+3,Hingoli,Akhadabalapur,Turmeric,15000,16000,15500,10-05-2024
+4,Hingoli,Basmat,Turmeric,7000,15390,11195,28-02-2024
+5,Hingoli,Basmat,Turmeric,7005,13700,10352,15-01-2024
+6,Hingoli,Basmat,Turmeric,8000,16000,12000,04-01-2024
+7,Hingoli,Basmat,Turmeric,8000,17505,12752,19-03-2024
+8,Hingoli,Basmat,Turmeric,8205,14140,11172,01-01-2024
+9,Hingoli,Basmat,Turmeric,8505,15000,11752,20-02-2024
+10,Hingoli,Basmat,Turmeric,8505,15000,11752,23-01-2024
+11,Hingoli,Basmat,Turmeric,9000,14450,11725,12-02-2024
+12,Hingoli,Basmat,Turmeric,9000,16000,12500,15-04-2024
+13,Hingoli,Basmat,Turmeric,9200,14000,11600,23-02-2024
+14,Hingoli,Basmat,Turmeric,9200,15010,12105,24-01-2024
+15,Hingoli,Basmat,Turmeric,9300,13900,11600,21-02-2024
+16,Hingoli,Basmat,Turmeric,9500,15025,12262,02-02-2024
+17,Hingoli,Basmat,Turmeric,9500,16500,13000,01-02-2024
+18,Hingoli,Basmat,Turmeric,9505,18300,13902,22-03-2024
+19,Hingoli,Basmat,Turmeric,9705,14276,11990,18-01-2024
+20,Hingoli,Basmat,Turmeric,10000,13000,11500,05-01-2024
+21,Hingoli,Basmat,Turmeric,10000,14700,12350,29-08-2024
+22,Hingoli,Basmat,Turmeric,10000,15005,12502,26-09-2024
+23,Hingoli,Basmat,Turmeric,10000,15100,12550,25-11-2024
+24,Hingoli,Basmat,Turmeric,10000,15900,12950,06-08-2024
+25,Hingoli,Basmat,Turmeric,10000,18205,14102,18-03-2024
+26,Hingoli,Basmat,Turmeric,10000,18505,14252,27-03-2024
+27,Hingoli,Basmat,Turmeric,10005,14000,12002,26-11-2024
+28,Hingoli,Basmat,Turmeric,10005,15410,12707,09-12-2024
+29,Hingoli,Basmat,Turmeric,10005,15600,12802,10-12-2024
+30,Hingoli,Basmat,Turmeric,10100,14605,12352,28-08-2024
+31,Hingoli,Basmat,Turmeric,10500,14000,12250,25-10-2024
+32,Hingoli,Basmat,Turmeric,10505,15200,12852,04-10-2024
+33,Hingoli,Basmat,Turmeric,10600,15065,12832,21-11-2024
+34,Hingoli,Basmat,Turmeric,10600,20000,15300,15-03-2024
+35,Hingoli,Basmat,Turmeric,10605,13705,12155,19-12-2024
+36,Hingoli,Basmat,Turmeric,10700,14000,12350,05-11-2024
+37,Hingoli,Basmat,Turmeric,10890,17690,14290,16-03-2024
+38,Hingoli,Basmat,Turmeric,11000,14400,12700,23-12-2024
+39,Hingoli,Basmat,Turmeric,11000,14500,12750,11-11-2024
+40,Hingoli,Basmat,Turmeric,11000,15390,13195,21-10-2024
+41,Hingoli,Basmat,Turmeric,11000,16000,13500,15-07-2024
+42,Hingoli,Basmat,Turmeric,11000,16500,13750,27-06-2024
+43,Hingoli,Basmat,Turmeric,11205,14400,12802,17-12-2024
+44,Hingoli,Basmat,Turmeric,11500,15000,13250,08-11-2024
+45,Hingoli,Basmat,Turmeric,11500,15105,13302,13-12-2024
+46,Hingoli,Basmat,Turmeric,11600,14405,13002,03-12-2024
+47,Hingoli,Basmat,Turmeric,11605,16000,13802,31-12-2024
+48,Hingoli,Basmat,Turmeric,11800,14005,12902,12-12-2024
+49,Hingoli,Basmat,Turmeric,11800,14570,13185,20-12-2024
+50,Hingoli,Basmat,Turmeric,11800,15500,13650,29-11-2024
+51,Hingoli,Basmat,Turmeric,11890,16000,13945,04-09-2024
+52,Hingoli,Basmat,Turmeric,11950,15900,13925,30-07-2024
+53,Hingoli,Basmat,Turmeric,12000,15000,13500,22-08-2024
+54,Hingoli,Basmat,Turmeric,12000,15030,13515,27-09-2024
+55,Hingoli,Basmat,Turmeric,12000,16500,14250,10-07-2024
+56,Hingoli,Basmat,Turmeric,12000,16910,14455,10-06-2024
+57,Hingoli,Basmat,Turmeric,12000,21600,16800,12-03-2024
+58,Hingoli,Basmat,Turmeric,12395,16625,14510,02-07-2024
+59,Hingoli,Basmat,Turmeric,12400,14775,13587,20-09-2024
+60,Hingoli,Basmat,Turmeric,12400,16100,14250,22-07-2024
+61,Hingoli,Basmat,Turmeric,12400,17000,14700,25-07-2024
+62,Hingoli,Basmat,Turmeric,12500,13805,13152,30-09-2024
+63,Hingoli,Basmat,Turmeric,12500,14505,13502,10-09-2024
+64,Hingoli,Basmat,Turmeric,12500,17000,14750,07-05-2024
+65,Hingoli,Basmat,Turmeric,12500,20200,16350,29-04-2024
+66,Hingoli,Basmat,Turmeric,13000,16695,14847,14-05-2024
+67,Hingoli,Basmat,Turmeric,13005,17380,15192,06-05-2024
+68,Hingoli,Basmat,Turmeric,13195,17790,15492,10-05-2024
+69,Hingoli,Basmat,Turmeric,13200,17800,15500,19-04-2024
+70,Hingoli,Basmat,Turmeric,13295,17205,15250,13-05-2024
+71,Hingoli,Basmat,Turmeric,13300,16000,14650,09-09-2024
+72,Hingoli,Basmat,Turmeric,13350,15800,14545,05-08-2024
+73,Hingoli,Basmat,Turmeric,13500,18205,15852,25-04-2024
+74,Hingoli,Basmat,Turmeric,13505,19000,16252,22-04-2024
+75,Hingoli,Basmat,Turmeric,14100,18100,16100,03-05-2024
+76,Hingoli,Basmat,Turmeric,14250,17890,16070,09-05-2024
+77,Hingoli,Basmat,Turmeric,14500,16000,15250,04-06-2024
+78,Hingoli,Basmat,Turmeric,14500,17475,15987,04-05-2024
+79,Hingoli,Basmat,Turmeric,14500,19500,15700,05-04-2024
+80,Hingoli,Basmat,Turmeric,15500,17237,16368,24-05-2024
+81,Hingoli,Basmat,Turmeric,15700,17555,16628,27-05-2024
+82,Hingoli,Basmat(Kurunda),Turmeric,11000,16000,14500,15-06-2024
+83,Hingoli,Basmat(Kurunda),Turmeric,12000,16800,15200,16-03-2024
+84,Hingoli,Basmat(Kurunda),Turmeric,12500,15910,15000,29-06-2024
+85,Hingoli,Basmat(Kurunda),Turmeric,13000,14500,13700,02-03-2024
+86,Hingoli,Basmat(Kurunda),Turmeric,13000,15710,14200,01-08-2024
+87,Hingoli,Basmat(Kurunda),Turmeric,13000,19900,15690,23-03-2024
+88,Hingoli,Basmat(Kurunda),Turmeric,13600,15600,14600,13-07-2024
+89,Hingoli,Basmat(Kurunda),Turmeric,13800,18400,16500,04-05-2024
+90,Hingoli,Basmat(Kurunda),Turmeric,13820,17405,15950,30-03-2024
+91,Hingoli,Basmat(Kurunda),Turmeric,14710,17000,15800,01-06-2024
+92,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,4150,4650,4563,24-12-2024
+93,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,4250,4650,4480,20-12-2024
+94,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,7900,16200,12580,28-06-2024
+95,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,11000,17400,15741,25-04-2024
+96,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,11500,13500,12501,18-09-2024
+97,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12000,17500,14280,16-04-2024
+98,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,14300,13615,14-09-2024
+99,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,14500,13594,05-09-2024
+100,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,14900,13347,19-08-2024
+101,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16000,14231,15-04-2024
+102,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16000,14796,13-04-2024
+103,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16000,14837,17-07-2024
+104,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16500,13685,07-06-2024
+105,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16500,14001,06-08-2024
+106,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16500,14422,05-08-2024
+107,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16800,15031,08-06-2024
+108,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12500,16800,15225,22-10-2024
+109,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12800,16100,15356,20-09-2024
+110,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12800,17500,14748,19-04-2024
+111,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12800,17500,15177,18-04-2024
+112,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,12850,15425,13000,07-08-2024
+113,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13125,15120,14101,16-08-2024
+114,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13125,15245,13926,20-08-2024
+115,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13325,15150,13936,14-08-2024
+116,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,15500,14357,24-08-2024
+117,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,15500,14925,09-07-2024
+118,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,15500,14984,18-07-2024
+119,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,15800,14410,15-08-2024
+120,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,16000,14701,22-07-2024
+121,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,16000,14715,19-07-2024
+122,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,16000,14818,20-07-2024
+123,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,16500,15427,29-07-2024
+124,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,16800,14718,05-07-2024
+125,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,16800,14898,12-07-2024
+126,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,17500,15716,27-04-2024
+127,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,17885,15342,06-04-2024
+128,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13500,17885,15435,08-04-2024
+129,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13700,17000,14780,17-04-2024
+130,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13800,16125,14694,02-08-2024
+131,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13800,16400,15633,14-05-2024
+132,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13900,17000,15144,20-04-2024
+133,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13900,17000,15286,22-04-2024
+134,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13900,17000,15752,24-04-2024
+135,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13900,17000,16050,23-04-2024
+136,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,13990,17855,15288,05-04-2024
+137,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14200,15785,15155,10-07-2024
+138,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14255,15400,14919,27-06-2024
+139,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14300,15325,14701,08-07-2024
+140,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14405,17210,15588,21-03-2024
+141,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,16300,14929,14-06-2024
+142,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,16300,15269,13-06-2024
+143,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,16300,15631,17-06-2024
+144,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,16800,14712,26-06-2024
+145,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,16800,15156,01-07-2024
+146,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,16800,15485,18-06-2024
+147,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17000,15596,16-05-2024
+148,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17000,15616,17-05-2024
+149,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17000,15664,15-05-2024
+150,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17000,16452,26-07-2024
+151,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17400,15375,23-05-2024
+152,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17400,15732,24-05-2024
+153,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14500,17500,16747,29-06-2024
+154,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14605,18500,14751,02-04-2024
+155,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14605,18500,14779,04-04-2024
+156,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14605,18500,15139,03-04-2024
+157,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14700,16490,15617,13-05-2024
+158,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14700,16490,15674,11-05-2024
+159,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14700,16490,15795,09-05-2024
+160,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14700,16490,15891,10-05-2024
+161,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16070,15071,12-06-2024
+162,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16070,15197,10-06-2024
+163,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16070,15425,11-06-2024
+164,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16100,15169,21-05-2024
+165,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16100,15183,22-05-2024
+166,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16100,15304,18-05-2024
+167,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,16100,15353,20-05-2024
+168,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,15744,05-06-2024
+169,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,15905,29-05-2024
+170,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16083,04-06-2024
+171,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16203,06-06-2024
+172,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16376,01-06-2024
+173,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16454,28-05-2024
+174,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16553,31-05-2024
+175,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16719,30-05-2024
+176,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14800,17400,16723,03-06-2024
+177,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14850,16450,15451,21-06-2024
+178,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14850,16450,15700,19-06-2024
+179,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14850,17400,15981,27-05-2024
+180,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14850,17400,16193,25-05-2024
+181,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14900,17000,15913,08-05-2024
+182,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,14900,17000,16177,07-05-2024
+183,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15000,17005,16082,06-05-2024
+184,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15000,17405,15845,01-05-2024
+185,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15000,17405,16096,02-05-2024
+186,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15000,17405,16180,03-05-2024
+187,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15000,17405,16216,04-05-2024
+188,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15100,17605,15514,29-04-2024
+189,Hingoli,Gajanan Krushi Utpanna Bazar (India) Pvt Ltd ,Turmeric,15100,17605,16050,30-04-2024
+190,Hingoli,Hingoli,Turmeric,9880,11680,10780,19-01-2024
+191,Hingoli,Hingoli,Turmeric,9880,11780,10830,17-01-2024
+192,Hingoli,Hingoli,Turmeric,9890,11555,10722,03-01-2024
+193,Hingoli,Hingoli,Turmeric,9999,11990,10994,12-01-2024
+194,Hingoli,Hingoli,Turmeric,10000,11900,10950,10-01-2024
+195,Hingoli,Hingoli,Turmeric,10100,12300,11200,08-01-2024
+196,Hingoli,Hingoli,Turmeric,10500,12555,11527,01-01-2024
+197,Hingoli,Hingoli,Turmeric,10550,12350,11450,05-01-2024
+198,Hingoli,Hingoli,Turmeric,11000,13000,12000,11-10-2024
+199,Hingoli,Hingoli,Turmeric,11000,13000,12000,28-08-2024
+200,Hingoli,Hingoli,Turmeric,11000,13155,12077,10-10-2024
+201,Hingoli,Hingoli,Turmeric,11000,13290,12145,05-11-2024
+202,Hingoli,Hingoli,Turmeric,11000,13300,12150,20-12-2024
+203,Hingoli,Hingoli,Turmeric,11000,13500,12250,09-12-2024
+204,Hingoli,Hingoli,Turmeric,11000,13600,12300,29-01-2024
+205,Hingoli,Hingoli,Turmeric,11100,13200,12150,24-10-2024
+206,Hingoli,Hingoli,Turmeric,11100,13220,12160,04-11-2024
+207,Hingoli,Hingoli,Turmeric,11100,13360,12230,25-12-2024
+208,Hingoli,Hingoli,Turmeric,11100,13400,12250,23-12-2024
+209,Hingoli,Hingoli,Turmeric,11100,13800,12450,21-08-2024
+210,Hingoli,Hingoli,Turmeric,11200,13330,12265,21-10-2024
+211,Hingoli,Hingoli,Turmeric,11200,13350,12275,25-10-2024
+212,Hingoli,Hingoli,Turmeric,11200,13500,12350,27-12-2024
+213,Hingoli,Hingoli,Turmeric,11250,13000,12125,13-11-2024
+214,Hingoli,Hingoli,Turmeric,11300,13400,12350,26-12-2024
+215,Hingoli,Hingoli,Turmeric,11300,13450,11375,23-10-2024
+216,Hingoli,Hingoli,Turmeric,11300,13500,12400,07-11-2024
+217,Hingoli,Hingoli,Turmeric,11300,13500,12400,14-10-2024
+218,Hingoli,Hingoli,Turmeric,11300,13500,12400,17-12-2024
+219,Hingoli,Hingoli,Turmeric,11300,13700,12500,04-12-2024
+220,Hingoli,Hingoli,Turmeric,11300,13800,12550,11-11-2024
+221,Hingoli,Hingoli,Turmeric,11350,13500,12425,12-02-2024
+222,Hingoli,Hingoli,Turmeric,11381,13400,12390,22-10-2024
+223,Hingoli,Hingoli,Turmeric,11450,13700,12575,12-11-2024
+224,Hingoli,Hingoli,Turmeric,11500,13300,12400,09-10-2024
+225,Hingoli,Hingoli,Turmeric,11500,13300,12400,29-08-2024
+226,Hingoli,Hingoli,Turmeric,11500,13390,12445,22-08-2024
+227,Hingoli,Hingoli,Turmeric,11500,13490,12495,18-10-2024
+228,Hingoli,Hingoli,Turmeric,11500,13500,12500,02-12-2024
+229,Hingoli,Hingoli,Turmeric,11500,13500,12500,17-10-2024
+230,Hingoli,Hingoli,Turmeric,11500,13600,12550,16-12-2024
+231,Hingoli,Hingoli,Turmeric,11500,13600,12550,19-12-2024
+232,Hingoli,Hingoli,Turmeric,11500,13700,12600,18-12-2024
+233,Hingoli,Hingoli,Turmeric,11500,13800,12650,02-02-2024
+234,Hingoli,Hingoli,Turmeric,11500,13800,12650,06-11-2024
+235,Hingoli,Hingoli,Turmeric,11500,13800,12650,13-12-2024
+236,Hingoli,Hingoli,Turmeric,11500,13800,12650,24-12-2024
+237,Hingoli,Hingoli,Turmeric,11500,13900,12700,14-02-2024
+238,Hingoli,Hingoli,Turmeric,11500,13941,12720,24-01-2024
+239,Hingoli,Hingoli,Turmeric,11500,14100,12800,31-01-2024
+240,Hingoli,Hingoli,Turmeric,11500,14300,12900,20-08-2024
+241,Hingoli,Hingoli,Turmeric,11500,14300,12900,27-11-2024
+242,Hingoli,Hingoli,Turmeric,11550,13650,12600,23-08-2024
+243,Hingoli,Hingoli,Turmeric,11550,14100,12825,25-11-2024
+244,Hingoli,Hingoli,Turmeric,11600,13890,12745,11-12-2024
+245,Hingoli,Hingoli,Turmeric,11600,14000,12800,26-11-2024
+246,Hingoli,Hingoli,Turmeric,11620,13600,12610,03-12-2024
+247,Hingoli,Hingoli,Turmeric,11680,14000,12840,30-08-2024
+248,Hingoli,Hingoli,Turmeric,11700,13600,12650,05-12-2024
+249,Hingoli,Hingoli,Turmeric,11800,13900,12850,26-09-2024
+250,Hingoli,Hingoli,Turmeric,11800,13981,12890,12-09-2024
+251,Hingoli,Hingoli,Turmeric,11825,13955,12890,23-09-2024
+252,Hingoli,Hingoli,Turmeric,11850,13205,12527,08-11-2024
+253,Hingoli,Hingoli,Turmeric,11900,13940,12920,10-09-2024
+254,Hingoli,Hingoli,Turmeric,11900,14000,12950,13-09-2024
+255,Hingoli,Hingoli,Turmeric,11980,14050,13015,27-09-2024
+256,Hingoli,Hingoli,Turmeric,11990,14005,12997,16-02-2024
+257,Hingoli,Hingoli,Turmeric,11990,14100,13045,06-12-2024
+258,Hingoli,Hingoli,Turmeric,11990,14400,13195,08-07-2024
+259,Hingoli,Hingoli,Turmeric,11990,14400,13195,18-09-2024
+260,Hingoli,Hingoli,Turmeric,11990,14520,13255,21-02-2024
+261,Hingoli,Hingoli,Turmeric,12000,13900,12950,20-09-2024
+262,Hingoli,Hingoli,Turmeric,12000,14005,13002,01-01-2025
+263,Hingoli,Hingoli,Turmeric,12000,14100,13050,04-09-2024
+264,Hingoli,Hingoli,Turmeric,12000,14120,13060,07-02-2024
+265,Hingoli,Hingoli,Turmeric,12005,14000,13002,19-09-2024
+266,Hingoli,Hingoli,Turmeric,12100,13600,12850,23-02-2024
+267,Hingoli,Hingoli,Turmeric,12100,14000,13050,31-12-2024
+268,Hingoli,Hingoli,Turmeric,12100,14300,13200,21-09-2024
+269,Hingoli,Hingoli,Turmeric,12100,14300,13200,24-09-2024
+270,Hingoli,Hingoli,Turmeric,12100,14500,13300,16-08-2024
+271,Hingoli,Hingoli,Turmeric,12100,14500,13300,28-11-2024
+272,Hingoli,Hingoli,Turmeric,12200,15000,13600,24-07-2024
+273,Hingoli,Hingoli,Turmeric,12300,14100,13200,16-10-2024
+274,Hingoli,Hingoli,Turmeric,12300,14130,13215,05-02-2024
+275,Hingoli,Hingoli,Turmeric,12300,14600,13450,13-08-2024
+276,Hingoli,Hingoli,Turmeric,12300,14900,13600,05-08-2024
+277,Hingoli,Hingoli,Turmeric,12300,15000,13650,12-07-2024
+278,Hingoli,Hingoli,Turmeric,12400,14800,13600,14-08-2024
+279,Hingoli,Hingoli,Turmeric,12500,14200,13350,28-09-2024
+280,Hingoli,Hingoli,Turmeric,12500,14440,13470,09-09-2024
+281,Hingoli,Hingoli,Turmeric,12500,14451,13475,06-09-2024
+282,Hingoli,Hingoli,Turmeric,12500,14800,13650,21-11-2024
+283,Hingoli,Hingoli,Turmeric,12500,15100,13800,03-07-2024
+284,Hingoli,Hingoli,Turmeric,12550,14551,13550,25-09-2024
+285,Hingoli,Hingoli,Turmeric,12600,14500,13550,05-09-2024
+286,Hingoli,Hingoli,Turmeric,12800,14900,13850,09-08-2024
+287,Hingoli,Hingoli,Turmeric,12800,15300,14050,01-07-2024
+288,Hingoli,Hingoli,Turmeric,12900,15000,13950,29-02-2024
+289,Hingoli,Hingoli,Turmeric,12900,15300,14100,24-06-2024
+290,Hingoli,Hingoli,Turmeric,13000,15000,14000,10-07-2024
+291,Hingoli,Hingoli,Turmeric,13000,15100,14050,07-08-2024
+292,Hingoli,Hingoli,Turmeric,13000,15500,14250,26-06-2024
+293,Hingoli,Hingoli,Turmeric,13050,14100,13575,22-11-2024
+294,Hingoli,Hingoli,Turmeric,13100,15200,14150,01-03-2024
+295,Hingoli,Hingoli,Turmeric,13100,15500,14300,22-07-2024
+296,Hingoli,Hingoli,Turmeric,13100,15600,14350,19-07-2024
+297,Hingoli,Hingoli,Turmeric,13100,15700,14400,28-06-2024
+298,Hingoli,Hingoli,Turmeric,13300,15500,14400,15-07-2024
+299,Hingoli,Hingoli,Turmeric,13300,15900,14600,07-06-2024
+300,Hingoli,Hingoli,Turmeric,13300,15930,14615,12-06-2024
+301,Hingoli,Hingoli,Turmeric,13330,16050,14690,21-06-2024
+302,Hingoli,Hingoli,Turmeric,13400,16100,14750,10-06-2024
+303,Hingoli,Hingoli,Turmeric,13500,16000,14750,04-03-2024
+304,Hingoli,Hingoli,Turmeric,13525,16060,14792,19-06-2024
+305,Hingoli,Hingoli,Turmeric,13600,15900,14750,15-04-2024
+306,Hingoli,Hingoli,Turmeric,13600,16000,14800,08-06-2024
+307,Hingoli,Hingoli,Turmeric,13800,16000,14900,14-06-2024
+308,Hingoli,Hingoli,Turmeric,14300,16600,15450,06-05-2024
+309,Hingoli,Hingoli,Turmeric,14300,16800,15550,20-05-2024
+310,Hingoli,Hingoli,Turmeric,14300,17000,15615,07-03-2024
+311,Hingoli,Hingoli,Turmeric,14335,16825,15580,24-05-2024
+312,Hingoli,Hingoli,Turmeric,14350,16500,15425,09-05-2024
+313,Hingoli,Hingoli,Turmeric,14350,16800,15575,31-05-2024
+314,Hingoli,Hingoli,Turmeric,14400,16600,15500,29-05-2024
+315,Hingoli,Hingoli,Turmeric,14500,16550,15525,03-04-2024
+316,Hingoli,Hingoli,Turmeric,14500,16650,15575,11-05-2024
+317,Hingoli,Hingoli,Turmeric,14500,17000,15750,05-04-2024
+318,Hingoli,Hingoli,Turmeric,14500,17000,15750,22-05-2024
+319,Hingoli,Hingoli,Turmeric,15000,17000,16000,03-05-2024
+320,Hingoli,Hingoli,Turmeric,15000,17000,16000,18-03-2024
+321,Hingoli,Hingoli,Turmeric,15000,17100,16050,29-04-2024
+322,Hingoli,Hingoli,Turmeric,15000,17500,16250,19-04-2024
+323,Hingoli,Hingoli,Turmeric,15100,18350,16725,11-03-2024
+324,Hingoli,Hingoli,Turmeric,15300,17500,16400,27-05-2024
+325,Hingoli,Hingoli,Turmeric,15500,17600,16550,15-03-2024
+326,Hingoli,Hingoli,Turmeric,16000,19000,17500,20-03-2024
+327,Hingoli,Hingoli,Turmeric,16500,18100,17300,13-03-2024
+328,Hingoli,Jawala-Bajar,Turmeric,12000,13000,12500,27-08-2024
+329,Hingoli,Jawala-Bajar,Turmeric,12000,13000,12500,28-08-2024
+330,Hingoli,Jawala-Bajar,Turmeric,12500,15000,14500,31-05-2024
+331,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,01-06-2024
+332,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,02-06-2024
+333,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,05-06-2024
+334,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,07-06-2024
+335,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,08-06-2024
+336,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,09-06-2024
+337,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,10-06-2024
+338,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,14-06-2024
+339,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,24-06-2024
+340,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,25-06-2024
+341,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,27-05-2024
+342,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,30-06-2024
+343,Hingoli,Jawala-Bajar,Turmeric,13000,15000,14000,30-05-2024
+344,Hingoli,Jawala-Bajar,Turmeric,13500,15500,14500,24-05-2024
+345,Hingoli,Jawala-Bajar,Turmeric,13500,15500,14500,25-05-2024
+346,Hingoli,Marathawada Shetkari Khajgi Bazar Parisar,Turmeric,14750,16350,15600,29-04-2024
+347,Hingoli,Marathawada Shetkari Khajgi Bazar Parisar,Turmeric,14850,15700,15400,09-05-2024
+348,Hingoli,Marathawada Shetkari Khajgi Bazar Parisar,Turmeric,15000,16300,15687,01-05-2024
+349,Hingoli,Marathawada Shetkari Khajgi Bazar Parisar,Turmeric,15375,15375,15375,30-04-2024
+350,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,12300,12700,0,21-03-2024
+351,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,12600,13000,0,13-04-2024
+352,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,12700,13100,0,15-04-2024
+353,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,12800,13200,0,04-04-2024
+354,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13100,13500,0,02-04-2024
+355,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13200,13600,0,16-04-2024
+356,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13400,13800,0,05-04-2024
+357,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13500,13900,0,03-04-2024
+358,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13600,14000,0,17-04-2024
+359,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13700,14100,0,14-05-2024
+360,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13800,14200,0,13-05-2024
+361,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13900,14300,0,10-05-2024
+362,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13900,14300,0,15-05-2024
+363,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,13900,14300,0,18-05-2024
+364,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14100,14500,0,20-05-2024
+365,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14200,14600,0,11-05-2024
+366,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14200,14600,0,16-05-2024
+367,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14200,14600,0,17-05-2024
+368,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14200,14600,0,18-04-2024
+369,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14300,14700,0,09-05-2024
+370,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14400,14800,0,06-06-2024
+371,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14500,14900,0,01-06-2024
+372,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14500,14900,0,03-06-2024
+373,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14500,14900,0,20-04-2024
+374,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14500,14900,0,22-04-2024
+375,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14500,14900,0,31-05-2024
+376,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14600,15000,0,04-05-2024
+377,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14600,15000,0,19-04-2024
+378,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14700,15100,0,30-05-2024
+379,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14800,15200,0,28-05-2024
+380,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,02-05-2024
+381,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,22-05-2024
+382,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,23-04-2024
+383,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,23-05-2024
+384,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,24-05-2024
+385,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,25-05-2024
+386,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,29-04-2024
+387,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,14900,15300,0,29-05-2024
+388,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15000,15400,0,03-05-2024
+389,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15000,15400,0,30-04-2024
+390,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15100,15500,0,01-05-2024
+391,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15100,15500,0,25-04-2024
+392,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15200,15600,0,24-04-2024
+393,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15200,15600,0,27-04-2024
+394,Hingoli,"Sant Namdev Krushi Bazar, ",Turmeric,15200,15600,0,27-05-2024
+395,Hingoli,Sengoan,Turmeric,1350,16125,14500,06-05-2024
+396,Hingoli,Sengoan,Turmeric,9000,12000,11000,25-11-2024
+397,Hingoli,Sengoan,Turmeric,9700,12500,11000,28-08-2024
+398,Hingoli,Sengoan,Turmeric,10000,12900,11500,23-10-2024
+399,Hingoli,Sengoan,Turmeric,10000,13000,12000,04-03-2024
+400,Hingoli,Sengoan,Turmeric,10000,13100,12000,07-03-2024
+401,Hingoli,Sengoan,Turmeric,10000,13300,12000,14-10-2024
+402,Hingoli,Sengoan,Turmeric,10000,14775,14200,19-06-2024
+403,Hingoli,Sengoan,Turmeric,10500,12500,11200,23-08-2024
+404,Hingoli,Sengoan,Turmeric,10500,15500,13500,10-06-2024
+405,Hingoli,Sengoan,Turmeric,11000,12300,11950,28-10-2024
+406,Hingoli,Sengoan,Turmeric,11000,12300,12000,16-10-2024
+407,Hingoli,Sengoan,Turmeric,11000,12500,12000,25-10-2024
+408,Hingoli,Sengoan,Turmeric,11000,13200,12000,16-09-2024
+409,Hingoli,Sengoan,Turmeric,11000,13200,12000,21-10-2024
+410,Hingoli,Sengoan,Turmeric,11000,13400,12000,30-08-2024
+411,Hingoli,Sengoan,Turmeric,11000,13500,12000,25-09-2024
+412,Hingoli,Sengoan,Turmeric,11000,13500,12200,30-09-2024
+413,Hingoli,Sengoan,Turmeric,11000,14000,12000,01-04-2024
+414,Hingoli,Sengoan,Turmeric,11000,14000,13000,06-09-2024
+415,Hingoli,Sengoan,Turmeric,11000,14000,13000,09-08-2024
+416,Hingoli,Sengoan,Turmeric,11000,14000,13000,09-07-2024
+417,Hingoli,Sengoan,Turmeric,11000,14000,13000,18-09-2024
+418,Hingoli,Sengoan,Turmeric,11000,15000,13000,05-07-2024
+419,Hingoli,Sengoan,Turmeric,11000,15000,13000,15-04-2024
+420,Hingoli,Sengoan,Turmeric,11000,15000,13000,15-07-2024
+421,Hingoli,Sengoan,Turmeric,11000,15000,13000,17-06-2024
+422,Hingoli,Sengoan,Turmeric,11000,15000,13000,22-07-2024
+423,Hingoli,Sengoan,Turmeric,11000,15000,13500,01-07-2024
+424,Hingoli,Sengoan,Turmeric,11000,16000,14000,20-05-2024
+425,Hingoli,Sengoan,Turmeric,11000,16250,14000,05-06-2024
+426,Hingoli,Sengoan,Turmeric,11000,16700,13000,22-05-2024
+427,Hingoli,Sengoan,Turmeric,11007,13800,12005,20-09-2024
+428,Hingoli,Sengoan,Turmeric,11021,13000,12075,18-10-2024
+429,Hingoli,Sengoan,Turmeric,11200,13300,12100,02-10-2024
+430,Hingoli,Sengoan,Turmeric,11200,13400,12000,09-10-2024
+431,Hingoli,Sengoan,Turmeric,11200,13500,12000,03-04-2024
+432,Hingoli,Sengoan,Turmeric,11200,13500,12200,04-10-2024
+433,Hingoli,Sengoan,Turmeric,11200,14500,13500,31-07-2024
+434,Hingoli,Sengoan,Turmeric,11200,14900,12500,12-07-2024
+435,Hingoli,Sengoan,Turmeric,11300,13800,12000,09-09-2024
+436,Hingoli,Sengoan,Turmeric,11300,14500,13200,29-07-2024
+437,Hingoli,Sengoan,Turmeric,11500,13500,12500,16-08-2024
+438,Hingoli,Sengoan,Turmeric,11500,13700,12500,04-09-2024
+439,Hingoli,Sengoan,Turmeric,11500,13925,12500,13-09-2024
+440,Hingoli,Sengoan,Turmeric,11500,14000,13000,23-09-2024
+441,Hingoli,Sengoan,Turmeric,11500,14000,13200,14-08-2024
+442,Hingoli,Sengoan,Turmeric,11500,14500,12500,26-03-2024
+443,Hingoli,Sengoan,Turmeric,11500,14700,12500,26-07-2024
+444,Hingoli,Sengoan,Turmeric,11500,14700,13500,02-08-2024
+445,Hingoli,Sengoan,Turmeric,11500,15000,13000,22-03-2024
+446,Hingoli,Sengoan,Turmeric,11500,15200,13500,24-07-2024
+447,Hingoli,Sengoan,Turmeric,12000,13800,12500,27-09-2024
+448,Hingoli,Sengoan,Turmeric,12000,14500,12500,05-08-2024
+449,Hingoli,Sengoan,Turmeric,12000,14500,13000,07-08-2024
+450,Hingoli,Sengoan,Turmeric,12000,14500,13000,25-06-2024
+451,Hingoli,Sengoan,Turmeric,12000,15200,14000,28-06-2024
+452,Hingoli,Sengoan,Turmeric,12000,16000,14000,17-05-2024
+453,Hingoli,Sengoan,Turmeric,12000,16100,14500,15-05-2024
+454,Hingoli,Sengoan,Turmeric,12000,16400,14000,13-05-2024
+455,Hingoli,Sengoan,Turmeric,12000,18000,16000,24-04-2024
+456,Hingoli,Sengoan,Turmeric,12500,16250,14500,07-06-2024
+457,Hingoli,Sengoan,Turmeric,12500,17500,15000,03-05-2024
+458,Hingoli,Sengoan,Turmeric,13000,16900,15000,31-05-2024
+459,Hingoli,Sengoan,Turmeric,13500,17000,15000,01-05-2024
+460,Hingoli,Sengoan,Turmeric,14000,18500,16000,29-05-2024

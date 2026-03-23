@@ -1,0 +1,501 @@
+Sl no.,District Name,Market Name,Commodity,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Moga,Baghapurana,Tomato,1000,1400,1200,20-06-2024
+2,Moga,Baghapurana,Tomato,1000,1400,1200,21-06-2024
+3,Moga,Baghapurana,Tomato,1200,1500,1400,24-06-2024
+4,Moga,Baghapurana,Tomato,1200,1500,1400,25-06-2024
+5,Moga,Baghapurana,Tomato,1200,1600,1400,26-06-2024
+6,Moga,Baghapurana,Tomato,1200,1700,1500,27-06-2024
+7,Moga,Baghapurana,Tomato,1300,1600,1500,28-06-2024
+8,Moga,Baghapurana,Tomato,1400,1700,1500,24-04-2024
+9,Moga,Baghapurana,Tomato,1400,1800,1500,11-05-2024
+10,Moga,Baghapurana,Tomato,1400,2000,1700,04-07-2024
+11,Moga,Baghapurana,Tomato,1500,1800,1700,22-04-2024
+12,Moga,Baghapurana,Tomato,1500,1800,1700,23-04-2024
+13,Moga,Baghapurana,Tomato,1500,2000,1800,01-07-2024
+14,Moga,Baghapurana,Tomato,1500,2000,1800,02-05-2024
+15,Moga,Baghapurana,Tomato,1600,2000,1800,05-07-2024
+16,Moga,Baghapurana,Tomato,1600,2000,1800,07-05-2024
+17,Moga,Baghapurana,Tomato,1600,2000,1800,10-05-2024
+18,Moga,Baghapurana,Tomato,1700,2200,2000,03-07-2024
+19,Moga,Baghapurana,Tomato,1800,2200,2000,01-05-2024
+20,Moga,Baghapurana,Tomato,1800,2200,2000,02-07-2024
+21,Moga,Baghapurana,Tomato,1800,2200,2000,04-01-2024
+22,Moga,Baghapurana,Tomato,1900,2200,2000,31-01-2024
+23,Moga,Baghapurana,Tomato,2000,2400,2200,11-01-2024
+24,Moga,Baghapurana,Tomato,2000,2400,2200,13-01-2024
+25,Moga,Baghapurana,Tomato,2000,2400,2200,30-01-2024
+26,Moga,Baghapurana,Tomato,2000,2500,2200,04-09-2024
+27,Moga,Baghapurana,Tomato,2000,2500,2200,09-01-2024
+28,Moga,Baghapurana,Tomato,2000,2500,2200,27-01-2024
+29,Moga,Baghapurana,Tomato,2000,2500,2250,17-01-2024
+30,Moga,Baghapurana,Tomato,2000,2500,2300,15-01-2024
+31,Moga,Baghapurana,Tomato,2000,2700,2500,20-03-2024
+32,Moga,Baghapurana,Tomato,2000,3000,2500,09-07-2024
+33,Moga,Baghapurana,Tomato,2200,2700,2500,02-09-2024
+34,Moga,Baghapurana,Tomato,2200,2700,2500,04-04-2024
+35,Moga,Baghapurana,Tomato,2200,2700,2500,12-01-2024
+36,Moga,Baghapurana,Tomato,2200,2700,2500,13-09-2024
+37,Moga,Baghapurana,Tomato,2200,3200,3000,05-02-2024
+38,Moga,Baghapurana,Tomato,2400,2800,2500,12-09-2024
+39,Moga,Baghapurana,Tomato,2400,3000,2500,03-09-2024
+40,Moga,Baghapurana,Tomato,2400,3000,2800,19-03-2024
+41,Moga,Baghapurana,Tomato,2500,3000,2700,10-07-2024
+42,Moga,Baghapurana,Tomato,2500,3000,2700,11-03-2024
+43,Moga,Baghapurana,Tomato,2500,3000,2700,12-03-2024
+44,Moga,Baghapurana,Tomato,2500,3000,2700,16-03-2024
+45,Moga,Baghapurana,Tomato,2500,3000,2700,21-03-2024
+46,Moga,Baghapurana,Tomato,2500,3000,2800,08-07-2024
+47,Moga,Baghapurana,Tomato,2500,3000,2800,13-03-2024
+48,Moga,Baghapurana,Tomato,2500,3000,2800,14-03-2024
+49,Moga,Baghapurana,Tomato,2500,3000,2800,18-03-2024
+50,Moga,Baghapurana,Tomato,2500,3200,3000,06-02-2024
+51,Moga,Baghapurana,Tomato,2500,3500,3000,01-02-2024
+52,Moga,Baghapurana,Tomato,2500,3500,3000,02-02-2024
+53,Moga,Baghapurana,Tomato,2500,3500,3000,29-08-2024
+54,Moga,Baghapurana,Tomato,2500,3500,3000,30-08-2024
+55,Moga,Baghapurana,Tomato,2800,3200,3000,05-03-2024
+56,Moga,Baghapurana,Tomato,2800,3200,3000,06-03-2024
+57,Moga,Baghapurana,Tomato,2800,3500,3000,28-02-2024
+58,Moga,Baghapurana,Tomato,3000,3500,3200,02-03-2024
+59,Moga,Baghapurana,Tomato,3000,3500,3200,03-02-2024
+60,Moga,Baghapurana,Tomato,3000,3500,3200,04-03-2024
+61,Moga,Baghapurana,Tomato,3000,3500,3200,07-02-2024
+62,Moga,Baghapurana,Tomato,3000,3500,3200,11-07-2024
+63,Moga,Baghapurana,Tomato,3000,3500,3200,23-02-2024
+64,Moga,Baghapurana,Tomato,3000,3500,3200,24-02-2024
+65,Moga,Baghapurana,Tomato,3000,3500,3200,26-12-2024
+66,Moga,Baghapurana,Tomato,3000,3500,3200,26-02-2024
+67,Moga,Baghapurana,Tomato,3000,3500,3200,27-02-2024
+68,Moga,Baghapurana,Tomato,3000,3500,3200,29-02-2024
+69,Moga,Baghapurana,Tomato,3000,3500,3300,01-03-2024
+70,Moga,Baghapurana,Tomato,3000,3600,3200,24-12-2024
+71,Moga,Baghapurana,Tomato,3000,3800,3500,20-02-2024
+72,Moga,Baghapurana,Tomato,3000,3800,3600,22-02-2024
+73,Moga,Baghapurana,Tomato,3000,4000,3500,08-08-2024
+74,Moga,Baghapurana,Tomato,3000,4000,3500,15-07-2024
+75,Moga,Baghapurana,Tomato,3000,4000,3500,17-08-2024
+76,Moga,Baghapurana,Tomato,3000,4000,3500,19-08-2024
+77,Moga,Baghapurana,Tomato,3000,4000,3500,20-08-2024
+78,Moga,Baghapurana,Tomato,3000,4000,3500,21-08-2024
+79,Moga,Baghapurana,Tomato,3000,4000,3500,22-08-2024
+80,Moga,Baghapurana,Tomato,3000,4000,3500,23-08-2024
+81,Moga,Baghapurana,Tomato,3000,5000,4000,17-07-2024
+82,Moga,Baghapurana,Tomato,3200,3600,3400,21-12-2024
+83,Moga,Baghapurana,Tomato,3200,3600,3400,23-12-2024
+84,Moga,Baghapurana,Tomato,3200,3700,3500,12-07-2024
+85,Moga,Baghapurana,Tomato,3200,3700,3500,17-02-2024
+86,Moga,Baghapurana,Tomato,3200,3700,3500,21-02-2024
+87,Moga,Baghapurana,Tomato,3200,3700,3500,25-12-2024
+88,Moga,Baghapurana,Tomato,3200,3800,3600,31-12-2024
+89,Moga,Baghapurana,Tomato,3200,4000,3500,07-08-2024
+90,Moga,Baghapurana,Tomato,3200,4000,3500,15-02-2024
+91,Moga,Baghapurana,Tomato,3200,4000,3500,21-09-2024
+92,Moga,Baghapurana,Tomato,3200,4000,3500,26-11-2024
+93,Moga,Baghapurana,Tomato,3300,3800,3500,20-12-2024
+94,Moga,Baghapurana,Tomato,3500,4000,3600,13-11-2024
+95,Moga,Baghapurana,Tomato,3500,4000,3700,05-11-2024
+96,Moga,Baghapurana,Tomato,3500,4000,3700,06-11-2024
+97,Moga,Baghapurana,Tomato,3500,4000,3700,08-11-2024
+98,Moga,Baghapurana,Tomato,3500,4000,3700,14-02-2024
+99,Moga,Baghapurana,Tomato,3500,4000,3700,17-12-2024
+100,Moga,Baghapurana,Tomato,3500,4000,3700,19-12-2024
+101,Moga,Baghapurana,Tomato,3500,4000,3700,29-11-2024
+102,Moga,Baghapurana,Tomato,3500,4000,3800,07-11-2024
+103,Moga,Baghapurana,Tomato,3500,4000,3800,09-11-2024
+104,Moga,Baghapurana,Tomato,3500,4000,3800,27-11-2024
+105,Moga,Baghapurana,Tomato,3500,4200,4000,12-11-2024
+106,Moga,Baghapurana,Tomato,3500,4200,4000,23-09-2024
+107,Moga,Baghapurana,Tomato,3500,4500,4000,04-11-2024
+108,Moga,Baghapurana,Tomato,3500,4500,4000,13-08-2024
+109,Moga,Baghapurana,Tomato,3500,4500,4000,26-09-2024
+110,Moga,Baghapurana,Tomato,3600,4000,3800,11-11-2024
+111,Moga,Baghapurana,Tomato,3600,4000,3800,18-12-2024
+112,Moga,Baghapurana,Tomato,3700,4500,4000,27-09-2024
+113,Moga,Baghapurana,Tomato,4000,4500,4200,02-11-2024
+114,Moga,Baghapurana,Tomato,4000,5000,4500,02-10-2024
+115,Moga,Baghapurana,Tomato,4000,5000,4500,28-09-2024
+116,Moga,Baghapurana,Tomato,4000,5000,4500,29-10-2024
+117,Moga,Baghapurana,Tomato,4500,5500,5000,28-10-2024
+118,Moga,Baghapurana,Tomato,5000,5500,5200,25-10-2024
+119,Moga,Baghapurana,Tomato,5000,6000,5500,22-10-2024
+120,Moga,Baghapurana,Tomato,5000,6000,5500,23-10-2024
+121,Moga,Baghapurana,Tomato,5000,6000,5500,24-10-2024
+122,Moga,Baghapurana,Tomato,5000,7000,6000,08-10-2024
+123,Moga,Baghapurana,Tomato,5000,7000,6000,09-10-2024
+124,Moga,Baghapurana,Tomato,5000,7000,6000,10-10-2024
+125,Moga,Baghapurana,Tomato,5000,7000,6000,11-10-2024
+126,Moga,Baghapurana,Tomato,5000,7000,6000,18-10-2024
+127,Moga,Baghapurana,Tomato,5500,6500,6000,17-10-2024
+128,Moga,Baghapurana,Tomato,600,900,700,28-05-2024
+129,Moga,Baghapurana,Tomato,700,900,800,21-05-2024
+130,Moga,Baghapurana,Tomato,700,900,800,22-05-2024
+131,Moga,Baghapurana,Tomato,700,900,800,27-05-2024
+132,Moga,Baghapurana,Tomato,900,1100,1000,20-05-2024
+133,Moga,Baghapurana,Tomato,900,1200,1000,11-06-2024
+134,Moga,Baghapurana,Tomato,1000,1400,1200,17-06-2024
+135,Moga,Baghapurana,Tomato,1000,1400,1200,18-06-2024
+136,Moga,Baghapurana,Tomato,1000,1400,1200,19-06-2024
+137,Moga,Baghapurana,Tomato,1400,1600,1500,04-05-2024
+138,Moga,Baghapurana,Tomato,1400,1700,1500,27-04-2024
+139,Moga,Baghapurana,Tomato,1400,1800,1600,13-04-2024
+140,Moga,Baghapurana,Tomato,1500,2000,1700,12-04-2024
+141,Moga,Baghapurana,Tomato,1500,2000,1800,03-05-2024
+142,Moga,Baghapurana,Tomato,1600,2000,1800,09-05-2024
+143,Moga,Baghapurana,Tomato,1700,2000,1800,29-04-2024
+144,Moga,Baghapurana,Tomato,1700,2200,1900,15-04-2024
+145,Moga,Baghapurana,Tomato,1800,2200,2000,03-01-2024
+146,Moga,Baghapurana,Tomato,1800,2200,2000,06-05-2024
+147,Moga,Baghapurana,Tomato,1800,2200,2000,30-04-2024
+148,Moga,Baghapurana,Tomato,2000,2300,2200,02-01-2024
+149,Moga,Baghapurana,Tomato,2000,2400,2200,10-01-2024
+150,Moga,Baghapurana,Tomato,2000,2500,2200,06-09-2024
+151,Moga,Baghapurana,Tomato,2000,2500,2200,11-04-2024
+152,Moga,Baghapurana,Tomato,2000,2500,2200,26-04-2024
+153,Moga,Baghapurana,Tomato,2000,2500,2200,27-03-2024
+154,Moga,Baghapurana,Tomato,2000,2500,2200,28-03-2024
+155,Moga,Baghapurana,Tomato,2000,2500,2300,23-01-2024
+156,Moga,Baghapurana,Tomato,2200,2500,2300,22-01-2024
+157,Moga,Baghapurana,Tomato,2200,2500,2400,07-09-2024
+158,Moga,Baghapurana,Tomato,2200,2500,2400,09-09-2024
+159,Moga,Baghapurana,Tomato,2200,2700,2500,25-03-2024
+160,Moga,Baghapurana,Tomato,2200,2700,2500,26-03-2024
+161,Moga,Baghapurana,Tomato,2300,3000,2500,10-09-2024
+162,Moga,Baghapurana,Tomato,2400,3000,2500,11-09-2024
+163,Moga,Baghapurana,Tomato,2500,3000,2700,14-09-2024
+164,Moga,Baghapurana,Tomato,2500,3500,3000,08-02-2024
+165,Moga,Baghapurana,Tomato,2500,3500,3000,09-02-2024
+166,Moga,Baghapurana,Tomato,2500,3500,3000,17-09-2024
+167,Moga,Baghapurana,Tomato,2700,3200,3000,16-09-2024
+168,Moga,Baghapurana,Tomato,2800,3500,3000,18-09-2024
+169,Moga,Baghapurana,Tomato,3000,3700,3500,10-02-2024
+170,Moga,Baghapurana,Tomato,3000,4000,3500,19-09-2024
+171,Moga,Baghapurana,Tomato,3500,4000,3600,12-02-2024
+172,Moga,Baghapurana,Tomato,3500,4200,4000,20-09-2024
+173,Moga,Baghapurana,Tomato,6000,7000,6500,19-10-2024
+174,Moga,Dharamkot,Tomato,1000,1000,1000,20-06-2024
+175,Moga,Dharamkot,Tomato,1000,2000,2000,21-06-2024
+176,Moga,Dharamkot,Tomato,1000,2000,2000,28-06-2024
+177,Moga,Dharamkot,Tomato,1200,2000,2000,01-07-2024
+178,Moga,Dharamkot,Tomato,1500,1500,1500,06-08-2024
+179,Moga,Dharamkot,Tomato,1500,1500,1500,19-06-2024
+180,Moga,Dharamkot,Tomato,1800,1800,1800,14-01-2024
+181,Moga,Dharamkot,Tomato,2000,2000,2000,03-05-2024
+182,Moga,Dharamkot,Tomato,2000,2000,2000,05-04-2024
+183,Moga,Dharamkot,Tomato,2000,2000,2000,07-06-2024
+184,Moga,Dharamkot,Tomato,2000,2000,2000,11-07-2024
+185,Moga,Dharamkot,Tomato,2000,2000,2000,17-05-2024
+186,Moga,Dharamkot,Tomato,2000,2000,2000,18-01-2024
+187,Moga,Dharamkot,Tomato,2000,2000,2000,18-11-2024
+188,Moga,Dharamkot,Tomato,2000,2000,2000,20-05-2024
+189,Moga,Dharamkot,Tomato,2000,2000,2000,25-08-2024
+190,Moga,Dharamkot,Tomato,2000,2000,2000,26-07-2024
+191,Moga,Dharamkot,Tomato,2000,2000,2000,27-07-2024
+192,Moga,Dharamkot,Tomato,2000,3000,3000,09-07-2024
+193,Moga,Dharamkot,Tomato,2200,2200,2200,11-01-2024
+194,Moga,Dharamkot,Tomato,2500,2500,2500,10-01-2024
+195,Moga,Dharamkot,Tomato,2600,2600,2600,24-04-2024
+196,Moga,Dharamkot,Tomato,3000,3000,3000,09-11-2024
+197,Moga,Dharamkot,Tomato,3000,3000,3000,10-07-2024
+198,Moga,Dharamkot,Tomato,3000,3000,3000,27-04-2024
+199,Moga,Dharamkot,Tomato,3200,3200,3200,10-10-2024
+200,Moga,Dharamkot,Tomato,4000,4000,4000,16-08-2024
+201,Moga,Dharamkot,Tomato,4000,4000,4000,25-11-2024
+202,Moga,Dharamkot,Tomato,4000,4000,4000,26-08-2024
+203,Moga,Dharamkot,Tomato,4800,4800,4800,20-08-2024
+204,Moga,Dharamkot,Tomato,5000,5000,5000,09-09-2024
+205,Moga,Dharamkot,Tomato,5000,5000,5000,23-08-2024
+206,Moga,Dharamkot,Tomato,5000,5000,5000,28-07-2024
+207,Moga,Dharamkot,Tomato,6000,6000,6000,29-07-2024
+208,Moga,Dharamkot,Tomato,6000,6000,6000,30-07-2024
+209,Moga,Dharamkot,Tomato,7000,7000,7000,11-10-2024
+210,Moga,Moga,Tomato,500,700,600,04-01-2024
+211,Moga,Moga,Tomato,500,700,600,06-06-2024
+212,Moga,Moga,Tomato,700,1200,900,13-06-2024
+213,Moga,Moga,Tomato,800,1200,1000,04-07-2024
+214,Moga,Moga,Tomato,800,1200,1000,07-06-2024
+215,Moga,Moga,Tomato,800,1200,1000,12-06-2024
+216,Moga,Moga,Tomato,800,1200,1000,17-05-2024
+217,Moga,Moga,Tomato,800,1200,1000,21-06-2024
+218,Moga,Moga,Tomato,800,1200,1000,23-05-2024
+219,Moga,Moga,Tomato,800,1300,1000,16-05-2024
+220,Moga,Moga,Tomato,800,1500,1200,27-03-2024
+221,Moga,Moga,Tomato,800,2400,1800,20-06-2024
+222,Moga,Moga,Tomato,800,2500,1500,10-09-2024
+223,Moga,Moga,Tomato,1000,1500,1300,07-05-2024
+224,Moga,Moga,Tomato,1000,1500,1300,08-04-2024
+225,Moga,Moga,Tomato,1000,1500,1300,09-04-2024
+226,Moga,Moga,Tomato,1000,1500,1300,11-04-2024
+227,Moga,Moga,Tomato,1000,1500,1300,13-05-2024
+228,Moga,Moga,Tomato,1000,1500,1300,26-03-2024
+229,Moga,Moga,Tomato,1000,1500,1400,06-05-2024
+230,Moga,Moga,Tomato,1000,1800,1400,05-04-2024
+231,Moga,Moga,Tomato,1100,1700,1500,08-01-2024
+232,Moga,Moga,Tomato,1100,1900,1500,09-01-2024
+233,Moga,Moga,Tomato,1200,1600,1400,03-01-2024
+234,Moga,Moga,Tomato,1300,1800,1600,04-04-2024
+235,Moga,Moga,Tomato,1400,1700,1500,05-01-2024
+236,Moga,Moga,Tomato,1400,1800,1600,12-01-2024
+237,Moga,Moga,Tomato,1400,1800,1600,15-01-2024
+238,Moga,Moga,Tomato,1400,1800,1600,19-01-2024
+239,Moga,Moga,Tomato,1400,1800,1600,29-01-2024
+240,Moga,Moga,Tomato,1400,1900,1600,16-01-2024
+241,Moga,Moga,Tomato,1500,1700,1600,10-01-2024
+242,Moga,Moga,Tomato,1500,1800,1600,24-01-2024
+243,Moga,Moga,Tomato,1500,1900,1700,18-01-2024
+244,Moga,Moga,Tomato,1500,1900,1700,20-01-2024
+245,Moga,Moga,Tomato,1500,2000,1800,14-03-2024
+246,Moga,Moga,Tomato,1500,2000,1800,21-11-2024
+247,Moga,Moga,Tomato,1500,2000,1800,28-05-2024
+248,Moga,Moga,Tomato,1500,2200,2000,31-12-2024
+249,Moga,Moga,Tomato,1500,2500,2000,01-04-2024
+250,Moga,Moga,Tomato,1500,2500,2000,12-04-2024
+251,Moga,Moga,Tomato,1500,2500,2000,30-08-2024
+252,Moga,Moga,Tomato,1600,2000,1800,01-01-2024
+253,Moga,Moga,Tomato,1700,2200,1800,11-03-2024
+254,Moga,Moga,Tomato,1700,2500,2200,12-03-2024
+255,Moga,Moga,Tomato,1800,2200,2000,22-01-2024
+256,Moga,Moga,Tomato,1800,2200,2000,23-01-2024
+257,Moga,Moga,Tomato,1800,2500,2300,17-09-2024
+258,Moga,Moga,Tomato,1800,2500,2300,20-03-2024
+259,Moga,Moga,Tomato,1800,2800,2400,09-07-2024
+260,Moga,Moga,Tomato,1800,3000,2000,29-08-2024
+261,Moga,Moga,Tomato,1800,3000,2500,27-08-2024
+262,Moga,Moga,Tomato,1800,3000,2500,28-08-2024
+263,Moga,Moga,Tomato,1900,3000,2500,26-08-2024
+264,Moga,Moga,Tomato,2000,2500,2300,28-03-2024
+265,Moga,Moga,Tomato,2000,2500,2300,29-03-2024
+266,Moga,Moga,Tomato,2000,2500,2350,03-04-2024
+267,Moga,Moga,Tomato,2000,2600,2300,03-09-2024
+268,Moga,Moga,Tomato,2000,2600,2300,12-02-2024
+269,Moga,Moga,Tomato,2000,2600,2400,16-09-2024
+270,Moga,Moga,Tomato,2000,2600,2400,22-03-2024
+271,Moga,Moga,Tomato,2000,2700,2500,13-09-2024
+272,Moga,Moga,Tomato,2000,2700,2500,26-02-2024
+273,Moga,Moga,Tomato,2000,2800,2300,11-12-2024
+274,Moga,Moga,Tomato,2000,3000,2300,09-09-2024
+275,Moga,Moga,Tomato,2000,3000,2500,04-09-2024
+276,Moga,Moga,Tomato,2000,3000,2500,05-09-2024
+277,Moga,Moga,Tomato,2000,3000,2500,11-09-2024
+278,Moga,Moga,Tomato,2000,3000,2500,17-04-2024
+279,Moga,Moga,Tomato,2000,3000,2500,23-08-2024
+280,Moga,Moga,Tomato,2000,3000,2700,31-01-2024
+281,Moga,Moga,Tomato,2000,3300,3000,06-09-2024
+282,Moga,Moga,Tomato,2200,2800,2500,12-09-2024
+283,Moga,Moga,Tomato,2300,3000,2500,16-08-2024
+284,Moga,Moga,Tomato,2300,3200,2800,30-01-2024
+285,Moga,Moga,Tomato,2400,2800,2600,13-12-2024
+286,Moga,Moga,Tomato,2400,3000,2600,06-12-2024
+287,Moga,Moga,Tomato,2400,3000,2600,12-12-2024
+288,Moga,Moga,Tomato,2400,3000,2700,05-12-2024
+289,Moga,Moga,Tomato,2400,3000,2800,04-12-2024
+290,Moga,Moga,Tomato,2500,2700,2600,21-08-2024
+291,Moga,Moga,Tomato,2500,2800,2700,20-02-2024
+292,Moga,Moga,Tomato,2500,2800,2700,28-02-2024
+293,Moga,Moga,Tomato,2500,3000,2700,09-02-2024
+294,Moga,Moga,Tomato,2500,3000,2700,19-02-2024
+295,Moga,Moga,Tomato,2500,3400,3000,07-02-2024
+296,Moga,Moga,Tomato,2500,3500,3000,05-03-2024
+297,Moga,Moga,Tomato,2500,3500,3000,06-03-2024
+298,Moga,Moga,Tomato,2500,3500,3000,08-02-2024
+299,Moga,Moga,Tomato,2500,3500,3000,15-02-2024
+300,Moga,Moga,Tomato,2500,3500,3000,22-08-2024
+301,Moga,Moga,Tomato,2500,3500,3000,22-11-2024
+302,Moga,Moga,Tomato,2500,3500,3200,02-02-2024
+303,Moga,Moga,Tomato,2500,3500,3200,13-02-2024
+304,Moga,Moga,Tomato,2500,3600,3200,03-03-2024
+305,Moga,Moga,Tomato,2500,4000,3500,12-08-2024
+306,Moga,Moga,Tomato,2500,4200,3500,07-08-2024
+307,Moga,Moga,Tomato,2500,4800,4000,06-08-2024
+308,Moga,Moga,Tomato,2500,5800,4000,02-09-2024
+309,Moga,Moga,Tomato,2600,3500,3000,19-08-2024
+310,Moga,Moga,Tomato,2700,3100,3000,05-02-2024
+311,Moga,Moga,Tomato,2700,3200,3000,06-02-2024
+312,Moga,Moga,Tomato,2700,3500,3200,01-02-2024
+313,Moga,Moga,Tomato,2800,3000,2900,08-08-2024
+314,Moga,Moga,Tomato,2900,3300,3200,17-08-2024
+315,Moga,Moga,Tomato,3000,4000,3200,14-08-2024
+316,Moga,Moga,Tomato,3000,4000,3500,13-08-2024
+317,Moga,Moga,Tomato,3000,4000,3500,21-09-2024
+318,Moga,Moga,Tomato,3000,4000,3500,23-09-2024
+319,Moga,Moga,Tomato,3000,4000,3500,28-12-2024
+320,Moga,Moga,Tomato,3000,4000,3600,20-09-2024
+321,Moga,Moga,Tomato,3000,4100,3700,01-03-2024
+322,Moga,Moga,Tomato,3100,3500,3300,10-08-2024
+323,Moga,Moga,Tomato,3500,4000,3700,24-09-2024
+324,Moga,Moga,Tomato,3500,4000,3800,10-07-2024
+325,Moga,Moga,Tomato,3500,4200,4000,16-12-2024
+326,Moga,Moga,Tomato,3500,4300,3900,26-11-2024
+327,Moga,Moga,Tomato,3500,4300,3900,27-11-2024
+328,Moga,Moga,Tomato,3500,4300,4000,02-12-2024
+329,Moga,Moga,Tomato,3500,4300,4000,25-11-2024
+330,Moga,Moga,Tomato,3500,4500,4000,19-07-2024
+331,Moga,Moga,Tomato,3500,4500,4000,27-12-2024
+332,Moga,Moga,Tomato,3500,4500,4000,28-11-2024
+333,Moga,Moga,Tomato,3500,5000,4000,18-07-2024
+334,Moga,Moga,Tomato,3600,4300,3900,03-12-2024
+335,Moga,Moga,Tomato,4000,4300,4200,10-12-2024
+336,Moga,Moga,Tomato,4000,4400,4200,26-12-2024
+337,Moga,Moga,Tomato,4000,4500,4200,09-12-2024
+338,Moga,Moga,Tomato,4000,4500,4200,30-07-2024
+339,Moga,Moga,Tomato,4000,4500,4300,18-12-2024
+340,Moga,Moga,Tomato,4000,4500,4300,19-12-2024
+341,Moga,Moga,Tomato,4000,4500,4350,25-09-2024
+342,Moga,Moga,Tomato,4000,4500,4400,24-12-2024
+343,Moga,Moga,Tomato,4000,4600,4400,20-12-2024
+344,Moga,Moga,Tomato,4000,4600,4400,22-12-2024
+345,Moga,Moga,Tomato,4000,5000,4500,16-04-2024
+346,Moga,Moga,Tomato,4000,5000,4500,18-04-2024
+347,Moga,Moga,Tomato,4000,5300,4700,09-08-2024
+348,Moga,Moga,Tomato,4200,4600,4400,25-12-2024
+349,Moga,Moga,Tomato,4200,4800,4600,12-07-2024
+350,Moga,Moga,Tomato,4500,5500,5000,20-08-2024
+351,Moga,Moga,Tomato,4500,5500,5000,31-07-2024
+352,Moga,Moga,Tomato,4500,6000,5000,16-07-2024
+353,Moga,Moga,Tomato,4500,6000,5500,15-07-2024
+354,Moga,Moga,Tomato,5000,6000,5500,02-08-2024
+355,Moga,Moga,Tomato,5500,6500,6000,01-08-2024
+356,Moga,Moga,Tomato,5500,6500,6000,24-07-2024
+357,Moga,Moga,Tomato,5500,6500,6000,25-07-2024
+358,Moga,Moga,Tomato,5500,6500,6000,27-07-2024
+359,Moga,Moga,Tomato,7000,8000,7500,20-07-2024
+360,Moga,Nihal Singh Wala,Tomato,600,800,700,12-06-2024
+361,Moga,Nihal Singh Wala,Tomato,800,1000,900,13-06-2024
+362,Moga,Nihal Singh Wala,Tomato,800,1000,900,19-06-2024
+363,Moga,Nihal Singh Wala,Tomato,800,1000,900,20-06-2024
+364,Moga,Nihal Singh Wala,Tomato,1000,1200,1100,26-06-2024
+365,Moga,Nihal Singh Wala,Tomato,1050,1250,1150,06-05-2024
+366,Moga,Nihal Singh Wala,Tomato,1100,1300,1200,28-04-2024
+367,Moga,Nihal Singh Wala,Tomato,1200,1400,1300,03-05-2024
+368,Moga,Nihal Singh Wala,Tomato,1200,1400,1300,24-06-2024
+369,Moga,Nihal Singh Wala,Tomato,1200,1400,1300,25-06-2024
+370,Moga,Nihal Singh Wala,Tomato,1200,1400,1300,29-05-2024
+371,Moga,Nihal Singh Wala,Tomato,1200,1400,1300,30-05-2024
+372,Moga,Nihal Singh Wala,Tomato,1500,1700,1600,12-04-2024
+373,Moga,Nihal Singh Wala,Tomato,1700,1900,1800,19-05-2024
+374,Moga,Nihal Singh Wala,Tomato,1800,2000,1900,23-04-2024
+375,Moga,Nihal Singh Wala,Tomato,1800,2000,1900,23-05-2024
+376,Moga,Nihal Singh Wala,Tomato,2000,2200,2100,02-05-2024
+377,Moga,Nihal Singh Wala,Tomato,2000,2200,2100,05-09-2024
+378,Moga,Nihal Singh Wala,Tomato,2000,2200,2100,14-05-2024
+379,Moga,Nihal Singh Wala,Tomato,2000,2200,2100,20-05-2024
+380,Moga,Nihal Singh Wala,Tomato,2000,2200,2100,24-05-2024
+381,Moga,Nihal Singh Wala,Tomato,2000,2200,2100,30-04-2024
+382,Moga,Nihal Singh Wala,Tomato,2000,2400,2200,27-04-2024
+383,Moga,Nihal Singh Wala,Tomato,2000,2500,2200,17-09-2024
+384,Moga,Nihal Singh Wala,Tomato,2000,2500,2250,04-09-2024
+385,Moga,Nihal Singh Wala,Tomato,2000,2500,2300,02-09-2024
+386,Moga,Nihal Singh Wala,Tomato,2100,2300,2200,27-06-2024
+387,Moga,Nihal Singh Wala,Tomato,2200,2400,2300,22-05-2024
+388,Moga,Nihal Singh Wala,Tomato,2200,2400,2300,28-06-2024
+389,Moga,Nihal Singh Wala,Tomato,2200,2500,2400,09-09-2024
+390,Moga,Nihal Singh Wala,Tomato,2200,2500,2400,22-08-2024
+391,Moga,Nihal Singh Wala,Tomato,2200,2600,2400,06-09-2024
+392,Moga,Nihal Singh Wala,Tomato,2400,2600,2500,21-05-2024
+393,Moga,Nihal Singh Wala,Tomato,2400,2800,2600,16-09-2024
+394,Moga,Nihal Singh Wala,Tomato,2500,2700,2600,01-05-2024
+395,Moga,Nihal Singh Wala,Tomato,2500,2700,2600,07-05-2024
+396,Moga,Nihal Singh Wala,Tomato,2500,2700,2600,08-05-2024
+397,Moga,Nihal Singh Wala,Tomato,2500,2700,2600,15-05-2024
+398,Moga,Nihal Singh Wala,Tomato,2500,2700,2600,26-04-2024
+399,Moga,Nihal Singh Wala,Tomato,2500,2900,2700,13-09-2024
+400,Moga,Nihal Singh Wala,Tomato,2500,3000,2700,23-08-2024
+401,Moga,Nihal Singh Wala,Tomato,2500,3000,2700,27-08-2024
+402,Moga,Nihal Singh Wala,Tomato,2500,3000,2700,28-08-2024
+403,Moga,Nihal Singh Wala,Tomato,2500,3000,2800,04-12-2024
+404,Moga,Nihal Singh Wala,Tomato,2500,3000,2800,05-12-2024
+405,Moga,Nihal Singh Wala,Tomato,2500,3000,2800,13-12-2024
+406,Moga,Nihal Singh Wala,Tomato,2500,3000,2800,17-12-2024
+407,Moga,Nihal Singh Wala,Tomato,2500,3000,2800,19-12-2024
+408,Moga,Nihal Singh Wala,Tomato,2500,3000,2800,20-12-2024
+409,Moga,Nihal Singh Wala,Tomato,2500,3200,2800,06-12-2024
+410,Moga,Nihal Singh Wala,Tomato,2500,3500,3000,24-09-2024
+411,Moga,Nihal Singh Wala,Tomato,2500,4200,3500,20-09-2024
+412,Moga,Nihal Singh Wala,Tomato,2500,4200,3500,23-09-2024
+413,Moga,Nihal Singh Wala,Tomato,2600,2800,2700,10-09-2024
+414,Moga,Nihal Singh Wala,Tomato,2600,2800,2700,11-09-2024
+415,Moga,Nihal Singh Wala,Tomato,2600,2800,2700,12-09-2024
+416,Moga,Nihal Singh Wala,Tomato,2600,2800,2700,16-04-2024
+417,Moga,Nihal Singh Wala,Tomato,2600,2800,2700,25-04-2024
+418,Moga,Nihal Singh Wala,Tomato,2800,3000,2900,21-08-2024
+419,Moga,Nihal Singh Wala,Tomato,2800,3000,2900,22-04-2024
+420,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,15-07-2024
+421,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,19-04-2024
+422,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,19-08-2024
+423,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,20-08-2024
+424,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,26-07-2024
+425,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,26-09-2024
+426,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,29-08-2024
+427,Moga,Nihal Singh Wala,Tomato,3000,3200,3100,29-07-2024
+428,Moga,Nihal Singh Wala,Tomato,3000,3400,3200,15-08-2024
+429,Moga,Nihal Singh Wala,Tomato,3000,3400,3200,27-09-2024
+430,Moga,Nihal Singh Wala,Tomato,3000,3800,3500,18-12-2024
+431,Moga,Nihal Singh Wala,Tomato,3100,3300,3200,25-07-2024
+432,Moga,Nihal Singh Wala,Tomato,3200,3400,3300,24-04-2024
+433,Moga,Nihal Singh Wala,Tomato,3200,3600,3400,16-08-2024
+434,Moga,Nihal Singh Wala,Tomato,3200,3700,3500,12-11-2024
+435,Moga,Nihal Singh Wala,Tomato,3400,4200,3800,06-11-2024
+436,Moga,Nihal Singh Wala,Tomato,3500,3700,3600,15-04-2024
+437,Moga,Nihal Singh Wala,Tomato,3500,3700,3600,18-04-2024
+438,Moga,Nihal Singh Wala,Tomato,3500,4000,3750,17-07-2024
+439,Moga,Nihal Singh Wala,Tomato,3500,4000,3800,21-12-2024
+440,Moga,Nihal Singh Wala,Tomato,3500,4100,3800,21-11-2024
+441,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,07-11-2024
+442,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,18-11-2024
+443,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,19-11-2024
+444,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,24-12-2024
+445,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,25-12-2024
+446,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,26-12-2024
+447,Moga,Nihal Singh Wala,Tomato,3500,4200,3800,27-12-2024
+448,Moga,Nihal Singh Wala,Tomato,3800,4200,4000,04-11-2024
+449,Moga,Nihal Singh Wala,Tomato,3800,4200,4000,09-11-2024
+450,Moga,Nihal Singh Wala,Tomato,3800,4200,4000,19-09-2024
+451,Moga,Nihal Singh Wala,Tomato,3800,4200,4000,25-09-2024
+452,Moga,Nihal Singh Wala,Tomato,4000,4200,4100,18-09-2024
+453,Moga,Nihal Singh Wala,Tomato,4000,4200,4100,19-07-2024
+454,Moga,Nihal Singh Wala,Tomato,4000,4500,4200,02-10-2024
+455,Moga,Nihal Singh Wala,Tomato,4000,4500,4200,03-10-2024
+456,Moga,Nihal Singh Wala,Tomato,4000,4500,4200,11-11-2024
+457,Moga,Nihal Singh Wala,Tomato,4000,4500,4200,16-12-2024
+458,Moga,Nihal Singh Wala,Tomato,4000,4500,4200,30-10-2024
+459,Moga,Nihal Singh Wala,Tomato,4000,4500,4250,12-07-2024
+460,Moga,Nihal Singh Wala,Tomato,4000,4500,4250,16-07-2024
+461,Moga,Nihal Singh Wala,Tomato,4000,4800,4500,03-12-2024
+462,Moga,Nihal Singh Wala,Tomato,4000,5000,4500,23-07-2024
+463,Moga,Nihal Singh Wala,Tomato,4000,5000,4500,28-10-2024
+464,Moga,Nihal Singh Wala,Tomato,4200,4500,4400,01-11-2024
+465,Moga,Nihal Singh Wala,Tomato,4200,4500,4400,31-10-2024
+466,Moga,Nihal Singh Wala,Tomato,4200,4600,4400,29-10-2024
+467,Moga,Nihal Singh Wala,Tomato,4200,4800,4500,08-11-2024
+468,Moga,Nihal Singh Wala,Tomato,4200,4800,4500,23-12-2024
+469,Moga,Nihal Singh Wala,Tomato,4200,4800,4500,31-12-2024
+470,Moga,Nihal Singh Wala,Tomato,4200,5000,4500,02-12-2024
+471,Moga,Nihal Singh Wala,Tomato,4200,5000,4500,02-11-2024
+472,Moga,Nihal Singh Wala,Tomato,4200,5000,4500,13-11-2024
+473,Moga,Nihal Singh Wala,Tomato,4200,5000,4500,28-11-2024
+474,Moga,Nihal Singh Wala,Tomato,4500,5000,4750,27-11-2024
+475,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,11-12-2024
+476,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,12-12-2024
+477,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,14-12-2024
+478,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,22-11-2024
+479,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,23-11-2024
+480,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,26-11-2024
+481,Moga,Nihal Singh Wala,Tomato,4500,5000,4800,30-11-2024
+482,Moga,Nihal Singh Wala,Tomato,4500,5200,5000,07-12-2024
+483,Moga,Nihal Singh Wala,Tomato,4500,5200,5000,09-12-2024
+484,Moga,Nihal Singh Wala,Tomato,4500,5200,5000,10-12-2024
+485,Moga,Nihal Singh Wala,Tomato,4500,5500,5000,21-10-2024
+486,Moga,Nihal Singh Wala,Tomato,4800,5200,5000,25-11-2024
+487,Moga,Nihal Singh Wala,Tomato,5000,6000,5500,04-10-2024
+488,Moga,Nihal Singh Wala,Tomato,5000,6000,5500,07-10-2024
+489,Moga,Nihal Singh Wala,Tomato,5500,6000,5700,18-10-2024
+490,Moga,Nihal Singh Wala,Tomato,5500,6000,5700,25-10-2024
+491,Moga,Nihal Singh Wala,Tomato,5700,6000,5800,19-10-2024
+492,Moga,Nihal Singh Wala,Tomato,5700,6000,5800,22-10-2024
+493,Moga,Nihal Singh Wala,Tomato,5700,6000,5800,23-10-2024
+494,Moga,Nihal Singh Wala,Tomato,5700,6000,5800,24-10-2024
+495,Moga,Nihal Singh Wala,Tomato,6000,7000,6500,16-10-2024
+496,Moga,Nihal Singh Wala,Tomato,6000,7000,6500,17-10-2024
+497,Moga,Nihal Singh Wala,Tomato,6500,8000,7000,11-10-2024
+498,Moga,Nihal Singh Wala,Tomato,7000,8000,7500,10-10-2024
+499,Moga,Nihal Singh Wala,Tomato,8000,9000,8500,08-10-2024
+500,Moga,Nihal Singh Wala,Tomato,8000,9000,8500,09-10-2024
