@@ -360,7 +360,7 @@ seasonal_order=(1, 1, 1, 6)  # Seasonal pattern (6-month cycle)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - SARIMA implementation via `statsmodels`
 - UI design powered by Materialize CSS
