@@ -1,6 +1,6 @@
 # Crop Price Prediction Using SARIMA Models
 
-A comprehensive web application for predicting agricultural crop prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) time series forecasting models. The application provides farmers and agricultural professionals with data-driven insights to optimize their crop selection and pricing strategies.
+A comprehensive web application for predicting agricultural crop prices using SARIMA (Seasonal AutoRegressive Integrated Moving Average) time series forecasting models. The application provides farmer[...]
 
 ---
 
@@ -362,6 +362,16 @@ seasonal_order=(1, 1, 1, 6)  # Seasonal pattern (6-month cycle)
 
 ## Acknowledgments
 
+### Project Team
+- **Sanchita H** - Team Member
+- **Srusti M** - Team Member
+- **Thrisha R** - Team Member
+- **Vismaya M** - Team Member
+
+### Special Thanks
+- **Shambhavi** - For providing the base code that served as the foundation for this project. We significantly improved and enhanced the original implementation to reach the current state.
+
+### Libraries & Frameworks
 - SARIMA implementation via `statsmodels`
 - UI design powered by Materialize CSS
 - PDF generation using ReportLab
