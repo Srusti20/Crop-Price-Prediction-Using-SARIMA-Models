@@ -4,7 +4,7 @@ A comprehensive web application for predicting agricultural crop prices using SA
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -15,12 +15,10 @@ A comprehensive web application for predicting agricultural crop prices using SA
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Key Components](#key-components)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **Price Forecasting**: Predict crop prices for up to 12 months in advance using SARIMA models
@@ -43,7 +41,7 @@ A comprehensive web application for predicting agricultural crop prices using SA
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework**: Flask (Python web framework)
@@ -63,7 +61,7 @@ A comprehensive web application for predicting agricultural crop prices using SA
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
 - Python 3.7 or higher
 - pip (Python package manager)
@@ -72,7 +70,7 @@ A comprehensive web application for predicting agricultural crop prices using SA
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -110,7 +108,7 @@ project-root/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Email Setup (Gmail SMTP)
 
@@ -169,7 +167,7 @@ Create in `templates/` directory:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Crop-Price-Prediction-Using-SARIMA-Models/
@@ -199,7 +197,7 @@ Crop-Price-Prediction-Using-SARIMA-Models/
 
 ---
 
-## 🎯 Usage
+## Usage
 
 ### Starting the Application
 ```bash
@@ -233,7 +231,7 @@ The application will run on `http://localhost:5000`
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### Authentication
 | Method | Endpoint | Description |
@@ -277,7 +275,7 @@ curl "http://localhost:5000/get_crop_suggestions?crop=wheat&region=north&zone=no
 
 ---
 
-## 🧩 Key Components
+## Key Components
 
 ### TimeSeriesPreprocessor
 Handles data loading and preprocessing:
@@ -304,7 +302,7 @@ Creates professional PDF reports with:
 
 ---
 
-## 📊 Model Details
+## Model Details
 
 ### SARIMA Configuration
 ```python
@@ -325,7 +323,7 @@ seasonal_order=(1, 1, 1, 6)  # Seasonal pattern (6-month cycle)
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 ### Email Security
 - Never commit actual Gmail credentials to version control
@@ -344,7 +342,7 @@ seasonal_order=(1, 1, 1, 6)  # Seasonal pattern (6-month cycle)
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -359,32 +357,6 @@ seasonal_order=(1, 1, 1, 6)  # Seasonal pattern (6-month cycle)
 
 **Issue**: Graphs not appearing in PDF
 - **Solution**: Verify base64 image format, check PIL/Pillow installation
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📧 Contact & Support
-
-For issues, questions, or suggestions:
-- **GitHub Issues**: [Create an issue](https://github.com/Srusti20/Crop-Price-Prediction-Using-SARIMA-Models/issues)
-- **Email**: Contact through the application's contact form
 
 ---
 
